@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="en_MTFNJFRLCAPPALNS_60-58_Os_0" source="https://journals.openedition.org/viatourism/6448" lang="en">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <DOI>https://doi.org/10.4000/viatourism.6448</DOI>
+        <revue>Viatourism</revue>
+        <numero>18</numero>
+        <annee>2020</annee>
+    </meta>
+    <traductions>
+        <original lang="fr" source="6380">
+            <traducteur nom="Khassoura" prenom="Zeid" />
+            Les sites patrimoniaux exceptionnels, une ressource pour les territoires
+        </original>
+        <traduction lang="ca" source="6466">Llocs patrimonials excepcionals, un recurs per als territoris</traduction>
+    </traductions>
+    <auteurs>
+        <auteur nom="Talandier" prenom="Magali" email="magali.talandier@univ-grenoble-alpes.fr">
+            <oeuvres>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                Professor of Urban and Regional Studies, University of Grenoble Alpes, UMR PACTE, 
+            </description>
+        </auteur>
+        <auteur nom="Navarre" prenom="Françoise">
+            <oeuvres>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                Associate Professor, Paris School of Urban Planning, UMR Lab'Urba 
+            </description>
+        </auteur>
+        <auteur nom="Ruault" prenom="Jean-François">
+            <oeuvres>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                Research Fellow, INRAE 
+            </description>
+        </auteur>
+        <auteur nom="Cormier" prenom="Laure">
+            <oeuvres>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                University of Tours, UMR CITERES 
+            </description>
+        </auteur>
+        <auteur nom="Professor" prenom="Associate">
+            <description>
+                Associate Professor, Grenoble Alpes University, UMR PACTE 
+            </description>
+        </auteur>
+        <auteur nom="Landel" prenom="Pierre-Antoine">
+            <oeuvres>
+                <publication id="fr_LGPAL_31-88_Pe_1" source="https://journals.openedition.org/viatourism/1364" lang="fr">Psammotourisme. Le sable au désert comme expérience et ressource touristique spécifique </publication>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                Associate Professor, Grenoble Alpes University, UMR PACTE 
+            </description>
+        </auteur>
+        <auteur nom="Senil" prenom="Nicolas">
+            <oeuvres>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                Research Engineer, University of Grenoble Alpes, UMR PACTE 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>Outstanding heritage sites, a resource for the territories</titre>
+    <sousTitre>Peer-reviewed article</sousTitre>
+    <resume>
+        In their host territories, outstanding heritage sites condense stakes of economic development, financial management, governance, appropriation and preservation of heritage. Both a source of attractiveness and a cause of tensions, what are the local socio-economic impacts that can be expected from these exceptional sites, such as those that are members of the Grands Sites de France network or those listed as UNESCO World Heritage Sites? To answer this question, the paper mobilizes the notion of territorial resource, in order to apprehend the impact of the site with regard to the territorial context and the coordination of local actors. Based on a quantitative and qualitative study carried out in France, the results highlight the existence of at least three types of impacts and processes. Outstanding sites can be either an ordinary resource, which accentuates dynamics or conflicts depending on the case; or a latent resource, lacking activation; or finally a powerful lever for local transformation. Far from the expected heritage miracle, these analyses show to what extent coordination between public and private actors is essential in order to turn heritage into a real resource for the territories.
+    </resume>
+    <corps>
+        <section niveau="h1">Introduction</section>
+        <paragraphe num="1">
+            Decentralization has provided the local level with more resources and competences to compensate for increased costs and responsibilities. However, the nature and extent of these costs are unequal, depending on the local context and the problems encountered locally. Beyond the now classic dualism between the urban and rural contexts, the existence of outstanding heritage sites - given their international renown or their management issues - introduces additional costs for local authorities, which are overwhelmingly responsible for managing<a class="footnotecall" href="#ftn1" id="bodyftn1">1</a> and opening these sites to the public. Thus, one of the arguments put forward to justify and gain acceptance for a transfer of costs towards the local level, is the supposed existence of a compensation in terms of economic spin-offs. In this area of discussion, the financing and maintenance of heritage sites are subject to numerous negotiations, sometimes conflictual, between the States and the different levels of local governance. It is in this context that the Urban Development, Construction and Architecture Plan (PUCA), in France, launched a research program in 2014 on the theme of the outstanding sites and their impacts on local development. The exceptional nature of these sites was then understood, either in light of the singular difficulties of management and rehabilitation for the 41 members of the Network of Great Sites of France<a class="footnotecall" href="#ftn2" id="bodyftn2">2</a>, or in view of the exceptional recognition conferred by the UNESCO label (39 attributions in France). For the research team, the objective was to rely on these two networks formed of heritage actors<a class="footnotecall" href="#ftn3" id="bodyftn3">3</a>, both to select the sites based on criteria of prestige and management stakes, but also to facilitate the future survey and field work. This selection method also had the merit of not directly emphasizing the criterion of tourist numbers. The latter would have tended to focus only on sites that <em>de facto</em> produce economic effects linked to tourism. The results of this research, conducted over four years, question the socio-economic consequences of outstanding heritage sites as a territorial resource (Talandier <em>et al.</em>, 2019; Ruault and Talandier, 2020)<a class="footnotecall" href="#ftn4" id="bodyftn4">4</a>.
+        </paragraphe>
+        <paragraphe num="2">
+            Indeed, the theory of territorial resources postulates that there are territorialized coordination of actors working to locally activate and mobilize development helpful resources (Gumuchian and Pecqueur, 2007). The local authorities can be considered as institutions that regulate and influence the behavior of actors within their administrative perimeter. In so doing, and for heritage to constitute a resource for a local authority, there must firstly be a coordination of territorialized actors to highlight the heritage value, exposing thus the territorial disparities.
+        </paragraphe>
+        <paragraphe num="3">
+            In the literature, and despite the fact that heritage is attributed the quality of being a factor of economic activity and a lever for local economic development (Keser, 2016; Dans and González, 2019; Cernea, 2001), the question of the involvement of territorial actors in the construction of heritage as a resource is generally absent. An abundant literature, both academic and professional, reports on the economic impacts of heritage (Navrud <em>et al.</em>, 2002; Mourato, 2002; Mason, 2005; Rudokas <em>et al.</em>, 2019); notably through the effects of tourist spending on employment, income, investment or property prices (Lazrak <em>et al.</em>, 2014); and with regard to both direct and indirect or induced impacts (Bowitz and Ibenholt, 2009). In many cases, heritage is described as a resource in the sense of an investment program (Tomaney <em>et al.</em>, 2010; Dalmas <em>et al.</em>, 2015), as capital, both cultural (Greffe, 2004; Rypkema <em>et al.</em>, 2011) and productive - leading to the development of new services and revenues (González, 2014; Throsby, 2003).
+        </paragraphe>
+        <paragraphe num="4">
+            The quality of the benefits in terms of jobs (Caffyn and Lutz, 1999), the reality of the costs for local authorities (Bowitz and Ibenholt, 2009) and the nuisances - such as the risk of exclusion of local populations (Horáková, 2013) - are fully debated, but at the same time, the recurrent idea remains that local heritage can constitute a competitive and qualitative advantage in the game of territorial competition (Bole <em>et al.</em>, 2013).
+        </paragraphe>
+        <paragraphe num="5">
+            The territorial resource theory allows us to think that the link between heritage and development is established in the success of coordination processes of territorial actors. In order to achieve the expected effects in terms of investment and activities, a certain stability of the local economy over the long term is required, a stability of the community, in order to offer tourist services over time. They also require a consensus approach and the deployment of a heritage resource (Ashworth, 2003). In this sense, Negussie (2006) insists on the fact that heritage management must take into account the economic and cultural specificities of the local contexts, but also of the national ones (Nyseth and Sognnaes, 2013; Conway, 2014). Thus, with regard to these different points, it is difficult to determine whether the exceptional nature of a heritage site facilitates or complicates the enhancement of heritage as a resource. It even seems that the connection between the inscription on the UNESCO World Heritage List and the local economic development is rather tenuous. This connection is presented as a chain with several links (Prud'homme <em>et al.</em>, 2008). A first link connects inscription and heritage attractiveness, a second connects heritage attractiveness and tourism, and a third connects tourism and local development. However, each of these links renders the chain fragile and unsure. The economic stakes, but also the identity (Debarbieux, 2012) and cultural impacts of outstanding sites depend on the capacity of mobilization and management of both public and private actors (Gravari-Barbas <em>et al.</em>, 2014; 2016).
+        </paragraphe>
+        <paragraphe num="6">
+            Academic work consequently suggests that heritage, even when it is recognized as exceptional, can have a positive impact on territories, provided that this resource is the object of a territorial construction (Gravari-Barbas, 2002). Thus, taking into account the local context and the interplay of stakeholders appears to be decisive. 
+        </paragraphe>
+        <paragraphe num="7">
+            Our central hypothesis is thus built around these two elements. First of all, we consider that the territorial impact will depend on local structural effects. A heritage site located in an industrial territory will not have, for example, the same local impacts as a site located in a tourist and attractive territory. Then, we postulate that the role of the local actors is determining to truly activate or valorize the heritage resource. Thus, heritage would be a latent resource, which requires a real activation, or local enhancement, to become a territorial resource (Landel and Sénil, 2009). A spatial approach has been set up, based on the mobilization of mixed methods (quantitative and qualitative). This methodology enables us to apprehend the socio-economic impacts of the studied sites in relation to the characteristics of the territories in which they are located, but also the processes of valorization and coordination of the actors who condition these impacts. 
+        </paragraphe>
+        <paragraphe num="8">
+            The paper is organized in three parts. After introducing our methodology, we will discuss our results, insisting first of all on the local structural contexts, then on the interplay of stakeholders around the notion of territorial resource.
+        </paragraphe>
+        <section niveau="h1">I. A mixed methodology</section>
+        <paragraphe num="9">
+            The use of mixed methods implies favoring a combination of qualitative and quantitative methods rather than giving priority to one of the two research paradigms. This approach well suits our twofold objective: on the one hand, to measure the impact of heritage in a specific local context and, on the other hand, to identify the possible tensions that the sites' actors are confronted with, and how they are mobilized to overcome them. Analyzing the socio-economic impact of heritage on the territory presupposes both using quantified figures (jobs, income, tourist attractiveness, fiscal and financial elements...), but also taking into account social and cultural attributes (historical trajectories of the territory, systems of governance...). The question of the impact of tourism is one of the studied components. The research method is based on 3 major phases of material collection and processing: a typological analysis (based on socio-economic data), a campaign of interviews and their analysis for 7 study fields in France; a quantitative analysis (highlighting the impact of the sites on local socio-economic development)<a class="footnotecall" href="#ftn5" id="bodyftn5">5</a>.
+        </paragraphe>
+        <paragraphe num="10">
+            A database was first built for the 70 outstanding heritage sites in France. A first typological work allowed to characterize the sites in their territorial context. Seven study sites were then chosen for their representativeness of the identified contexts: Nord-Pas de Calais Mining Basin, <em>Marais Poitevin</em> (Poitevin marshland), <em>Baie de Somme</em> (Somme Bay), <em>Canal du Midi</em>, Ochres of Roussillon, <em>Grotte Chauvet-Gorges de l’Ardèche</em> (Decorated Cave of Pont d'Arc of
+        </paragraphe>
+        <paragraphe num="11">
+            Ardèche), and the rebuilt city center of Le Havre<a class="footnotecall" href="#ftn6" id="bodyftn6">6</a>. A campaign of interviews was conducted in order to report on the challenges and problems faced by the local stakeholders, both public and private, in outstanding heritage sites (list of people interviewed in annex 1). 
+        </paragraphe>
+        <paragraphe num="12">
+            We will now explain our scales of analysis and the principles of the conducted quantitative analysis.
+        </paragraphe>
+        <section niveau="h2">A. Sites and scales of analysis</section>
+        <paragraphe num="13">
+            We have considered the 70 outstanding heritage sites present in metropolitan France, recognized as exceptional because of their reputation and/or because of the management issues they raise, and which have therefore either been inscribed on the UNESCO World Heritage List or recognized by the Network of Grands Sites de France (documents 1 and 2).
+        </paragraphe>
+        <paragraphe num="14">
+            The quantitative analysis of economic impacts is conducted at several scales, in order to characterize the site in its context (document 3). The smallest scale considered is that of the commune - or even communes - where the site is located. This scale is extremely precise since France has more than 35,000 communes, 75% of which have fewer than 1,000 inhabitants. We can characterize the site and observe its impact as close as possible to its location. In the rest of the text, we will talk about the site to describe this scale of observation. Our second scale of analysis is that of the territory or territories of the site, defined by the inter-municipalities or public establishments of communal cooperation with their own taxation (EPCI) in which the site is located. From a socio-economic point of view, we can indeed consider that the major impacts of the site go well beyond the - narrow - limits of the municipal grid and that they appear first and foremost in the surrounding communes. Moreover, the competencies regarding of economic development, spatial planning and the construction of local facilities are indeed exercised within the intercommunal perimeter. These competencies are put to the test by the tensions generated by the outstanding sites, particularly in terms of the management of (excessive) visitors' traffic and the requirements of preservation. In addition, territorial development involves systems of flows and links that operate at different scales. Thus, beyond the site itself (communes) and the territory or the context in which it is located (EPCI), propagation and drive effects reach neighboring territories. Therefore, we retain, as a third scale of analysis, the neighboring EPCIs<a class="footnotecall" href="#ftn7" id="bodyftn7">7</a>. In order to grasp the particularities attributable to outstanding sites, the EPCIs of the sites and the neighboring ones are positioned with respect to the national averages for intercommunal bodies<a class="footnotecall" href="#ftn8" id="bodyftn8">8</a>.
+        </paragraphe>
+        <paragraphe num="15">
+            Note: UNESCO sites and Grands Sites de France are defined at the level of the commune or communes that host them; the territory of the site is determined by the EPCI (or EPCIs) that contains the commune or communes of the site; the bordering territories are defined by the EPCIs that are contiguous, bordering the EPCI(s) containing the sites.
+        </paragraphe>
+        <section niveau="h2">B. Construction of a localized socio-economic database</section>
+        <paragraphe num="16">
+            The quantitative approach is based on the construction of an unprecedented socio-economic database on the scale of French communes and intercommunalities to take into account the three scales of analysis (site commune(s), site EPCI and adjoining EPCIs, compared to the average of other French EPCIs with their own tax systems).
+        </paragraphe>
+        <paragraphe num="17">
+            The variables used for the quantitative analysis are presented in Annex 2. They are selected to address three assumptions about the impact of sites as a territorial resource:
+        </paragraphe>
+        <paragraphe>
+            The outstanding site is a tourist resource, and its presence has an impact on the number of visitors on the territory (analysis of tourist hosting potential, jobs and tourist economic bases...).
+        </paragraphe>
+        <paragraphe>
+            The outstanding site is an economic resource capable of boosting various sectors of activity on the territory (calculation of economic bases; sectoral analysis of jobs).
+        </paragraphe>
+        <paragraphe>
+            The exceptional site is a resource for local development (analysis of the fundamentals of development through demography, household income, population profile).
+        </paragraphe>
+        <paragraphe num="18">
+            The analysis of these variables, at a given moment and dynamically, allows us to define a typology of the sites in their territories, and then to analyze the territorial dynamics. 
+        </paragraphe>
+        <section niveau="h1">II. Varied territorial contexts</section>
+        <paragraphe num="19">
+            In order to characterize the sites in their territorial context and to guide the selection of the seven French case studies<a class="footnotecall" href="#ftn9" id="bodyftn9">9</a>, we conducted a principal component analysis on the previously defined variables. This method associated with the use of Spearman's Rho allows, during the construction of the axes, to neutralize the extreme values, particularly present in spatial analysis. Then, a hierarchical agglomerative clustering (HAC) was conducted on the first three principal components, which explain 65% of the total inertia of the point cloud (details in Annex 3). This method is applied to the different studied scales. 
+        </paragraphe>
+        <paragraphe num="20">
+            At the EPCI level, axis 1 of the PCA opposes residential and tourist territories to productive and socially fragile territories. Axis 2 differentiates the highly dynamic EPCIs in terms of development (positive variation in demographics, jobs, income, migratory attractiveness) from the less performing or even economically and demographically declining EPCIs. Finally, Axis 3 identifies EPCIs characterized by a rather wealthy population (share of executives and high income over-represented), and EPCIs that are socially less advantaged.
+        </paragraphe>
+        <paragraphe num="21">
+            Based on the first three main components, the results of the HCA allow us to distinguish six types of territories:
+        </paragraphe>
+        <paragraphe>
+            Type 1: Large urban centers and their close periphery, which are characterized by high population density, a high proportion of executives, high income levels and a high productive base.
+        </paragraphe>
+        <paragraphe>
+            Type 2: The tourist hotspots are characterized by their tourist but also residential attractiveness. More than a third of the economic bases are linked to tourism and the retired population is more significant there than elsewhere. The migratory balance is positive. 
+        </paragraphe>
+        <paragraphe>
+            Type 3: Dynamic residential EPCIs are characterized by a large residential base, a strong increase in population, jobs and income. They may be touristic, but unlike type 2, it is never their primary function. 
+        </paragraphe>
+        <paragraphe>
+            Types 4: Declining productive territories are characterized by an important productive base and low or negative evolution of population, jobs and income.
+        </paragraphe>
+        <paragraphe>
+            Type 5: Dynamic productive territories show like the previous ones important productive bases but combined this time with a positive evolution of the territorial development variables. Some of these areas may be touristic, but this is never their first vocation.
+        </paragraphe>
+        <paragraphe>
+            Type 6: The less typical territories have productive, residential and tourist bases that are rather within the national average. Their economic (all sectors combined) and demographic dynamism is very moderate.
+        </paragraphe>
+        <paragraphe num="22">
+            Less than half of the communes hosting an outstanding site are touristic (32 cases), 8 are productive (2 dynamic and 6 declining), 10 are located in urban centers, 11 are residential and finally, 8 appear less typical (document 4).
+        </paragraphe>
+        <paragraphe num="23">
+            The mapping of these types highlights a concentration in the North of productive or industrial EPCIs, most often in socio-economic and demographic decline. This type of territory is also present in certain rural areas of central France. These territories have often been penalized by the processes of deindustrialization that the 2008 crisis only accentuated. The <em>Baie de Somme</em> and the Nord-Pas-de-Calais Mining Basin have been selected as study sites to illustrate this type of territory. Does the presence of outstanding heritage sites in these difficult post-industrial contexts allow for a change in development trajectory?
+        </paragraphe>
+        <paragraphe num="24">
+            Dynamic productive territories do not respond to a particular spatial distribution and are present throughout the entire territory. They include tourist or residential sites (Les Deux Caps and Les Dunes de Flandres) which could hinder the development of wealth-creating export activities, but also allow the territory to diversify its economy. The site of the <em>Marais Poitevin</em> has been chosen as a terrain to better shed light on these issues.
+        </paragraphe>
+        <paragraphe num="25">
+            In the south of the Loire River, residential and tourist areas are concentrated. Their situation seems rather favorable in terms of employment dynamics, income and population. Nevertheless, the question arises here of the degree of dependence on tourism and the pressures that can be exerted on the site. Emblematic of this type of configuration, the <em>Canal du Midi</em> which links Toulouse to the Mediterranean and the Ochre of Roussillon in Provence have been chosen as study areas to represent this type of configuration.
+        </paragraphe>
+        <paragraphe num="26">
+            Finally, among the less typical EPCIs, there is a strong presence of heritage sites located in a medium-sized city (the Roman Theater and The Triumphal Arch of Orange, the cathedral of Bourges, for example). 
+        </paragraphe>
+        <paragraphe num="27">
+            This typology allowed us to characterize the sites (communes) in their territorial context (EPCI of belonging and bordering EPCIs). The analysis of the impacts of the sites on territorial development must both take into account this diversity of local situations, but also introduce the local dynamics.
+        </paragraphe>
+        <section niveau="h1">III. Exceptional sites, a complex and non-systematic resource</section>
+        <paragraphe num="28">
+            For each "site-territory" pair from the typology (i.e., 10 types) and each observation scale (3 scales + national average), we have calculated tourism, economic and socio-demographic development indicators and, as an illustration, fiscal and financial indicators (Annex 2). An extract of all the results obtained (i.e., 40 tables of 50 variables) is presented in Annex 4 on the scale of the EPCI of the sites (figures given throughout the text as examples). The statistical analysis was supplemented by face-to-face interviews. The questions asked concerned the territorial context; site management; site impacts; tensioning; networking; and medium-term projections. The results led us to identify three main processes for the enhancement of heritage as a territorial resource. 
+        </paragraphe>
+        <paragraphe num="29">
+            We first suggest distinguishing the cases in which the site is a resource among others. Despite their exceptional heritage value, socio-economic development is not specific to the presence of the site. In these territories, the site comes at best, to reinforce an existing economic dynamic, risking then to strengthen a tourist hyper-specialization. In other contexts, the site appears, on the contrary, as a lever of balanced development of the territory allowing to set in motion a diversified dynamic. It allows the creation of jobs in various sectors of activity, and an increase is observed in the variables of hosting potential or tourist activities in rather productive contexts. Finally, a third case distinguishes the sites and territories with little dynamic, for which the presence of an exceptional heritage does not finally lead to any socio-economic or tourist development. Here, the sites seem to be in a state of latent resources, the heritage is insufficiently enhanced.
+        </paragraphe>
+        <section niveau="h2">A. Outstanding sites, a territorial resource among others</section>
+        <paragraphe num="30">
+            Here, the outstanding heritage sites reinforce the overall dynamics of the territory and constitute a resource among others. This category includes the following types: urban center, tourist or residential site in a tourist or residential territory, residential or dynamic productive site in a dynamic productive territory (see annex 5 for sites' detail). 
+        </paragraphe>
+        <paragraphe num="31">
+            Overall, what these sites and territories have in common is their demographic growth, most often linked to a positive natural and migratory balance. The population is increasing, for example at the scale of the site's EPCI, by 2 to 5.7% between 2009 and 2014 depending on the type of configuration (Annex 4). The income per capita increases by an average of 19% and generates new jobs, particularly in the consuming sector, including tourism (from 4% to 14% over the observed period at the EPCI's scale). The interviews revealed, however, that in these favorable socio-economic contexts, the site does not take precedence in local public policies. However, a distinction must be made between contexts that are highly touristic and those that are less so.
+        </paragraphe>
+        <paragraphe num="32">
+            <strong>Sites that accentuate the tourist attraction</strong>
+        </paragraphe>
+        <paragraphe num="33">
+            In the case of tourist sites located in tourist or residential areas, several risks were identified through the statistical analyses and the interviews. 
+        </paragraphe>
+        <paragraphe num="34">
+            First of all, there is a risk of economic hyper-specialization and therefore of dependence upon the tourism sector. Quantitative analyses show that tourism jobs are growing, both on and off site. Tourism is the main lever of economic development of the territory. Depending solely on these activities exposes the territory to the hazards of external demand, as we have seen with the Coronavirus pandemic. Destinations are largely subject to international competition, but also to economic shocks. In the Gorges de l'Ardèche or in the communes located near the Chauvet Cave, there are real risks of economic and fiscal fragility.
+        </paragraphe>
+        <paragraphe num="35">
+            The environmental pressures of peaks in tourist activity are also a source of conflict. The excessive number of visitors to the <em>Massif des Ocres </em>[Ocher Massif] (up to 450,000 visitors per year declared by the site managers), concentrated during the months of July and August, causes a strong deterioration of the area. The endangerment of the site has also led the actors of the territory to engage in a Grand Site Operation to manage the flows of visitors. This issue of flows also reflects the existence of costs, the management of which is necessary to ensure that the heritage site represents a resource and not a burden.
+        </paragraphe>
+        <paragraphe num="36">
+            In response to these challenges, regulations for urban planning and landscaping tend to multiply, particularly in order to regulate the different uses. While useful, these measures can, in some cases, encourage the development of lucrative activities (tourism) to the detriment of other ones. There is then a risk of seeing this hyper-specialization become stronger, since we are in an economy of gathering that is easier to maintain than to change. The fiscal and financial dynamics and the investments made by local authorities can reinforce this logic. An economically favorable situation can foster a high level of spending and encourage investment. What has been created in the past subsequently generates rigidities and hinders future possibilities.
+        </paragraphe>
+        <paragraphe num="37">
+            This risk of tourism hyper-specialization is sometimes counterbalanced by residential attractiveness. A form of competition may then arise between the site, accessible to wealthy households who settle there permanently, and the peripheral areas that accommodate families with children and more modest households. In this type of configuration, tourism development is mainly the result of the site itself and does not spread much to neighboring areas. This observation (<em>Canal du Midi</em>, <em>Massif des Ocres</em>) or this fear (in the case of the Chauvet Cave) creates situations of conflicting uses and functions, between a tourist site that needs to be preserved and a territory that has to cope with a rapid expansion of its population and economic activities. This can result in a fragmentation of interests and actors who do not share the same vision, the same narrative around the site, which struggles to federate. For example, in the territories crossed by the <em>Canal du Midi</em>, tourism is not always linked to the use of the Canal or the proximity of its banks. The countryside of the Mediterranean hinterland, or even cities such as Carcassonne or Toulouse, have other tourist resources than the Canal. Numerous villages crossed by the Canal are also subject to strong residential pressure, like the one that prevails in these attractive regions of the South of France, regardless of the presence of the site itself. As a result, less attention and fewer resources are devoted to its maintenance. For some of the interviewed village mayors, the Canal is even perceived as a development barrier because of the requirements of heritage preservation. The lack of interest or even the alteration of this resource on certain sections (business buildings, waste collection sites, agricultural pollution) have raised strong fears at the regional and national levels concerning the possible loss of the UNESCO label. The tourist benefits of the Canal are therefore very disparate from one city to another, depending on the development of the banks (and the presence of restaurants, for example), the existence or not of remarkable constructions (Fonserane locks, for example). In addition, residential pressure can prove to be a brake on the tourist dynamic, and taxation can accentuate this process since the rental value, or the tax base, of a holiday home is close to €2,400, while that of a main residence is a little over €3,000, therefore bringing in more money for the local authority. The sources of tension between local and national stakeholders regarding site management are thus particularly significant in this type of site-territory configuration.
+        </paragraphe>
+        <paragraphe num="38">
+            <strong>Sites that diversify the productive dynamics of territories</strong>
+        </paragraphe>
+        <paragraphe num="39">
+            In the case of sites located in productive territories, the issues and sources of conflict are of a different nature. The interviewed stakeholders explain that they have to arbitrate between maintaining productive economic activities (industrial or agricultural) and preserving the environmental or landscape qualities of the site. The question, for example, of extensive versus intensive agriculture is regularly raised. The <em>Marais Poitevin</em> is a good illustration of this situation. The landscape of the wet Marais (marshland), inherited from the 19th century developments, is labeled Grand Site de France, whereas just next to it, the dry Marais is home to modern and intensive agriculture. The considerable retreat of the wet part of the Marais is the result of an inability to control the contradictions of national policies (intensive corn farming versus environmental protection) relayed by local tensions (farmers versus environmental associations). As a consequence of these tensions, the <em>Marais Poitevin</em> lost its status as a National Park for about ten years.
+        </paragraphe>
+        <paragraphe num="40">
+            Regulations aimed at protecting exceptional heritage sites contribute to limiting the establishment of activities that would be fiscally lucrative<a class="footnotecall" href="#ftn10" id="bodyftn10">10</a>. These then find in the neighboring, less regulated EPCIs a favorable space for their development. We have thus observed a certain dynamic of intermediation jobs, such as logistics or other common services to companies in the intercommunalities neighboring the site. Tax rules, but this time on economic activities, can accentuate these mechanisms of separation of interests. Thus, the contributions on the added value of companies, measured in €/employment, are almost indifferent to the type of job and territory. On the other hand, this is not the case when it comes to the Business Property Taxes, which increase according to the number of occupied square meters of land. The intensive production model will therefore affect the tax model through the land surface occupied rather than through the nature of the activity (type of jobs) or its dynamics (added value). Cooperation between territories to plan and support this type of sharing of economic functions seems essential to overcome conflicts of use near the site. It therefore presupposes an inter-territorial management of the costs and benefits of the site.
+        </paragraphe>
+        <paragraphe num="41">
+            <strong>Alleviating tensions through inter-territorial cooperation and economic diversification</strong>
+        </paragraphe>
+        <paragraphe num="42">
+            As for economic diversification, we believe it is particularly relevant to develop it for tourist sites located in tourist territories, in order to alleviate the tensions and risks induced by this hyper-specialization. Several case studies have shown us the interest there would be in renewing the initial productive function of the site. For example, the silting of the <em>Canal du Midi</em> is due to the loss of its fluvial function for the transport of goods. Indeed, the passage of barges allowed, at the time, to dredge the bottom of the Canal. Today, flat-bottomed cruise boats no longer ensure this maintenance, and create, at the height of the tourist season, real river traffic jams, excluding any other form of exploitation. In addition, this recreational boating activity is managed by a handful of international companies, which sell cruises on the Canal, as elsewhere in the world. In view of the maintenance problems of the Canal, the threat of losing the UNESCO label is raised. Bringing this waterway back into operation for transport purposes, especially in a context of ecological transition, could contribute to its maintenance and bring new stakeholders to the negotiating table. The return to the original function of the site, or even of the territory, applies, for example, to the <em>Massif des Ocres</em> in Provence. The company Okhra is exploiting the ochre mines again, and as such maintains them. The arrival of this new player has enabled the initiation of an ambitious territorial project around the color. Interviews and feedback indicate that the public actors could be a powerful source of proposals to identify and then to stimulate new initiatives, around amenities and services that are little or not present / that are lacking, in a spirit of functional and social diversity.
+        </paragraphe>
+        <paragraphe num="43">
+            Moreover, inter-territorial cooperation and extended governance would be favorable to the durability of sites and local resources, to a sustainable and transversal development, combining the various interests, public and private. In the case of the <em>Canal du Midi</em>, this type of cooperation between riparian communities (communes, intercommunalities, departments) fosters the rise of coherent riverbank development for the purposes, for example, of sustainable mobility (cycling).
+        </paragraphe>
+        <section niveau="h2">B. Sites, a resource at the service of the transformation of territories</section>
+        <paragraphe num="44">
+            In productive contexts undergoing socio-economic decline, the challenge is different: a reversal of the situation requires local actors to activate all possible levers. Heritage sites are one of these resources that can be mobilized to bring about a change in image while capitalizing on the local identity and on the assets of the territory. Indeed, the notion of territorial resource implies both the existence of a local specificity (in this case a heritage site) and a real mobilization of local actors to implement an enhancement project around this resource. Thus, a resource can be in a latent state, existing in a territory without being a factor of local development. It is the process of activation of the resource by the local actors that determines its capacity to generate positive impacts for the territory.
+        </paragraphe>
+        <paragraphe num="45">
+            The <em>Baie de Somme</em> and the Nord-Pas-de-Calais Mining Basin illustrate these processes. All these territories have in common that they have undergone massive deindustrialization of their economies and impoverishment of their populations. While the presence of an outstanding site in these difficult contexts cannot by itself solve all the economic and social problems, positive signals, attributable to the site's tourist activity, can be identified.
+        </paragraphe>
+        <paragraphe num="46">
+            Overall, these areas remain marked by poor demographic performance. The population has stagnated or even decreased (between +1% and -1% between 2009 and 2014) due to stable or negative migration balances (0 or -1%). On the other hand, the commune(s) hosting the heritage sites are recording an increase in the tourist hosting potential, but also in employment in sectors induced by the presence of tourists. These effects seem, moreover, to extend to the rest of the communes of the intercommunality in which they are located (from 0.5% to 1.2% for the THP<a class="footnotecall" href="#ftn11" id="bodyftn11">11</a> over the whole EPCI, or +8.8% for example in tourist employment in the EPCI of productive sites). We can therefore measure an increase in tourism jobs, but also more broadly in household consumption jobs, especially in the cultural field. These quantitatively identifiable elements are encouraging and suggest a possible rebalancing of economic bases in these post-industrial areas. This economic quivering in household-oriented activities is accompanied by a surge in corporate services activities and other support functions, this time in the neighboring intercommunalities. Direct impacts on tourism-related activities and indirect impacts on suppliers and subcontractors are combined and they benefit the site's commune(s) and the surrounding areas. The qualitative surveys highlight the strong mobilization of local stakeholders around this exceptional heritage resource. The enhancement of these sites is part of a broader territorial development strategy. The site is seen as a vector of a new identity, which is at the same time unifying, rewarding, and also a vector of economic attractiveness. Thus, the Nord-Pas-de-Calais Mining Basin has been listed as a UNESCO World Heritage Site, since 2012, as a <em>"living and evolving mining landscape</em>". This inscription in a context of an economic and social crisis of the territory was based on two ambitions:
+        </paragraphe>
+        <paragraphe>
+            the mobilization of the national heritage in the service of a metropolitan dynamic carried by Lille (projects of the Louvre-Lens museum).
+        </paragraphe>
+        <paragraphe>
+            the local ecological transition path, such as the commune of Loos-en-Gohelle, which is very active within the network of cities in transition. Here, the respondents perceive the UNESCO label as a facilitating factor in the process of transforming the "black archipelago", an image associated with former coal mines, into a "green archipelago" with an ecological and social vocation. 
+        </paragraphe>
+        <paragraphe num="47">
+            In Le Havre, port city destroyed during World War II and partly rebuilt by the architect Auguste Perret, the heritagization is part of an urban project approach. Le Havre has managed to create a fork in its urban trajectory by passing from a rebuilt city that was badly lived through and denigrated, to an architecturally remarkable city. 
+        </paragraphe>
+        <paragraphe num="48">
+            The desire to be part of classic tourist dynamics is based on the development and enhancement of local specificities. In these formerly industrial contexts, the increasing, yet moderate, number of tourists does not lead to pressure or marked conflicts. On the contrary, it can guide the expectations of recovery from the social and economic crisis that Nord-Pas-de-Calais is facing.
+        </paragraphe>
+        <paragraphe num="49">
+            The case of the <em>Baie de Somme</em> is in this sense a little different. In the context of a rather declining industrial productive region, an attractive tourist area has emerged. From being a food-producing area<a class="footnotecall" href="#ftn12" id="bodyftn12">12</a>, the Bay has become a cultural and event-driven area. The Grand Site Operation was launched in 2002 to rehabilitate vulnerable natural areas, prevent the erosion of fragile environments, work to reopen the major landscapes of the Bay, but also to find solutions in terms of controlling visitor flows. Unlike the two previous cases, the elected officials surveyed reported that some of the inhabitants were uncomfortable with the development of tourist activity: disturbances of quiet enjoyment, the proliferation of paid parking lots, rising house prices, limited hunting practices, etc. Nevertheless, tourism remains an essential economic lever in this poorly dynamic territorial context, as we have been able to measure in typological construction and quantitative analyses. On the fiscal side, this favorable quivering trend is confirmed in the <em>Baie de Somme</em> since the level of fiscal wealth - modest or even very modest - has tended to grow more significantly than the average.
+        </paragraphe>
+        <paragraphe num="50">
+            The presented cases thus seem to indicate that territorial dynamics, especially when they are negative, are not irreversible. In such cases, the sites constitute an asset. They contribute then to the diversification and the renewal of resources, and to local economic development, provided that the locally present vital forces are mobilized and included in an overall strategy.
+        </paragraphe>
+        <section niveau="h2">C. Outstanding sites, a latent resource</section>
+        <paragraphe num="51">
+            Finally, in some cases, the presence of an outstanding heritage site does not help to stimulate the local economy. If we refer to studies on territorial resources, heritage can then be considered as a latent resource, lacking activation by local actors (François <em>et al.</em>, 2013). This situation is observed in sites that are considered rather balanced, according to the established typology, and without strong particularities with respect to the retained variables.
+        </paragraphe>
+        <paragraphe num="52">
+            They are neither productive, nor residential, nor tourist territories, for example. Nor are they characterized by their density (urban center), or by a specific resident population profile. This lack of socio-economic specialization generates a situation of demographic stagnation and low economic dynamism. These territorial configurations are very often observed in small or medium-sized cities and their respective EPCIs, which are currently undergoing in France (and more widely in Europe) a socio-economic crisis linked to their industrial past and to a lack of strategic positioning, whether in terms of economy, image, culture, etc. as in Amiens, Troyes, Orange, etc.
+        </paragraphe>
+        <paragraphe num="53">
+            In these communes and their EPCIs, we observe a stagnation of the population (0% to 2% depending on the scale of the EPCI) due to sluggish migratory and natural balances. We note a decline in employment over the period 2009-2014 (-1%), while they have generally increased elsewhere. Per capita income increases (from 18% to 20%), but this growth is still more moderate than in other territories. Finally, we note that the tourist hosting potential (see list of variables in Annex 2) is not increasing, if not decreasing. This result is the sign of a lack of tourist interest and a loss of attractiveness of the sites and their surrounding territories.
+        </paragraphe>
+        <paragraphe num="54">
+            Moreover, these areas are penalized by the decline in export activities (from -4% to -13%), not compensated, this time, by the rise in corporate or household services (-5% and -3%). In these less dynamic localities, the presence of a site, however exceptional it may be, does not help to generate tourist attraction nor socio-economic dynamics. In this context, the question of the territory as a resource for heritage is raised. Indeed, if one can notice in certain cases a slight "site" effect in terms of tourist employment rate, the dynamics, when they exist, remain very modest (+2% of evolution of tourist jobs in the EPCI over the observed period) and are not sufficient to create territorial development. Here, the connection between these outstanding sites and the development of the territory remains largely under-effective. The presence of the site does not generate local economic dynamics, neither at the level of the commune or communes hosting the site, nor a fortiori, the larger scale of the site's EPCIs.
+        </paragraphe>
+        <paragraphe num="55">
+            The outstanding heritage, like any other heritage finally, will be a territorial resource, if the territory is, in its turn, a resource for the site. A bond of reciprocity unites the heritage and the territory. Without this desire to fully integrate heritage into a territorial project, the site is experienced as an additional constraint, a barrier and a cost, rather than a potential resource which is economic, social and ecological at the same time.
+        </paragraphe>
+        <section niveau="h1">Conclusion</section>
+        <paragraphe num="56">
+            The results of this research conducted using a combination of quantitative and qualitative methods highlight the fact that the configurations that link a heritage site to its territory are very different from one region to another. This has implications on management and governance modes, which must then be able to admit a certain malleability in order to adapt to the local context. Depending on structural factors, but also on the stakeholders' capacity for coordination, the impact of outstanding sites on territories can widely vary. Heritage can be as much a lever as a barrier to development. In all the cases observed and whatever the exceptionality of the heritage, in order to become a resource, the heritage must be activated and enhanced by the local actors. Favorable socio-economic signs around sites located in territories experiencing serious difficulties, hint at possible turnarounds, linked to the presence of heritage elements.
+        </paragraphe>
+        <paragraphe num="57">
+            While they confirm the possibility of building economic and cultural reconversion dynamics around heritage, they also highlight the fragility of certain balances, such as in the <em>Baie de Somme</em>. In territories that are already dynamic, the site complements an existing tourist, residential or productive offer. It does not constitute an exceptional contribution, despite its heritage qualities, and can even amplify tensions. One of the solutions to ease these conflicts lies in the diversification of economic functions, to which heritage can contribute by reconnecting with its history. For all these reasons, it would undoubtedly be useful to test and experiment, on a few emblematic cases, a new generation of site management and preservation plans, which integrate, from the outset, a real economic development strategy for the territory. The cases studied and the feedback suggest that several necessary conditions must be met before they can be put into practice. One of them is based on the capacity of local actors to integrate the multi-territoriality of the sites, the latter finally playing with the administrative perimeters as well as the horizontal and vertical logics. They thus require modes of governance that break with "routinized" practices and that are open to innovation. Another involves integrating the logics of both passers-by and residents into the design of the adopted solutions: this integration appears resolutely as one of the keys to easing usage conflicts, which inevitably arise, with varying degrees of acuteness. Yet another implies taking into account simultaneously the often-antagonistic stakes of preservation and enhancement: the reconciliation of the time scales (the short-term perspective of development and the long-term perspective of heritage) as well as the economic models of the stakeholders is therefore a must. Since the interest of the sites is not purely local, the role of the state authorities as well as that of the institutions in charge of the labelling and then the perpetuation of the sites is crucial. Could these different issues, interests and stakeholders be brought together, beyond the admittedly major preoccupations related to socio-economic dynamism, by including them in cross-cutting perspectives that would ultimately be those of a sustainable development?
+        </paragraphe>
+        <section niveau="h1">Annex</section>
+        <paragraphe num="58">
+            The table presents all of the variables used for the quantitative analyses of the 70 French sites studied. These variables are used to produce the typology of the sites and in their territorial context (typo) and/or to calculate the dynamics of economic development (dyn). Finally, for illustration purposes, we have also observed some fiscal-financial indicators (ill).
+        </paragraphe>
+        <paragraphe num="59">
+            The results obtained for the EPCIs of the 70 exceptional sites, broken down by type, are presented here. The same calculations have been made on the scale of the sites' communes, the neighboring EPCIs.
+        </paragraphe>
+        <paragraphe num="60">
+            For information purposes, we situate our European case studies in the typology. Readers interested in these cases may consult the book Talandier <em>et al.</em> 2019, op. cit.
+        </paragraphe>
+    </corps>
+    <bibliographie>
+        <reference>Ashworth, G. J. (2003), “Heritage, identity and places: For tourists and host communities”, Tourism in destination communities, pp. 79-97.</reference>
+        <reference>Bole, D., Pipan, P., and Komac, B. (2013), “Cultural values and sustainable rural development: A brief introduction”, Acta geographica Slovenica, 53(2), pp. 367-370.</reference>
+        <reference>Bowitz, E., and Ibenholt, K., (2009), “Economic impacts of cultural heritage–Research and perspectives”, Journal of cultural heritage, 10(1), pp. 1-8.</reference>
+        <reference>Caffyn, A., Lutz, J. (1999), “Developing the heritage tourism product in multi-ethnic cities”, Tourism management, 20(2), pp. 213-221.</reference>
+        <reference>Cernea, M. M., (2001), Cultural heritage and development: a framework for action in the Middle East and North Africa, The World Bank.</reference>
+        <reference>Conway, F. J. (2014), “Local and public heritage at a World Heritage site”, Annals of Tourism Research, 44, pp. 143-155.</reference>
+        <reference>Dalmas, L., Geronimi, V., Noël, J. F., and Sang, J. T. K. (2015), “Economic evaluation of urban heritage: An inclusive approach under a sustainability perspective”, Journal of Cultural Heritage, 16(5), pp. 681-687.</reference>
+        <reference>Dans, E. P., González, P. A. (2019), “Sustainable tourism and social value at World Heritage Sites: Towards a conservation plan for Altamira, Spain”, Annals of Tourism Research, 74, 68-80.</reference>
+        <reference>Debarbieux, B. (2012), « Tourisme, imaginaires et identités: inverser le point de vue », Via. Tourism Review, 1.</reference>
+        <reference>François, H., Hirczak, M., et Senil, N. (2013), « De la ressource à la trajectoire: quelles stratégies de développement territorial? », Géographie, économie, société, 15(3), pp. 267-284.</reference>
+        <reference>González, P. A. (2014), “From a given to a construct: Heritage as a commons”, Cultural studies, 28(3), pp. 359-390.</reference>
+        <reference>Gravari-Barbas, M., Jacquot, S. (2014), Patrimoine mondial et développement : au défi du tourisme durable, PUQ, Paris.</reference>
+        <reference>Gravari-Barbas, M., Bourdeau, L., and Robinson, M. (2016), World Heritage and tourism: from opposition to co-production, in World Heritage, Tourism and Identity, Routledge, pp. 13-36.</reference>
+        <reference>Gravari-Barbas, M. (2002), « Le patrimoine territorial. Construction patrimoniale, construction territoriale : vers une gouvernance patrimoniale », ESO, 18.</reference>
+        <reference>Greffe, X. (2004), “Is heritage an asset or a liability?”, Journal of cultural heritage, 5(3), pp. 301-309.</reference>
+        <reference>Gumuchian, H., Pecqueur, B. (2007), “La ressource territoriale”, (No. halshs-00265070).</reference>
+        <reference>Horáková, H. (2013), “Whose Countryside? Contested Development in the New Rural Recreational Localities in Czechia from the Perspective of the Countryside Capital/Čí venkov? Problematika rozvoje v nových rekreačních lokalitách v Česku z perspektivy venkovského kapitálu”, European Countryside, 5(1), pp. 21-37.</reference>
+        <reference>Keser, H. Y. (2016), “Culture economy for economic development: assesments on cultural heritage in Turkey”, Eur. Sci. J., 12(28), pp. 38-50.</reference>
+        <reference>Landel, P. A., Senil, N., (2009), « Patrimoine et territoire, les nouvelles ressources du développement », Développement durable et territoires. Économie, géographie, politique, droit, sociologie, Dossier 12.</reference>
+        <reference>Lazrak, F., Nijkamp, P., Rietveld, P., and Rouwendal, J. (2014), “The market value of cultural heritage in urban areas: an application of spatial hedonic pricing”, Journal of Geographical Systems, 16(1), pp. 89-114.</reference>
+        <reference>Mason, R. (2005), “Economics and historic preservation”, Washington, DC: The Brookings Institution, pp. 35-100.</reference>
+        <reference>Mourato, S., Mazzanti, M. (2002), “Economic valuation of cultural heritage: evidence and prospects”, in de la Torre M. (Ed.), Assessing the Values of Cultural Heritage, The Getty Conservation Institute, Los Angeles. </reference>
+        <reference>Navrud, S., and Ready, R. C. (Eds.), (2002), Valuing cultural heritage: Applying environmental valuation techniques to historic buildings, monuments and artifacts, Edward Elgar Publishing.</reference>
+        <reference>Negussie, E. (2006), “Implications of neo-liberalism for built heritage management: Institutional and ownership structures in Ireland and Sweden” Urban Studies, 43(10), pp. 1803-1824.</reference>
+        <reference>Nyseth, T., Sognnæs, J. (2013), “Preservation of old towns in Norway: Heritage discourses, community processes and the new cultural economy”, Cities, 31, pp. 69-75.</reference>
+        <reference>Prud’homme, R., Gravari-Barbas, M., Jacquot, S., Talandier, M., Nicot, B. H. et Odzirlik, B. (2008), « Les impacts socio-économiques de l’inscription d’un site sur la liste du patrimoine mondial: trois études », Unpublished report prepared for the UNESCO World Heritage Committee. Available from the author of this study.</reference>
+        <reference>Ruault, J. F., Talandier, M. (2020), “Are outstanding cultural heritage sites useful territorial resources for community development?”, in Dissart, J.C. and Seigneuret, N. (Eds.), Local Resources, Territorial Development and Well-being, Edward Elgar Publishing.</reference>
+        <reference>Rudokas, K., Landauskas, M., Gražulevičiūtė-Vilneiškė, I., and Viliūnienė, O. (2019), “Valuing the socio-economic benefits of built heritage: Local context and mathematical modelling”, Journal of Cultural Heritage, 39, pp. 229-237.</reference>
+        <reference>Rypkema, D., Cheong, C., and Mason, R. (2011), “Measuring economic impacts of historic preservation”, Advisory Council on Historic Preservation.</reference>
+        <reference>Throsby, D. (2003), “Determining the value of cultural goods: How much,or how little) does contingent valuation tell us?”, Journal of cultural economics, 27(3-4), pp. 275-285.</reference>
+        <reference>Talandier, M., Navarre, F., Cormier, L., Landel, P. A., Ruault, J. F., and Senil, N. (2019), Outstanding heritage sites-A resource for territories, Ebook, PUCA, Paris, https://halshs.archives-ouvertes.fr/halshs-02298543/document</reference>
+        <reference>Talandier, M., Navarre, F., Cormier, L., Landel, P. A., Ruault, J. F., et Senil, N. (2019), Les sites patrimoniaux exceptionnels, une resource pour les territories, PUCA, Paris. </reference>
+        <reference>Tomaney, J., Pike, A., and Rodríguez-Pose, A. (2010), “Local and regional development in times of crisis”, Environment and Planning A, 42(4), pp. 771-779.</reference>
+    </bibliographie>
+</article>

@@ -1,0 +1,3338 @@
+Mondes du Tourisme
+9 | 2014
+
+La plage, territoire des corps
+
+Une méthodologie pour reconstruire la
+mondialisation du tourisme
+Mathis Stock et Andreea Antonescu
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/124
+DOI : 10.4000/tourisme.124
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+Édition imprimée
+Date de publication : 1 juin 2014
+Pagination : 2-18
+ISSN : 2109-5671
+Référence électronique
+Mathis Stock et Andreea Antonescu, « Une méthodologie pour reconstruire la mondialisation du
+tourisme », Mondes du Tourisme [En ligne], 9 | 2014, mis en ligne le 15 septembre 2015, consulté le 01
+mai 2019. URL : http://journals.openedition.org/tourisme/124 ; DOI : 10.4000/tourisme.124
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modiﬁcation 4.0 International.
+
+MATHIS STOCK & ANDREEA ANTONESCU
+
+Une méthodologie pour reconstruire
+la mondialisation du tourisme
+MATHIS STOCK
+
+ANDREEA ANTONESCU
+
+Professeur de géographie du tourisme
+Institut universitaire Kurt Bösch (IUKB), Centre de
+recherche interdisciplinaire en tourisme (Crit)
+
+Doctorante en études du tourisme
+Institut universitaire Kurt Bösch (IUKB), Centre de
+recherche interdisciplinaire en tourisme (Crit)
+
+[mathis.stock@iukb.ch]
+
+[andreea.antonescu@iukb.ch]
+
+Résumé. Le processus de mondialisation du tourisme se traduit par le passage d’un ensemble peu dense de
+lieux touristiques, localisés en quelques endroits, à un champ touristique dense, interdépendant à l’échelle
+mondiale. Quelle est la spatialité de cette expansion du champ touristique ? Peut-on quantifier le nombre de
+lieux composant le système touristique à différents moments ? Afin d’y répondre, il est nécessaire de voir
+comment s’est construit le processus de mondialisation du tourisme, ce qui requiert des données solides. D’un
+point de vue géographique, on peut adopter la perspective d’analyse des lieux dont l’émergence successive
+comme destination, la reproduction et l’arrêt de la fonction touristique marquent le passage du temps entre
+1800 et 2000. Cet article vise donc à rendre compte d’une méthodologie qui a permis de construire les données
+nécessaires pour répondre aux questions posées. Il se focalise sur l’identification et la périodisation du nombre
+des lieux touristiques , avec une première cartographie de la constitution du champ touristique mondial.
+
+Abstract. The process of globalization of tourism results in the passage of a sparse set of tourist places, located
+only in some parts of the world, to a dense tourist field, interrelated on a global scale. What is the spatiality of
+such expansion of the tourism field? Can we quantify the number of tourist places that constitute the system at
+different moments? To answer this question, it is necessary to see how the process of globalization of tourism is
+developing. From a geographical point of view, we adopt the perspective of places, whose successive emergence,
+reproduction and end as tourist destination is significant for the period between 1800 to 2000. This article aims
+at accounting on a methodology that allows for constructing the necessary data in order to answer the questions
+raised above. It focuses on the identification of the number and periodisation of tourist places and a first cartography
+of the construction of the global tourism field.
+2
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+RECHERCHE • VARIA
+
+L
+
+e processus de mondialisation
+
+tion de ces événements. Or, ces don-
+
+elle avec le temps ? Il s’agit d’iden-
+
+du tourisme se traduit par le
+
+nées n’existent pas ; il convient de
+
+tifier le moment d’arrêt définitif de
+
+passage d’un ensemble peu
+
+les construire.
+
+la fonction touristique des lieux et
+
+dense et peu diversifié de lieux tou-
+
+La construction de ces données
+
+de quantifier les lieux touristiques
+
+ristiques, localisés en seulement
+
+est donc l’enjeu scientifique identifié
+
+disparus. Comme il faut rendre
+
+quelques endroits, à un “écoumène
+
+dans le présent article, auquel nous
+
+compte non seulement de la pro-
+
+touristique” mondial qui coïncide
+
+proposons une contribution métho-
+
+duction des lieux touristiques au
+
+avec l’étendue terrestre (Équipe Mit,
+
+dologique. Au moins deux problèmes
+
+cours du temps, mais aussi de l’éven-
+
+2011). Dans la discussion du lien
+
+se posent dans cette entreprise.
+
+tuelle variation de leur touristicité
+
+entre tourisme et mondialisation,
+
+Premièrement, quel est le moment
+
+– possibilité d’arrêt temporaire ou
+
+l’un des éléments essentiels réside
+
+d’émergence de la fonction touris-
+
+définitif de la fonction touristique
+
+dans l’augmentation, depuis 1800,
+
+tique d’un lieu ? Il s’agit, d’une part,
+
+–, il convient, en effet, pour chaque
+
+du nombre d’endroits consacrés à la
+
+de déterminer le moment de mise
+
+lieu touristique, de suivre l’évolution
+
+pratique touristique. Ainsi, les
+
+en tourisme des lieux qui, à un
+
+de sa touristicité au fil du temps.
+
+endroits auxquels les touristes ont
+
+moment donné de la période 1800-
+
+Cela nécessite, d’une part, d’identifier
+
+accès sont devenus plus nombreux ;
+
+2000, ont été considérés comme tou-
+
+et de quantifier les lieux qui ont su
+
+l’éventail spatial pour les touristes
+
+ristiques. D’autre part, il s’agit d’iden-
+
+maintenir leur fonction touristique
+
+est plus différencié. D’où la nécessité
+
+tifier et de quantifier les lieux tou-
+
+tout le long de leur existence et,
+
+de reconstruire la façon dont cette
+
+ristiques produits entre 1800 et 2000,
+
+d’autre part, d’identifier et de quan-
+
+offre en termes spatiaux s’est déve-
+
+et donc de faire la distinction entre
+
+tifier les lieux à fonction touristique
+
+loppée.
+
+lieux touristiques et lieux non tou-
+
+intermittente ou dont la fonction
+
+C’est cette dimension géogra-
+
+ristiques, ce qui est moins aisé qu’il
+
+touristique s’arrête définitivement
+
+phique, via l’identification du
+
+n’y paraît. En effet, conceptuelle-
+
+(dans le laps de temps considéré). Il
+
+nombre et de la qualité des lieux
+
+ment, il est nécessaire de définir les
+
+s’agit là d’un problème conceptuel,
+
+touristiques qui émergent, se repro-
+
+critères de la “touristicité” des lieux
+
+méthodologique et empirique dans
+
+duisent et se restructurent depuis
+
+(présence ou absence de touristes,
+
+la mesure où la distinction concep-
+
+deux cents ans, qui est au centre du
+
+d’infrastructures touristiques, de
+
+tuelle entre intermittences et arrêts
+
+présent travail. L’objectif n’est tou-
+
+pratiques, de discours, etc.), mais
+
+définitifs ne peut être effectuée de
+
+tefois pas d’identifier le “système”
+
+cela ne permet pas de définir des
+
+manière absolue, mais seulement
+
+des lieux touristiques à plusieurs
+
+degrés de “touristicité”. Empir-
+
+pour le laps de temps considéré. En
+
+moments de l’histoire, car cela impli-
+
+iquement, il est difficile de construire
+
+effet, plusieurs étapes sont à franchir :
+
+querait la mise en évidence de liens
+
+des données qui s’y rapportent étant
+
+le choix du corpus, l’extraction des
+
+entre les lieux géographiques, ce qui
+
+donné que ces éléments empiriques
+
+données, leur saisie et traitement,
+
+est hors de notre projet cognitif. Une
+
+(différentes formes d’écriture des
+
+puis leur analyse et représentation
+cartographique.
+
+contribution à la reconstruction de
+
+toponymes, mention des pratiques
+
+la mondialisation du tourisme
+
+touristiques, du nombre d’hôtels ou
+
+Une fois les objectifs assignés à
+
+requiert des données solides qui
+
+de lits touristiques, des restaurants
+
+la recherche fixés se pose la question
+
+nécessitent la prise en compte de
+
+et autres attractions touristiques) ne
+
+des outils méthodologiques pouvant
+
+l’émergence successive, de la repro-
+
+sont pas récurrents dans les diverses
+
+être mis en œuvre pour disposer
+
+duction et de la restructuration, voire
+
+sources documentaires, mais plutôt
+
+d’une base de données solide sur la
+
+de l’arrêt, de la fonction touristique
+
+aléatoires.
+
+touristification du monde. Dans le
+
+des différents lieux géographiques.
+
+Deuxièmement, comment la fonc-
+
+présent article, il s’agit de réfléchir
+
+Le défi cognitif réside dans la data-
+
+tion touristique des lieux change-t-
+
+sur les méthodologies possibles pour
+JUIN 2014 • MONDES DU TOURISME N°9
+
+3
+
+MATHIS STOCK & ANDREEA ANTONESCU
+
+reconstruire la façon dont, à l’échelle
+
+spatiale du phénomène s’appuie sur-
+
+ont été faites en fonction d’une repré-
+
+mondiale, entre 1800 et 2000, le
+
+tout sur les données statistiques de
+
+sentativité spatiale (couvrir le monde
+
+nombre de lieux touristiques a aug-
+
+l’OMT, et il n’est pas possible de se
+
+entier). On ne peut donc en tirer de
+
+menté et la manière dont ils ont
+
+contenter uniquement de cette
+
+conclusions sur le nombre de lieux
+
+changé de qualité, constituant ainsi
+
+source, peu adaptée pour une prise
+
+touristiques qui, par exemple, émer-
+
+un “écoumène touristique” mondial
+
+en compte fine de ce phénomène à
+
+gent entre 1800 et 1850, par rapport
+
+relativement plus densifié et modi-
+
+l’échelle mondiale. Une seule
+
+à la période 1900-1950. De plus,
+
+fiant radicalement le champ touris-
+
+recherche a essayé de dépasser ce
+
+en raison de la focalisation sur la
+
+tique mondial.
+
+cadre (Tol et al., 2007) pour tenter
+
+date d’émergence des lieux touris-
+
+de mesurer l’ampleur du tourisme
+
+tiques, aucune information sur le
+
+en combinant tourisme international
+
+maintien ou l’arrêt de la fonction
+
+et tourisme domestique au niveau
+
+n’a été collectée. On ne peut pas
+
+DES DONNÉES DISPONIBLES
+POUR L’ÉCHELLE MONDIALE ?
+
+national, mais également au niveau
+
+donc en tirer de conclusions sur la
+
+La mise en œuvre de cette
+
+infra-étatique. Cependant, les auteurs
+
+reproduction des lieux touristiques,
+
+recherche se heurte à plusieurs obs-
+
+de cette recherche utilisent une
+
+seulement sur leur émergence cumu-
+
+tacles. Il n’existe pas, à ce jour, de
+
+approche économétrique dans
+
+lée. On travaille donc avec l’hypo-
+
+données solides sur les deux cents
+
+laquelle on simule les données, mais
+
+thèse implicite que tous les lieux,
+
+dernières années permettant d’ap-
+
+dans laquelle on ne les mesure pas,
+
+une fois émergés, continuent à avoir
+
+préhender la touristicité des lieux
+
+avec tous les problèmes que cela
+
+une fonction touristique jusqu’à nos
+
+géographiques définis à l’échelle
+
+suppose. Ainsi, on ne dispose pas
+
+jours. Ces deux limites incitent à
+
+locale, pour l’ensemble du monde.
+
+aujourd’hui d’une base de données
+
+tenter une nouvelle méthodologie,
+
+Tout d’abord, il n’existe pas de don-
+
+comparable à celles existant sur les
+
+fondée sur le dépouillement de guides
+
+nées quantitatives sur le nombre de
+
+villes (cf., par exemple, la base
+
+touristiques afin d’en extraire les
+
+lieux touristiques, sur le nombre de
+
+Géopolis de Moriconi-Ebrard
+
+différents lieux mentionnés.
+
+touristes les fréquentant, ni de don-
+
+(1993)), qui comprendrait, par
+
+Certaines méthodes se servent des
+
+nées qualitatives sur le type de lieux
+
+exemple, les lieux touristiques enre-
+
+guides de voyage pour produire des
+
+ou le type de pratiques s’y déroulant.
+
+gistrant plus d’un million de nuitées.
+
+indicateurs touristiques. Par exemple,
+
+Les données permettant d’apprécier
+le changement de ces éléments au
+
+d’une analyse manuelle du contenu
+
+cours du temps sont absentes. La
+
+au-delà du cas d’étude
+
+des guides (Dupuy et Mao, 2003 ;
+
+plupart des données existantes concer-
+
+On peut construire ces données
+
+Knafou, 1997) a permis de réaliser
+
+nent l’État-nation ; elles sont produites
+
+à l’échelle locale ou, comme l’a fait
+
+des cartes de densité des sites étoilés
+
+par les services étatiques ou par
+
+l’Équipe Mit (2011), à travers une
+
+par le Guide Vert. Tritz (2003, 2006)
+
+l’Organisation mondiale du tourisme
+
+recherche réalisée, pour chaque lieu
+
+a réalisé une base de données des
+
+(OMT) et ne s’intéressent pas aux
+
+étudié, en compulsant ouvrages, tra-
+
+lieux cités (classés en “hauts lieux”
+
+référents locaux ; elles ne proposent
+
+vaux scientifiques, données éparses.
+
+et en lieux secondaires) dans les
+
+pas d’informations quantitatives sur
+
+En dix ans, une base de données
+
+index des guides, en utilisant le Guide
+
+le tourisme au XIX siècle .
+
+d’environ 3 000 lieux touristiques,
+
+du routard, le Guide Vert et les
+
+avec la date d’émergence de ceux-
+
+Guides Bleus.
+
+e
+
+(1)
+
+Plus généralement, il existe un
+
+4
+
+une base de données réalisée à partir
+Construire un raisonnement
+
+véritable problème de données dès
+
+ci, a ainsi été construite. Toutefois,
+
+Une autre méthode, très astu-
+
+lors que l’intérêt cognitif vise l’échelle
+
+cette base de données ne propose
+
+cieuse, est celle d’Ollivier et al (2012)
+
+mondiale du tourisme. D’une part,
+
+pas une représentativité quantitative
+
+qui consiste en l’analyse, via un logi-
+
+la connaissance sur la distribution
+
+du phénomène ; les sélections opérées
+
+ciel, de guides préalablement numé-
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+RECHERCHE • VARIA
+
+risés dont on extrait le nombre d’oc-
+
+Dater l’émergence
+
+dologique” : nous ne cherchons pas
+
+currences du nom des communes
+
+des lieux touristiques :
+
+à déterminer la date exacte de l’émer-
+
+d’une région. Ensuite, on compare
+
+un problème méthodologique
+
+gence touristique d’un lieu, mais le
+
+cette liste avec une base de données
+
+La datation des événements est
+
+moment où la fonction touristique
+
+des communes de cette région, obte-
+
+un problème cognitif pour les his-
+
+d’un lieu est confirmée par un docu-
+
+nue auprès de l’Insee. L’indicateur
+
+toriens qui ont développé des
+
+ment. Plus précisément, nous défi-
+
+ainsi établi permet de mesurer la
+
+méthodes pour répondre à la ques-
+
+nissons le moment de mise en tou-
+
+notoriété touristique des communes.
+
+tion du “quand ?”, notamment par
+
+risme d’un lieu comme un événement
+
+Malheureusement, nous ne pouvons
+
+la constitution d’un corpus issu d’un
+
+publié dans un guide de voyage.
+
+pas utiliser cette méthode dans le
+
+travail d’archive. Concernant les
+
+Nous obtenons donc une date qui
+
+cadre de cette recherche, car nous
+
+lieux touristiques, on peut se poser
+
+correspond à la première mention
+
+ne disposons pas, pour le monde
+
+la question de savoir comment dater
+
+du lieu dans un guide de voyage.
+
+entier, d’une base de données des
+
+l’“invention” d’un lieu touristique.
+
+Cette date est nécessairement pos-
+
+communes (ou des lieux) que l’on
+
+S’agit-il du premier touriste que l’on
+
+térieure à la mise en tourisme effec-
+
+pourrait comparer aux toponymes
+
+a pu identifier sur place ? S’agit-il
+
+tive. Nous interprétons cette mention
+
+mentionnés dans les guides touris-
+
+des premières infrastructures tou-
+
+comme la reconnaissance, par une
+
+tiques. En effet, la méthode utilisée
+
+ristiques (hôtel, promenade, etc.)
+
+configuration sociale constituée de
+
+par Ollivier et al. (2012) n’est pas
+
+construites ? S’agit-il du classement
+
+touristes, d’éditeurs et de rédacteurs,
+
+une méthode d’extraction des lieux,
+
+effectué par un ministère (les stations
+
+d’un lieu comme étant touristique.
+
+mais une méthode de comptage. On
+
+thermales ou les sites touristiques
+
+Ce matériau implique donc une
+
+compte le nombre d’occurrences
+
+chinois) ? La façon de répondre à
+
+vision spécifique des processus de
+
+d’un toponyme dans un guide. Une
+
+ces questions a des conséquences
+
+mondialisation du tourisme, qui est
+
+fois les guides numérisés par recon-
+
+sur le type de données à rechercher ;
+
+celle constituée à travers les guides
+
+naissance de texte, le logiciel utilisé
+
+inversement, la définition d’un cor-
+
+touristiques.
+
+reconnaît les toponymes à compter,
+
+pus implique une réponse spécifique
+
+puisqu’il les compare à ceux qui se
+
+à ces questions.
+
+Déterminer la touristicité
+changeante des lieux
+
+trouvent dans un fichier préalable-
+
+Qu’est-ce que l’on entend par
+
+ment établi (les toponymes sont
+
+datation de la mise en tourisme ? Il
+
+Un deuxième problème se pose :
+
+connues au préalable ; le logiciel sait
+
+s’agit de l’identification du moment
+
+la fonction touristique d’un lieu n’est
+
+ce qu’il doit chercher). Un tel logiciel
+
+où un lieu est “inventé” pour le tou-
+
+pas éternelle et les trajectoires de
+
+ne serait utile dans notre démarche
+
+risme(2). La question se pose alors
+
+“sortie” du tourisme sont légion
+
+que s’il pouvait extraire les noms de
+
+de savoir dans quelle mesure cette
+
+(Équipe Mit, 2011). Il convient donc
+
+lieux et les afficher dans un docu-
+
+mise en tourisme est “documentée”.
+
+de produire des données non seule-
+
+ment.
+
+Si la recherche réussit à “documen-
+
+ment sur l’émergence des lieux, mais
+
+En conclusion, aucune des
+
+ter” la datation de la mise en tou-
+
+aussi sur la manière dont ils évoluent.
+
+méthodes connues n’a pris en compte
+
+risme dans des études de cas, est-il
+
+C’est ainsi que l’on pourrait appré-
+
+le niveau mondial ni les éléments
+
+possible alors, avec les mêmes
+
+cier, avec davantage de précision,
+
+qui nous intéressent : la date de mise
+
+méthodes, de déterminer la date de
+
+l’évolution quantitative des lieux
+
+en tourisme d’un lieu, la date d’arrêt
+
+la mise en tourisme des lieux géo-
+
+touristiques, en prenant en compte
+
+de sa fonction touristique ou la per-
+
+graphiques à l’échelle mondiale ?
+
+non seulement la production de lieux
+
+manence de cette fonction, de l’émer-
+
+Pour contourner cette difficulté, nous
+
+touristiques, qui se renouvellent sans
+
+gence du lieu jusqu’à nos jours, et
+
+avons redéfini notre objectif et mis
+
+cesse depuis le début du XVIIIe siècle,
+
+ce à l’échelle mondiale.
+
+en place une “interprétation métho-
+
+mais aussi la reproduction et la fin
+JUIN 2014 • MONDES DU TOURISME N°9
+
+5
+
+MATHIS STOCK & ANDREEA ANTONESCU
+
+“paradisiaque”, “exceptionnel”,
+FIGURE 1 • PARCOURS DES LIEUX TOURISTIQUES
+
+“extraordinaire”… – sont autant
+d’éléments intervenant dans la défi-
+
+Type de parcours
+
+Intermittence
+
+nition du touristique. En même
+Légende
+
+est très vaste et diversifié : de multiples
+Émergence
+Arrêt définitif
+
+Arrêt
+
+Arrêt
+temporaire
+Reprise
+
+Permanence
+
+1800
+
+1850
+
+1900
+
+types coexistent et émergent au cours
+du temps, entre guides généraux,
+guides locaux et guides thématiques(4).
+Les choix méthodologiques sur les
+lieux touristiques ont été opérés à
+partir des guides généraux.
+Apports
+
+Temps
+1750
+
+temps, le genre “guides de voyage”
+
+1950
+
+2000
+
+2050
+
+de cette source documentaire
+Le guide exprime le “collective
+tourist gaze” (Urry, 1990, p. 150). En
+effet, le guide touristique ne prescrit
+que les lieux touristiques qui jouis-
+
+6
+
+de la touristicité des lieux. C’est
+
+C’est un instrument textuel qui sert
+
+sent, à un moment donné, d’une
+
+pourquoi il nous faut également
+
+d’introduction à la découverte d’un
+
+reconnaissance de leur statut tou-
+
+déterminer les lieux qui ont cessé
+
+espace inconnu ou insuffisamment
+
+ristique par différents acteurs des
+
+d’avoir une fonction touristique et
+
+connu, à la promotion des sites et à
+
+configurations sociales. L’analyse
+
+le moment d’arrêt de cette fonction,
+
+l’imaginaire des touristes. Il peut
+
+du guide touristique permet donc
+
+que cet arrêt soit temporaire ou défi-
+
+contenir des informations pratiques
+
+d’historiciser le tourisme et de recons-
+
+nitif. On distingue ainsi trois situa-
+
+(par exemple, où se loger, où manger,
+
+truire la façon dont l’espace touris-
+
+tions différentes (cf. figure 1) : l’arrêt
+
+quels lieux visiter), des informations
+
+tique a été imaginé à un moment
+
+touristique, qui se traduit par l’ab-
+
+géographiques (descriptions de pay-
+
+donné. Il s’agit de jugements sur des
+
+sence définitive de la fonction tou-
+
+sages, informations d’orientation
+
+lieux géographiques qui sont contin-
+
+ristique d’un lieu ; l’intermittence
+
+dans le territoire, etc.), mais aussi
+
+gents mais non arbitraires, et chan-
+
+qui se traduit par un arrêt tempo-
+
+des informations d’ordre culturel,
+
+geants au fil du temps.
+
+raire, suivi par une reprise, de la
+
+historique, politique... Il offre une
+
+L’une des raisons d’utiliser le guide
+
+fonction touristique d’un lieu au
+
+lecture, parmi d’autres, de l’espace
+
+touristique comme source pour l’ana-
+
+cours de son évolution ; la perma-
+
+touristique, et trouve sa spécificité
+
+lyse géo-historique du tourisme réside
+
+nence touristique, qui est d’un lieu
+
+dans la préférence accordée à certains
+
+dans la datation des éditions. Tout
+
+gardant sa fonction touristique tout
+
+lieux, jugés dignes d’intérêt, par rap-
+
+d’abord, on peut dater les éditions,
+
+le long de son existence.
+
+port à d’autres, non mentionnés.
+
+depuis les premiers guides autour
+
+Ainsi, il opère une sélection et une
+
+de 1800 jusqu’à aujourd’hui. L’une
+
+LE PASSAGE
+
+distinction sur un critère, le “regard
+
+des conditions pour cette approche
+
+PAR LES GUIDES TOURISTIQUES
+
+touristique” du moment “médié”
+
+géo-historique du tourisme est donc
+
+Le guide touristique (imprimé ou
+
+par les intérêts de la maison d’édi-
+
+réunie. De plus, à intervalles réguliers,
+
+numérisé) est un moyen d’informa-
+
+tion . Les adjectifs utilisés pour jus-
+
+les guides d’une même maison d’édi-
+
+tion touristique utilisé par le touriste.
+
+tifier cette sélection – “pittoresque”,
+
+tion sont réédités, ce qui permet la
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+(3)
+
+RECHERCHE • VARIA
+
+comparaison entre plusieurs éditions ;
+
+Limites
+
+le chercheur peut en déduire la data-
+
+de la source documentaire
+
+blème. Où trouver les collections
+
+tion des lieux touristiques. Qui plus
+
+On peut néanmoins pointer plu-
+
+suffisamment complètes de guides ?
+
+est, il existe une multitude de guides
+
+sieurs limites de ce corpus. D’abord,
+
+Nous avons exploré deux voies.
+
+qui, portant sur les mêmes décou-
+
+il s’agit d’un corpus textuel soumis
+
+Tout d’abord, celle des guides numé-
+
+pages géographiques, n’évoquent
+
+à un ensemble de règles éditoriales
+
+risés, en libre accès sur internet, et
+
+pas nécessairement les mêmes lieux
+
+dont il faut être conscient. Il s’agit
+
+nous avons constaté que la recherche,
+
+Enfin, l’accès aux guides pose pro-
+
+touristiques. En cumulant les guides
+
+d’un certain point de vue sur l’espace
+
+à partir des mots-clés, n’est pas très
+
+et les éditions, un grand nombre
+
+touristique. Pour le scientifique, cela
+
+aisée(8). En effet, les différentes plates-
+
+d’informations pourrait ainsi être
+
+signifie que l’interprétation ne peut
+
+formes en ligne n’utilisent pas les
+
+extrait. De surcroît, l’une des entrées
+
+être celle de la mondialisation du
+
+mêmes règles pour nommer un
+
+privilégiées des guides concerne les
+
+tourisme, mais celle de la mondia-
+
+guide. Ainsi, les titres sont souvent
+
+lieux que le touriste est censé “pra-
+
+lisation d’un des aspects du tourisme
+
+incomplets, il y a une confusion ou
+
+tiquer”, de quelque manière que ce
+
+qui donne accès à la constitution
+
+un mélange entre les auteurs, les édi-
+
+soit. Le guide centre donc son atten-
+
+progressive de l’une des dimensions
+
+teurs et la collection de guides(9).
+
+tion sur l’un des éléments majeurs
+
+de l’espace touristique. Cette dimen-
+
+Nous nous sommes ensuite tournés
+
+de notre étude : les lieux touristiques.
+
+sion relationnelle et relative doit être
+
+vers les guides livres (papier), et le
+
+Enfin, l’accessibilité à la source et la
+
+prise en compte, sous peine d’erreurs
+
+constat a été similaire : l’accès aux
+
+standardisation de l’information
+
+interprétatives. Notamment, le mode
+
+archives et bibliothèques a été pro-
+
+contenue dans les guides sont des
+
+“découverte” est privilégié par les
+
+blématique(10) ; les collections ne sont
+
+critères importants. Même si l’accès
+
+guides, bien que des guides théma-
+
+pas complètes, même dans les biblio-
+
+aux guides est loin d’être facile ,
+
+tiques existent, par exemple sur les
+
+thèques et archives spécialisées(11).
+
+(5)
+
+une certaine quantité et qualité d’in-
+
+villes d’hiver de la Méditerranée, les
+
+Néanmoins, malgré ces contraintes,
+
+formations sont assurées. Par contre,
+
+stations de ski ou encore sur les sta-
+
+le corpus des guides est un matériau
+
+une source qui fonctionne sur le prin-
+
+tions thermales(7).
+
+intéressant, à la fois en termes de
+
+cipe “demande-réponse” peut fournir
+
+Ensuite, l’approximation des dates
+
+lieux sélectionnés et de qualité décrite.
+
+un corpus d’informations incohérent,
+
+par les guides ne permet pas de
+
+Le moment de naissance du genre lit-
+
+restreint ou focalisé sur un espace
+
+répondre à la question de la datation
+
+téraire, la variété des entités spatiales
+
+ou une période de temps(6).
+
+absolue des événements historiques,
+
+couvertes et la densité des éditions
+
+Les guides touristiques remplissent
+
+en l’espèce l’émergence des lieux
+
+sont les raisons pour lesquelles nous
+
+donc plusieurs conditions qui per-
+
+touristiques. La date retenue consti-
+
+avons fait le choix de travailler à
+
+mettent de construire une connais-
+
+tue donc une construction dont il
+
+partir des guides de voyage.
+
+sance de l’écoumène touristique et
+
+convient d’apprécier les limites. Elle
+
+deviennent ainsi source d’investiga-
+
+ne correspond pas à la première
+
+LA CONSTITUTION
+DU CORPUS TEXTUEL
+
+tion scientifique. Ils peuvent fournir
+
+manifestation de l’événement, mais
+
+des informations exploitables pour
+
+à son occurrence dans un corpus
+
+déterminer la date de mise en tou-
+
+textuel. Cela a des conséquences sur
+
+Une fois ce choix des guides tou-
+
+risme, l’arrêt définitif ou temporaire,
+
+les cas singuliers qui ne correspon-
+
+ristiques arrêté, il faut s’intéresser à
+
+ou encore la continuité de la fonction
+
+dent pas à la datation obtenue par
+
+la façon dont on les sélectionne. Une
+
+touristique d’un lieu. C’est une source
+
+le corpus de guides. Les datations
+
+analyse du genre littéraire nous a
+
+qui répond à nos besoins en termes
+
+singulières pourraient être recons-
+
+conduits à des sélections sur la base
+
+d’informations, sur le plan tant tem-
+
+truites par un travail scientifique,
+
+desquelles nous avons pu construire
+
+porel que spatial.
+
+au cas par cas.
+
+des bases de données sur les lieux
+JUIN 2014 • MONDES DU TOURISME N°9
+
+7
+
+MATHIS STOCK & ANDREEA ANTONESCU
+
+touristiques à l’échelle mondiale.
+
+un “regard touristique commun”
+
+précision et, partant, le même
+
+Cette analyse nous a permis de
+
+est appliqué au monde, un monde
+
+nombre de lieux touristiques. En
+
+remarquer
+
+choses.
+
+dans lequel les différences entre
+
+termes de quantité, il y a de grands
+
+Premièrement, les guides sont orga-
+
+plusieurs
+
+guides s’effacent au profit d’une
+
+écarts. Par exemple, le Guide Delta
+
+nisés par collections qui prennent
+
+vision semblable des lieux géogra-
+
+sur l’Italie de 1982 propose 400
+
+souvent le nom du fondateur ou de
+
+phiques.
+
+lieux, alors que les Guides Bleus
+
+l’éditeur principal (les guides Joanne,
+
+La prise en compte de ces éléments
+
+pour le même pays proposent, en
+
+Michelin, Murray, Baedeker, etc.) ;
+
+est cruciale lors de la constitution
+
+1988, 1 693 lieux. C’est pourquoi
+
+ils peuvent aussi prendre un nom
+
+du corpus à partir des guides. En
+
+notre choix concernant les grandes
+
+qui renvoie à la couleur de la cou-
+
+outre, afin de disposer d’un corpus
+
+collections se justifie, car le but est
+
+verture du guide (les Guides Bleus,
+
+cohérent et homogène, une coordi-
+
+d’avoir une image détaillée des lieux
+
+le Guide Vert) . Deuxièmement,
+
+nation dans le temps et dans l’espace
+
+touristiques dans le monde. De plus,
+
+chaque collection produit des séries
+
+des différentes collections est néces-
+
+pour disposer d’un corpus cohérent
+
+de guides (ou titres) décrivant des
+
+saire.
+
+il est nécessaire que les différentes
+
+(12)
+
+entités spatiales (South American
+
+8
+
+collections de guides soient compa-
+
+Handbook, Guide to South and East
+
+Collections, séries, éditions :
+
+rables en termes d’espaces décrits,
+
+Africa…). Comme toute publication
+
+lesquelles choisir ?
+
+de périodes de publication et d’or-
+
+littéraire, les titres des guides sont
+
+Plusieurs éléments contextuels
+
+ganisation générale du texte.
+
+très divers et portent en général sur
+
+sont importants à prendre en
+
+les entités géographiques décrites.
+
+compte : un guide est publié par un
+
+tante car elle constituera la base sur
+
+Chaque série de guide (ou titre) com-
+
+éditeur ou une maison d’édition, il
+
+laquelle vont s’effectuer les analyses
+
+porte un nombre d’éditions qui peut
+
+est réédité à certains intervalles, il
+
+finales et la cartographie, est la sélec-
+
+• Une seconde opération, très impor-
+
+varier en fonction de la politique
+
+est consacré à un espace géogra-
+
+tion en fonction du “référentiel géo-
+
+éditoriale, de la demande et de la
+
+phique singulier et il peut être publié
+
+graphique”(13) du guide. Pour pouvoir
+
+durée de publication de la collection.
+
+en plusieurs langues, avec des
+
+collecter un maximum de lieux à
+
+Troisièmement, le nombre des édi-
+
+variantes.
+
+partir d’un guide de voyage, nous
+
+tions peut renseigner sur la longévité
+
+• En ce qui concerne le choix des
+
+avons retenu les guides qui proposent
+
+de la collection. Des collections ont
+
+éditeurs, nous avons décidé de ne
+
+un nombre important de lieux. Nous
+
+une période de publication impres-
+
+retenir que les grandes collections
+
+avons donc éliminé tout guide local
+
+sionnante, comme les guides
+
+de guides : Baedeker, Murray,
+
+(qui décrit, en général, un seul lieu)
+
+Baedeker (depuis 1828), les guides
+
+Guides Joanne, Guides Bleus, Guide
+
+ou régional (y compris les guides
+
+Murray (1836-1970) ou les guides
+
+du routard, Lonely Planet, etc., tout
+
+portant uniquement sur les dépar-
+
+appartenant à la maison Hachette
+
+en vérifiant qu’ils couvrent tous les
+
+tements ou sur d’autres unités admi-
+
+(les Guides Joanne de 1841 à 1919,
+
+continents (cf. figure 2). Toutefois,
+
+nistratives inférieures à l’échelle
+
+les Guides Bleus depuis 1919) ; à
+
+afin de disposer de données avant
+
+nationale). Nous avons privilégié les
+
+l’inverse, certaines collections n’ont
+
+l’apparition des grandes collections
+
+espaces nationaux et les regroupe-
+
+pas réussi à s’imposer sur le marché,
+
+(à partir de 1830), nous avons sélec-
+
+ments d’espaces nationaux et régio-
+
+tels les guides Richard (1823-1836)
+
+tionné parmi les auteurs les plus
+
+naux. Il faut noter que, très souvent,
+
+ou les guides Napoléon Chaix (1848-
+
+connus et les plus publiés de
+
+les éditeurs mentionnent le référentiel
+
+1864). Quatrièmement, en fonction
+
+l’époque, par exemple Reichard et
+
+géographique dès le titre du guide.
+
+de l’origine éditoriale, chaque col-
+
+son successeur Richard.
+
+Ainsi, nous avons choisi des titres
+
+lection reflète un style et une vision
+
+Les différentes maisons d’édition
+
+spécifiques. Malgré ces différences,
+
+ne proposent pas le même degré de
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+couvrant une superficie territoriale
+importante(14).
+
+RECHERCHE • VARIA
+
+FIGURE 2 • SÉLECTION EN FONCTION DE L’ÉDITEUR
+Temps
+
+1970-2011
+
+Rough
+Guide
+
+Routard +
+Guides Bleus
+
+Baedeker
+Allianz
+
+Fodor’s
+
+1919-1970
+
+Murray
+
+Guides
+Bleus
+
+Baedeker
+
+Fodor’s
+
+1830-1970
+
+Murray
+
+Joanne
+
+Baedeker
+
+Appleton’s
+
+Lonely
+Planet
+
+Légende
+
+Vision anglaise
+Vision française
+Richard
+
+1823-1830
+
+Vision allemande
+Vision états-unienne
+Vision australienne
+Relation de comparabilité
+
+1750-1830
+
+Nugent
+
+Dutens
+
+Reichard
+
+Tanner
+
+Relation de descendance
+
+• La troisième opération est celle
+
+rections d’erreurs faites dans les
+
+tionnés dans un guide touristique,
+
+de la sélection en fonction de la
+
+éditions antérieures, des informa-
+
+tout en vérifiant s’ils ont fait l’objet
+
+mise à jour des éditions. Pour bien
+
+tions supplémentaires sur un aspect
+
+d’une mise à jour dans les éditions
+
+correspondre aux besoins des tou-
+
+du voyage (vie politique, précisions
+
+suivantes ou antérieures, selon le
+
+ristes et pour suivre les changements
+
+de distances, nouveaux éléments
+
+cas. Une connaissance approfondie
+
+du moment, l’information d’un
+
+pratiques, nouveaux lieux touris-
+
+de l’évolution temporelle de chaque
+
+guide de voyage est renouvelée fré-
+
+tiques, etc.). Notre intérêt se portera
+
+collection choisie est donc néces-
+
+quemment ou actualisée. Dès le
+
+uniquement sur l’augmentation ou
+
+saire. Les sélections en fonction de
+
+siècle, il y a des mises à jour
+
+la diminution du nombre de lieux
+
+la mise à jour s’appliquent entre la
+
+annuelles ou bisannuelles. Ces mises
+
+touristiques proposés. La méthode
+
+première et la dernière édition d’un
+
+à jour peuvent comprendre des cor-
+
+consiste à noter tous les lieux men-
+
+titre (cf. figure 3).
+
+XIX
+
+e
+
+JUIN 2014 • MONDES DU TOURISME N°9
+
+9
+
+MATHIS STOCK & ANDREEA ANTONESCU
+
+FIGURE 3 • PÉRIODES DE PUBLICATION DES DIFFÉRENTES COLLECTIONS DE GUIDES
+2050
+
+NB : La sélection des mises à jour des
+éditions est faite sur toute la durée
+d’existence d’un titre présent dans une
+collection de guides.
+
+2000
+1950
+1900
+1850
+1800
+
+Première édition
+Dernière édition
+
+1750
+1700
+
+t
+
+gen
+
+Nu
+
+10
+
+s
+
+ten
+
+Du
+
+d
+
+har
+
+ic
+Re
+
+d
+
+har
+
+Ric
+
+r
+
+eke
+
+d
+Bae
+
+y
+
+rra
+
+Mu
+
+e
+
+nn
+
+Joa
+
+s
+
+leu
+
+B
+des
+
+i
+
+Gu
+
+r’s
+
+do
+
+Fo
+
+d
+
+tar
+
+u
+Ro
+
+et
+
+lan
+
+P
+ely
+
+n
+
+Lo
+
+Limites du corpus
+
+dérée comme “touristique” la
+
+L’EXTRACTION DES DONNÉES
+
+Le corpus ainsi constitué pré-
+
+période post-1800 ; est considérée
+
+ET LA CONSTRUCTION
+
+sente plusieurs limites. D’abord,
+
+comme “proto-touristique” la
+
+DES BASES DE DONNÉES
+
+il s’agit d’une vision certes domi-
+
+période entre 1700 et 1800,
+
+Une fois le corpus textuel sélec-
+
+nante mais restreinte sur le monde
+
+laquelle concerne notamment les
+
+tionné, l’étape suivante consiste à
+
+touristique, car les seuls guides
+
+stations thermales (Tissot, 2000 ;
+
+constituer le matériau empirique, à
+
+considérés sont les guides alle-
+
+Équipe Mit, 2005, 2011).
+
+extraire les données et à construire
+
+mands, français, britanniques et
+
+Enfin, les espaces décrits par les
+
+une base de données qui comporte
+
+états-uniens. Ce regard occidental
+
+guides ne sont pas toujours com-
+
+les dates d’émergence des lieux tou-
+
+exclut du champ du tourisme un
+
+parables, certains d’entre eux ayant
+
+ristiques. On procède en deux étapes,
+
+certain nombre de lieux. Les lieux
+
+émergé touristiquement plus tôt
+
+la première étant consacrée à la
+
+autres que ceux fréquenté par les
+
+que d’autres. Ainsi, certaines aires
+
+constitution d’une base de données
+
+Occidentaux n’apparaissent pas
+
+ne disposent pas ou presque pas
+
+par guide qui comporte les différents
+
+dans les guides(15). Ensuite, il n’y
+
+de guides touristiques à une cer-
+
+toponymes issus de l’index alphabé-
+
+a pas d’informations avant l’ap-
+
+taine époque et les mises à jour se
+
+tique à une date donnée. La seconde
+
+parition des premiers guides, vers
+
+font peu fréquemment. Tout
+
+étape concerne la constitution d’une
+
+1780. Les lieux émergeant avant
+
+dépend de la date d’émergence et
+
+base de données intégrant les diffé-
+
+cette date ne peuvent donc être
+
+de l’importance touristique de
+
+rentes bases de données en une seule,
+
+traités de façon différenciée : ils
+
+chaque aire géographique. Il y a
+
+constituée des différents toponymes
+
+apparaissent comme touristiques
+
+donc une inégalité de traitement
+
+extraits de tous les guides. On dispose
+
+seulement à cette date. Cela cor-
+
+de la part des maisons d’édition
+
+ainsi des informations sur un topo-
+
+respond au consensus actuel sur
+
+qui influe sur les données consti-
+
+nyme à toutes les dates où il est men-
+
+l’histoire du tourisme : est consi-
+
+tuées.
+
+tionné entre 1800 et 2000.
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+RECHERCHE • VARIA
+
+L’extraction de l’information
+
+manuelle et celle assistée par un logi-
+
+Pour les lieux touristiques perma-
+
+guide par guide
+
+ciel spécialisé dans la reconnaissance
+
+nents, le toponyme doit figurer dans
+
+Afin d’extraire les informations
+
+de texte . Les lieux mentionnés
+
+les deux éditions. Ces opérations
+
+nécessaires à partir des guides choisis,
+
+dans l’index alphabétique sont
+
+sont conduites à l’aide de formules
+
+nous considérons les guides comme
+
+ensuite versés dans une base de don-
+
+conditionnelles qui cherchent chaque
+
+des listes de lieux touristiques(16) dont
+
+nées(19).
+
+toponyme et l’affichent dans la
+
+(18)
+
+il faut identifier le toponyme et la
+
+colonne correspondante selon la
+
+date d’édition. Nous commençons
+
+Constitution d’une base
+
+commande donnée, et sont répétées
+
+par dépouiller les premiers guides
+
+de données comparative
+
+jusqu’à la dernière édition de chaque
+
+apparus et suivons les différentes
+
+Une fois la collecte et la saisie des
+
+titre de guide. Cela signifie que, pour
+
+éditions publiées. Les lieux mention-
+
+données finies, on passe à la consti-
+
+pouvoir attribuer à un lieu l’une des
+
+nés dans les premiers guides sont
+
+tution d’une base de données. Pour
+
+trois qualités recherchées (émergence,
+
+considérés comme étant les premiers
+
+obtenir le nouvel ensemble de don-
+
+permanence, arrêt touristique), on
+
+lieux touristiques ; la date de leur
+
+nées concernant les différentes dates
+
+doit vérifier son existence (ou
+
+mise en tourisme retenue correspond
+
+importantes de l’évolution des lieux
+
+absence) dans toutes les éditions
+
+à la date de la première édition qui
+
+touristiques, des opérations de com-
+
+choisies.
+
+les cite. Dans les éditions ultérieures,
+
+paraison sont nécessaires. Nous com-
+
+Cette méthode implique que la
+
+les nouveaux lieux touristiques men-
+
+parons les lieux mentionnés par les
+
+date de mise en tourisme d’un lieu
+
+tionnés sont extraits avec leur date
+
+guides à des moments différents. Les
+
+corresponde à la période précédant
+
+d’édition. Lorsqu’un lieu touristique
+
+moments choisis sont donnés par
+
+sa première mention dans un guide
+
+signalé dans les éditions précédentes
+
+les éditions des guides. On crée ainsi
+
+de voyage(21). Par exemple, dans la
+
+n’apparaît plus, on peut en déduire
+
+un tableau à l’intérieur duquel on
+
+figure 4, le lieu “Baar” apparaît pour
+
+un arrêt de sa touristicité, les éditeurs
+
+dispose, dans chaque colonne, l’an-
+
+la première fois dans l’édition de
+
+ne considérant plus ce lieu comme
+
+née d’édition choisie pour l’espace
+
+1871 du guide Murray. Mais comme
+
+touristique.
+
+en question. Un deuxième tableau
+
+l’exhaustivité d’un suivi des éditions
+
+Se pose ensuite la question de l’ex-
+
+est ainsi créé, représentant les résul-
+
+des guides n’a pu être envisagée dans
+
+traction des lieux touristiques. Lors
+
+tats du traitement comparatif des
+
+le cadre de cette recherche et que la
+
+des analyses tests effectuées sur le
+
+deux éditions choisies (cf. figure 4).
+
+période entre les deux éditions com-
+
+corpus de guides, nous avons remar-
+
+Par exemple, pour les guides sur
+
+parées (ici 1838 et 1871) est relati-
+
+qué que les lieux mentionnés dans
+
+la Suisse, nous avons choisi de com-
+
+vement courte, nous considérons
+
+le texte figuraient aussi dans l’index
+
+parer les lieux mentionnés par les
+
+que la datation de l’émergence tou-
+
+alphabétique , localisé en général
+
+guides Murray de 1838 et de 1871.
+
+ristique de Baar et des autres lieux
+
+(17)
+
+à la fin du guide. Pour des raisons
+
+Pour déterminer les lieux qui devien-
+
+inscrits dans la même colonne devrait
+
+pratiques évidentes, nous avons pro-
+
+nent touristiques (donc des émer-
+
+s’exprimer sous forme de période,
+
+posé l’utilisation de cet index alpha-
+
+gences touristiques), on notera les
+
+et non sous celle de date fixe. Nous
+
+bétique comme plate-forme d’ex-
+
+lieux qui figurent dans l’édition de
+
+allons donc considérer que l’émer-
+
+traction des lieux touristiques. Cette
+
+1871, mais ne figurant pas dans la
+
+gence touristique de Baar est inter-
+
+opération d’extraction ou de saisie
+
+précédente, celle de 1838. Pour les
+
+venue dans la période allant de 1839
+
+des lieux représente une phase de
+
+lieux qui cessent d’être touristiques,
+
+à 1871, puisque l’édition de 1838
+
+travail importante en termes de
+
+on effectue la même opération, sauf
+
+ne mentionne pas ce lieu. Ensuite,
+
+temps et de quantité d’informations.
+
+que cette fois-ci on note les lieux
+
+la même logique s’applique en ce
+
+Elle est conduite en utilisant deux
+
+qui apparaissent en 1838, mais ne
+
+qui concerne la date de l’arrêt tou-
+
+méthodes complémentaires : la saisie
+
+figurent plus dans l’édition de 1871.
+
+ristique. On remarque l’absence de
+JUIN 2014 • MONDES DU TOURISME N°9
+
+11
+
+MATHIS STOCK & ANDREEA ANTONESCU
+
+FIGURE 4 • EXEMPLE DE TRAITEMENT ENTRE DEUX ÉDITIONS DE GUIDES SUR LA SUISSE
+(EXTRAIT PARTIEL DU TABLEAU D’ORIGINE)
+
+NB : Les tableaux d’origine, organisés alphabétiquement, contiennent tous les lieux mentionnés par chaque édition. Il s’agit ici d’un
+extrait visant à montrer le fonctionnement des formules utilisées pour le traitement des données.
+
+formalisation de l’“arrêt touris-
+
+À la fin, nous obtenons pour
+
+partir des guides touristiques choisis.
+
+tique”. Étant donné que l’on com-
+
+chaque lieu des dates assez précises
+
+Ce qui implique, en fonction du
+
+pare deux éditions du XIXe siècle et
+
+sur le moment d’émergence, les éven-
+
+nombre des éditions dépouillées pour
+
+que l’on ne connaît pas encore le
+
+tuelles périodes intermittentes et le
+
+un même espace, que des lieux iden-
+
+contenu des éditions suivantes (au
+
+moment d’arrêt de la fonction tou-
+
+tiques peuvent se trouver plusieurs
+
+moment de la comparaison entre
+
+ristique (cf. figure 1). Nous pouvons,
+
+fois dans la base de données pour
+
+seulement ces deux éditions), on ne
+
+en même temps, identifier les lieux
+
+une même période. Une fois les topo-
+
+sait pas s’il s’agit d’un arrêt tempo-
+
+qui ont maintenu leur touristicité
+
+nymes en double décomptés, l’échan-
+
+raire ou définitif de la fonction tou-
+
+tout le long de la période considérée
+
+tillon se trouve ramené à environ
+
+ristique. C’est pourquoi, une véri-
+
+(1800-2000).
+
+40 000 lieux touristiques singuliers
+avec date d’émergence et, le cas
+
+fication des lieux jusqu’à la dernière
+édition (et donc jusqu’à nos jours)
+
+RÉSULTATS PROVISOIRES
+
+12
+
+échéant, d’arrêt.
+Les résultats provisoires s’appuient
+
+est impérative. C’est une condition
+sine qua non de la détermination
+
+L’échantillon issu de cette collecte
+
+sur ces 40 000 lieux touristiques
+
+des arrêts, des intermittences, mais
+
+de données comprend environ
+
+pour lesquels on propose une car-
+
+aussi des permanences de la fonction
+
+120 000 lieux touristiques. Il s’agit
+
+tographie et un ordre de grandeur
+
+touristique.
+
+du nombre total de lieux saisis à
+
+de la densification de l’écoumène
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+RECHERCHE • VARIA
+
+TABLEAU 1 • QUANTIFICATION PÉRIODIQUE DES ÉMERGENCES ET DES ARRÊTS TEMPORAIRES OU DÉFINITIFS
+Période
+
+Émergences
+
+Production
+
+Arrêts
+
+moyenne annuelle
+
+Arrêts
+
+Solde
+
+Total
+
+moyens annuels
+
+par période
+
+cumulé
+
+1793-1830
+
+2 410
+
+65
+
+1 100
+
+30
+
++ 1 310
+
+1 310
+
+1831-1850
+
+2 799
+
+147
+
+1 294
+
+68
+
++1 505
+
+2 815
+
+1851-1881
+
+6 030
+
+201
+
+4 184
+
+139
+
++1 900
+
+4 661
+
+1882-1895
+
+4 080
+
+318
+
+4 252
+
+327
+
+- 200
+
+4 489
+
+1896-1928
+
+4 350
+
+135
+
+5 110
+
+159
+
+- 900
+
+3 729
+
+1929-1973
+
+6 537
+
+148
+
+5 626
+
+127
+
++ 900
+
+4 640
+
+1974-2000
+
+13 582
+
+522
+
+-
+
+-
+
+-
+
+18 222
+
+touristique. On constate que le tou-
+
+diale arrête et, d’autre part, à une
+
+mondiale (cf. figure 6). Sur l’en-
+
+risme a investi progressivement le
+
+première phase de tourisme dit
+
+semble de la période considérée, on
+
+monde entier, tout en se concentrant
+
+“industriel” (Tissot, 2000 ; Équipe
+
+peut donc mettre en évidence deux
+
+sur un nombre de lieux (cf. figure 5).
+
+Mit, 2011), au sens d’une massifica-
+
+phases d’expansion rapide du champ
+
+Si l’on raisonne en fonction des
+
+tion importante. Spatialement, ces
+
+touristique mondial, caractérisées
+
+bornes temporelles construites à par-
+
+périodes sont caractérisées par une
+
+par des productions annuelles élevées
+
+tir des données (méthode dite des
+
+expansion au-delà de l’Europe et
+
+de lieux touristiques : entre 1851 et
+
+seuils naturels), on peut faire les
+
+des États-Unis.
+
+1895 ; et entre 1974 et 2000.
+
+constats suivants (cf. tableau 1) : en
+
+Une grande quantité de lieux ces-
+
+On peut donc construire une car-
+
+termes d’émergence, la période 1793-
+
+sent d’être touristiques entre 1896
+
+tographie plus précise que celle issue
+
+1830 correspond à un vingtième
+
+et 1929 et la production annuelle
+
+des travaux antérieurs (Équipe Mit,
+
+environ de la période 1974-2000 ;
+
+moyenne tombe au niveau des
+
+2011), car, outre la production des
+
+elle est celle qui enregistre la plus
+
+années 1830. Cet effondrement des
+
+lieux touristiques, les relais, inter-
+
+faible production moyenne annuelle
+
+lieux touristiques est suivi d’une
+
+mittences et arrêts définitifs de la
+
+de lieux touristiques (sept fois moins
+
+phase de réémergence, avec des
+
+fonction touristique peuvent aussi
+
+que la période 1974-2000). Une pre-
+
+ordres de grandeur au niveau de
+
+être cartographiés. On dispose désor-
+
+mière poussée d’expansion du tou-
+
+ceux du milieu du XIX siècle. Le tou-
+
+mais d’un ordre de grandeur – relatif,
+
+risme s’observe à partir de 1830,
+
+risme de masse, qui se manifeste, à
+
+car nous raisonnons à partir d’un
+
+suivie par une deuxième, à partir de
+
+partir des années 1950, par l’aug-
+
+échantillon non exhaustif – du
+
+1851, avec une multiplication par
+
+mentation des taux de départ dans
+
+nombre de lieux touristiques et de
+
+deux des lieux touristiques émergents
+
+les pays les plus développés, s’affirme
+
+celui des lieux émergents à différents
+
+par rapport à la période précédente
+
+peu pour ce qui est du nombre de
+
+moments de l’histoire.
+
+et une production moyenne annuelle
+
+lieux touristiques – leur production
+
+en hausse : entre 1851 et 1881, 200
+
+annuelle moyenne reste inférieure à
+
+e
+
+CONCLUSION
+
+lieux touristiques émergent en
+
+l’ordre de grandeur de celui du milieu
+
+moyenne par an ; entre 1882 et
+
+du
+
+siècle. Ce n’est qu’à partir
+
+L’un des apports de ce travail
+
+e
+
+XIX
+
+1895, ils sont plus de 300 par an.
+
+des années 1970 que le système tou-
+
+consiste en une méthodologie per-
+
+Cela correspond, d’une part, à une
+
+ristique est en expansion, tant du
+
+mettant de reconstruire avec plus
+
+poussée de mondialisation impor-
+
+point de vue quantitatif que spatial,
+
+de précision, grâce à la production
+
+tante que la Première Guerre mon-
+
+avec une progressive couverture
+
+de nouvelles données, le système
+JUIN 2014 • MONDES DU TOURISME N°9
+
+13
+
+MATHIS STOCK & ANDREEA ANTONESCU
+
+FIGURE 5 • LA DENSITÉ DES LIEUX TOURISTIQUES ENTRE 1793 ET 2000
+
+FIGURE 6 • ÉMERGENCE DE LIEUX TOURISTIQUES À PLUSIEURS MOMENTS DE L’HISTOIRE
+
+14
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+RECHERCHE • VARIA
+
+touristique changeant au cours du
+
+Première Guerre mondiale et l’émer-
+
+tage les différents lieux touristiques,
+
+temps. Par son recours massif aux
+
+gence d’un système mondial du tou-
+
+pour ce qui est, par exemple, des
+
+techniques de numérisation et de
+
+risme à partir des années 1970.
+
+données concernant le nombre de
+
+traitement par ordinateur, ce travail
+
+Il s’agit là d’un premier pas vers
+
+meurs habitants (avec les évolutions,
+
+s’insère dans les “humanités digi-
+
+la conception et la vérification empi-
+
+entre 1800 et 2000) et celui de leurs
+
+tales”, bien que mobilisant des tech-
+
+rique d’un “champ touristique mon-
+
+touristes ou de leurs nuitées touris-
+
+niques classiques en géographie
+
+dial” (Clivaz et al., 2011) dans lequel
+
+tiques (avec les évolutions, entre 1800
+
+(comme celle du système d’informa-
+
+les lieux touristiques seraient inter-
+
+et 2000). Ce nouveau chantier est
+
+tion géographique).
+
+dépendants. En effet, le champ tou-
+
+maintenant devant nous.
+
+Ce travail permet ainsi de quan-
+
+ristique se caractérise, à différents
+
+tifier le nombre de lieux touristiques
+
+moments de l’histoire, par son
+
+NOTES
+
+nouvellement produits, le nombre
+
+inégale ampleur et sa spatialité chan-
+
+(*) Le présent article est issu du projet de
+
+de lieux dont la fonction touristique
+
+geante. Ainsi, le champ du tourisme
+
+recherche financé par le Fonds national
+
+s’est arrêtée, et celui dont la fonction
+
+n’est pas mondial dans la première
+
+suisse de la recherche (FNS), n° 127041,
+
+touristique s’est maintenue. Cette
+
+phase, mais se concentre sur l’Europe
+
+“Mondialisation et tourisme. Une approche
+
+information quantitative est pré-
+
+et les États-Unis au début du xixe
+
+géo-historique”.
+
+cieuse, car la recherche scientifique
+
+siècle. On constate ensuite une exten-
+
+(1) Les appareils statistiques des États-
+
+n
+
+dispose maintenant d’une estimation
+
+sion du champ du tourisme, aux
+
+nation présentent différents degrés de pré-
+
+des ordres de grandeur de l’émer-
+
+États-Unis et en Europe, d’une part,
+
+cision et de profondeur historique. Par
+
+gence et de l’arrêt des lieux touris-
+
+et calqué sur l’expansion coloniale
+
+exemple, en Suisse, on dispose de données
+
+tiques, ce qui va permettre de
+
+des Européens, d’autre part. Le
+
+statistiques sur le tourisme à partir de
+
+répondre à des questions qui ont
+
+champ touristique est véritablement
+
+1937, en France à partir de 1949, dans cer-
+
+interpellé, récemment, la commu-
+
+mondial depuis les années 1970,
+
+tains Länder allemands à partir de 1925.
+
+nauté scientifique, comme, par
+
+époque à laquelle on constate que
+
+(2) Cf. la définition que donne l’Équipe Mit
+
+exemple : combien de lieux touris-
+
+le tourisme n’est plus pratiqué en
+
+(2002, p. 300) de la mise en tourisme :
+
+tiques ont-ils émergé entre 1800 et
+
+quelques lieux dispersés, mais qu’il
+
+“Processus de création d’un lieu touristique ou
+
+1830 ? la production de lieux tou-
+
+investit le monde entier.
+
+de subversion d’un lieu ancien par le tourisme
+
+ristiques a-t-elle été plus forte entre
+
+L’étape suivante pourrait consister
+
+1830 et 1880 qu’entre 1929 et
+
+à observer les changements (ou le
+
+(3) Cf. Roland Barthes (1957) pour une
+
+1973 ? On peut ainsi donner des
+
+maintien) de la qualité des lieux tou-
+
+critique de ce genre littéraire dont le
+
+réponses en termes relatifs et com-
+
+ristiques au cours du temps et les
+
+regard sélectionne le “pittoresque” ; et cf.
+
+parer les moyennes annuelles, par
+
+moments où ces manifestations se
+
+Hécate Vergopoulos (2011) pour un traite-
+
+qui aboutit à un état : le lieu touristique.”
+
+période, de production et d’arrêt de
+
+produisent. Peut-on distinguer les
+
+ment de “l’insolite” comme élément struc-
+
+lieux touristiques. La mondialisation
+
+lieux par leur type (par exemple,
+
+turant du regard du guide touristique.
+
+du tourisme est ainsi davantage qua-
+
+selon la typologie de l’Équipe Mit
+
+(4) Cf. Pierre-Yves Saunier (1994), Gilles
+
+lifiée : au lieu d’une histoire linéaire
+
+(2002) – en ville, station, comptoir
+
+Chabaud et al. (2000), Goulven Guilcher
+
+d’expansion mondiale à partir du
+
+ou site touristique) ou par leur pra-
+
+(2005), Hélène Morlier (2007) pour cette
+
+foyer européen, on remarque des
+
+tique(s) touristique(s) dominante(s),
+
+littérature.
+
+périodes d’accélération et d’arrêt
+
+et ce pour l’ensemble des 40 000
+
+(5) Ce point sera fréquemment abordé
+
+qui correspondent partiellement aux
+
+lieux touristiques de notre base de
+
+dans les parties destinées aux limites
+
+phases de la mondialisation écono-
+
+données ? Pour mettre en œuvre ce
+
+méthodologiques.
+
+mique, notamment l’expansion du
+
+type de recherche, il faudra faire un
+
+(6) Nous avons effectué quelques tests
+
+système touristique jusqu’à la
+
+effort important pour qualifier davan-
+
+auprès des offices de tourisme européens
+
+JUIN 2014 • MONDES DU TOURISME N°9
+
+15
+
+MATHIS STOCK & ANDREEA ANTONESCU
+
+16
+
+en demandant par e-mail des informations
+
+autre exemple est celui des guides Richard
+
+liennes, argentines, etc.
+
+sur les lieux touristiques du pays interrogé.
+
+qui ont été publiés par des éditeurs
+
+(16) Ce choix est discutable, car on peut
+
+Le taux de réponses a été extrêmement
+
+comme Louis Maison, Audin et Hachette.
+
+noter une évolution dans la manière dont
+
+faible et, parmi les réponses fournies, cer-
+
+Hachette a d’ailleurs acheté certains titres
+
+les guides traitent les lieux touristiques, par
+
+taines étaient très disparates et non exploi-
+
+écrits par des auteurs, en particulier ceux
+
+rapport aux autres lieux qu’ils citent.
+
+tables du fait de l’absence de données ou
+
+de Audin, Mariana Starke, Ebel, Lutz
+
+Toutefois, cela nous permet d’avoir une
+
+encore de l’incompréhension de la
+
+(Morlier, 2007).
+
+source cohérente sur ce qu’un guide consi-
+
+demande, même si nous avions utilisé des
+
+(10) À part les formalités administratives et
+
+dère comme lieu touristique à un moment
+
+termes simples et clairs.
+
+les demandes d’autorisations spéciales
+
+donné.
+
+(7) Par exemple, les 17 éditions des
+
+(pour consulter une certaine collection de
+
+(17) L’index alphabétique est le répertoire
+
+Guides Joanne consacrées aux Stations d’hi-
+
+livres et pour avoir le droit de photogra-
+
+de tous les lieux mentionnés dans le guide,
+
+ver de la Méditerranée entre 1875 et 1906,
+
+phier), les difficultés sont notamment les
+
+mais il peut aussi contenir des noms de
+
+les guides Appleton sur les American Winter
+
+suivantes : un temps très limité sur place
+
+personnages de l’époque ou encore des
+
+Resorts ou encore les guides de Edwin Lee
+
+pour un corpus très large, une multitude
+
+mots-clés utilisés dans le texte.
+
+sur les Watering Places and Mineral Springs.
+
+de salles de lecture à fréquenter, l’utilisa-
+
+(18) Les lieux mentionnés dans l’index
+
+(8) Pour les guides anciens édités jusqu’en
+
+tion du scanner à partager avec les autres
+
+alphabétique sont copiés soit
+
+1910-1920, le problème des droits d’au-
+
+lecteurs, des guides manquants, le temps
+
+manuellement soit à l’aide du logiciel
+
+teur ne se pose pas. Cf., par exemple,
+
+long d’attente pour les demandes de
+
+ABBYY, spécialisé dans la reconnaissance
+
+www.archive.org pour une collection de
+
+guides.
+
+optique des caractères (OCR). Ces deux
+
+guides touristiques.
+
+(11) La Bibliothèque nationale de France, la
+
+méthodes de saisie des données sont très
+
+(9) Il faut savoir qu’une maison d’édition de
+
+Library of Congress de Washington ou la
+
+souvent complémentaires.
+
+guides collabore avec plusieurs auteurs,
+
+National Library de Londres sont des res-
+
+(19) Concrètement, nous avons utilisé le
+
+souvent inconnus. Si l’on cherche un guide
+
+sources-clés. On peut également recourir
+
+scan ou la photographie des pages des
+
+en fonction de la maison d’édition, il est
+
+aux archives de l’Abbaye d’Ardenne, près
+
+guides pour les transformer ensuite en
+
+très possible que le titre recherché ne soit
+
+de Caen, (pour les guides Hachette) et aux
+
+fichier Excel. Ainsi, nous disposons, pour
+
+pas trouvé, parce qu’il a été répertorié
+
+archives sur le tourisme de l’université
+
+chaque guide, d’une première base de
+
+sous le nom de son auteur. Par exemple,
+
+technique de Berlin (Historisches Archiv zum
+
+données, que nous avons appelée “base de
+
+pour les guides Appleton, en Amérique du
+
+Tourismus).
+
+données initiale”. Toutes les bases de don-
+
+Nord, nous avons trouvé des auteurs
+
+(12) Cf. exemples dans la partie bibliogra-
+
+nées initiales seront ensuite intégrées dans
+
+connus, comme Daniel Appleton ou
+
+phique.
+
+une seule base, nommée “base de
+
+William Wellington, mais nous avons aussi
+
+(13) Le terme est utilisé ici dans le sens
+
+données finale”.
+
+trouvé des guides écrits par Willis Pope
+
+d’entité spatiale nommé par le guide touris-
+
+(21) Il s’agit d’une des limites posées par
+
+Hazard ou le Colonel Fremont. Autre pro-
+
+tique.
+
+les guides touristiques : c’est le guide qui
+
+blème : ces guides ont été réimprimés ou
+
+(14) Par exemple, des titres de guide por-
+
+fait foi, pas la date à laquelle le premier
+
+réédités par d’autres auteurs dont on ne
+
+tant sur des entités spatiales, comme
+
+touriste pratique un lieu. De nouveau, c’est
+
+connaît pas le nom. D’où une confusion
+
+Austria (Guide Baedeker, 1896), Belgique et
+
+la cohérence de la source qui préside à ce
+
+entre le nom de la collection (qui est sou-
+
+Luxembourg (Guides Bleus, 1927), Pays nor-
+
+choix.
+
+vent le nom de la maison d’édition ou de
+
+diques (Guides Bleus, 1955), European
+
+l’éditeur chargé de la collection) et les
+
+Guide (Appleton’s Guide, 1887), ou encore
+
+auteurs de ces guides. Par exemple, les
+
+Orient (Guides Joanne, 1873).
+
+guides Reichard ont été publiés par diffé-
+
+(15) Il faudrait, lors d’une recherche ulté-
+
+rents éditeurs, tels que Herbig, Hyacinthe
+
+rieure, étendre le corpus aux collections
+
+Langlois, Audin, Samuel Leigh, Gandini. Un
+
+japonaises, chinoises, canadiennes, brési-
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+RECHERCHE • VARIA
+
+ÉCHANTILLON DU CORPUS DE GUIDES TOURISTIQUES
+
+• Appleton’s Guides, American Summer Resorts, 1876.
+
+• Guides Joanne, Orient (Malte, Égypte, Nubie, Abyssinie,
+
+• Appleton’s Guides, American Winter Resorts, 1877.
+
+Sinaï), 1890.
+
+• Appleton’s, European Guide, 1887.
+
+• Guides Joanne, Stations d’hiver de la Méditerranée, 1875.
+
+• Baedeker, Austria, 1896.
+
+• Guides Bleus, Algérie et Tunisie, 1930.
+
+• Baedeker, Belgien und Holland, 1880.
+
+• Guides Bleus, Belgique et Luxembourg, 1927.
+
+• Baedeker, Deutschland, die Bundesrepublik. Offizieller Führer
+
+• Guides Bleus, Bretagne, 1982.
+
+des Allgemeinen Deutschen Automobil-Clubs, 1953.
+
+• Guides Bleus, France automobile en un volume, 1954.
+
+• Baedeker, Palestine and Syria, 1894.
+
+• Guides Bleus, Italie, 1988.
+
+• Bibliothèque des chemins de fer, De Lyon à • a
+
+• Guides Bleus, Languedoc-Roussillon, 1968.
+
+Méditerranée, 1855.
+
+• Guides Bleus, Pays nordiques, 1955.
+
+• Bibliothèque des chemins de fer, De Paris à Bordeaux,
+
+• Guides Reichard, Guides des voyageurs en Europe, 1793.
+
+1856.
+
+• Guides Reichard, Handbuch für Reisende durch Europa,
+
+• Bibliothèque des chemins de fer, De Paris à Boulogne, à
+
+1784.
+
+Calais et à Dunkerque, 1855.
+
+• Murray, Asia Minor, Transcaucasia and Persia, 1905.
+
+• Bibliothèque des chemins de fer, De Paris au centre de la
+
+• Murray, Devon and Cornwall, 1859.
+
+France, 1854.
+
+• Murray, English Lakes, 1889.
+
+• Edwin Lee, English Watering Places, 1849.
+
+• Murray, Essex, Suffolk, Norfolk and Cambridgeshire, 1875.
+
+• Edwin Lee, The Health Resorts of the South of France, 1868.
+
+• Murray, London, 1851.
+
+• Edwin Lee, The Mineral Springs of England and their
+
+• Murray, Rome and its environs, 1867.
+
+Curative Efficacy, 1841.
+
+• Murray, Switzerland, 1838.
+
+• Fodor’s Guides, Australia, New Zealand and South Pacific,
+
+• Murray, Switzerland, 1871.
+
+1978.
+
+• Thomas More Madden, The Spas of Belgium, Germany,
+
+• Fodor’s, New York City and State, 1979.
+
+Switzerland, France and Italy, 1867.
+
+• Fodor’s, San Francisco with Nearby Attractions, 1982.
+• Fodor’s Guides, National Parks and Seashores of the East,
+1996.
+• Fodor’s Guides, Ski Resorts of North America, 1986.
+• Fodor’s Guides, The Complete Guide to the National Parks
+of the West, 2012.
+• Frommer’s Guide, Family Vacations in the National Parks,
+2004.
+• Guide Delta, Italie, 1982.
+• Guide du routard, Ame
+́rique du Nord et centrale, 1979.
+• Guide du routard, Bourgogne et Franche-Comté
+́, 1998.
+• Guides Joanne, Bains de mer de
+Normandie, 1913.
+• Guides Joanne, Europe, 1860.
+• Guides Joanne, Orient
+(Grèce et Turquie d’Europe), 1873.
+JUIN 2014 • MONDES DU TOURISME N°9
+
+17
+
+MATHIS STOCK & ANDREEA ANTONESCU
+
+Références bibliographiques
+Roland BARTHES, Mythologies, Seuil, 1957.
+Gilles CHABAUD, Évelyne COHEN, Natacha COQUERY et Jérôme PENEZ (dir.), Les Guides imprimés du XVIe au XXe siècle. Villes, paysages,
+voyages, Belin, 2000.
+Christophe CLIVAZ, Stéphane NAHRATH et Mathis STOCK, “Le développement des stations touristiques dans le champ touristique
+mondial”, dans Philippe DUHAMEL et Boualem KADRI (dir.), Mondialisation et tourisme, coll. “Mondes du tourisme”, ETE, septembre
+2011.
+Nicolas DUPUY et Pascal MAO, Les Pratiques sportives de nature en Midi-Pyrénées. Atlas des sites de pratique, Éditions du CNRS, 2003.
+Équipe MIT, Tourismes 1. Lieux communs, Belin, 2002.
+Équipe MIT, Tourismes 2. Moments de lieux, Belin, 2005.
+Équipe MIT, Tourismes 3. La révolution durable, Belin, 2011.
+Goulven GUILCHER, “Entre continuité et innovation, les guides touristiques en langue française de 1900 à 1960”, dans Martine
+BREUILLOT et Thomas BEAUFILS (dir.), Le Guide de voyage au fil du Rhin et ailleurs, Université de Strasbourg-II, 2005.
+Rémy KNAFOU, Atlas de France, vol. 7, Tourisme et loisirs, Gip Reclus/La Documentation française, 1997.
+François MORICONI-EBRARD, L’Urbanisation du monde depuis 1950, Anthropos, 1993.
+Hélène MORLIER, Les Guides Joanne : genèse des Guides Bleus. Itinéraire bibliographique, historique et descriptif de la collection de guides de
+voyage, 1840-1920, Les Sentiers débattus, 2007.
+Guillaume OLLIVIER, Ghislain GENIAUX, Claude NAPOLÉONE et Jean-Christophe PAOLI, “Mesurer la notoriété touristique communale :
+contribution méthodologique à l’aide de l’analyse textuelle de guides touristiques”, Cybergeo, no 593, 2012
+[ http://cybergeo.revues.org/25187 ].
+Pierre-Yves SAUNIER, “Le guide touristique, un outil pour une possible histoire de l’espace : autour des guides de Lyon 1800-1914”,
+Géographie et cultures, no 13, 1994.
+Laurent TISSOT, Naissance d’une industrie touristique : les Anglais et la Suisse au
+
+XIXe
+
+siècle, Payot, 2000.
+
+Richard S. J. TOL, Andrea BIGANO, Jacqueline M. HAMILTON, Maren LAU et Yuan ZHOU, “A global database of domestic and international tourist numbers at national and subnational level”, International Journal of Tourism Research, vol. 9, no 3, 2007.
+Céline TRITZ, Tourisme et espace : l’arc méditerranéen. Une approche de la médiatisation, thèse de géographie, Université de NiceSophia Antipolis, 2003.
+Céline TRITZ, “La valorisation touristique d’un territoire : entre acteurs et territoire. Proposition de méthodes et applications”, communication au colloque international Développement territorial et tourisme durable, une approche par la valorisation touristique, Bogota,
+2006.
+John URRY, The Tourist Gaze, Sage Publications, 1990.
+Hécate VERGOPOULOS, “L’insolite dans les guides touristiques. Voyage en ‘Pataxie’”, Mondes du tourisme, n° 4, décembre 2011.
+
+18
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+

@@ -1,0 +1,969 @@
+Mondes du Tourisme
+14 | 2018
+
+Habiter le Monde en touriste
+
+Le tourisme de mémoire au prisme du « big data ».
+Cartographier les circulations touristiques pour
+observer les pratiques mémorielles
+Memory and battlefield tourism through the lens of big data. Mapping tourist
+flows to observe memory practices
+Sébastien Jacquot, Gaël Chareyron et Saskia Cousin
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/1713
+DOI : 10.4000/tourisme.1713
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+Référence électronique
+Sébastien Jacquot, Gaël Chareyron et Saskia Cousin, « Le tourisme de mémoire au prisme du « big
+data ». Cartographier les circulations touristiques pour observer les pratiques mémorielles », Mondes
+du Tourisme [En ligne], 14 | 2018, mis en ligne le 30 juin 2018, consulté le 19 avril 2019. URL : http://
+journals.openedition.org/tourisme/1713 ; DOI : 10.4000/tourisme.1713
+
+Ce document a été généré automatiquement le 19 avril 2019.
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modiﬁcation 4.0 International.
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Le tourisme de mémoire au prisme
+du « big data ». Cartographier les
+circulations touristiques pour
+observer les pratiques mémorielles
+Memory and battlefield tourism through the lens of big data. Mapping tourist
+flows to observe memory practices
+Sébastien Jacquot, Gaël Chareyron et Saskia Cousin
+
+Introduction
+1
+
+En 2014, sont lancées conjointement les commémorations du centenaire de la Grande
+Guerre et du 70e anniversaire du débarquement de Normandie. À cette occasion, les
+autorités publiques françaises mettent en place plusieurs démarches patrimoniales et
+touristiques : lancement de deux candidatures pour l’inscription des sites de mémoire sur
+la liste du patrimoine mondial de l’Unesco et établissement de deux contrats de
+destination « tourisme de mémoire ». Le principe des candidatures Unesco est de mettre
+en avant la valeur universelle exceptionnelle des sites concernés, en tant qu’ils
+représentent des événements d’une histoire mondiale dotée d’une signification
+universelle. Le « contrat de destination touristique » vise à développer un « tourisme de
+mémoire », présenté comme catalyseur de la diffusion de valeurs partagées, par-delà
+l’histoire belliqueuse.
+
+2
+
+Ce « tourisme de mémoire »1 constitue une nouvelle catégorie de la promotion
+touristique, utilisée de façon croissante par les pouvoirs publics, afin de thématiser le
+tourisme sur certains territoires dans l’objectif de singulariser les destinations. Le
+tourisme de mémoire est construit dans une relation dialectique aux nations : les sites
+mémoriels renvoient de façon prioritaire à l’une des nations belligérantes (cimetière
+américain, lieu de mémoire gallois, etc.), qui les gèrent souvent sous la forme de
+
+Mondes du Tourisme, 14 | 2018
+
+1
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+concessions perpétuelles. Pour autant, la promotion actuelle du tourisme de mémoire
+vise à transcender le prisme national pour proposer une mémoire partagée. Dans une
+telle optique, le tourisme de mémoire ne constitue pas seulement l’actualisation affective
+et intellectuelle des lieux d’une mémoire nationale de la Grande Guerre et du
+débarquement de Normandie. Il se veut producteur de significations partagées, basées sur
+le retournement des sites de guerre en témoignages et aiguillons de paix, devenant la
+preuve du dépassement des nationalismes belliqueux.
+3
+
+À rebours des études centrées sur l’offre et ses attentes, cet article se place du point de
+vue des visiteurs des sites mémoriels. La question est simple : lorsqu’on observe les
+pratiques et les commentaires des visiteurs, peut-on identifier l’adhésion à un « tourisme
+de mémoire » au sens défini par les institutions – dépasser le prisme national pour
+s’inscrire dans une mémoire partagée ? Notre enquête s’appuie sur la collecte et l’analyse
+des traces numériques laissées par les visiteurs des sites de mémoire sur plusieurs
+réseaux sociaux de partage de photos (Flickr) ou de commentaires (TripAdvisor)
+touristiques. Ces photos, commentaires ou évaluations des sites sont volontairement
+partagés par les visiteurs et nous renseignent uniquement sur les visites que les
+internautes ont bien voulu donner à partager. Ces traces sont donc des indices, à la fois
+partiels et significatifs, de ce qui, pour les visiteurs, constitue une expérience touristique
+méritant d’être racontée. Tels des éthologues, l’ensemble de ces indices nous permet de
+retracer des circulations ; et nous avons également accès aux métadonnées indiquées par
+les utilisateurs des réseaux sociaux eux-mêmes, notamment leur nationalité. En croisant
+l’observation des réseaux sociaux touristiques dans la Somme et le Calvados avec les
+résultats d’un programme de recherche franco-québécois mené dans la Somme2, nous
+souhaitons mesurer l’efficacité du message porté par les politiques touristiques
+mémorielles. La pratique mémorielle reste-elle structurée par l’appartenance à telle ou
+telle nation ou en permet-elle le dépassement ? Est-elle spécifique ou intégrée à d’autres
+pratiques touristiques sur ces territoires ?
+
+4
+
+D’un point de vue méthodologique, notre contribution souligne l’importance de l’analyse
+des réseaux sociaux touristiques pour la compréhension des pratiques mémorielles. Cette
+analyse des réseaux permet, d’une part, le prolongement numérique d’enquêtes menées
+in situ (observations et comptage, analyse des registres des visiteurs, etc.) et, d’autre part,
+le renouvellement des modalités d’observation de circulations entre sites – avec, à la clef,
+de nouvelles questions et hypothèses.
+
+5
+
+Enfin, nous considérons les réseaux sociaux non seulement comme des traces de
+pratiques mais aussi comme l’archive de l’expression numérique des visiteurs. Ceci nous
+permet d’observer la manière dont le tourisme de mémoire est lui-même producteur de
+mémoires, de façon indirecte (les expressions numériques nous racontent des pratiques
+de transmission mémorielle) et directe (en posant la question des modalités de
+l’expression via le numérique).
+
+1. Le tourisme de mémoire au prisme des nations et
+des pratiques
+6
+
+Régis Debray (1999) rappelle l’articulation entre logique patrimoniale et logique
+funéraire : le monument a une double fonction de remémoration et de partage mémoriel,
+constituant un « outil par excellence de production d’une communauté », tandis que
+
+Mondes du Tourisme, 14 | 2018
+
+2
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Pierre Nora évoque ces sémaphores qui fonctionnent comme lieux de mémoire, de façon
+équivoque car renvoyant à la fois à des mémoires vivantes, portées par « des groupes
+vivants » (Nora, 1997, p. 24), et en même temps pris en charge par les institutions. Plus
+encore que tout autre conflit, les deux guerres mondiales ont donné lieu à une intense
+production funéraire et commémorative : ossuaires, cimetières et mémoriaux sur les sites
+de bataille ; maillage fin de l’espace national avec la présence dans la plupart des
+communes françaises d’un monument aux morts (Prost, 1997). Dès 1917, avant même la
+fin de la Première Guerre mondiale, champs de bataille et monuments commémoratifs
+sont l’objet de pèlerinages (van Ypersele, 1913). Avec la fin des conflits, se multiplient les
+visiteurs, les guides dédiés et les initiatives pour développer un tourisme considéré
+comme un moteur de la reconstruction des régions détruites (Danchin, 2015). Dès la
+première moitié du XXe siècle, des voix s’élèvent pour contester la légitimité de telles
+visites et la nécessaire distinction à opérer entre les anciens combattants et leurs familles,
+d’une part, et des touristes soupçonnés de voyeurisme, d’autre part.
+7
+
+Toutefois, avec la disparition progressive des protagonistes et des témoins, cette
+distinction apparaît de moins en moins pertinente et mobilisée. L’enjeu devient plutôt
+celui de la transmission à des générations qui n’ont pas connu ces événements. La
+généralisation de la notion de « tourisme de mémoire » à partir des années 1990, liée à
+l’irruption de la « mémoire » comme catégorie de l’action publique, y compris au niveau
+des collectivités, semble entériner le dépassement de cette distinction entre « pèlerins »
+et « visiteurs » (Hertzog, 2013). La visée touristique devient davantage légitime, perçue
+comme occasion de médiation mémorielle autant que de développement local de
+territoires à l’écart des grands flux touristiques ; tout un ensemble d’acteurs nationaux et
+locaux promeuvent le tourisme de mémoire. En 2012, l’Agence nationale de
+développement et de promotion touristique, Atout France, publie une étude consacrée au
+poids économique et aux retombées de ce qui est alors nommé « la filière du tourisme de
+mémoire ». À l’échelle régionale, à la suite de multiples investissements publics dans les
+années 1990 (Hertzog, 2012), la Picardie devient une « destination touristique de
+mémoire » et, en janvier 2008, la région organise un colloque sur « le tourisme des
+mémoires au service du développement économique et culturel de la Picardie ». La région
+Basse-Normandie fait de même en novembre 2013 puis en avril 2015 avec le Forum
+régional du tourisme de mémoire. En mars 2014, à l’occasion du salon du tourisme, le
+ministre délégué aux anciens combattants, Kader Arif, rappelle le rôle fondamental du
+ministère de la défense, « à la pointe du développement de la filière du tourisme de
+mémoire ». Ces mobilisations d’acteurs publics régionaux et nationaux s’inscrivent dans
+une démarche commémorative traitée sur un mode événementiel (centenaire de la
+Grande Guerre, 70e anniversaire du débarquement sur les plages de Normandie) et
+mobilisent les instruments de la gouvernance touristique, avec l’établissement d’un
+contrat de destination3 nommé « centenaire de la Grande Guerre » en 2013, puis
+« tourisme de mémoire en Normandie » en 2014. Enfin, l’État apporte son soutien aux
+deux démarches d’inscription au patrimoine mondial : les « plages du débarquement » et
+les « sites funéraires et mémoriels de la Première Guerre mondiale ».
+
+8
+
+Les différents sites et mémoriels nationaux sont gérés par des entités étrangères, sous
+forme de concession ou en propriété. Ainsi, par exemple, les cimetières américains, tel
+celui de Colleville-sur-Mer, sont gérés par l’American Battle Monuments Commission ; les
+mémoriaux et cimetières britanniques par la Commonwealth War Graves Commission ;
+certains mémoriaux par le Canada, comme le mémorial terre-neuvien de Beaumont-
+
+Mondes du Tourisme, 14 | 2018
+
+3
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Hamel dans la Somme par Anciens Combattants Canada. Les politiques publiques
+mémorielles françaises visent à coordonner ces entités au sein d’une mise en réseau
+territoriale – par exemple avec la création du circuit du Souvenir dès la fin des
+années 1970 dans le département de la Somme (Hertzog, 2012) – et à proposer une
+approche unifiée des sites mémoriels. C’est le cas des dossiers de candidature Unesco, qui
+mêlent des sites d’origines nationales différentes, en les subsumant sous une même
+« valeur universelle exceptionnelle ».
+9
+
+Les pratiques et les circulations des visiteurs correspondent-elles à ces politiques
+mémorielles et commémoratives ? Quel est le rôle des appartenances nationales dans
+l’expérience des visiteurs ? Plusieurs enquêtes montrent les spécificités nationales du
+tourisme de mémoire du point de vue des pratiques et des circulations, par exemple pour
+les sites de bataille dans la Somme (Winter, 2011 ; 2012), ou du point de vue des
+significations (Jansen-Verbeke et George, 2015), tout en rappelant également d’autres
+éléments de variation, liés aux connections familiales avec la guerre (Dunkley, Morgan et
+Westwood, 2011).
+
+10
+
+L’enjeu de cet article est de proposer, à côté des nécessaires enquêtes qualitatives menées
+à l’échelle des sites eux-mêmes, une description des circulations et des pratiques des
+visiteurs à partir des traces numériques touristiques laissées sur les réseaux sociaux
+numériques.
+
+2. Observer les traces volontaires du tourisme de
+mémoire
+11
+
+Depuis une dizaine d’années, un nombre croissant de touristes postent sur des
+plateformes numériques des photos et des commentaires de leurs voyages, constituant
+une dimension importante du e-tourisme (Buhalis et Law, 2008). Ces contributions
+volontaires s’inscrivent dans les mutations de l’usage d’Internet, avec le développement
+du web 2.0 depuis la fin des années 1990 et la généralisation du principe d’association des
+usagers à la production de contenu, opérée par Amazon dès 1996 (Beauvisage, Beuscart,
+Mellet et Trespeu, 2014), dans une logique de l’audience permettant la constitution d’une
+« archive directe » (Gunthert, 2015). Dans le champ du tourisme, le site d’évaluation
+touristique TripAdvisor est créé en 2000, puis sont également lancés Flickr (fondé en
+2004, racheté et développé par Yahoo en 2005), Panoramio (créé en 2005 en Espagne,
+racheté par Google en 2007) et Instagram (en 2010, racheté par Facebook en 2012). À
+travers ces réseaux, les touristes participent à la production de contenus
+photographiques et textuels sur les territoires touristiques. Ainsi, leurs évaluations
+profanes est-elle devenue partie prenante, voire essentielle, de la prescription touristique
+(Cardon, 2014).
+
+12
+
+Il s’agit ici, dans une démarche d’analyse du big data4, d’extraire les données issues de ces
+réseaux sociaux touristiques (Flickr, Panoramio, Instagram, Hotel.com, TripAdvisor), afin
+d’identifier les pratiques et les circulations touristiques (Cousin, Chareyron, Da-Rugna et
+Jacquot, 2014). Dans un premier temps, nous avons mis en œuvre un travail de web
+scraping, c’est-à-dire d’extraction d’une partie des contenus des différentes pages web des
+sites concernés. Puis, afin de constituer une base de données exploitable, nous avons
+structuré et caractérisé les contenus extraits (photos postées sur Flickr ou Panoramio,
+commentaires sur TripAdvisor) à partir des métadonnées qui les accompagnent :
+
+Mondes du Tourisme, 14 | 2018
+
+4
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+nationalité, âge, sexe du contributeur, coordonnées géolocalisées du lieu photographié ou
+commenté. Ensuite, selon nos questions et hypothèses de recherche, nous lançons des
+requêtes nous permettant de visualiser et d’interpréter les données de notre base. Cette
+méthode pluridisciplinaire repose sur une démarche résolument inductive, qui croise les
+sciences de l’informatique et les sciences sociales. Toutes les informations extraites et
+analysées sont postées de manière volontaire par les contributeurs, constituant des
+« traces explicites » (Ertzcheid, Gallezot et Simonnot, 2013), disponibles publiquement et
+gratuitement en ligne.
+13
+
+Il faut toutefois prendre avec recul la visualisation des résultats et atténuer les effets de
+« vérité » qu’une présentation issue de l’extraction de données massives peut susciter
+(Bachimon, 2014). En outre, les données sont volontairement produites par les
+contributeurs et sont dès lors partielles et hétérogènes. Par exemple, elles n’ont pas la
+continuité des enregistrements de mobilités touristiques issus de l’usage d’un GPS (Shoval
+et Isaacson, 2010). Nos travaux permettent donc de visualiser les lieux choisis par les
+contributeurs eux-mêmes et la hiérarchisation de l’espace qu’ils opèrent. Surtout, cette
+hiérarchisation est ancrée dans une « sociologie des usages » (Boullier, 2016), notamment
+dans la pratique socialement discriminante des réseaux sociaux touristiques, qui varie
+selon les pays, les classes d’âge, les catégories socioprofessionnelles ou les plateformes (Lo
+et al., 2011). Autrement dit, tous les visiteurs ne postent pas des informations sur les
+réseaux sociaux, tous les lieux parcourus ne sont pas photographiés ou commentés, et
+toutes les photographies ne sont pas postées. L’analyse du big data ne peut être considérée
+comme représentative de l’ensemble des pratiques (Boullier, 2015) mais procède d’une
+autre logique : celle de la visualisation et de l’interprétation d’un grand volume de
+données hétérogènes et en perpétuelle croissance.
+
+14
+
+Ainsi, la valeur ajoutée de ce travail réside-t-elle dans la démarche inductive et
+interprétative développée, à partir de l’exploration des réseaux constitués par les
+attributs qui définissent une entité, en travaillant leur visualisation (Latour et al., 2013). Il
+ne s’agit donc pas de partir de territoires ou de pratiques nettement délimités ou
+hiérarchisés a priori, mais d’identifier et de suivre des traces numériques de pratiques et
+de circulations, afin d’identifier les réseaux qu’elles constituent et de saisir le « profil »
+particulier (Latour et al., 2013) d’un site à partir de l’ensemble des traces et circulations
+qui y sont articulées. De façon concomitante, ces sites peuvent alors être qualifiés de
+filtres, permettant d’observer et de questionner chaque fois d’une manière un peu
+différente un ensemble de pratiques et de circulations.
+
+3. Le tourisme de mémoire : des pratiques exclusives
+ou combinées ?
+15
+
+Une première façon d’interroger le « tourisme de mémoire » consiste à examiner la
+visibilité des pratiques mémorielles sur les réseaux sociaux touristiques, par rapport à
+l’ensemble des autres pratiques touristiques, sur un territoire donné. Cette première
+étape permet à la fois de déterminer leur importance et la façon dont elles se combinent
+avec d’autres formes de tourisme ou, au contraire, apparaissent comme indépendantes.
+Les données analysées ici sont issues des plateformes Flickr et TripAdvisor, récupérées en
+juin 2014. Nous avons donc étudié l’intégralité des photos géolocalisées sur Flickr et des
+commentaires postés sur TripAdvisor, depuis la naissance de ces réseaux sociaux jusqu’en
+2014, c’est-à-dire environ 225 millions de photographies sur Flickr et 101 millions de
+
+Mondes du Tourisme, 14 | 2018
+
+5
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+commentaires sur TripAdvisor. Nous avons trié ces données pour les visualiser à plusieurs
+échelles : les départements de la Somme (68 389 photos sur Flickr et 20 935 commentaires
+sur TripAdvisor) et du Calvados (143 789 photos et 73 078 commentaires), qui englobent
+une partie de l’espace mémoriel lié à la bataille de la Somme durant la Première Guerre
+mondiale et au débarquement de Normandie ; les régions Basse-Normandie, Picardie,
+Nord-Pas-de-Calais et Lorraine (dans leurs limites de 2014, avant la refonte régionale en
+France), toutes quatre concernées de façon importante par des sites mémoriels liés aux
+deux guerres5.
+16
+
+Les cartes 1 à 4 montrent que les espaces mémoriels ont une visibilité importante sur les
+réseaux sociaux au sein de leurs départements respectifs, aussi bien en couverture
+photographique (cartes 1 et 3, à partir de Flickr) qu’en densités de photographies par
+rapport au reste du territoire (cartes 2 et 4).
+Illustration 1. Carte de densités de photographies sur Flickr dans la Somme (mi-2014)
+
+Mondes du Tourisme, 14 | 2018
+
+6
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Illustration 2. Carte des zones de densités photographiques maximales dans la Somme (mi-2014),
+extraction de la carte 1
+
+Illustration 3. Carte de densités de photographies sur Flickr dans le Calvados (mi-2014)
+
+Mondes du Tourisme, 14 | 2018
+
+7
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Illustration 4. Carte des zones de densités photographiques maximales dans le Calvados (mi-2014),
+extraction de la carte 3
+
+17
+
+Dans la Somme, les pratiques photographiques sont relativement condensées, avec des
+concentrations le long du littoral, dans l’aire urbaine d’Amiens, sur l’axe reliant ces deux
+pôles et, enfin, dans l’espace nord-est du département (carte 1). L’accentuation des zones
+de densités photographiques élevées (carte 2) montre toutefois un espace davantage
+hiérarchisé, avec quelques pôles : Amiens, l’estuaire de la Somme avec les stations de
+Fort-Mahon plage au Nord et Cayeux-sur-Mer au Sud, le circuit du Souvenir. Le circuit du
+Souvenir centré sur la Somme permet de distinguer la ville d’Albert, le monument terreneuvien de Beaumont-Hamel, Pozières, Thiepval, etc. De même, pour le Calvados, alors
+que la carte 3 montre une répartition des photos postées sur le tracé littoral et la trame
+urbaine du département, la cartographie des plus fortes densités (carte 4) révèle
+l’importance des sites mémoriels dans ces pratiques photographiques. Au-delà des pôles
+de Caen, Bagneux et, sur le littoral nord-est, Deauville et Honfleur, les sites des plages du
+débarquement sont nettement visibles d’ouest en est : Omaha Beach, étiré le long de la
+plage, se prolongeant avec le cimetière américain de Colleville-sur-Mer, Gold Beach
+autour d’Arromanches, puis Juno Beach. Les cartes de géolocalisation des photographies
+postées sur Flickr indiquent donc la prégnance et l’importance des sites du tourisme de
+mémoire, reprenant à la fois ceux présentés comme majeurs par les acteurs
+institutionnels touristiques, mais aussi des sites mémoriels privés moins mis en avant
+dans la communication touristique publique.
+
+18
+
+La fréquentation de ces sites mémoriels se distingue-t-elle des autres lieux du territoire,
+du point de vue des typologies des contributeurs sur les réseaux sociaux ? Peut-on
+identifier des caractéristiques communes aux visiteurs pour les sites visités ? Compte
+tenu de l’orientation nationale des sites mémoriels, qui renvoie tant à leur gestionnaire
+qu’à la nationalité des belligérants représentés, nous nous intéressons à l’origine
+nationale des visiteurs. Pour cela, nous considérons un autre réseau social : TripAdvisor.
+En effet, les contributeurs y renseignent, pour la plupart, leur pays et lieu de résidence
+habituelle, permettant d’identifier, pour chaque site, la répartition des visiteurscommentateurs selon leur nationalité déclarée.
+
+Mondes du Tourisme, 14 | 2018
+
+8
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Illustration 5. Les nationalités déclarées par les contributeurs sur TripAdvisor dans quatre régions
+françaises (Basse-Normandie, Picardie, Nord-Pas-de-Calais, Lorraine), en valeur absolue.
+
+Cercle intérieur : pour les sites liés à la Première et Seconde Guerre mondiale ; cercle extérieur : pour
+l’ensemble des sites des quatre régions (données mi-2014).
+19
+
+Tout d’abord, à partir de TripAdvisor pour quatre régions françaises (Basse-Normandie,
+Picardie, Nord-Pas-de-Calais, Lorraine), nous avons comparé la répartition entre
+nationalités des visiteurs des sites de mémoire avec celle de l’ensemble des sites de ces
+mêmes régions. Cette comparaison (carte 5) fait apparaître une claire surreprésentation
+des États-Uniens, Britanniques, Canadiens et Australiens sur les sites de mémoire par
+rapport à l’ensemble des autres sites, nationalités qui correspondent aux visiteurs
+habituels du tourisme de mémoire selon les acteurs publics qui en ont la charge6, en lien
+avec les principales nations belligérantes (à l’exception des Allemands).
+
+20
+
+L’examen de la répartition des nationalités des visiteurs sur chaque site permet d’aller
+plus loin et de corréler la surreprésentation d’une nationalité avec le signifié national de
+chaque site, comme le montrent les graphiques 6 et 7.
+
+Mondes du Tourisme, 14 | 2018
+
+9
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Illustration 6. Pourcentage des nationalités déclarées par les contributeurs commentant différents
+sites ou acteurs du tourisme de mémoire sur TripAdvisor (Somme, 2014)
+
+Illustration 7. Répartition des nationalités déclarées par les contributeurs laissant des
+commentaires sur le site du mémorial de Caen et d’Omaha Beach sur TripAdvisor (données
+mi-2014)
+
+21
+
+Le graphique 6 présente le pourcentage, par nationalité, de commentaires postés sur
+TripAdvisor, pour les sites de mémoire et les agences de visite spécialisées,
+
+Mondes du Tourisme, 14 | 2018
+
+10
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+principalement dans la Somme. Ce graphique est réalisé uniquement à partir des
+commentateurs ayant déclaré leur nationalité.
+22
+
+Tout d’abord, on observe une nette corrélation entre la nationalité du mémorial et celles
+de ses commentateurs7. Ainsi, plus de 65 % des commentaires du mémorial national
+australien de Villers-Bretonneux émanent d’Australiens. Inauguré en 1938, ce mémorial
+fait l’objet d’une cérémonie chaque 25 avril en hommage à l’engagement des troupes
+australiennes et néo-zélandaises dans la Première Guerre mondiale (l’ANZAC Day,
+commémoré en Australie de façon large8), qui rassemble un grand nombre de visiteurs
+australiens. Dans la même logique, plus de 60 % des commentaires du mémorial francobritannique de Thiepval émanent de Britanniques. Lieu significatif de la mémoire
+britannique de la Grande Guerre réalisé en hommage aux Missing9 britanniques et
+inauguré en 1932, Thiepval est géré par la Commonwealth War Graves Commission. Il est
+accompagné d’un centre d’accueil et d’interprétation, créé en 2004, et situé en contrebas
+du monument. D’autres lieux symboles de l’engagement britannique sont également
+marqués par une surreprésentation des commentaires britanniques, par exemple le
+Lochnagar Crater (ou trou de mine de la Boissière), dont l’explosion marqua le début de
+l’offensive britannique de la Somme, et qui fait l’objet d’une cérémonie du souvenir
+chaque 1er juillet. Parallèlement, les Canadiens commentent de façon importante le
+mémorial de Vimy et le mémorial terre-neuvien de Beaumont-Hamel, lieux historiques
+nationaux du Canada. Vimy est le lieu de mémoire des soldats canadiens morts en France
+durant la Grande Guerre, tandis que le mémorial terre-neuvien de Beaumont-Hamel rend
+hommage aux soldats du régiment terre-neuvien tués en ce lieu dès le premier jour de la
+bataille de la Somme. La plus forte proportion de commentaires canadiens est d’autant
+plus révélatrice que ce site de Beaumont-Hamel est fréquenté de façon plus large par des
+visiteurs d’autres nationalités, notamment dans le cadre de circuits mémoriels 10. En effet,
+il présente un traitement paysager des anciennes tranchées, le rendant emblématique
+d’une certaine esthétique de la guerre qui fait contraster l’aspect tranquille et apaisé d’un
+paysage contemporain engazonné avec ce qu’on imagine, notamment à travers le centre
+d’interprétation, de l’horreur du combat du 1er juillet 1916.
+
+23
+
+La comparaison de deux sites de mémoire en Normandie (voir illustration 7) permet une
+conclusion similaire. Ainsi le mémorial de Caen comporte-t-il deux fois plus de
+commentaires de Français que d’États-Uniens, tandis que la situation est inversée pour
+Omaha Beach, plage du débarquement affectée aux troupes états-uniennes. S’il est
+important de rappeler que tous les visiteurs n’utilisent pas les réseaux sociaux
+touristiques et que les utilisateurs ne photographient pas ou ne commentent pas
+nécessairement tous les lieux visités, on peut a minima considérer qu’il y a une forte
+corrélation entre les nationalités des commentateurs, l’expérience qu’ils désirent
+partager et le prisme national des sites visités. Au final, l’étude des données issues des
+réseaux sociaux touristiques permet d’indiquer une appropriation différentielle selon la
+perspective nationale.
+
+24
+
+La variable nationale est également prépondérante dans la répartition des commentaires
+sur les infrastructures et les acteurs de l’accompagnement touristique. Ainsi, Terres de
+mémoire, The Battlefield Experience et Chemins d’histoire, trois agences de tourisme
+liées à la mémoire de la Grande Guerre, sont commentées en majorité par des Australiens.
+Bien que fondées et gérées par des Français ou des expatriés britanniques, elles
+constituent des médiateurs privilégiés pour des touristes australiens non habitués à la
+
+Mondes du Tourisme, 14 | 2018
+
+11
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+région, et la façon de présenter l’histoire y est adaptée à ce public particulier (Dupuis,
+2015).
+25
+
+Toutefois deux lectures différentes sont possibles. Ces surreprésentations nationales sur
+les réseaux sociaux peuvent correspondre à des visiteurs différenciés sur les sites, ou
+signifier plutôt des pratiques d’expressions numériques plus marquées sur des sites
+renvoyant à une identité nationale partagée. En l’absence de données issues des
+gestionnaires des sites de mémoire permettant la répartition des visiteurs selon leur
+nationalité11, il n’est pas possible de conclure sur l’une des deux options, mais le résultat
+dans les deux cas est une visibilité accrue des sites selon le prisme national.
+
+26
+
+Ces conclusions sur l’importance de la variable nationale pour l’appropriation numérique
+de chaque site posent la question des pratiques mémorielles dans leur globalité, c’est-àdire des circulations mémorielles et des communautés de pratiques qui peuvent en
+découler. Dessinent-elles des circuits identifiables ? Quelle est leur relation avec les
+prescriptions des acteurs publics et privés du tourisme et avec les circuits délimités ?
+Comment relier ces circulations locales avec des visites réalisées dans un territoire plus
+large – à l’échelle de la France par exemple, ou à l’échelle mondiale, sur la thématique des
+mémoires de guerre ?
+
+4. Quelles mises en réseau entre sites à partir des
+pratiques numériques sur les sites de mémoire ?
+27
+
+Les lieux mémoriels en Somme et en Normandie renvoient à des mémoires nationales
+différenciées, mais ils font l’objet de politiques publiques de mise en tourisme visant à
+assurer leur mise en réseau, sous la forme privilégiée du circuit touristique. Ainsi le
+circuit du Souvenir est né dans la Somme, emblématisé par le coquelicot, fleur-emblème
+des pratiques mémorielles britanniques. Créé à la fin des années 1970 par le Comité
+départemental du tourisme, il est long de 92 kilomètres, il relie les musées (Albert,
+Péronne), sites mémoriels, monuments commémoratifs, et est matérialisé par une
+signalétique routière (Hertzog, 2012). En Normandie et dans le Calvados, les acteurs
+publics suggèrent des itinéraires touristiques reliant les différents lieux de mémoire,
+tandis que les agences touristiques spécialisées du tourisme de mémoire proposent des
+circuits mémoriels à leurs clientèles. Les traces touristiques numériques font-elles écho à
+ces stratégies territoriales et permettent-elles d’identifier des formes de mise en réseau et
+des circuits préférentiels, voire une destination mémorielle ?
+
+28
+
+Il s’agit dès lors de dépasser l’approche par la seule densité des photos ou des
+commentaires postés, pour tenter de reconstituer des circulations, en étudiant le chronoréférencement des photos ou des commentaires, par auteur. L’agrégation révèle des
+itinéraires personnels, qui eux-mêmes agrégés, dessinent des sentiers, des chemins ou des
+routes, des nœuds (les sites les plus photographiés ou commentés) et des réseaux de sites.
+En outre, nous pouvons considérer ces traces comme des indices et des micro-récits de
+voyages, avec tous les silences qu’un récit peut comporter : nous ne restituons que ce que
+les contributeurs ont choisi de rendre visibles et signifiants, laissant peut-être dans
+l’ombre d’autres pratiques mémorielles, d’autres itinéraires. Les traces qu’ils laissent
+volontairement produisent une mémoire organisée et hiérarchisée d’abord par euxmêmes.
+
+Mondes du Tourisme, 14 | 2018
+
+12
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Illustration 8a. Matrice de corrélation entre zones de fortes densités photographiques sur Flickr
+dans la Somme (extraction automatique des zones)
+
+Illustration 8b. Carte illustrative des relations entre zones (données mi-2014), à partir des
+circulations des photographes
+
+29
+
+Les zones de pratiques photographiques identifiées sur Flickr (très liées à des sites) nous
+permettent d’observer les réseaux, c’est-à-dire les relations entre zones et donc entre
+sites : on calcule, pour chaque zone, le pourcentage de photographes qui ont posté des
+photos sur une autre zone. Ainsi, pour la Somme, le tableau de corrélation (voir
+illustration 8, qui se lit depuis les lignes du haut vers la colonne de gauche) révèle deux
+réseaux de zones/sites bien différenciés : l’estuaire de la Somme et le circuit du Souvenir.
+Pour ces deux réseaux, les relations entre les zones qui les composent sont fortes, à
+l’inverse des relations avec des zones extérieures. Ainsi, le mémorial de Thiepval est bien
+connecté avec celui de Beaumont-Hamel, la ville d’Albert (et son musée de la guerre
+« musée Somme 1916 ») ou encore Pozières (lieu de mémoire australien), tandis que les
+relations avec les zones de l’estuaire (zones 7, 8, 9, 10, 11, 13 et 16) sont très faibles : peu
+de photographes prennent des photos simultanément dans ces deux aires. Le partage de
+photographies fait donc bien apparaître un réseau mémoriel spécifique. Cette
+appartenance à un même espace mémoriel est confortée par le fort pourcentage de
+personnes qui ont posté des photographies prises dans plusieurs lieux de mémoire (65 %
+des photographes à Longueval ont également pris une photo au mémorial de Thiepval, et
+45 % au mémorial de Beaumont-Hamel). On voit donc émerger un profil de « touriste de
+mémoire ».
+
+Mondes du Tourisme, 14 | 2018
+
+13
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Illustration 9. Liste des quinze sites les plus commentés sur TripAdvisor par des contributeurs
+déclarant comme nationalité les États-Unis ou le Royaume-Uni et ayant commenté un site de
+mémoire dans le Calvados
+
+30
+
+Dans d’autres configurations, la frontière entre pratiques mémorielles et autres visites
+s’avère davantage poreuse. En sélectionnant les quinze lieux les plus commentés sur
+TripAdvisor par des visiteurs états-uniens et anglais ayant commenté au moins un site de
+mémoire dans le Calvados (voir illustration 9), on s’aperçoit que leur voyage ne peut être
+réduit aux pratiques mémorielles et visites de champs de bataille, et qu’il n’est pas
+circonscrit aux destinations mémorielles. Parmi les lieux les plus commentés figurent par
+exemple la cathédrale Notre-Dame et le musée de la tapisserie de Bayeux, ville proche des
+plages du débarquement. Commentateurs britanniques et états-uniens se distinguent en
+outre sur plusieurs points : alors que les autres sites les plus commentés par les
+Britanniques renvoient à des sites mémoriaux, éventuellement en Picardie et à Oradoursur-Glane, les visiteurs états-uniens manifestent à la fois une dépendance aux agences
+spécialisées dans le tourisme de mémoire (Overlord Day Tour, D-Day Battle Tours, Battle
+of Normandy Private Tours, Executive D-Day Private Tours, Normandie Sightseeing Tours,
+D-Day Historian Normandy Private Tours) et la forte fréquentation des hauts lieux du
+tourisme parisien (musée du Louvre, tour Eiffel, Notre-Dame de Paris). Ces différences
+révèlent diverses modalités d’appropriation de l’espace mémoriel entre la Somme et le
+Calvados, plus ou moins poreuse, avec ou sans intermédiaires, de façon exclusive ou à
+l’occasion d’un séjour plus large en France.
+
+31
+
+Ces espaces mémoriels ne sont pas homogènes et apparaissent hiérarchisés et structurés
+par les partages de commentaires ou photographies en sites majeurs et espaces plus
+périphériques. Ainsi pour la Somme (voir illustration 8) le mémorial de Thiepval est le
+site le plus photographié, tandis que Pozières (cimetière du Commonwealth, mémorial
+australien) ou Longueval (musée et mémorial sud-africain) apparaissent de façon plus
+périphérique.
+
+32
+
+Comment représenter les relations entre sites, c’est-à-dire leur hiérarchisation, à partir
+des traces numériques ? Ces réseaux et leurs nœuds sont-ils caractéristiques d’un
+tourisme de mémoire ou faut-il envisager une pluralité de réseaux interconnectés ?
+
+Mondes du Tourisme, 14 | 2018
+
+14
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+33
+
+Pour cela, nous avons procédé à une visualisation des réseaux à l’aide du logiciel libre
+Gephi12, qui s’appuie sur la théorie des graphes (Cellier et Cocaud, 2012) pour fournir
+différentes modalités de visualisation. Nous l’avons appliqué pour mettre en évidence,
+dans une perspective plus topologique que topographique (Severo et Venturini, 2016), les
+réseaux tissés par les commentaires, c’est-à-dire les relations entre des nœuds (les sites
+de mémoire), en fonction de l’intensité des liens (c’est-à-dire le nombre de
+commentateurs que deux sites ont en commun sur TripAdvisor). Les graphes produits
+sont non orientés, c’est-à-dire que la relation entre deux nœuds ne comporte pas de sens
+(de circulation, ou d’antériorité du commentaire). Pour réaliser les graphes 10 et 11, nous
+avons présélectionné l’ensemble des sites de mémoire de chaque département figurant
+sur TripAdvisor (qui constituent l’ensemble des nœuds), puis établi le tableau de
+l’ensemble des relations entre sites, c’est-à-dire des commentateurs en commun, qui
+permettent de définir la largeur de chaque arête entre deux nœuds. La dimension
+mémorielle n’est pas exclusive pour certains sites, par exemple la cathédrale d’Amiens,
+dont les commentaires évoquent l’architecture gothique mais aussi les nombreuses
+plaques commémoratives des soldats engagés dans la Première Guerre mondiale sur le
+front ouest. Nous avons aussi considéré certains sites extérieurs aux deux départements
+mais proches, intégrant par exemple le mémorial de Vimy (près d’Arras) ou le musée
+Airborne (dans la Manche), pour ne pas présupposer une structuration administrative des
+pratiques mémorielles en dépit du périmètre des politiques ou des études publiques.
+Illustration 10. Représentation à partir de Gephi des relations entre sites de mémoire dans la
+Somme
+
+La taille des nœuds est fonction du nombre de commentaires et l’épaisseur des arêtes du nombre de
+contributeurs en commun (données mi-2014, logiciel Gephi)
+
+Mondes du Tourisme, 14 | 2018
+
+15
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Illustration 11. Représentation à partir de Gephi des relations entre sites de mémoire dans le
+Calvados
+
+La taille des nœuds est fonction du nombre de commentaires et l’épaisseur des arêtes du nombre de
+contributeurs en commun (données mi-2014, logiciel Gephi)
+34
+
+À partir des commentaires TripAdvisor, les illustrations 10 et 11 représentent les mises en
+relation, pour les départements du Calvados et de la Somme, faisant apparaître la
+structuration de l’espace mémoriel. Dans la Somme, le nœud à la fois le plus commenté et
+le plus articulé aux autres sites est le mémorial de Thiepval, bien connecté à l’ensemble
+des autres sites mémoriels. La taille du nœud (le nombre absolu de commentaires sur
+TripAdvisor) n’est pas forcément un indice de sa forte connectivité aux autres sites
+mémoriels : ainsi la cathédrale d’Amiens apparaît comme un site largement commenté,
+mais moins articulé aux sites de mémoire que Thiepval. Si l’on relève la bonne
+connectivité générale de chacun des nœuds, l’historial de la Grande Guerre de Péronne
+semble plus marginal, alors même que son objectif est, dès sa création en 1992, de
+proposer une histoire culturelle, mondiale et croisée des belligérants, ce qui aurait pu lui
+conférer une centralité mémorielle pour des visiteurs de provenance diverse. Enfin, il
+faut également remarquer la forte connectivité avec le mémorial de Vimy, incitation à ne
+pas considérer le circuit du Souvenir comme une destination mémorielle en tant que
+telle, mais imbriquée à un espace régional plus vaste.
+
+35
+
+Dans le Calvados, l’importance et la densité des liens font du cimetière américain de
+Colleville-sur-Mer un pôle central, y compris vis-à-vis du mémorial de Caen, pourtant
+conçu pour constituer un dispositif central d’interprétation de cet espace mémoriel. Les
+sites à la fois les plus commentés et les mieux connectés aux autres sites sont surtout
+localisés sur la zone du débarquement et sont principalement liés à la zone américaine du
+débarquement à Omaha Beach. Enfin, comme pour la Somme, il faut considérer une
+perspective qui va au-delà des limites départementales, comme le montre la forte
+
+Mondes du Tourisme, 14 | 2018
+
+16
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+connectivité entre le musée Airbone d’une part, et le musée du débarquement Utah Beach
+ou le cimetière américain d’autre part.
+36
+
+Le décalage possible entre la taille des nœuds et leur plus ou moins forte connectivité en
+Somme et dans le Calvados fait bien apparaître la position centrale de certains sites dans
+une perspective topologique (qui dépend du nombre d’arêtes et de l’épaisseur de
+chacune), et permet de questionner l’existence de sous-ensembles de lieux, c’est-à-dire
+d’un réseau plus limité de nœuds qui regrouperait préférentiellement un sous-groupe
+d’utilisateurs. Pour identifier cela, nous avons eu recours au filtre « modularity class »
+intégré à Gephi, basé sur le partitionnement des nœuds du réseau en sous-réseaux,
+appelés « communautés ». La notion de communauté est purement descriptive dans les
+analyses des réseaux sociaux et ne présuppose pas un sentiment d’appartenance à un
+même groupe : chaque « communauté » regroupe des nœuds présentant des connexions
+denses entre eux. Appliqué aux sites mémoriels, chaque communauté permet donc
+d’identifier des sites présentant des circulations privilégiées de commentateurs
+TripAdvisor13.
+
+37
+
+Dans le cas des sites de mémoire de la Somme, plusieurs sous-ensembles se détachent :
+l’un articule le mémorial de Thiepval, le Lochnagar Crater, le mémorial terre-neuvien de
+Beaumont-Hamel et le mémorial de Vimy, tandis que l’autre connecte le musée de la
+Somme, le mémorial australien de la guerre, la cathédrale Notre-Dame d’Amiens,
+l’historial de la Grande Guerre (à Péronne) et les agences du tourisme de mémoire. Un
+troisième sous-ensemble, plus marginal dans ses proportions, articule des sites qui
+renvoient à la Seconde Guerre mondiale et plutôt à l’engagement états-unien, et ne
+présente des relations qu’avec Vimy et Thiepval. Cette répartition nous renseigne sur les
+réseaux construits par les circulations. Ce graphique indique des pratiques différenciées
+du tourisme de mémoire, mais complexifie l’explication par nationalité. En effet, si le
+premier regroupement est centré autour des lieux de mémoire britannique (Thiepval et
+Lochnagar Crater), il intègre aussi les mémoriaux canadiens de Beaumont-Hamel et de
+Vimy. De même, la répartition entre les sites mémoriels du Calvados, et au-delà, révèle
+une structuration selon une logique nationale, puisque les circulations dessinent des
+sous-réseaux correspondant à des sites américains, canadiens et britanniques, mais avec
+des sites opérant nettement la jonction entre ces réseaux.
+
+38
+
+Ainsi, l’appréhension de destinations mémorielles, identifiées dans la première partie à
+partir des densités de photos, est à nuancer par l’identification d’éléments de
+différenciation, faisant plutôt apparaître des réseaux interconnectés. Une telle
+perspective peut se retrouver de façon plus large à une échelle mondiale. L’illustration 12
+repose sur les connections, par les commentaires TripAdvisor, d’un certain nombre de
+sites de mémoire, principalement en Europe et aux États-Unis, permettant de retrouver
+les positions nodales de certains sites et indiquant la nécessité d’intégrer ces circulations
+mémorielles dans une perspective plus large, non close à une destination mémorielle à
+une échelle particulière.
+
+Mondes du Tourisme, 14 | 2018
+
+17
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Illustration 12. Représentation à partir de Gephi des relations entre plusieurs sites de mémoire
+dans le monde, sélectionnés a priori
+
+La taille des nœuds est fonction du nombre de commentaires et l’épaisseur des arêtes du nombre de
+contributeurs en commun (données mi-2014, logiciel Gephi)
+
+Conclusion
+39
+
+Les traces en ligne constituent des univers. L’univers du tourisme de mémoire peut être
+décrit depuis ses zones et ses réseaux, le long des itinéraires personnels, ou à partir des
+sites-nœuds qui connectent les zones, les réseaux, les communautés de pratiques.
+L’observation de densités, de circulations ou de sites-nœuds n’est pas le propre du
+tourisme de mémoire, ni de la recherche sur les sources numériques ; ainsi ce travail
+s’inscrit-il dans la lignée de l’analyse de réseaux sociaux (Boullier, 2015).
+
+40
+
+Appuyée sur les traces des pratiques touristiques liées à la mémoire des guerres, notre
+enquête fait apparaître la spécificité du tourisme de mémoire : les visiteurs commentent
+surtout des sites de mémoire (et moins les hôtels, restaurants etc.) et se rendent
+essentiellement sur les sites de leur nation, tout en ayant des pratiques diverses en
+termes d’échelle et de rayonnement. C’est l’un des grands intérêts de la méthode que
+nous proposons ici : il est aisé de changer d’échelle et donc d’observer les connections du
+tourisme de mémoire à l’échelle mondiale, ou encore de dessiner les biographies
+touristiques des photographes ou commentateurs au-delà des pratiques mémorielles.
+Mais, à chaque fois, ces observations nécessitent des enquêtes qualitatives pour les
+envisager, les analyser, afin par exemple de mieux comprendre les motivations et les
+expériences des visiteurs dont les pratiques dessinent les réseaux de sites que nous avons
+pu identifier. Pour le dire autrement : l’identification d’une communauté de pratiques
+n’implique pas, loin s’en faut, une communauté d’expériences. Couplée à des enquête in
+
+Mondes du Tourisme, 14 | 2018
+
+18
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+situ, l’analyse du contenu des commentaires ouvre la voie à de nouvelles recherches sur
+ces sujets. Les traces du tourisme de mémoire sont aussi la mémoire du tourisme de
+mémoire ; les réseaux sociaux relatent des expériences touristiques qui forment le cadre
+d’une transmission mémorielle (Winter, 2009) spécifique, polarisée sur le sens donné à la
+visite et les modalités de la visite elle-même. Le tourisme de mémoire produit des récits
+profanes et amateurs, qui vont acquérir une certaine performativité via les réseaux
+sociaux, c’est-à-dire signifier et orienter les pratiques touristiques en devenir. Si l’on suit
+Paul Ricoeur (2000) dans sa lecture des analyses de Maurice Halbwachs sur la mémoire
+collective, on peut écrire que tourisme de mémoire vu des réseaux sociaux constitue l’un
+des opérateurs par lesquels la mémoire historique devient aussi une mémoire vivante.
+
+BIBLIOGRAPHIE
+ATOUT FRANCE, Le tourisme de mémoire en France. Mesure et analyse du poids et des retombées
+
+économiques de la filière, Éditions Atout France, 2012.
+Bruno BACHIMON, « Le nominalisme et la culture : questions posées par les enjeux du numérique »,
+dans Bernard STIEGLER (dir.), Digital studies, Organologie des savoirs et technologies de la
+connaissance, FYP éditions, 2014.
+Thomas BEAUVISAGE, Jean-Samuel BEUSCART, Kevin MELLET, Marie TRESPEUCH, « Une
+démocratisation du marché, notes et avis de consommateurs sur le Web dans le secteur de la
+restauration », Réseaux, n° 183, 2014.
+Dominique BOULLIER, Sociologie du numérique, Armand Colin, 2016.
+Dominique BOULLIER, « Les sciences sociales face aux traces du big data. Société, opinion ou
+vibrations ? », Revue française de science politique, vol. 65, 2015.
+Dimitrios BUHALIS, Rob LAW , « Progress in information technology and tourism management:
+20 years on and 10 years after the Internet – The state of eTourism research », Tourism
+management, n° 29, 2008.
+Vincent CARDON, « Des chiffres et des lettres. Évaluation, expressions du jugement de qualité et
+hiérarchies sur le marché de l’hôtellerie », Réseaux, n° 183, 2014.
+Jacques CELLIER et Martine COCAUD, Le traitement des données en histoire et sciences sociales.
+Méthodes et outils, Presses Universitaires de Rennes, 2012.
+Saskia COUSIN, Gaël CHAREYRON, Jérôme DA-RUGNA et Sébastien JACQUOT, « Étudier TripAdvisor. Ou
+comment Trip-patouiller les cartes de nos vacances », EspacesTemps.net, 2014 [https://
+www.espacestemps.net/articles/etudier-tripadvisor/].
+Emmanuelle DANCHIN, Le temps des ruines, 1914-1921, Presses Universitaires de Rennes, 2015.
+Régis DEBRAY, « Le monument ou la transmission comme tragédie », dans Régis DEBRAY, L’abus
+monumental ?, acte des entretiens du Patrimoine, Fayard, 1999.
+Ria DUNKLEY, Ria MORGAN, Sheena WESTWOOD, « Visiting the trenches: exploring meanings and
+motivations in battlefield tourism », Tourism Management, n° 32, 2011.
+
+Mondes du Tourisme, 14 | 2018
+
+19
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+Claire DUPUIS, Les pratiques touristiques des Australiens sur les sites de mémoire de la Grande
+Guerre du Remembrance Trail, mémoire de Master tourisme GSVT, sous la direction d’Anne
+HERTZOG et Sébastien JACQUOT, Université Paris 1 Panthéon Sorbonne, 2015.
+Olivier ERTZSCHEID, Gabriel GALLEZOT et Brigitte SIMONNOT, « À la recherche de la mémoire du web :
+sédiments, traces et temporalités des documents en ligne », dans Christine BARATS (dir.), Manuel
+d’analyse du web en sciences humaines et sociales, Armand Colin, 2013.
+Romain FATHIE, Représentations muséales du corps combattant de 14-18, L’Hamattan, 2013.
+André GUNTHERT, L’image partagée, la photographie numérique, Textuel, 2015.
+Anne HERTZOG, « Quand le tourisme de mémoire bouleverse le travail de mémoire », Revue
+Espaces, n° 313, 2013.
+Anne HERTZOG, « Tourisme de mémoire et imaginaire touristique des champs de bataille », Via, n
+° 1, 2012.
+Myriam JANSEN-VERBEKE et Wanda GEORGE, « Les paysages mémoriels de la Grande Guerre
+(1914-1918) : un changement de paradigme dans la recherche sur le tourisme de mémoire », Via,
+n° 8, 2015.
+Bruno LATOUR, Pablo JENSEN, Tommaso VENTURINI, Sebastian GRAUWIN et Dominique BOULLIER, « Le
+tout est toujours plus petit que ses parties », Réseaux, n° 177, 2013.
+Iris Sheungting LO, Bob MCKERCHER, Ada LO, Catherine CHEUNG et Rob LAW , « Tourism and online
+photography », Tourism management, n° 32(4), 2011.
+Pierre NORA, « Entre mémoire et histoire », dans Pierre NORA (dir.), Les lieux de mémoires, tome 1,
+Gallimard, 1997.
+Antoine PROST, « Les monuments aux morts. Culte républicain ? Culte civique ? Culte
+patriotique ? », dans Pierre NORA (dir.), Les lieux de mémoire, tome 1, Gallimard, 1997.
+Paul RICOEUR, La mémoire, l’histoire, l’oubli, coll. « Points essais », Éditions du Seuil, 2000.
+Noam SHOVAL et Michael ISAACSON, Tourist mobility and advanced tracking technologies,
+Routledge, 2010.
+Marta SEVERO et Tommaso VENTURINI, « Enjeux topologiques et topographiques de la cartographie
+du Web. Le cas du patrimoine culturel immatériel français », Réseaux, n° 195, 2016.
+Laurence VAN YPERSELE, « Tourisme de mémoire, usages et mésusages : le cas de la Première
+Guerre mondiale », Témoigner. Entre histoire et mémoire, n° 116, 2013.
+Caroline WINTER, « Commemoration of the Great War of the Somme: exploring personal
+connections », Journal of Tourism and Cultural Change, n° 10:3, 2012.
+Caroline WINTER, « First World War Cementeries: Insights from Visitor Books », Tourism
+Geographies, vol. 13, n° 3, 2011.
+Caroline WINTER, « Tourism, social memory and the Great War », Annals of Tourism Research,
+vol. 36, n° 4, 2009.
+Zheng XIANG et Ulrike GRETZEL, « Role of social media in online travel information search »,
+Tourism management, n° 31, 2010.
+
+Mondes du Tourisme, 14 | 2018
+
+20
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+NOTES
+1. Dans la suite de cet article, nous utiliserons la notion de « tourisme de mémoire » comme
+catégorie forgée par l’action publique touristique.
+2. Projet « Partenariat stratégique pour la création d’un pôle international de formation et de
+recherche sur le tourisme et la mémoire », dirigé par Anne Hertzog et Pascale Marcotte (mars
+2014).
+3. Les contrats de destination constituent des contrats entre État et collectivités territoriales
+pour la thématisation d’une destination touristique, en vue de sa visibilité internationale. L’État
+sélectionne tous les ans parmi plusieurs candidatures.
+4. L’expression big data désigne un ensemble de données qui sont plus difficilement analysables
+par les outils classiques de la statistique, du fait à la fois de leur volume, de leur incomplétude, de
+la rapidité de leur production en continu et des difficultés à les interpréter selon les logiques de
+la représentativité en statistique.
+5. Nous aurions pu intégrer d’autres régions, avec des sites mémoriels majeurs liés à la
+Résistance, au débarquement en Provence, aux camps d’enfermement et de concentration dans
+l’Est et le Sud, etc. Mais nous avons choisi ces quatre régions car elles concentrent les sites liés,
+d’une part, au débarquement de Normandie et, d’autre part, au front ouest de la Grande Guerre
+sur le territoire français.
+6. Sources : entretiens avec les acteurs dans la Somme (2014), propos tenus lors du Forum
+régional du tourisme de mémoire à Caen (2013), résultats de l’enquête d’Atout France (2012).
+7. Il ne faut pas oublier que nous travaillons sur des commentaires laissés volontairement par les
+visiteurs et non sur des traces automatiques de passage (comme avec le GPS ou la téléphonie
+mobile). Un visiteur australien a pu visiter des sites canadiens, britanniques, tout en ressentant
+plus fortement le désir ou la nécessité de commenter un site associé à son histoire nationale.
+8. Les batailles sur le front ouest ont été largement intégrées à un discours nationaliste de fierté
+nationale en Australie (Fathie, 2013).
+9. Les Missing sont les combattants dont le corps n’a pas été retrouvé.
+10. Comme cela nous avait été indiqué par des intermédiaires britanniques du tourisme de
+mémoire lors d’enquêtes de terrain menées dans le cadre du projet « Partenariat stratégique
+pour la création d’un pôle international de formation et de recherche sur le tourisme et la
+mémoire », dirigé par Anne Hertzog et Pascale Marcotte (mars 2014).
+11. Un grand nombre de sites mémoriels sont d’accès libre, non payant, et ne permettent donc
+pas un comptage. Dans d’autres cas, les données ne sont pas proposées par nationalités. Les
+acteurs publics du tourisme proposent ces statistiques mais à l’échelle départementale, ne
+permettant pas des analyses fines site par site.
+12. Voir : https://gephi.org/
+13. Bien que l’on puisse imaginer des communautés « recouvrantes », les représentations qui
+suivent aboutissent à des partitions strictes (chaque nœud n’est intégré qu’à une communauté),
+pour des raisons de représentation visuelle.
+
+Mondes du Tourisme, 14 | 2018
+
+21
+
+Le tourisme de mémoire au prisme du « big data ». Cartographier les circulati...
+
+RÉSUMÉS
+Le tourisme de mémoire fait l’objet de politiques publiques visant à construire des destinations
+mémorielles. À partir de l’étude des pratiques et des circulations des visiteurs, de leurs origines
+nationales et du sens qu’ils donnent à leurs visites, cet article interroge la consistance touristique
+de ces constructions territoriales mémorielles. L’originalité de notre enquête réside dans nos
+sources et méthodes : la collecte et l’analyse des traces numériques issues des plateformes de
+partage d’expériences et de photos (TripAdvisor et Flickr) afin de dessiner les communautés et
+les réseaux mémoriels constitués par les pratiques, dans leurs différenciations et à diverses
+échelles.
+Battlefield tourism and memory tourism are the subject of public policies to build memorial
+destinations. Based on the analysis and the mapping of the practices and flows of visitors, but
+also their national origins and the meaning that they confer to their experiences, this article
+questions the tourist consistency of these memorial territorial constructions. The originality of
+our investigation relies on our sources and methods: the collection and the analysis of the digital
+footprints from social networks aimed at sharing experiences and pictures (TripAdvisor and
+Flickr), in order to identify the communities and the networks constituted by the practices,
+through their differentiations and at various scales.
+
+INDEX
+Keywords : Big data, tourist flows, tourist social networks, digital footprints, memory tourism,
+battlefield tourism
+Mots-clés : big data, circulations touristiques, réseaux sociaux touristiques, tourisme de
+mémoire, traces numériques
+
+AUTEURS
+SÉBASTIEN JACQUOT
+Université Paris 1 Panthéon Sorbonne
+GAËL CHAREYRON
+Léonard de Vinci Pôle Universitaire, Research Center
+gael.chareyron@devinci.fr
+SASKIA COUSIN
+CANTHEL, Université Paris Descartes
+
+Mondes du Tourisme, 14 | 2018
+
+22
+
+

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="fr_JJC_86-74_CT_1" source="https://journals.openedition.org/teoros/1852" lang="fr">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <revue>Teoros</revue>
+        <numero>22-1</numero>
+        <annee>2003</annee>
+    </meta>
+    <auteurs>
+        <auteur nom="Croutsche" prenom="Jean-Jacques">
+            <oeuvres>
+                <publication id="fr_JJCMR_50-114_Rs_1" source="https://journals.openedition.org/teoros/1531" lang="fr">Risques et tourisme : vers un modèle causal d’évaluation de l’impact des risques sur le comportement des touristes</publication>
+            </oeuvres>
+            <description>
+                Maître de conférences à l'Université de Paris-Nord, docteur en Economie et Administration des Entreprises 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>Comportements et choix en matière de destination touristique : modèle ECCT</titre>
+    <resume>
+        La présente recherche a pour objet le développement d’un modèle de choix de destination touristique. Nous reprenons les auteurs en nous appuyant de façon plus précise sur le modèle EDDT de Valdez Munoz et Chebat (1997) et nous procédons à une analyse critique du modèle  proposé. Nous inspirant de leur démarche, nous tentons d’améliorer le modèle et proposons notre propre modèle, ECCT, qui traite des Études de Comportements en matière de Choix Touristique. Nous exposons enfin les outils qui nous paraissent les plus appropriés pour parfaire la démarche théorique. Ce travail préparatoire nous a permis d’ouvrir quelques pistes de recherche tant dans la conceptualisation que dans la formalisation et la modélisation. Il faudra sans nul doute améliorer encore la présentation du modèle et affiner certains concepts, plus particulièrement en ce qui concerne la mesure des aspects irrationnels du consommateur qui demeurent d’une extrême complexité.
+Par ailleurs, notre modèle, qui reste général en première approche, devra faire l’objet de quelques déclinaisons en s’appuyant de façon plus spécifique sur le tourisme culturel durable, les populations potentielles européennes, les populations d’outre-Atlantique… Ces consommateurs, par leurs comportements et leurs attentes différentes, nous obligeront sans doute à faire certaines différences. Ajoutons que les destinations touristiques du bassin méditerranéen nous amèneront sans doute à aborder d’autres différenciations compte tenu des aspects climatiques, de la richesse des sites et de la culture.
+    </resume>
+    <corps>
+        <paragraphe num="1">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">L</span><span style="font-family:'Times New Roman', serif;font-size:12pt;">a présente recherche a pour objet le développement d’un modèle de choix de destination touristique. Nous reprenons les auteurs en nous appuyant de façon plus précise sur le modèle EDDT de Valdez Munoz et Chebat (1997) et nous procédons à une analyse critique du modèle  proposé. Nous inspirant de leur démarche, nous tentons d’améliorer le modèle et proposons notre propre modèle, ECCT, qui traite des Études de Comportements en matière de Choix Touristique. Nous exposons enfin les outils qui nous paraissent les plus appropriés pour parfaire la démarche théorique. Les méthodes qui utilisent la théorie neuronale devraient nous permettre de valider dans les meilleures conditions le modèle préconisé. Nous appuyant sur le poids de la perception, des attitudes, de l’apprentissage, des variables environnementales et des variables individuelles, nous développons une approche comportementale de la procédure de choix en matière de destination touristique.</span>
+        </paragraphe>
+        <paragraphe num="2">
+            Commençons par quelques rappels théoriques relatifs aux concepts de perception qui sont à l’origine de tous les modèles proposés.
+        </paragraphe>
+        <paragraphe num="3">
+            Dussart (1983) : La perception est un processus de fonctionnement continu qui contrôle la qualité et la quantité des incitants et qui alimente en permanence le processus d’apprentissage au moyen d’information préalablement triée et traitée.
+        </paragraphe>
+        <paragraphe num="4">
+            Chiffman et Kanuk (1991) : La perception est un processus par lequel un individu sélectionne, organise et interprète les stimuli en leur donnant une signification cohérente par rapport à son environnement immédiat.
+        </paragraphe>
+        <paragraphe num="5">
+            Kotler, Filiatrault et Turner (1994) : La perception est une condition préalable à l’action, laquelle ne dépend pas seulement des caractéristiques des stimuli physiques, mais aussi de leurs réactions avec  l’environnement (approche Gestalt) et des conditions particulières à l’individu.
+        </paragraphe>
+        <paragraphe num="6">
+            Dans le domaine du tourisme, la perception fait référence à la relation « image-destination » comme facteur déterminant du processus décisionnel. On trouve cette logique dans les modèles élaborés par différents chercheurs (Schmoll, 1977 ; Mathieson et Wall, 1982 ; Moutinho, 1987). De façon plus précise, le modèle de Woodside et Lysonski (1989), en accord avec la thèse de Raaij (1986), part du principe que les stratégies  de marketing reposent sur les perceptions et les préférences du consommateur.
+        </paragraphe>
+        <paragraphe num="7">
+            Dans une même logique, le modèle d’Um et Crompton (1990) part du principe que les construits cognitifs sont développés par l’individu grâce aux mécanismes de la perception. Ces auteurs s’appuient sur la théorie « Gestalt », dans la mesure où ils considèrent que l’image d’un endroit correspondant à une destination de voyage est un construit holistique qui est issu des attitudes de l’individu, de sa perception des attributs touristiques des sites considérés. Ainsi, les intrants externes tels la personnalité et le style de vie se confrontent aux intrants externes tels les communications et le marketing. Ces confrontations génèrent des construits cognitifs qui permettent l’élaboration de critères de sélection qui aboutiront à une définition de l’ensemble évoqué de l’individu. Ainsi, dans cette logique, la perception joue un rôle important, mais ne constitue pas un facteur primordial dans le processus de décision.
+        </paragraphe>
+        <paragraphe num="8">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Goodal (1991) insiste dans cette voie en avançant que « l</span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><em>’interaction potentielle du vacancier avec son environnement quotidien ne détermine pas seulement les opportunités de voyage disponibles, mais aussi les conditions qu’influencent ces motifs et préférences </em></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">». Dans cette logique, la perception agit, dans un premier temps, en filtrant l’information acquise puis, dans un second temps, elle permet l’apprentissage en modifiant ou en conservant les images perçues. Mansfeld (1992), quant à lui, insiste sur le fait que la perception est effectivement créatrice d’images à l’origine des attentes et des désirs du consommateur de tourisme.</span>
+        </paragraphe>
+        <paragraphe num="9">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">La perception, à coup sûr, est le déclencheur de la création d’images liées aux sites touristiques. À partir de leurs études, Pigram et Dunn (1976) soulignent aussi le fait que les vacanciers fondent leurs décisions non pas sur l’environnement réel, mais sur la perception, l’image qu’ils en ont. La distance réelle entre deux sites, comme l’écrit Fodness (1990), est « </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><em>moins importante que la distance perceptuelle </em></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">».</span>
+        </paragraphe>
+        <paragraphe num="10">
+            Une analyse de la documentation fait ressortir différentes attitudes en matière de choix décisionnel. Par exemple, dans leur étude exploratoire, Narayana et Markin (1975) montrent que les consommateurs  réduisent leurs options au fur et à mesure, par rapport à des perceptions positives, neutres ou négatives. L’attitude aide à comparer les produits offerts. Les études de Woodside et Scherrell (1977) montrent que l’ensemble des voyageurs limitent leur choix entre un maximum de quatre destinations.
+        </paragraphe>
+        <paragraphe num="11">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Woodside et Carr (1988) s’intéressent aux différents niveaux de conscience et aux préférences des consommateurs. Ils prétendent que « </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><em>les consommateurs associent un bénéfice particulier à chacun des sites touristiques afin de les rendre compétitifs à la lumière de certains critères tels que la valeur perçue et la règle de décision appliquée au moment de choisir une destination </em></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">».</span>
+        </paragraphe>
+        <paragraphe num="12">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Les critères utilisés pour évaluer des destinations de l’ensemble préliminaire, selon Crompton et Ankomah (1993), « </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><em>focalisent essentiellement sur la valeur relative des attributs de celle-ci, tandis que les critères utilisés pour évaluer les composantes de l’ensemble ultérieur focalisent principalement sur les contraintes liées à la destination </em></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">».</span>
+        </paragraphe>
+        <paragraphe num="13">
+            Finalement, selon Ankomah, Crompton et Baker, la distance cognitive se limite à une représentation mentale façonnée par le vécu social et culturel des individus. 
+        </paragraphe>
+        <paragraphe num="14">
+            Les modèles structurels font référence à des analyses causales et, de façon plus précise, à des chaînes « causes-effets ». Les approches causales se sont considérablement développées au cours des dernières années et il devient de plus en plus facile de les valider grâce à des modélisations de type équations structurelles. Nous les présentons ci-dessous plusieurs modélisations qui ont été tentées dans le domaine du tourisme.
+        </paragraphe>
+        <paragraphe num="15">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Le </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><strong>modèle de Schmoll </strong></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">(1977) insiste sur l’image que l’individu se fait d’un site. En revanche, la perception ne figure pas au centre du modèle. La chaîne causale perception-image-attitude n’est pas mise en avant. Le modèle se limite à une séquence d’événements sans effet de rétroaction.</span>
+        </paragraphe>
+        <paragraphe num="16">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Le </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><strong>modèle de Mathieson et Wall </strong></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">(1982) utilise une approche différente puisqu’il n’insiste pas sur une chaîne d’événements, mais plutôt sur une structure de type causal dont les éléments sont liés par des effets réciproques. Comme dans le modèle précédent, la perception ne figure pas de façon explicite. Le modèle reste descriptif sans être suffisamment explicatif.</span>
+        </paragraphe>
+        <paragraphe num="17">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Le </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><strong>modèle de Moutinho </strong></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">(1987) met l’accent sur la perception, mais il n’explique pas la structure de préférence du consommateur. On ne sait pas comment on passe de la préférence à l’intention d’achat, on ne sait pas comment l’ensemble évoqué agit sur le consommateur. Les liens de causalité ne sont pas explicitement traités et on ne saisit donc pas bien les liens de rétroaction.</span>
+        </paragraphe>
+        <paragraphe num="18">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Le </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><strong>modèle de Woodsize et Lysonsky </strong></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">(1989) s’appuie sur « l‘ensemble de conscience » et « l’ensemble évoqué ». Il est, de tous les modèles, celui qui accorde le plus de poids à la perception. Il reconnaît bien tous les mécanismes de la perception, mais n’en reconnaît pas tous les mécanismes dynamiques. Ce modèle est davantage utile à la compréhension du comportement du touriste, mais son application dans les cas où l’on veut prendre en compte l’évolution des comportements est difficile.</span>
+        </paragraphe>
+        <paragraphe num="19">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Le </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><strong>modèle d’Um et Crompton </strong></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">(1990)  s’appuie essentiellement sur les ensembles de conscience et les ensembles évoqués. La perception n’entre pas dans ses composants. Il se limite à un processus évolutif qui exclut les effets rétroactifs dans la succession des comportements.</span>
+        </paragraphe>
+        <paragraphe num="20">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Le </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><strong>modèle de Goodall </strong></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">(1991) concerne plus particulièrement la motivation de l’individu. Il s’appuie sur une structure causale simple et un ensemble prenant en compte les rétroactions. Par ailleurs, il possède une structure conceptuelle moins rigide que les modèles précédents.</span>
+        </paragraphe>
+        <paragraphe num="21">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Le </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><strong>modèle de Mansfeld </strong></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">(1992) représente un enchaînement d’étapes simples qui débouche naturellement sur un choix décisionnel. On n’y observe pas de véritable structure conceptuelle, ce qui en fait un modèle simpliste et limité.</span>
+        </paragraphe>
+        <paragraphe num="22">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Le </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><strong>modèle de Valdez Munoz et Chebat </strong></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">(1997) tente de faire une synthèse des caractéristiques des modèles précédents en évitant toutefois leurs écueils. Il propose une recherche modélisée de type dynamique : modèle des Ensembles Dynamiques de choix de Destinations Touristiques (Modèle EDDT).</span>
+        </paragraphe>
+        <paragraphe num="23">
+            Ce modèle décrit la démarche décisionnelle du touriste. Il tente de faire la synthèse des modèles précédents. Il reprend les différents concepts et détermine – autour d’une chaîne causale qui part des images rattachées aux sites et qui chemine par l’encadrement perceptuel – le processus de choix de destination ainsi que l’analyse critique et les ouvertures possibles. Il est schématisé de la façon suivante par les auteurs (voir page ci-contre):
+        </paragraphe>
+        <paragraphe num="24">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;"><strong>L’encadrement perceptuel </strong></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">met en avant l’influence des facteurs de l’environnement qui influent sur le comportement du vacancier. Perceptions, motivations et attitudes sont au centre du modèle. Hawes, Gitelson et Kerstetter (1988, 1990) insistent sur les facteurs économiques, politiques et technologiques, alors que Hue et Ritchie (1993), mettent l’accent sur les attributs des destinations et Mazursky (1989) sur l’expérience vacancière du touriste. Pearce et Caltabiano (1983), pour leur part, mettent en avant la dimension sensorielle. Ajoutons aussi les travaux de Kotler, Filiatrault et Turner (1994) qui insistent plus particulièrement sur la perception sélective et ceux de Dunn, Ross et Iso-Ahola (1991) qui mettent en avant les motifs du voyage et de Fodness (1994) sur les attentes (Pigram et Dunn, 1976). L’encadrement perceptuel intègre également les images positives et négatives associées aux différents sites et développées par Crompton (1979), Teisman-Kosuta (1989), Fodness (1990), Chon (1991), Saleh et Ryan (1992), Echtner et Ritchie (1993).</span>
+        </paragraphe>
+        <paragraphe num="25">
+            Ce modèle dynamique s’appuie sur les modèles classiques d’achat (Engel, Blackwell et Miniard, 1993). Les motifs, les images, les attentes sont interactives, la chaîne n’est pas unidirectionnelle ; les construits axés autour des perceptions, des motivations, des attitudes… sont en interaction réciproque. On parvient donc à mettre en place un ensemble préliminaire (Howard 1963) de choix de destinations.
+        </paragraphe>
+        <paragraphe num="26">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;"><strong>Le processus de choix de destination </strong></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">constitue « une chaîne à structure causale simple intégrée par l’ensemble d’actions, l’évaluation de sites de loisirs et le choix de destinations » (EDDT). Dans ce modèle, le classement des choix réalisés par le vacancier est toujours changeant, ce qui signifie que le modèle ne propose aucun cheminement figé. L’individu peut ainsi recommencer toute forme de bouclage pour parvenir à un choix définitif. Cette modélisation nous amène à envisager des approches algorithmiques complexes.</span>
+        </paragraphe>
+        <paragraphe num="27">
+            Partant de l’ensemble des réflexions et des modélisations, nous tentons d’apporter notre pierre à l’édifice en proposant un modèle qui reprend en grande partie les concepts traités en y introduisant certaines variables et en proposant une forme de modélisation différente de ce qui est classiquement proposé.
+        </paragraphe>
+        <paragraphe num="28">
+            De façon générale, notre modèle s’appuie sur les approches classiques de Howard et Sheth dans la mesure où il intègre le système perceptuel et le système d’apprentissage.
+        </paragraphe>
+        <paragraphe num="29">
+            Toutefois, il est plus riche par sa vision dynamique et par les liens de causalité qu’il propose. En revanche ce modèle dynamique interactif est limité au consommateur individuel. Or, nous savons que si le consommateur peut voyager de façon isolée, il peut  également voyager en famille et en groupe et que les comportements diffèrent selon les cas de figures. Ainsi, la variable grégarisme doit s’intégrer à ce type de modèle.
+        </paragraphe>
+        <paragraphe num="30">
+            Nous savons par ailleurs que les voyages se font dans le cadre des loisirs et qu’ils peuvent se faire de façon professionnelle. Nous croyons donc que le tourisme d’affaires ne doit pas être écarté. Ajoutons que, dans le cadre des loisirs, le tourisme culturel se développe compte tenu du patrimoine dont nous disposons dans le monde : le tourisme européen et méditerranéen est riche d’un point de vue historique ; les vieilles pierres, le développement des civilisations sont autant d’éléments qui favorisent le tourisme culturel. Ainsi la variable type de tourisme doit également s’intégrer à ce type de modèle.
+        </paragraphe>
+        <paragraphe num="31">
+            Partant de ces deux variables, nous pouvons construire une matrice des comportements face au tourisme.
+        </paragraphe>
+        <paragraphe num="32">
+            Les deux variables « grégarisme » et « type de tourisme » nous permettent ainsi de découvrir neuf catégories de tourisme. Nous observons par ailleurs que, pour un même individu, il est possible de passer d’une catégorie à l’autre. À titre d’exemple, le consommateur de type G, homme d’affaires se déplaçant seul, peut, si le site visité lui a plu, y revenir en famille ou en groupe pour y passer des vacances de détente. Il peut également, par exemple, revenir au même endroit par la suite pour y visiter des sites archéologiques quelques années plus tard en groupe. Il passe ainsi successivement de G en B puis en F. Ainsi, la variable « temps » prend ici toute sa dimension. Importante en marketing (Hanecart 2002), elle permet de différencier des produits touristiques sur un même site.
+        </paragraphe>
+        <paragraphe num="33">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Le modèle EDDT prend en compte les facteurs environnementaux et les facteurs individuels. En matière d’environnement, nous pensons que les variables classiques des environnements généraux et spécifiques des matrices SWOT (croisement des opportunités- menaces et forces-faiblesses) à prendre en compte sont les suivantes :</span>
+        </paragraphe>
+        <paragraphe num="34">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- environnement institutionnel,</span>
+        </paragraphe>
+        <paragraphe num="35">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- environnement économique,</span>
+        </paragraphe>
+        <paragraphe num="36">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- environnement technologique,</span>
+        </paragraphe>
+        <paragraphe num="37">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- environnement culturel et social,</span>
+        </paragraphe>
+        <paragraphe num="38">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- marchés potentiels et</span>
+        </paragraphe>
+        <paragraphe num="39">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- offres des concurrents.</span>
+        </paragraphe>
+        <paragraphe num="40">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">En matière de facteurs individuels nous privilégions :</span>
+        </paragraphe>
+        <paragraphe num="41">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">-  la personnalité,</span>
+        </paragraphe>
+        <paragraphe num="42">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- la culture,</span>
+        </paragraphe>
+        <paragraphe num="43">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- le niveau social,</span>
+        </paragraphe>
+        <paragraphe num="44">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- l’intelligence,</span>
+        </paragraphe>
+        <paragraphe num="45">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- les aspirations,</span>
+        </paragraphe>
+        <paragraphe num="46">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- les besoins de satisfaction et d’appartenance.</span>
+        </paragraphe>
+        <paragraphe num="47">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">L’encadrement perceptuel, qui prend en compte dans le modèle EDDT les images, les motifs, les attentes et les attitudes, doit être complété par les émotions qui jouent un rôle fondamental dans la décision. On ne peut en effet écarter le poids de la sensibilité, des joies et des peines qui agissent sur les comportements des individus. L’émotion est à coup sûr un élément fondamental. Les individus connaissent la nostalgie des endroits vers lesquels ils ont tendance à revenir ; </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><em>a contrario</em></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">, ils rejettent les sites qui leur ont amené des désagréments. L’émotion est également à l’origine de l’effet « coup de coeur » qui pousse au choix rapide d’une destination. </span>
+        </paragraphe>
+        <paragraphe num="48">
+            Les ensembles préliminaires proposés par le modèle faisant référence aux travaux de Narayana et Markin (1975), puis de Crompton et Ankomah (1992-93), nous paraissent justifiés. Rappelons que l’ensemble préliminaire est l’ensemble des destinations possibles dans un avenir proche. Cet ensemble peut être décomposé en ensemble inerte  (sites ne faisant plus l’objet de recherches pour le consommateur), en ensemble évoqué et en ensemble de rejet. Les ensembles proposés de repos et d’interaction appartiennent au processus de choix de destination.
+        </paragraphe>
+        <paragraphe num="49">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Nous pensons pour notre part que le processus perceptuel et notre processus de choix de destination s’intègrent dans une logique de type perception-apprentissage au sens de Howard et Sheth. En conséquence, nous proposons un agrégat de ces ensembles car les interactions entre les ensembles sont telles que nous ne pouvons les dissocier. De fait, nous considérons que la perception et l’apprentissage se font en même temps avec des interactions permanentes. Aussi développons- nous un agrégat cortical perception apprentissage. De cet agrégat en prise directe avec la matrice des comportements, les facteurs d’environnement et les facteurs individuels, nous procédons à l’évaluation rationnelle des choix des consommateurs.</span>
+        </paragraphe>
+        <paragraphe num="50">
+            Ajoutons également que le modèle nous paraît rigoureusement rationnel dans son développement. L’évaluation peut être envisagée par rapport à des approches de type multi-attributs. Cette vision n’est que partielle, car nous excluons l’effet coup de cœur, l’imprévu… Il nous faut donc intégrer dans l’approche les aspects irrationnels de consommateur.
+        </paragraphe>
+        <paragraphe num="51">
+            Le modèle EDDT n’intègre pas suffisamment les contraintes, plus particulièrement celles d’ordre financier ; pourtant, le budget est souvent à l’origine de la destination. En revanche, l’effet du produit dégriffé peut entraîner une modification de dernière minute du site choisi. Les agences de voyages nous font observer ces phénomènes ; elles nous rappellent que le marché est remarquablement volatile, que les décisions à l’intérieur de l’ensemble évoqué ne présentent, dans certains cas, aucune stabilité.
+        </paragraphe>
+        <paragraphe num="52">
+            De façon globale, nous ajoutons que le modèle est en mouvement perpétuel, que les relations se font dans tous les sens.
+        </paragraphe>
+        <paragraphe num="53">
+            Ajoutons que le modèle ECCT est voué à une évolution constante dans le temps et rappelons que le modèle est instable et qu’il prend en compte les aspects irrationnels liés au comportement du consommateur.
+        </paragraphe>
+        <paragraphe num="54">
+            Comme dans le modèle EDDT, nous pensons que les bouclages sont de type évolutif et perpétuel et que le modèle est sans cesse en mouvement. Les chaînes causales à double effet doivent être prises en compte. Les modèles d’équations structurelles permettent de mesurer les relations entre les différents construits. Les variables latentes générées et non renouvelées par la mouvance du modèle nous permettraient sans doute de prendre en compte les aspects complexes du modèle. C’est ce qui est sans doute proposé dans le modèle EDDT, sans que nous en ayons une réelle certitude.
+        </paragraphe>
+        <paragraphe num="55">
+            Rappelons que les équations structurelles font partie des modèles de « seconde génération » et que leurs propriétés et leurs caractéristiques sont les suivantes : elles permettent d’introduire des variables latentes non observables, de spécifier la nature de ces relations. Une variable latente n'est pas observable de façon immédiate et résulte d'une ou de plusieurs variables observables. On la définit comme une variable théorique, un construit hypothétique ; le revenu, l'éducation, la culture sont des variables observables, lesquelles peuvent être considérées comme des indicateurs d'une variable non observable, un construit hypothétique : le statut social. Par suite, les variables latentes peuvent être reliées les unes aux autres et prendre une signification conceptuelle.
+        </paragraphe>
+        <paragraphe num="56">
+            Les liaisons entre les variables (construits) et leurs indicateurs empiriques (mesures) prennent diverses formes si l'on se réfère à l'étude des relations épistémiques.
+        </paragraphe>
+        <paragraphe num="57">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">Les indicateurs empiriques peuvent être symétriques, réflectifs, formatifs. L'indicateur est symétrique quand les relations causales sont difficilement attribuables à l'indicateur ou au construit. Quand la relation est orthogonale, il n’y a pas de corrélation entre les variables μ1 et μ2.</span>
+        </paragraphe>
+        <paragraphe num="58">
+            μ1 et μ2 sont orthogonales donc non corrélées.
+        </paragraphe>
+        <paragraphe num="59">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">L'indicateur est réflectif quand le construit lui-même engendre les observations sur les variables empiriques. Tous les concepts relatifs au comportement du consommateur sont des indicateurs réflectifs.</span>
+        </paragraphe>
+        <paragraphe num="60">
+            Quand la relation est formative, on définit un concept latent (statut social) mesuré par des observations.
+        </paragraphe>
+        <paragraphe num="61">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">L'indicateur est formatif quand les effets mesurés sur les variables empiriques donnent lieu à la naissance du construit. Par ailleurs, dans les modèles plus élaborés, on observe des indicateurs réflectifs et formatifs. Les relations entre les variables latentes sont orthogonales, symétriques, directionnelles ou causales. Les relations orthogonales expriment l'indépendance, les relations directionnelles peuvent être récursives (unidirectionnelles) ou non récursives (bidirectionnelles). L'analyse de la causalité est d'un intérêt majeur car on raisonne en termes de séquences causales (Zaltman, Lemasters et Heffring).</span>
+        </paragraphe>
+        <paragraphe num="62">
+            Rappelons que, dans notre modèle, les interrelations de la chaîne présentent un univers sans cesse changeant. Une approche modélisée par un ensemble de neurones permettrait sans doute de présenter l’ensemble de la logique. Ainsi les bouclages qui aident à la décision définitive sont infinis et permettent toute forme de comportement jusqu’à la décision finale.
+        </paragraphe>
+        <paragraphe num="63">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">L’analyse neuronale est définie comme « </span><span style="font-family:'Times New Roman', serif;font-size:12pt;"><em>l’ensemble des procédures consistant à ouvrir la boîte noire d’un réseau supervisé pour en déterminer les fonctions logicosymboliques. Cette approche se situe à mi-chemin de l’approche connexionniste dont elle reprend la démarche numérique, et de l’intelligence artificielle dont elle reprend l’idée d’une explication symbolique des phénomènes </em></span><span style="font-family:'Times New Roman', serif;font-size:12pt;">» (Aurifeille 1994).</span>
+        </paragraphe>
+        <paragraphe num="64">
+            Issue de la recherche biologique, cette approche date de 1943, fruit des travaux de McCulloch et Pitts. Dans une réflexion sur l’étude des réseaux de neurones, les auteurs proposent un modèle inspiré de la biologie. Ils proposent une simulation du fonctionnement de la cellule nerveuse à l’aide d’un automate, « le neurone formel ». Le neurone est stimulé par des entrées multidimensionnelles (stimuli) qui appartiennent à l’univers externe ; ensuite, il traite ces stimuli et transmet les résultats ; ce sont les sorties.
+        </paragraphe>
+        <paragraphe num="65">
+            Les traitements s’opèrent en trois phases :
+        </paragraphe>
+        <paragraphe num="66">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- le neurone affecte des poids aux entrées,</span>
+        </paragraphe>
+        <paragraphe num="67">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- le neurone effectue la somme des coordonnées d’entrées, pondérée par les poids,</span>
+        </paragraphe>
+        <paragraphe num="68">
+            <span style="font-family:'Times New Roman', serif;font-size:12pt;">- la somme est ensuite transformée à l’aide d’une fonction de transition.</span>
+        </paragraphe>
+        <paragraphe num="69">
+            e1, e2, e3 sont des vecteurs de d dimensions qui représentent les entrées
+        </paragraphe>
+        <paragraphe num="70">
+            p1, p2, p3 représentent les poids affectés aux différentes entrées
+        </paragraphe>
+        <paragraphe num="71">
+            b les biais et S les sorties.
+        </paragraphe>
+        <paragraphe num="72">
+            On affecte les poids et on les adapte en fonction des règles de l’analyste.
+        </paragraphe>
+        <paragraphe num="73">
+            Quand l’analyste possède les couples entrées-sorties de référence, il peut ajouter aux différents poids une quantité proportionnelle à la différence entre les sorties calculées et les sorties attendues. La différence correspond à une erreur (r) et à un taux d’apprentissage (a) que l’analyste aura choisis au préalable. Le neurone est dit « supervisé » car l’apprentissage est lié à des couples entrées-sorties attendus. Les ajustements de poids réalisés s’opèrent en intégrant les écarts observés en aval (sorties), sur les transformations opérées en amont (phénomène de rétropropagation).
+        </paragraphe>
+        <paragraphe num="74">
+            Les réseaux peuvent être agrégés sur plusieurs couches et constituent des formes de réseaux. Chaque couche est constituée de neurones indépendants. Ces couches peuvent être transformées par les couches suivantes. les premiers niveaux de couches (couches cachées) peuvent être dimensionnés librement. Par contre, le dernier niveau (couche de sortie) doit être égal à la dimension des sorties attendues. La généralisation des réseaux multicouches date des années 1980 ; l’algorithme de rétropropagation utilisé permet de minimiser le carré des écarts entre les valeurs observées et les valeurs attendues.
+        </paragraphe>
+        <paragraphe num="75">
+            Par ailleurs, la recherche de formes stables (patterns) dans la globalité des données s’appuie sur des hypothèses neurobiologiques. Ce type d’approche s’écarte des réseaux supervisés contraignants et permet des reconnaissances et des classifications de caractère complexe.
+        </paragraphe>
+        <paragraphe num="76">
+            Cette recherche conceptuelle des réseaux neuronaux est de type « neuro-cybernétique ou connexionniste » (Lemoigne, 1991). C’est une approche qui s’appuie sur des fonctionnements de type élémentaire et exclut les concepts de hiérarchie logique, d’abstractions, de dimensions latentes.
+        </paragraphe>
+        <paragraphe num="77">
+            Les recherches axées sur les modélisations de relations, à vocation plus intelligente (identification de concepts à partir de niveaux sémantiques différents), donnent naissance aux systèmes experts (« approche symbolique » : Pylshyn, 1986).
+        </paragraphe>
+        <paragraphe num="78">
+            Aurifeille propose une logique intermédiaire, voire médiane à ces deux approches. Il nous montre comment les réseaux multicouches supervisés permettent d’effectuer des analyses confirmatoires, illustrant son propos par une recherche empirique sur les « chaînes moyens-fins ». En approche confirmatoire, sont testés, à partir de données physiques, la valeur d’hypothèses neurobiologiques et leurs effets sur la perception sensorielle. Une telle démarche impose peu de contraintes et c’est là son principal avantage. Par ailleurs, les fonctions de transition sont non linéaires. Ainsi cette approche est d’un emploi aisé, mais elle devient difficile à maîtriser dès que la taille du réseau augmente. À ce stade, les poids des neurones sont instables et, pour amoindrir ce risque, il faut établir par avance des fonctions de transition et d’erreur.
+        </paragraphe>
+        <paragraphe num="79">
+            Rappelons que, dans le processus de chaînes moyens-fins, le choix des marques et des produits chez les consommateurs évolue en fonction de trois étapes cognitives qui correspondent tour à tour à des niveaux d’abstraction croissants. Les valeurs personnelles de l’individu influent sur les conséquences psychosociales et fonctionnelles attendues de l’usage du produit, lesquelles conditionnent les attributs recherchés dans le produit.
+        </paragraphe>
+        <paragraphe num="80">
+            Les modèles utilisés jusqu’ici ne permettent pas de fixer avec précision le nombre d’étapes du processus. Par contre, Olson et Reynolds (1983) proposent un modèle en six étapes.
+        </paragraphe>
+        <paragraphe num="81">
+            Par ailleurs, l’existence de chaînes multiples exprimées par le répondant pose certaines difficultés, notamment sur le fonctionnement parallèle ou combinatoire des processus. Pour étayer sa recherche, Aurifeille reprend un exemple traité relatif à la consommation de cigarettes de 175 étudiants. Les items des chaînes ont été étudiés préalablement par Aurifeille, Valette-Florence et Rapacchi (1988, 1990). Les résultats de l’étude paraissent supérieurs à ceux qui utilisent les modèles d’équations structurelles. Les réseaux neuronaux semblent capables de simuler des processus complexes, bien que l’on se heurte à l’infinité des architectures possibles et, par conséquent, à leur interprétation. Par contre, les simulations non linéaires permettent des approches prédictives. Quant aux réseaux, ils permettent d’explorer, notamment, les systèmes complexes des comportements des consommateurs ; ils paraissent adaptés à notre démarche de recherche.
+        </paragraphe>
+        <paragraphe num="82">
+            Nous pourrions également envisager une modélisation à partir de variables chaotiques, mais la mise en œuvre de ce type d’approche nécessite un nombre important de données que nous n’envisageons pas dans l’immédiat.
+        </paragraphe>
+        <paragraphe num="83">
+             Il nous reste à mettre en application les modélisations en les confirmant à l’aide d’études sur le terrain… la prochaine étape de notre recherche.
+        </paragraphe>
+        <paragraphe num="84">
+            Ce travail préparatoire nous a permis d’ouvrir quelques pistes de recherche tant dans la conceptualisation que dans la formalisation et la modélisation. Il faudra sans nul doute améliorer encore la présentation du modèle et affiner certains concepts, plus particulièrement en ce qui concerne la mesure des aspects irrationnels du consommateur qui demeurent d’une extrême complexité.
+        </paragraphe>
+        <paragraphe num="85">
+            Par ailleurs, notre modèle, qui reste général en première approche, devra faire l’objet de quelques déclinaisons en s’appuyant de façon plus spécifique sur le tourisme culturel durable, les populations potentielles européennes, les populations d’outre-Atlantique… Ces consommateurs, par leurs comportements et leurs attentes différentes, nous obligeront sans doute à faire certaines différences. Ajoutons que les destinations touristiques du bassin méditerranéen nous amèneront sans doute à aborder d’autres différenciations compte tenu des aspects climatiques, de la richesse des sites et de la culture.
+        </paragraphe>
+        <paragraphe num="86">
+            Toutes ces voies de recherche ne peuvent être explorées que grâce à la mise en place d’équipes de travail sur l’ensemble des zones potentielles concernées.
+        </paragraphe>
+    </corps>
+    <bibliographie>
+        <reference> Ankomah, P.K., et J.L. Crompton (1993), « Choice Set Propositions in Destination Decision », Annals of Tourism Research, 20, p. 460 et suiv.</reference>
+        <reference>Ankomah, P.K., J.L. Crompton, et D. Baker (1996), « Influence of Cognitive Distance in Vacation Choice », Annals of Tourism Research, vol. 23, no 1, p.138 et suiv.</reference>
+        <reference>Aurifeille, J.M. (1994), « Contribution de l’analyse neuronale à la modélisation des comportements de consommation », Actes de l’Association de Marketing, vol. 10.</reference>
+        <reference>Chon, K.S. (1991), « Tourism Destination Image Modification Process: Marketing Implications », Tourism Management, mars, p. 68-72.</reference>
+        <reference>Crompton, J.L. (1979), « An Assessment of the Image of Mexico as a Vacation Destination and the Influence of Geographical Location Upon that Image », Journal of Travel Research, printemps, p. 18-23.</reference>
+        <reference>Crompton, J.L., et P.K. Ankomah (1993), « Choice Set Propositions in Destination Decisions », Annals of Tourism Research, vol. 20, p. 461-476.</reference>
+        <reference>Croutsche, J.J. (1995), Réflexions sur une utilisation possible de la théorie du Chaos en marketing et gestion, CRIEGE-CNRS.</reference>
+        <reference>Croutsche, J.J. (1995), « Réflexion méthodologique sur l’élaboration de modèles d’équations structurelles dans les recherches de causalité », Publication CRIEGE-CNRS, Paris.</reference>
+        <reference>Dunn Ross, E.L., et S.E. Iso-Ahola (1991), « Sightseeing Tourists Motivations and Satisfactions », Annals of Tourism Research, vol. 18, p. 226-237.</reference>
+        <reference>Dussart, C. (1983), « Comportement du consommateur et stratégie de marketing », Université d’Ottawa Ontario, Canada, McGraw Hill.</reference>
+        <reference>Echtner, C.E., et J.R.B. Ritchie (1993), « The Measurement of Destination Image: An Empirical Assessment », Journal of Travel Research, vol. 31, p. 3-13.</reference>
+        <reference>Engel, J.R., R.D. Blackwell, et P.W. Miniard (1993), « Consumer Behavior, 10th ed., Orlando, FL, USA, The Dryden Press.</reference>
+        <reference>Fodness, D. (1990), « Consumer Perceptions of Tourist Attractions », Journal of Travel Research, printemps, p. 3-9.3</reference>
+        <reference>Fodness, D. (1994), « Measuring Tourist Motivation », Annals of Tourism Research, vol. 21 no 3, p. 555-581.</reference>
+        <reference>Goodall, B. (1991), « Understanding Holiday Choice », Progress in Tourism, Recreation and Hospitality Management, vol. 3, p. 58-77, London &amp; New York, Belhaven Press.</reference>
+        <reference>Hanecart, D. (2002), « Marketing et temps », Revue Market Management , Eska, Paris. </reference>
+        <reference>Hawes, D.K. (1988), « Travel-Related Lifestyle Profiles of Older Women », Journal of Travel Research, p. 22-38.</reference>
+        <reference>Howard, J.A., et J.N. Sheth (1973), « A Theory of Buyer Behavior », dans H.H. Kassardjian et T.S. Robertson, Perspectives in Consumer Behavior, Glenview, Illinois, Scott, Foreman Cy, 2nd ed., p. 523.</reference>
+        <reference>Hu, Y., et R.J. Brent Ritchie (1993), « Measuring Destination Attractiveness: A Contextual Approach », Journal of Travel Research, p. 25-34.3</reference>
+        <reference>Kotler, P., P. Filiatrault, et R.E. Turner (1994), Le management du marketing ; Boucherville, Québec, Canada, Gaëtan Morin. </reference>
+        <reference>Mansfeld, Y, (1992), « From Motivation to Actual Travel », Annals of Tourism Research, vol. 17, p. 399-419.</reference>
+        <reference>Mathieson, A., et G. Wall (1982), Tourism: Economic, Physic and Social Impact, U.K. : Longman Group Limited.</reference>
+        <reference>Mazursky, D. (1989), « Past Experience and Future Tourism Decisions », Annals of Tourism Research, vol. 16, p. 333-344.</reference>
+        <reference>Moutinho, L. (1987), « Consumer Behavior in Tourism », European Journal of Marketing, vol. 21, no 10, p. 5-44.</reference>
+        <reference>Narayana, C.L., et R.J. Markin (1975), « Consumer Behavior and Product Performance: an Alternative Conceptualisation », Journal of Marketing, vol. 39, octobre, p. 1-6.</reference>
+        <reference>Pearce, P.L., et M.L. Caltabiano (1983), « Inferring Travel Motivation from Traveler’s Experience », Journal of Travel Research, p. 16-20.</reference>
+        <reference>Pgram, J.J., et J.B. Dunn (1976), « Monitoring Recreation Behavior », Journal of Travel Research, vol. 15, p. 14-18.</reference>
+        <reference>Saleh, F., et C. Ryan (1992), « Client Perception of Hotels: A Multi Attribute Approach », Tourism Management, juin, p. 163-168. </reference>
+        <reference>Schmoll, G.A. (1977), Tourism Promotion, London : Tourism International Press.</reference>
+        <reference>Telisman-Kosuta, N. (1989), « Tourist Destination Image », dans Tourism Marketing and Management Handbook, p. 557-561, London, Prentice Hall International (U.K.) Ltd.</reference>
+        <reference>Um, S., et J.L. Crompton (1990), « Attitude Determinants in Tourism Destination Choice », Annals of Tourism Research, vol. 17, p. 432-448.</reference>
+        <reference>Valdez Munoz, R., et J.C. Chebat (1997/3), « La compréhension du choix de destination touristique », Revue Française de Marketing, 163.</reference>
+        <reference>Valette-Florence, P. (1988), « Spécificités et apports des méthodes d’analyse multivariée de la deuxième génération », Recherches et Applications Marketing, vol. 3, no 4.</reference>
+        <reference>Valette-Florence, P., et G. Roerich (1987), « Alternative Measurement Methods in Causal Modelling », Marketing Science Conference, TIMS/ORSA, Centre HEC-ISA, juin.</reference>
+        <reference>Valette-Florence, P., et B. Rapacchi (1988), « Une application concrète de l’analyse structurelle selon les moindres carrés partiels dans une optique classificatoire », Colloque de l’Association française du Marketing, Montpellier.</reference>
+        <reference>Valette-Florence, P., et B. Rapacchi (1990), « Analyse structurelle et analyse typologique : Illustration d’une démarche complémentaire », Recherches et applications marketing, vol. 5, no 10.</reference>
+        <reference>Woodside, A.G., et J.A. Carr (1988), « Consumer Decision-Making and Competitive Marketing Strategies: Applications for Tourism Planning », Journal of Travel Research, hiver, p. 2-7.</reference>
+        <reference>Woodside, A.G., et S. Lysonsky, « A General Model of Traveler Destination Choice », Journal of Travel Research, printemps, p. 8-14.</reference>
+        <reference>Woodside, A.G., et D. Sherrel (1977), « Traveler, Evoked, Inept and Inert Sets of Vacation Destination », Journal of Travel Research, vol. 16, hiver, p. 14-18.</reference>
+    </bibliographie>
+</article>

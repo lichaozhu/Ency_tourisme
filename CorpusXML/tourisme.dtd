@@ -1,0 +1,85 @@
+<!-- AJOUT balise du corpus FI -->
+<!ELEMENT tourisme (article+)>
+<!-- fin AJOUT FI -->
+
+<!ELEMENT article (meta,parution?,traductions?,auteurs,titre,sousTitre?,resume?,corps,bibliographie?,notes?)>
+<!ATTLIST article 
+    id ID #REQUIRED
+    source CDATA #REQUIRED
+    lang CDATA #REQUIRED>
+
+<!ELEMENT meta (extraction,DOI?,revue,numero?,annee?)>
+<!ELEMENT extraction (#PCDATA)>
+<!ELEMENT DOI (#PCDATA)>
+<!ELEMENT revue (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT annee (#PCDATA)>
+<!ELEMENT parution (#PCDATA)>
+
+<!ELEMENT traductions (original|traduction)*>
+<!ATTLIST original
+    lang CDATA #REQUIRED
+    source CDATA #REQUIRED>
+<!ELEMENT traduction (#PCDATA)>
+<!ATTLIST traduction
+    lang CDATA #IMPLIED
+    source CDATA #IMPLIED>
+<!ELEMENT traducteur EMPTY>
+<!ATTLIST traducteur
+    nom CDATA #REQUIRED
+    prenom CDATA #REQUIRED>
+
+<!ELEMENT auteurs (auteur*)>
+<!ELEMENT auteur (oeuvres?,description?)>
+<!ATTLIST auteur
+    nom CDATA #REQUIRED
+    prenom CDATA #REQUIRED
+    email CDATA #IMPLIED>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT oeuvres (publication+)>
+<!ELEMENT publication (#PCDATA)>
+<!ATTLIST publication
+    id CDATA #REQUIRED
+    source CDATA #REQUIRED
+    lang CDATA #REQUIRED>
+
+<!ELEMENT titre (#PCDATA)>
+
+<!ELEMENT sousTitre (#PCDATA)>
+
+<!ELEMENT resume (#PCDATA)>
+
+<!ELEMENT corps (section|paragraphe)*>
+<!ELEMENT section (#PCDATA)>
+<!ATTLIST section 
+    niveau CDATA #REQUIRED>
+<!ELEMENT paragraphe (#PCDATA|a|br|span|em|del|sup|sub|strong)*>
+<!ATTLIST paragraphe
+    num CDATA #IMPLIED>
+
+<!ELEMENT bibliographie (reference+)>
+<!ELEMENT reference (#PCDATA)>
+
+<!ELEMENT notes (note+)>
+<!ELEMENT note (#PCDATA)>
+<!ATTLIST note
+    id CDATA #REQUIRED>
+
+<!--permet de parser les balises HTML du paragraphe-->
+<!ELEMENT sub (#PCDATA|a|br|span|em|del|sup|sub|strong)*>
+<!ELEMENT span (#PCDATA|a|br|span|em|del|sup|sub|strong)*>
+<!ATTLIST span
+    lang CDATA #IMPLIED
+    xml:lang CDATA #IMPLIED
+    style CDATA #IMPLIED
+    class CDATA #IMPLIED>
+<!ELEMENT sup (#PCDATA|a|br|span|em|del|sup|sub|strong)*>
+<!ELEMENT br EMPTY>
+<!ELEMENT strong (#PCDATA|a|br|span|em|del|sup|sub|strong)*>
+<!ELEMENT a (#PCDATA|a|br|span|em|del|sup|sub|strong)*>
+<!ATTLIST a
+    class CDATA #IMPLIED
+    href CDATA #IMPLIED
+    id CDATA #IMPLIED>
+<!ELEMENT em (#PCDATA|a|br|span|em|del|sup|sub|strong)*>
+<!ELEMENT del (#PCDATA|a|br|span|em|del|sup|sub|strong)*>

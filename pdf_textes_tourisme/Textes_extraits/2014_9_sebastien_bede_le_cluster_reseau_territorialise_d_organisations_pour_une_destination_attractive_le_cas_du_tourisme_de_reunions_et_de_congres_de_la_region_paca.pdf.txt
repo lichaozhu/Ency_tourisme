@@ -1,0 +1,636 @@
+Mondes du Tourisme 
+9 | 2014
+
+La plage, territoire des corps
+
+Compte rendu de thèse
+
+Sébastien Bédé, Le cluster, réseau territorialisé
+d’organisations, pour une destination attractive : le cas
+du tourisme de réunions et de congrès de la région
+Provence-Alpes-Côte d’Azur
+Thèse de doctorat en sciences de gestion de l’Université Nice Sophia
+Antipolis, dirigée par Jacques Spindler (soutenue le 15 novembre 2013)
+Sébastien Bédé
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/152
+DOI : 10.4000/tourisme.152
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+Édition imprimée
+Date de publication : 1 juin 2014
+Pagination : 97-102
+ISSN : 2109-5671
+ 
+Référence électronique
+Sébastien Bédé, « Sébastien Bédé, Le cluster, réseau territorialisé d’organisations, pour une destination
+attractive : le cas du tourisme de réunions et de congrès de la région Provence-Alpes-Côte d’Azur », Mondes
+du Tourisme [En ligne], 9 | 2014, mis en ligne le 30 septembre 2015, consulté le 22 septembre 2020.
+URL : http://journals.openedition.org/tourisme/152  ; DOI : https://doi.org/10.4000/tourisme.152
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modification 4.0 International.
+
+ACTUALITÉ DE LA RECHERCHE
+
+COMPTE
+
+RENDU DE THÈSE
+
+Le cluster, réseau territorialisé d’organisations,
+pour une destination attractive :
+le cas du tourisme de réunions et de congrès
+de la région Provence-Alpes-Côte d’Azur
+
+Thèse de doctorat en sciences de gestion de l’Université Nice Sophia Antipolis,
+dirigée par Jacques Spindler
+(soutenue le 15 novembre 2013)
+
+SÉBASTIEN BÉDÉ
+
+armi les études menées sur
+les relations interorganisationnelles, la structuration
+du réseau est souvent traitée comme
+un sujet à part entière (Jamal et Getz,
+1995 ; Palmer et Bejou, 1995). De
+nombreuses approches théoriques
+ont été développées et appliquées
+pour analyser ces relations interorganisationnelles : la théorie de la
+dépendance des ressources (Pfeffer
+et Salancik, 1978), la théorie des coûts
+de transaction (Williamson, 1975),
+les ressources stratégiques (Prahalad
+et Hamel, 1990), la théorie des
+réseaux (Granovetter, 1985 ; Gulati,
+1998). Les travaux mobilisant ces
+approches dans le cadre de l’industrie du tourisme soulignent l’im-
+
+P
+
+[sebastien.bede@em-strasbourg.eu]
+
+portance des relations entre les touristes, les entreprises de services et
+les organisations de gestion de la
+destination (Tinsley et Lynch, 2001 ;
+Lazzeretti et Petrillo, 2006), mais peu
+de travaux s’emparent de l’approche
+par les réseaux pour s’intéresser à
+la destination touristique.
+La gestion d’une destination est
+considérée dans nos travaux sous
+l’angle d’une approche stratégique
+et opérationnelle pour renforcer
+l’attractivité de territoires dépendant
+des retombées économiques liées
+au tourisme. La gestion est fonction
+de la coordination des parties prenantes de la destination, dont les
+échanges peuvent concerner de
+simples informations jusqu’à des
+
+collaborations techniques ou commerciales (Baggio, 2007). Pour analyser les relations entre les acteurs
+d’une destination, notre recherche
+mobilise les concepts de relations
+interorganisationnelles et de réseau
+territorialisé d’organisations de tourisme de réunions et de congrès
+(TRC) (Christofle, 2013), et plus particulièrement celui de cluster.
+Les relations interorganisationnelles structurent le réseau et améliorent ses performances en créant
+des avantages compétitifs (Tremblay,
+1998). Cet ensemble de nœuds et
+de relations structure les réseaux
+d’entreprises. Porter (1999) définit
+le cluster comme “un groupe géographiquement proche d’entreprises
+JUIN 2014 • MONDES DU TOURISME N°9
+
+97
+
+SÉBASTIEN BÉDÉ
+
+liées entre elles et d’institutions associées relevant d’un domaine donné,
+entre lesquelles existent des éléments
+communs et des complémentarités.
+Son étendue géographique varie
+d’une seule ville ou d’une région à
+un pays entier, voire à un réseau de
+pays voisins […].” Pour Wolfe et
+Gertler (2004), il correspond à un
+réseau asymétrique d’entreprises
+spécialisées (dominé par une grande
+entreprise) et ancrées localement
+(étendue géographique limitée).
+Toutefois, le succès mondial d’un
+cluster tel que la Silicon Valley
+repose en premier lieu sur des relations interorganisationnelles ; la
+proximité géographique y joue un
+rôle secondaire (Suire et Vicente,
+2008 ; Retour, 2008). Certains auteurs
+tels que Granovetter (2000) et
+Iammarino et McCann (2006) ont
+déjà croisé la théorie des réseaux
+sociaux et l’approche par les clusters.
+Cependant, pour Hall (2005), la
+mise en application de cette
+approche soulève quelques problèmes concernant la mesure de la
+densité des relations d’un cluster,
+la description de la chaîne de valeur
+du tourisme et le rôle du territoire
+dans la mise en place du cluster.
+
+PROBLÉMATIQUE
+Bien que les recherches sur les
+destinations utilisant l’approche par
+les réseaux sociaux soient nombreuses, peu d’entre elles tentent de
+mettre en évidence les mécanismes
+activant la mise en relation des
+acteurs pour en développer l’attractivité. Selon Clergeau et Violier
+98
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+(2013), l’approche par les proximités
+offre une analyse riche des coopérations et de la mise en réseau des
+acteurs, cependant “[elle] est très
+faiblement mobilisée par les chercheurs pour comprendre les dynamiques des clusters touristiques”.
+Ainsi, notre question de recherche
+est la suivante : dans quelle mesure
+les différents types de proximité
+jouent-ils un rôle dans la structuration d’un cluster de tourisme ?
+Nous questionnons le concept
+de coordination des acteurs au sein
+d’un réseau territorialisé d’organisations à travers les différentes
+formes de proximité (organisationnelle, sociale, cognitive, institutionnelle et géographique) développées
+par Bouba-Olga et Grossetti (2008).
+Les différentes formes de proximité
+trouvent un intérêt particulier en
+sciences de gestion. D’après Gomez,
+Rousseau et Vandangeon-Derumez
+(2011), “la concentration physique
+d’individus (dans une organisation)
+ou d’organisations (sur un territoire)
+crée des effets de proximité qui ne
+peuvent être ignorés”. De nombreuses études comportent une
+même problématique, à savoir :
+“[…] la plus ou moins grande proximité entre les acteurs a des conséquences sur les processus et les performances des organisations”
+(Gomez, Rousseau et VandangeonDerumez, 2011). Selon Marcelpoil
+et François (2008), “l’articulation
+des proximités varie dans le temps
+et leur nature permet de rendre
+compte de dysfonctionnements dans
+l’organisation des stations” .
+L’objectif est alors de mettre en évi-
+
+dence les freins à la coordination
+entre acteurs pour la gouvernance
+des destinations touristiques. En
+management stratégique, les chercheurs s’intéressent aux avantages
+concurrentiels liés à la localisation
+géographique (Porter, 1990) qui favorisent l’innovation et développent
+l’attractivité. Ainsi, la proximité
+peut interroger les relations plus ou
+moins fortes qui lient une organisation à un réseau. Contrastant avec
+de nombreuses études, et dans le
+sillon de Wolfe et Gertler (2004),
+nous traitons de l’existence potentielle du cluster plutôt que d’en supposer l’existence a priori. Le point
+de départ de notre étude consiste
+à identifier les coopérations pour
+la promotion du TRC à travers les
+relations interorganisationnelles.
+
+MÉTHODOLOGIE
+Nous avons mobilisé la méthode
+dite mixte qui est envisageable
+lorsqu’“une combinaison de données
+quantitatives et qualitatives peut
+permettre d’enrichir la compréhension du phénomène étudié et la validité interne de la recherche grâce à
+la diversification et la triangulation
+des sources de données qu’elle rend
+possible” (Avenier et Thomas, 2011).
+Dans un premier temps, l’analyse
+structurale nous permet d’appréhender les propriétés de la structure
+du réseau (Granovetter, 1985 ; Burt,
+1995) à partir de concepts tels que
+la densité, la centralité et la périphéralité (ces concepts sont définis
+avec les résultats de l’analyse structurale afin d’en faciliter la compré-
+
+ACTUALITÉ DE LA RECHERCHE
+
+hension). Notre variable relationnelle repose sur la coopération des
+acteurs, c’est-à-dire le fait qu’ils
+partagent des ressources, pour la
+promotion du tourisme de congrès
+au niveau régional. Nous avons
+soumis aux répondants une liste
+des organisations de la région
+Provence-Alpes-Côte d’Azur (Paca)
+sous la forme d’un questionnaire
+dans lequel ils ont indiqué (et parfois
+complété) les organisations avec
+lesquelles ils ont des liens. Les données ont été analysées avec le logiciel
+Ucinet. Dans un second temps,
+l’étude discursive nous a permis de
+questionner les mécanismes sousjacents à la gouvernance d’un
+réseau en appréhendant la stratégie
+des acteurs. Les 26 entretiens réalisés représentent 37 heures d’enregistrement et 213 pages de
+retranscription. Ces entretiens ont
+fait l’objet d’une analyse de leur
+contenu afin de comprendre l’importance qu’occupe la stratégie
+des organisations dans la gouvernance du réseau à partir du logiciel
+NVivo. La codification des données
+a été établie à partir de catégories
+qui correspondent au cadre d’analyse de la gouvernance exposé cidessus.
+
+RÉSULTATS
+Les résultats nous permettent
+d’établir une tendance des acteurs
+à se regrouper autour de la ville de
+Nice et de Marseille (cf. figure 1).
+Ce phénomène de polarisation peut
+s’expliquer par les différentes dimensions de la proximité géographique,
+
+FIGURE 1 : LA DIVISION DE LA RÉGION PROVENCE-ALPES-CÔTE D’AZUR EN TERRITOIRES TOURISTIQUES
+
+Gréouxles-Bains
+
+Aix-enProvence
+
+PROVENCE
+Monaco
+
+Marseille
+Nice
+
+Cannes
+Toulon
+SaintRaphaël
+
+de la proximité de médiation et de
+celle des ressources immatérielles.
+Un phénomène de polarisation
+
+À Marseille, les acteurs du tourisme de réunions et de congrès ont
+bénéficié de l’arrivée du TGV. À
+l’est de la région, ils ont observé
+les effets du TGV à Marseille et
+sont conscients des enjeux du rattachement à ce réseau. Le TGV fait
+aujourd’hui cruellement défaut à
+la Côte d’Azur. Par conséquent,
+pour elle, l’aéroport est vital, car il
+est le seul moyen d’accès performant
+aux villes situées à l’est de la région.
+Marseille est donc un nœud articulant, d’une part, les moyens de
+transport de façon réticulaire en
+tant que point de jonction et, d’autre
+part, les échelles territoriales.
+Marseille a développé son influence
+grâce au port puis, aujourd’hui,
+grâce à l’aéroport et au TGV.
+
+Mandelieu
+
+CÔ
+
+’ AZ
+TE D
+
+UR
+
+Les acteurs-clés du réseau
+
+La proximité de médiation a permis de mettre en évidence la position
+centrale des organisations de gestion
+de la destination (OGD) dans le
+réseau et leur rôle dans la structuration du réseau. Les élus des collectivités territoriales sont également
+des intermédiaires. Toutefois, les
+observations soulignent un manque
+de considération de la part des élus
+pour le TRC et des relations de tension entre ces derniers entravant les
+dispositifs de coopération.
+Les ressources du territoire
+
+La marque, l’image, la culture et
+l’histoire sont des dimensions qui
+font référence au territoire comme
+construit social. Les acteurs sont
+attachés à leur territoire par une
+histoire économique plus ou moins
+liée au tourisme. L’image de la destination est la dimension principale
+JUIN 2014 • MONDES DU TOURISME N°9
+
+99
+
+SÉBASTIEN BÉDÉ
+
+sur laquelle les acteurs structurent
+leurs coopérations. Il est essentiel
+de noter, d’une part, que l’image
+et la marque sont diffusées par l’intermédiaire des OGD, et, d’autre
+part, que les OGD sont perçues
+comme la dimension principale de
+la proximité de médiation. Les
+chartes, garanties d’un niveau
+homogène de qualité, sont mises
+en place par les OGD. À l’image
+de son appellation, la région
+Provence-Alpes-Côte d’Azur est
+divisée en territoires composés de
+deux métropoles à ses extrémités
+et de villes exerçant une influence
+démographique, politique et économique importante. Ces territoires
+véhiculent des images distinctes
+indépendamment des frontières
+administratives. La mise en place
+d’une stratégie pour la promotion
+régionale du TRC entre en contradiction avec la réalité du territoire
+comme construit social.
+Le cluster à partir des
+complémentarités de proximité
+Les résultats de notre étude mettent en évidence le déficit de proximité géographique pour activer la
+coordination au sein de la région
+Paca. La proximité géographique
+seule n’assure pas la coordination
+quand elle n’est pas activée par une
+proximité organisée. Il est alors
+nécessaire de s’interroger sur la possibilité qu’un réseau soit construit
+sur la seule proximité organisée et
+de s’intéresser à l’importance du
+rôle de l’histoire et du temps pour
+construire le réseau local. Toutefois,
+les résultats de notre étude rendent
+100
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+également manifeste le manque de
+proximité organisée pour activer la
+coordination. Par conséquent, la
+destination touristique au niveau
+régional ne représente aucune réalité
+et correspond à des activités dispersées (Torre, 2006). Il n’est pas
+exclu que la région devienne un
+cluster et l’initiative du Prides(1) peut
+orienter la trajectoire du réseau.
+
+DISCUSSION
+Les clusters issus d’initiative
+publique connaissent des conflits
+d’intérêts liés aux subventions de
+la structure de gouvernance du cluster. En effet, la structuration du
+Prides est fondée sur une logique
+“top-down”, alors que les réseaux
+locaux sont soutenus par une
+logique “bottom-up”. L’initiative
+du Prides combine un déplacement
+du centre de gravité de la proximité
+de médiation et une déconstruction
+de la proximité géographique. Ces
+modifications bouleversent l’organisation régionale du tourisme et
+contraignent les acteurs à réorganiser la structure du réseau pour
+s’adapter au changement d’échelle
+spatiale, à de nouveaux acteurs et
+à de nouveaux enjeux. La conciliation des actions de chaque membre
+du réseau dépend alors de leur capacité à s’aligner sur des objectifs communs.
+L’organisation du tourisme, définie par les lois(2) promulguées dans
+le cadre de la décentralisation des
+compétences en matière de tourisme,
+prévoit que les acteurs inscrivent
+leurs actions dans un ensemble cohé-
+
+rent en prenant en compte les
+actions des échelons administratifs
+adjacents. Dans le cadre de la décentralisation et dans un contexte de
+réduction des subventions attribuées
+au comité régional du tourisme Côte
+d’Azur, la coopération des acteurs
+locaux avec le Prides fait craindre
+une perte de pouvoir des collectivités
+territoriales et des élus locaux. S’il
+s’avère que les bureaux des congrès
+locaux sont en doublon ou n’ont
+plus de légitimité, il sera certainement envisagé de les supprimer. Au
+regard des enjeux économiques et
+de l’image du territoire liés au TRC,
+cette politique régionale génère des
+conflits qui nuisent aux coopérations
+entre “techniciens”.
+Les tensions liées à la conservation de la compétence tourisme font
+écho à la remise en cause de l’article 72 de la Constitution(3) qui prévoit qu’“aucune collectivité territoriale ne peut exercer une tutelle
+sur une autre”. Ainsi, chaque collectivité dispose de compétences en
+tourisme et n’entend pas s’en dessaisir. L’article 72 prévoit la désignation d’un “chef de file”. Ce point
+a plusieurs fois été remis en cause.
+Le 15 mai 2013, la commission des
+lois a proposé un projet de loi de
+modernisation de l’action publique
+territoriale et d’affirmation des
+métropoles qui propose de désigner
+“chaque niveau de collectivités territoriales comme chef de file pour
+la mise en œuvre de compétences
+nécessitant l’intervention de plusieurs
+collectivités territoriales d’échelons
+différents(4)”. Dans ce cadre, il est
+aujourd’hui prévu que le schéma
+
+ACTUALITÉ DE LA RECHERCHE
+
+d’organisation des compétences et
+de mutualisation des services soit
+défini conjointement entre le conseil
+régional et les conseils généraux
+des départements et que la région
+assure le rôle de chef de file.
+Néanmoins, les ambiguïtés du projet
+de loi et les multiples modifications
+apportées depuis 2004 laissent penser que le choix du chef de file
+dépendra d’un jeu de compromis
+entre les collectivités territoriales
+autour de conflits d’intérêts politiques.
+L’enjeu du débat qui se joue
+actuellement afin de définir une collectivité territoriale comme chef de
+file du tourisme ne peut pas trouver
+d’issue favorable pour l’ensemble
+des territoires touristiques. Le découpage territorial est un facteur décisif
+dans les choix stratégiques de coopération. Toutefois, le changement
+d’échelle qui serait opéré en impo-
+
+sant une référence territoriale calquée sur les limites administratives
+régionales ou départementales a
+toutes les chances de ne pas correspondre à chacune des destinations.
+Parfois, la destination pertinente
+est dépendante de deux régions ou
+de deux départements. Dans ce cas,
+quelle est la solution prévue par
+l’avant-projet de loi du 10 avril
+2013 portant décentralisation et
+réforme de l’action publique porté
+par le gouvernement ? Aucune.
+L’avant-projet de loi portant
+décentralisation et réforme de l’action publique porté par le gouvernement revêt un enjeu important
+pour l’attractivité de nos destinations. Il est donc souhaitable que
+le cluster constitue une solution
+alternative qui permette de désigner
+un chef de file. À cette fin, il est
+important de redistribuer les compétences en matière de tourisme à
+
+partir d’une lecture claire de l’activité
+économique, des relations interorganisationnelles, de l’histoire du
+territoire, de l’image de la destination, etc.
+n
+
+NOTES
+(1) Le Pôle régional d’innovation et de développement économique et solidaire (Prides)
+a été créé à Marseille en 2008 par la région
+afin de structurer le réseau d’acteurs du TRC
+et de faire face à la concurrence.
+(2) Les lois du 3 janvier 1987, du 13 juillet
+1992, du 27 février 2002 et du 13 août
+2004 fixent la répartition des compétences
+entre l’État, les régions, les départements et
+les communes.
+(3) Article modifié par la loi constitutionnelle
+n° 2003-276 du 28 mars 2003 -art. 5.
+(4) [http://www.senat.fr/rap/l12-580/l125809.html].
+
+Références bibliographiques
+Ronald S. BURT, “Le capital social, les trous structuraux et l’entrepreneur”, Revue française de sociologie, vol. 36, 1995.
+Marie-José AVENIER et Catherine THOMAS, “Mixer quali et
+
+Cécile CLERGEAU et Philippe VIOLIER, “Les clusters tourisme :
+
+quanti pour quoi faire ? Méthodologie sans épistémologie n’est
+
+quels enjeux pour les systèmes d’information ?”, Mondes du
+
+que ruine de réflexion”, Cahiers de recherche du Cerag, juin
+
+tourisme, hors série, mars 2013.
+
+2011.
+
+Sylvie CHRISTOFLE, “Tourisme de réunions et de congrès et
+
+Rodolfo BAGGIO, “What network analysis can reveal about
+
+recherche géographique. Une thématique en devenir”, Mondes
+
+tourism destinations”, communication au colloque Complex
+
+du tourisme, hors série, mars 2013.
+
+Networks: from Biology to Information Technology, Pula (Italie),
+
+Pierre-Yves GOMEZ, Anne ROUSSEAU et Isabelle
+
+2-6 juillet 2007.
+
+VANDANGEON-DERUMEZ, “Distance et proximité. Esquisse
+
+Olivier BOUBA-OLGA et Michel GROSSETTI, “Socio-économie de
+
+d’une problématique pour les organisations”, Revue française
+
+proximité”, Revue d’économie régionale & urbaine, n° 3, 2008.
+
+de gestion, n° 213, 2011.
+
+JUIN 2014 • MONDES DU TOURISME N°9
+
+101
+
+SÉBASTIEN BÉDÉ
+
+Mark GRANOVETTER, “Economic action and social structure:
+the problem of embeddedness”, American Journal of Sociology,
+
+Revue française de gestion, n° 190, 2008.
+
+vol. 91, n° 3, 1985.
+
+Raphaël SUIRE et Jérôme VICENTE, “Théorie économique des
+
+Mark GRANOVETTER, “The economic sociology of firms and
+
+clusters et management des réseaux d’entreprises innovantes”,
+
+entrepreneurs”, dans Richard Swedberg (dir.), Entrepreneurship:
+
+Revue française de gestion, n° 184, 2008.
+
+A Social Science View, Oxford University Press, 2000.
+
+Ross TINSLEY et Paul LYNCH, “Small tourism business networks
+
+Ranjay GULATI, “Alliances and networks”, Strategic
+
+and destination development”, International Journal of Hospitality
+
+Management Journal, vol. 19, n° 4, 1998.
+
+Management, vol. 20, n° 4, 2001.
+
+Colin Michael HALL, “Rural wine and food tourism cluster and
+
+André TORRE, “Clusters et systèmes locaux d’innovation. Un
+
+network development”, dans Derek R. Hall, Irene Kirkpatrick
+
+retour critique sur les hypothèses naturalistes de la transmis-
+
+et Morag Mitchell (dir.), Rural Tourism and Sustainable Business,
+
+sion des connaissances à l’aide des catégories de l’économie de
+
+Channel View Publications, 2005.
+
+la proximité”, Régions et Développement, n° 24, 2006.
+
+Simone IAMMARINO et Philippe MCCANN, “The structure and
+
+Pascal TREMBLAY, “The economic organization of tourism”,
+
+evolution of industrial clusters: transactions, technology and
+
+Annals of Tourism Research, vol. 25, n° 4, 1998.
+
+knowledge spillovers”, Research Policy, Elsevier, vol. 3, n° 7,
+
+Oliver E. WILLIAMSON, Markets and Hierarchy. Analysis and
+
+2006.
+
+Antitrust Implications, Free Press, 1975.
+
+Tazim B. JAMAL et Donald GETZ, “Collaboration theory and
+
+David A. WOLFE et Meric S. GERTLER, “Clusters from the inside
+
+community tourism planning”, Annals of Tourism Research,
+
+and out: local dynamics and global linkages”, Urban Studies,
+
+vol. 22, n° 1, 1995.
+
+vol. 41, nos 5-6, 2004.
+
+Luciana LAZZERETTI et Clara S. PETRILLO, Tourism Local Systems
+and Networking, Elsevier, 2006.
+Emmanuelle MARCELPOIL et Hugues FRANÇOIS, “Les processus
+d’articulation des proximités dans les territoires touristiques.
+L’exemple des stations de montagne”, Revue d’économie régionale & urbaine, n° 2, 2008.
+Adrian PALMER et David BEJOU, “Tourism destination marketing alliances”, Annals of Tourism Research, vol. 22, n° 3, 1995.
+Jeffrey PFEFFER et Gerald R. SALANCIK, The External Control of
+Organizations: A Resource Dependence Perspective, Harper and
+Row Publishers, 1978.
+Michael E. PORTER, The Competitive Advantage of Nations,
+Macmillan, 1990.
+Michael E. PORTER, La Concurrence selon Porter, Village Mondial,
+1999.
+C. K. PRAHALAD et Gary HAMEL, “The core competence of the
+corporation”, Harvard Business Review, mai-juin 1990.
+
+102
+
+Didier RETOUR, “Pôles de compétitivité, propos d’étape”,
+
+MONDES DU TOURISME N° 9 • JUIN 2014
+
+

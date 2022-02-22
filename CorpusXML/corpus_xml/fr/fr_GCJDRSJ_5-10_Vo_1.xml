@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="fr_GCJDRSJ_5-10_Vo_1" source="https://journals.openedition.org/viatourism/2859" lang="fr">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <DOI>https://doi.org/10.4000/viatourism.2859</DOI>
+        <revue>Viatourism</revue>
+        <numero>3</numero>
+        <annee>2013</annee>
+    </meta>
+    <auteurs>
+        <auteur nom="Chareyron" prenom="Gael">
+        </auteur>
+        <auteur nom="Da Rugna" prenom="Jérôme">
+        </auteur>
+        <auteur nom="Jacquot" prenom="Sébastien">
+            <oeuvres>
+                <publication id="fr_SJ_7-61_Ue_1" source="https://journals.openedition.org/viatourism/1640" lang="fr">Une étape de plus dans le tout tourisme et le tout patrimoine</publication>
+                <publication id="fr_SJ_7-25_Ae_1" source="https://journals.openedition.org/viatourism/1643" lang="fr">A quoi sert le tourisme ?</publication>
+                <publication id="fr_MGBSJ_51-96_Ps_1" source="https://journals.openedition.org/viatourism/853" lang="fr">Patrimoine mondial, tourisme et développement durable en Afrique : discours, approches et défis </publication>
+                <publication id="fr_None_32-69_Pe_1" source="https://journals.openedition.org/viatourism/2793" lang="fr">Pour une approche politique des réseaux dans la recherche en tourisme</publication>
+                <publication id="fr_SJGCSC_40-133_Ls_1" source="https://journals.openedition.org/tourisme/1713" lang="fr">Le tourisme de mémoire au prisme du « big data ». Cartographier les circulations touristiques pour observer les pratiques mémorielles</publication>
+            </oeuvres>
+        </auteur>
+    </auteurs>
+    <titre>Valparaiso</titre>
+    <corps>
+        <paragraphe num="1">
+            Plusieurs quartiers de Valparaiso (Chili) ont été inscrits en 2003 sur la Liste du Patrimoine Mondial de l’UNESCO, concrétisant une stratégie de mise en tourisme de la ville lancée dans les années 1990, après de nombreux débats, portant notamment sur les périmètres patrimoniaux, entre une conception extensive du patrimoine concernant l’ensemble de la ville, au titre des paysages urbains, et une conception plus réduite du patrimoine, correspondant aux espaces historiques, vision finalement consacrée par l’UNESCO. Dans quelle mesure les pratiques touristiques consolident-elles ce choix ? Les traces laissées <em>a posteriori</em> par les touristes, notamment de façon virtuelle via les photos postées sur les réseaux sociaux, permettent d’identifier les spatialisations des pratiques touristiques.
+        </paragraphe>
+        <paragraphe num="2">
+            Les deux cartes proposées, produites par Gaël Chareyron et Jérôme Da Rugna<a class="footnotecall" href="#ftn1" id="bodyftn1">1</a>, reposent sur le traitement des photos postées par les usagers de <em>Flickr</em> et <em>Panoramio</em>, en utilisant les métadonnées associées à ces photos : leur géolocalisation, et les informations déclarées par l’usager, notamment son lieu de résidence. Les cartes sont issues de l’ensemble des photos postées entre 2005 et 2011 inclus, et illustrent, en fonction de la provenance des photographes, la localisation de l’ensemble des photos. La carte 1 représente donc les localisations des photos prises par les 4129 photographes déclarant résider au Chili, parmi lesquels de nombreux habitants de la région métropolitaine du <em>Gran Valparaiso</em>, mais aussi des touristes, provenant notamment de Santiago du Chili, tandis que la carte 2 représente les localisations des photographies prises par les 2103 usagers déclarant un lieu de résidence hors du Chili, constituant donc des touristes internationaux. 
+        </paragraphe>
+        <paragraphe num="3">
+            Les traces photographiques laissées par les touristes internationaux permettent de redessiner le périmètre UNESCO et sa zone tampon, montrant une spatialisation touristique conforme aux cartes touristiques distribuées dans la ville. Les autres zones denses en photographies, en dehors du périmètre UNESCO, renvoient à la maison de Pablo Néruda (<em>La Sebastiana</em>) et les deux miradores, des deux côtés de la ville, offrant un panorama sur l’ensemble de Valparaiso. La carte 1, qui mêle habitants et touristes nationaux, sans que les rapports entre les deux soient connus, permet par la diffusion plus importante des photographes de mieux mettre en évidence la concentration des touristes internationaux en quelques secteurs de la ville. Une première lecture permet alors de conclure en la reproduction par la pratique photographique des haut-lieux touristiques à Valparaiso, confortant notamment la stratégie sélective patrimoniale.
+        </paragraphe>
+        <paragraphe num="4">
+            Toutefois une autre lecture peut être développée. Au-delà de l’effet de masse des fortes densités photographiques du périmètre UNESCO et des quelques secteurs mis en avant pour leurs possibilités de panorama, cette carte révèle des pratiques plus buissonnières, quantitativement moins importantes, mais illustrant néanmoins des parcours hors des circuits conseillés, dans des collines non patrimonialisées, marquées par un peuplement plus populaire, et parfois déconseillées à la visite.
+        </paragraphe>
+        <paragraphe num="5">
+            Ces deux cartes illustrent l’intérêt pour les études du tourisme de saisir les pratiques photographiques des touristes dans leur dimension spatiale, révélant une géographie des haut-lieux, que l’on peut confronter aux pratiques photographiques des habitants. Elles permettent également d’appréhender les pratiques photographiques plus inattendues, hors des sentiers battues, qui concernent une proportion moindre de photographes mais peuvent révéler de nouvelles modalités d’appropriation spatiales dans les franges des espaces perçus comme touristiques.
+        </paragraphe>
+    </corps>
+    <notes>
+        <note id="1">Un site internet permet de générer les cartes des pratiques photographiques pour l’ensemble des destinations mondiales, à partir des photos sur Flikr et Panoramio : http://www.earthmapper.org/</note>
+    </notes>
+</article>

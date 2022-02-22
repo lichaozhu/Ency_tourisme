@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="fr_TFHJW_3-38_Fn_1" source="https://journals.openedition.org/viatourism/1626" lang="fr">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <DOI>https://doi.org/10.4000/viatourism.1626</DOI>
+        <revue>Viatourism</revue>
+        <numero>1</numero>
+        <annee>2012</annee>
+    </meta>
+    <traductions>
+        <traduction lang="en" source="1627">Flows of tourist mobility in Berlin </traduction>
+        <traduction lang="es" source="1628">Flujos de movilidad turística en Berlín</traduction>
+        <traduction lang="ca" source="1630">Flux de mobilitat touristica a Berlín</traduction>
+    </traductions>
+    <auteurs>
+        <auteur nom="Freytag" prenom="Tim">
+            <oeuvres>
+                <publication id="de_TFHJW_3-40_Sn_1" source="https://journals.openedition.org/viatourism/1623" lang="de">Ströme touristischer Mobilität in Berlin</publication>
+                <publication id="en_TFHJW_3-36_Fn_1" source="https://journals.openedition.org/viatourism/1627" lang="en">Flows of tourist mobility in Berlin </publication>
+                <publication id="es_TFHJW_3-39_Fn_1" source="https://journals.openedition.org/viatourism/1628" lang="es">Flujos de movilidad turística en Berlín</publication>
+                <publication id="ca_TFHJW_3-37_Fn_1" source="https://journals.openedition.org/viatourism/1630" lang="ca">Flux de mobilitat touristica a Berlín</publication>
+                <publication id="fr_TFMG_44-80_He_1" source="https://journals.openedition.org/tourisme/234" lang="fr">Heidelberg, ou comment une ville historique est devenue un haut lieu touristique</publication>
+            </oeuvres>
+            <description>
+                Université de Fribourg 
+            </description>
+        </auteur>
+        <auteur nom="Weber" prenom="Hans-Jörg">
+            <oeuvres>
+                <publication id="de_TFHJW_3-40_Sn_1" source="https://journals.openedition.org/viatourism/1623" lang="de">Ströme touristischer Mobilität in Berlin</publication>
+                <publication id="en_TFHJW_3-36_Fn_1" source="https://journals.openedition.org/viatourism/1627" lang="en">Flows of tourist mobility in Berlin </publication>
+                <publication id="es_TFHJW_3-39_Fn_1" source="https://journals.openedition.org/viatourism/1628" lang="es">Flujos de movilidad turística en Berlín</publication>
+                <publication id="ca_TFHJW_3-37_Fn_1" source="https://journals.openedition.org/viatourism/1630" lang="ca">Flux de mobilitat touristica a Berlín</publication>
+            </oeuvres>
+            <description>
+                Université de Fribourg 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>Flux de mobilité touristique à Berlin </titre>
+    <corps>
+        <paragraphe num="1">
+            Après Paris et Londres, Berlin arrive en troisième position parmi les grandes destinations européennes du tourisme des grandes villes. En 2010, plus de 20 millions de nuitées ont été enregistrées par l’hôtellerie locale. Par conséquent, la capitale allemande peut servir de laboratoire afin d’étudier la configuration et les changements du tourisme urbain.
+        </paragraphe>
+        <paragraphe num="2">
+            La carte affiche la mobilité de 300 visiteurs à Berlin. Les couleurs représentent la part des individus qui ont été traqués dans les mailles d’un filet de 25 mètres pendant leur séjour. La couleur rouge fait ressortir les lieux les plus fréquentés, tels que le Reichstag, la porte de Brandebourg et la PotsdamerPlatz. On identifie par ailleurs les grands boulevards Unter den Linden, Friedrichstraße et Kurfürstendamm ainsi que les tracés du réseau de métro. Combiné avec les données recueillies par questionnaires, les flux touristiques peuvent être analysés selon les caractéristiques socioéconomiques, démographiques etc.
+        </paragraphe>
+        <paragraphe num="3">
+            Les données ont été recueillies en septembre 2010 à l’aide de loggers GPS et de questionnaires dans le cadre d’un projet de recherche à Berlin. L’analyse des données a été accomplie par les auteurs de cet article en coopération avec Michael Bauder au moyen du logiciel ArcGIS à l’institut de géographie culturelle de l’université de Fribourg en Allemagne.
+        </paragraphe>
+    </corps>
+</article>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="de_TFHJW_3-40_Sn_1" source="https://journals.openedition.org/viatourism/1623" lang="de">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <DOI>https://doi.org/10.4000/viatourism.1623</DOI>
+        <revue>Viatourism</revue>
+        <numero>1</numero>
+        <annee>2012</annee>
+    </meta>
+    <auteurs>
+        <auteur nom="Freytag" prenom="Tim">
+            <oeuvres>
+                <publication id="fr_TFHJW_3-38_Fn_1" source="https://journals.openedition.org/viatourism/1626" lang="fr">Flux de mobilité touristique à Berlin </publication>
+                <publication id="en_TFHJW_3-36_Fn_1" source="https://journals.openedition.org/viatourism/1627" lang="en">Flows of tourist mobility in Berlin </publication>
+                <publication id="es_TFHJW_3-39_Fn_1" source="https://journals.openedition.org/viatourism/1628" lang="es">Flujos de movilidad turística en Berlín</publication>
+                <publication id="ca_TFHJW_3-37_Fn_1" source="https://journals.openedition.org/viatourism/1630" lang="ca">Flux de mobilitat touristica a Berlín</publication>
+                <publication id="fr_TFMG_44-80_He_1" source="https://journals.openedition.org/tourisme/234" lang="fr">Heidelberg, ou comment une ville historique est devenue un haut lieu touristique</publication>
+            </oeuvres>
+            <description>
+                Universität Freiburg 
+            </description>
+        </auteur>
+        <auteur nom="Weber" prenom="Hans-Jörg">
+            <oeuvres>
+                <publication id="fr_TFHJW_3-38_Fn_1" source="https://journals.openedition.org/viatourism/1626" lang="fr">Flux de mobilité touristique à Berlin </publication>
+                <publication id="en_TFHJW_3-36_Fn_1" source="https://journals.openedition.org/viatourism/1627" lang="en">Flows of tourist mobility in Berlin </publication>
+                <publication id="es_TFHJW_3-39_Fn_1" source="https://journals.openedition.org/viatourism/1628" lang="es">Flujos de movilidad turística en Berlín</publication>
+                <publication id="ca_TFHJW_3-37_Fn_1" source="https://journals.openedition.org/viatourism/1630" lang="ca">Flux de mobilitat touristica a Berlín</publication>
+            </oeuvres>
+            <description>
+                Universität Freiburg 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>Ströme touristischer Mobilität in Berlin</titre>
+    <corps>
+        <paragraphe num="1">
+            Berlin zählt nach Paris und London zu den bedeutendsten Destinationen des europäischen Städtetourismus. Es wurden 2010 mehr als 20 Millionen Übernachtungen in den Hotels und Beherbergungsbetrieben der Stadt verzeichnet. Deshalb eignet sich die deutsche Hauptstadt als Labor, um Strukturen und Veränderungen im Städtetourismus zu untersuchen.
+        </paragraphe>
+        <paragraphe num="2">
+            Die Karte zeigt die Mobilität von 300 touristischen Besuchern in Berlin. Mittels der Farbgebung wird der Anteil der Personen dargestellt, die sich während der Erhebung innerhalb der einzelnen Maschen eines Netzes von 25m Kantenlänge aufgehalten haben. Die rötliche Färbung markiert die am stärksten frequentierten Aufenthaltsorte, wie z.B. den Reichstag, das Brandenburger Tor und den Potsdamer Platz. Weiterhin treten die Straßenzüge Unter den Linden, Friedrichstraße und Kurfürstendamm sowie einzelne Trassen von S- und U-Bahn hervor. In Verbindung mit der Fragebogenerhebung lassen sich die Mobilitätspfade differenziert nach sozioökonomischen, demographischen und anderen Variablen analysieren.
+        </paragraphe>
+        <paragraphe num="3">
+            Die Daten wurden im September 2010 mit Hilfe von GPS Loggern und Fragebögen in Berlin erfasst und im Rahmen eines Forschungsvorhabens von den Autoren dieses Beitrags am Institut für Kulturgeographie der Universität Freiburg in Kooperation mit Michael Bauder unter Verwendung von ArcGIS Software ausgewertet.
+        </paragraphe>
+    </corps>
+</article>

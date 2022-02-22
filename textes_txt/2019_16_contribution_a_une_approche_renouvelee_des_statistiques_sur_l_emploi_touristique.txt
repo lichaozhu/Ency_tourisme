@@ -1,0 +1,613 @@
+Mondes du Tourisme 
+16 | 2019
+
+Tourisme et emplois : singularités, permanences,
+transformations
+
+Contribution à une approche renouvelée des
+statistiques sur l’emploi touristique
+
+Contribution to a renewed approach to the tourist employment statistics
+Philippe Violier
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/2322
+DOI : 10.4000/tourisme.2322
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+ 
+Référence électronique
+Philippe Violier, « Contribution à une approche renouvelée des statistiques sur l’emploi touristique »,
+Mondes du Tourisme [En ligne], 16 | 2019, mis en ligne le 01 décembre 2019, consulté le 09 avril 2020.
+URL : http://journals.openedition.org/tourisme/2322  ; DOI : https://doi.org/10.4000/tourisme.2322
+
+Ce document a été généré automatiquement le 9 avril 2020.
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modification 4.0 International.
+
+Contribution à une approche renouvelée des statistiques sur l’emploi touristique
+
+Contribution à une approche
+renouvelée des statistiques sur
+l’emploi touristique
+Contribution to a renewed approach to the tourist employment statistics
+Philippe Violier
+
+1
+
+Cette analyse s’inscrit à la suite d’une réflexion sur le dénombrement des « voyageurs »
+internationaux selon l’Organisation mondiale du tourisme (OMT) et les institutions
+gouvernementales publiée récemment (Stock, Coeffé et Violier, 2017). Dans le même
+ordre d’idées, des données sont mobilisées au sujet des emplois touristiques. Ainsi, le
+global des emplois en France est estimée à +/- 10 %. L’effectif salarié dans le secteur
+serait de l’ordre de 8 % du total (1 038 559 sur 12 839 130) selon le Mémento du tourisme
+2017 (données de 2016), publication annuelle de la direction générale des Entreprises du
+ministère de l’Économie et des Finances. Les recherches sur cette question dans la
+littérature scientifique s’appuient sur les données produites par les organismes
+institutionnels. Si une distance est parfois prise (Clergeau, 2013), nous relevons que cet
+angle de l’emploi est peu travaillé (Raboteur, 2000), quand le sujet n’est pas seulement
+effleuré (Sinclair et Stabler, 1997 ; Caccomo, 2007 ; Vellas, 2007 ; Botti et al., 2013). Nous
+nous proposons donc, dans cet article, de nous interroger tout d’abord de manière plus
+précise sur les conditions dans lesquelles ces données sont produites ; nous montrerons
+ainsi les biais qui perturbent l’analyse. Puis, nous esquisserons une piste de recherche
+pour établir des données plus robustes.
+
+1. Une combinaison entre choix par défaut et
+raisonnement économique
+2
+
+Les données sur l’emploi en France sont élaborées par deux organismes institutionnels.
+D’une part, l’Insee a publié en 2015 un numéro d’Insee Première consacré à l’emploi
+touristique local, soit les emplois « directement liés à la présence de touristes sur le lieu
+
+Mondes du Tourisme, 16 | 2019
+
+1
+
+Contribution à une approche renouvelée des statistiques sur l’emploi touristique
+
+de leur séjour » (Durieux et al., 2015, p. 1). Ce choix met de côté, de fait, le secteur des
+transports ainsi que celui des agences de voyage, mais confond le tourisme et les
+voyages d’affaires. D’autre part, le Mémento du tourisme, publié par la direction générale
+des Entreprises aborde également la question des emplois, notamment dans sa dernière
+édition (2018, chiffres de 2017). L’analyse de ces deux publications permet d’informer
+plusieurs critiques.
+3
+
+Premièrement, la base de la définition d’un secteur du « tourisme » s’inscrit dans la
+comptabilité nationale, dont l’objet consiste à mesurer la valeur ajoutée produite par
+l’économie nationale. Elle vise de ce fait à éviter les doubles comptes provenant des
+chevauchements possibles entre différentes branches. Ainsi, les déplacements des
+« touristes » qui animent ce secteur économique à côté de ceux effectués par les
+habitants ne sont pas pris en compte, puisqu’ils sont déjà inclus dans la branche
+transport. La branche du « tourisme » est ainsi construite à partir des « activités
+caractéristiques », appellation qui couvre un ensemble hétérogène dont l’unité ne tient
+qu’au fait qu’aucune autre branche de la comptabilité nationale ne les englobe. C’est
+donc un choix par défaut. Afin cependant de ne pas minimiser les effets économiques
+du « tourisme », l’OMT a recommandé l’usage du compte satellite du tourisme (CST)
+qui, à côté des activités caractéristiques, évalue la contribution du secteur aux autres
+branches et permet de mesurer la consommation touristique intérieure des résidents et
+des non-résidents, en France.
+
+4
+
+Or parmi les branches du « tourisme », trois d’entre elles rassemblent 89 % des
+emplois : les « hébergements touristiques » pour 17 %, les « restaurants et cafés » pour
+49 % et les « services non urbains de transport » pour 23 %.
+
+5
+
+Si les entreprises de l’hébergement peuvent être, en grande partie, considérées comme
+relevant des mobilités, toutes ces dernières relèvent-elles du tourisme au sens strict ?
+Nous touchons là à une question fondamentale qui partage les chercheurs : les uns,
+pour délimiter le tourisme, s’approprient la définition en usage dans les institutions et
+défendue par l’OMT1 ; les autres défendent une approche plus restrictive, soit un
+système qui a pour finalité la recréation des individus, ce qui exclut de fait les voyages
+d’affaires, les pèlerinages et autres voyages scolaires (Knafou et Stock, 2003). Ces
+auteurs insistent sur le fait que le tourisme est une mobilité du temps libre, qui place
+les individus au centre des choix essentiels (choix de la destination, des compagnes et
+compagnons de voyage, de l’usage du temps sur place… ; alors que dans les voyages
+d’affaires, les décisions relèvent de la stratégie de l’entreprise, y compris pour les
+voyages dits de stimulation, de récompense ou autres) (Stock et al., 2018).
+
+6
+
+C’est également loin d’être le cas des restaurants et des cafés, qui sont également
+fréquentés par les habitants. Les proportions de non-résidents, dont les touristes, et
+d’habitants au sein de leur clientèle sont variables selon les lieux. La DGE le reconnaît
+d’ailleurs :
+Les indicateurs d’activité, d’emplois et de démographie d’entreprises mentionnés
+portent sur l’ensemble des secteurs liés au tourisme, sachant qu’une partie
+seulement de ces secteurs, variable selon les cas, relève effectivement du tourisme.
+Ainsi, par exemple, le total des emplois ne concerne pas que l’emploi touristique,
+mais la totalité de l’emploi dans les secteurs caractéristiques du tourisme. (DGE,
+2017, p. 23)
+
+Mondes du Tourisme, 16 | 2019
+
+2
+
+Contribution à une approche renouvelée des statistiques sur l’emploi touristique
+
+7
+
+Or cette précaution, prise dans l’ouvrage, est systématiquement oubliée dans les
+communications ultérieures, notamment lorsque sont proclamées les données sur
+l’emploi touristique.
+
+8
+
+Deuxièmement, ce choix est aussi inspiré par le modèle de la « chaîne de valeur » et par
+une définition économiciste du tourisme, qui réduit le tourisme à un échange
+marchand, alors que la part du non-marchand est importante. Selon les statistiques de
+la DGE elle-même, les personnes qui résident en France et qui passent une nuit en
+dehors de leur résidence principale, dans le cadre de voyages personnels, ont eu
+recours en 2017, pour 62,4 % des nuitées, à des hébergements non marchands 2. Là
+encore, la part du tourisme est difficile à apprécier au sein de cette catégorie des
+« voyages personnels » car elle englobe, outre le tourisme au sens strict, les visites aux
+parents et amis qui relèvent des relations sociales et revêtent donc un caractère
+obligatoire du point de vue des normes sociales. Mais le non-marchand génère des
+activités marchandes : bâtiment, construction, entretien paysagiste, alimentation… Ces
+dépenses sont prises en compte dans le CST au titre des dépenses des touristes.
+
+9
+
+Troisièmement, les personnels des organisations institutionnelles ne sont pas pris en
+compte dans ce décompte des emplois. Or, le réseau « Tourisme & territoires », qui
+anime les agences départementales, revendique sur son site 2000 emplois 3. Il
+conviendrait également d’ajouter les emplois occupés au sein des structures locales et
+intercommunales, ainsi qu’au niveau régional.
+
+10
+
+Ensuite, dans la publication de la DGE les données incluent les services des agences de
+voyage et voyagistes, alors que l’Insee (Durieux et al., 20015) les exclue en se
+concentrant sur « l’emploi local ». Certes, l’activité des agences de voyage – appellation
+qui recouvre aussi bien les agences de voyage au sens strict, qui sont des points de
+vente, que les tour-opérateurs qui élaborent les prestations, circuits et séjours
+distribués par les premières – est en grande partie orientée vers l’outgoing. Mais une
+partie de l’activité de cet ensemble est au contraire orientée vers l’accueil in situ et
+relève donc bien de l’emploi local. Certaines entreprises notamment, les agences
+réceptives, sont totalement orientées vers cette fonction.
+
+11
+
+Enfin, outre le flou qui entoure la définition du périmètre du secteur et donc des
+emplois qui en relèvent, l’analyse longitudinale est également perturbée par des
+modifications fréquentes. En nous basant sur trois éditions du Mémento du tourisme,
+nous avons pu établir le tableau suivant, qui met en évidence les modifications
+apportées. La colonne de droite indique les observations que nous inspire cette
+approche longitudinale. Nous avons retenu trois années : 2009 comme année de base
+pour conduire les observations ; 2013 car il n’y a pas de changement entre 2009 et 2013 ;
+et enfin 2015. Des catégories sont apparues en 2013 et 2015. Certaines ont vu leur
+périmètre redéfini. Une autre a été mentionnée en marge du tableau en 2009. Une
+dernière a disparu en 2013. Notons cependant qu’elles portent sur des effectifs réduits.
+Tableau 1. Évolution des catégories statistiques prises en compte dans le Mémento du tourisme,
+publié annuellement par la DGE
+
+2009
+
+Mondes du Tourisme, 16 | 2019
+
+2013
+
+2015
+
+3
+
+Contribution à une approche renouvelée des statistiques sur l’emploi touristique
+
+Apparition
+
+Sites et monuments Organisation de jeux de
+historiques
+hasard et d’argent
+
+de
+
+nouvelles catégories
+
+Évolution
+
+du
+
+périmètre
+
+de
+
+mentionnées
+
+Activités récréatives
+
+Parcs d’attraction et
+autres services récréatifs
+(31 849 emplois)
+
+Location de courte
+en durée de voitures…
+
+marge
+Disparition
+
+(17 528 emplois)
+
+(7 834 emplois)
+
+certaines catégories
+Catégories
+
+(2 956 emplois)
+
+(11 491 emplois)
+de
+
+catégories
+
+Entretien
+corporel
+(9 071 emplois en 2009)
+
+2. Position de recherche : inverser le modèle
+12
+
+Il est prématuré de proposer une méthode alternative. Nous pouvons seulement inviter
+à engager une réflexion qui, au lieu de définir a priori un ensemble de secteurs et en se
+fondant sur un concept robuste du tourisme, partirait des pratiques réelles des
+individus touristes qui génèrent des dépenses auprès d’entreprises et d’organisations
+qui pourraient dès lors être considérées comme relevant du tourisme, dans une
+proportion à définir. L’emploi en serait ensuite déduit. La démarche consiste à
+identifier, en premier lieu, les pratiques des touristes. Ensuite, nous mobilisons la
+typologie des lieux, selon le principe que, parmi les lieux touristiques, certains sont
+spécialisés et donc une grande partie de leurs emplois dépendent du tourisme, tandis
+que dans d’autres, polyfonctionnels, seule une partie, à déterminer, des emplois peut
+être qualifiée de touristique. Il serait enfin nécessaire d’introduire une dimension de
+saisonnalité.
+
+2.1. Les comportements des touristes
+13
+
+La première étape consiste à identifier des contextes touristiques types à partir, d’une
+part, des modes d’accès aux lieux touristiques pratiqués par les individus. Nous
+proposons de mobiliser une modélisation (schéma 2) déjà publiée (Stock et al., 2018).
+
+Mondes du Tourisme, 16 | 2019
+
+4
+
+Contribution à une approche renouvelée des statistiques sur l’emploi touristique
+
+Schéma 2. Position de recherche à partir d’un modèle économique/chaîne de valeur alternatif
+
+Source : élaboré par l’auteur, publié dans Stock et al., 2018
+14
+
+La modélisation que nous proposons repose sur une analyse des pratiques qui oppose
+deux situations extrêmes. D’une part, les individus sont confrontés, pour mettre en
+œuvre leur projet touristique, à une forte altérité objective, c’est-à-dire que des
+horizons d’altérité peuvent être définis (langue, culture, manières d’être, mal être
+corporel…) résultant de l’hétérogénéité culturelle ou biophysique du monde. Pour
+affronter cette altérité, les individus sollicitent des technologies spatiales (Stock, 2008),
+telles que le voyage organisé tout compris pour une pratique de découverte ou le séjour
+en hôtel-club dans le cas d’une recherche de repos ou de jeux. La chaîne de valeur
+(agent de voyage-tour opérateur-transporteur-hébergeur) fonctionne. Dans ces
+situations il est possible de considérer que la très grande partie des emplois est
+strictement cantonnée aux entreprises caractéristiques du tourisme.
+
+15
+
+Dans le détail, cependant, deux nuances peuvent être apportées. D’une part, la chaîne
+de valeur est concurrencée par des médiations opérées par des relations sociales
+(parents et amis) qui offrent aux individus des alternatives. D’autre part, sur leur lieu
+de destination, les individus trouvent des marges de manœuvre dans l’articulation
+entre les établissements contrôlés par les grands groupes capitalistes, inclus dans la
+chaîne de valeur, et les artisans locaux qui gravitent à proximité et qui n’y sont pas
+intégrés. Par exemple, à Maurice, l’expérience de nager avec les dauphins est
+essentiellement proposée dans la Baie de Tamarin par de petites entreprises locales,
+alors qu’une grande part de la fréquentation de l’île reste contrôlée par les grands
+groupes maîtrisant les hôtels-clubs.
+
+16
+
+À l’opposé, en situation de forte familiarité, les touristes entrent en relation directe, ou
+non intermédiée, avec des entreprises variées. C’est notamment le cas lorsque des
+individus qui résident en France métropolitaine y déploient également leurs pratiques
+touristiques. Or ce cas de figure est dominant : en 2017, 19 % seulement des nuitées
+induites par les voyages personnels ont eu pour cadre un pays étranger ou les DOM
+
+Mondes du Tourisme, 16 | 2019
+
+5
+
+Contribution à une approche renouvelée des statistiques sur l’emploi touristique
+
+(DGE, 2018). C’est aussi le cas lorsque des non-résidents ont acquis, grâce à des séjours
+fréquents, des compétences poussées – pas nécessairement dans le même lieu, car une
+partie des savoirs peut être réinvestie ailleurs. Dans ce cas, une grande partie des
+besoins sont satisfaits de façon autoproduite par les touristes, notamment
+l’alimentation, le transport, voire même l’hébergement. L’estimation du volume
+d’affaires est d’ailleurs difficile à établir car la familiarité favorise l’économie
+informelle.
+17
+
+Entre ces deux situations extrêmes, une configuration intermédiaire peut être définie,
+qui associe la chaîne de valeur traditionnelle pour les fonctions de transport et
+d’hébergement et une constellation au sein de laquelle les individus piochent selon
+leurs projets.
+
+18
+
+Cette première approche préalable consiste donc à identifier les combinaisons de types
+de systèmes d’acteurs présents.
+
+2.2. Mobilisation de la typologie des lieux
+19
+
+Une seconde approche aborde la question par les lieux. Dans leur analyse, Durieux et al.
+(2015) esquissent une telle démarche en distinguant les effets du tourisme sur l’emploi
+selon différents types d’espace. Leur analyse est cependant élaborée à partir d’une
+approche classique, fondée sur les distinctions géographiques entre littoral et
+montagne, d’une part, et entre ville et campagne, d’autre part. Elle est certes un peu
+sophistiquée par l’introduction de distinction selon les tailles de ville (unité urbaine
+parisienne, grandes unités urbaines, unités urbaines moyennes), l’altitude (haute
+montagne, moyenne montagne) ou les littoraux (méditerranéen, corse, atlantique,
+breton). Mais cette approche tend à naturaliser les distinctions. Par ailleurs, la notion
+de station est mobilisée mais sans que les auteurs n’explicitent ce dont il s’agit et en
+limitant son application à la seule montagne.
+
+20
+
+Une approche plus fine est nécessaire (tableau 2), qui mobilise une typologie des lieux
+(Équipe MIT, 2002 ; Duhamel, 2018). En effet, dans les lieux créés ou inventés par le
+tourisme, il est possible de considérer que l’essentiel des activités est animé par le
+tourisme et donc près de 100 % des emplois peuvent y être affectés. Il s’agit des lieux
+créés par le tourisme, comme les comptoirs ou les stations. Toutefois, ces dernières
+constituent également des lieux de vie, donc la part du tourisme dans l’emploi y est
+moindre, de l’ordre de 80 à 90 %. Au-delà, les stations littorales ont fortement évolué
+depuis les années 1970-1980 avec des processus de diversification économique,
+notamment en matière de résidentialisation, à savoir l’accueil de populations,
+notamment retraitées, qui choisissent d’habiter à l’année dans les lieux autrefois
+nettement dominés par le tourisme. Cette évolution se produit également pour des
+actifs qui s’installent dans des stations touristiques dès lors que la croissance de la
+mobilité contemporaine, dans une société à individus mobiles (Stock, 2005), permet
+d’accéder quotidiennement à des emplois. Il faudrait donc ajuster en fonction de la
+dynamique démographique locale.
+
+21
+
+Dans les lieux investis, deux cas peuvent être distingués : d’une part, ceux dans lesquels
+le tourisme constitue le principal moteur économique (sites – lieux que les touristes
+visitent mais dans lesquels ils ne dorment pas ; villages ou villes touristifiés – lieux
+historiques subvertis par le tourisme, devenu moteur économique principal, comme
+Cordes ou Venise). D’autre part, dans les villes touristiques, le tourisme est un secteur
+
+Mondes du Tourisme, 16 | 2019
+
+6
+
+Contribution à une approche renouvelée des statistiques sur l’emploi touristique
+
+parmi d’autres, il faudrait donc estimer son poids et déterminer les branches
+entraînées.
+Tableau 2. Part des emplois touristiques selon les différents types de lieu
+
+Type
+
+Sous-type
+
+Comptoir
+Lieux
+créés
+inventés
+par
+tourisme
+
+ou
+le Station
+
+Mesure des emplois
+
+Lieux fermés gérés par un seul
+opérateur
+
+100 %
+
+Lieux créés par le tourisme mais
+80 à 90 %
+ouvert
+
+Station ville
+
+Idem mais processus
+diversification en cours
+
+Ville
+touristique
+
+Le tourisme est un secteur 10 à 15 %
+économique parmi d’autres
+touristicité
+
+Lieux investis par le
+Ville étape
+tourisme
+
+22
+
+Caractéristiques principales
+
+de 60 à 80 % selon l’intensité
+de la diversification
+selon
+
+la
+
+Idem
+mais
+la
+fonction
+10 %
+d’hébergement domine
+
+Ville
+
+Le tourisme est devenu la
+
+touristifiée
+
+fonction principale
+
+80 à 90 %
+
+Il faudrait ensuite (tableau 3) combiner les deux approches car les comportements des
+touristes ne sont pas homogènes. Ainsi, dans un même lieu, situé le long du littoral en
+France, des touristes relativement autonomes, par exemples des résidents dotés de
+fortes dispositions et compétences, côtoient d’autres touristes, davantage hétéronomes
+du fait de leur confrontation à un degré plus ou moins élevé d’altérité, notamment les
+non-résidents, qui les porte à privilégier la mobilisation de la chaîne de valeur, ou des
+résidents qui font le choix d’un séjour tout compris qui correspond mieux à leur projet
+du moment.
+Tableau 3. Croisement entre le comportement des touristes et les types de lieux
+
+Forte
+
+Altérité
+
+Forte
+
+altérité
+
+intermédiaire
+
+familiarité
+
+10 %
+
+Dominante 90 %
+
+40 %
+
+30 %
+
+30 %
+
+20 %
+
+30 %
+
+50 %
+
+Station côte atlantique française
+Station
+haute
+renommée
+
+montagne
+
+Paris
+
+23
+
+très
+
+Enfin, il faudrait également tenir compte de la saisonnalité afin de pondérer les emplois
+en équivalent temps-plein.
+
+Mondes du Tourisme, 16 | 2019
+
+7
+
+Contribution à une approche renouvelée des statistiques sur l’emploi touristique
+
+24
+
+La piste que nous proposons consiste donc à enquêter auprès des touristes pour
+connaître leurs pratiques réelles en matière de satisfaction de leurs besoins. Ensuite,
+une estimation du volume d’affaires réalisé par des transactions touristiques au sens
+stricte et de manière expérimentale, et non sur une base conventionnelle peu discutée,
+permettrait d’évaluer la part du tourisme dans les activités présentes dans les lieux et
+de déduire le nombre d’emploi au prorata entre les achats effectués par les touristes et
+ceux effectués par les habitants.
+
+Conclusion
+25
+
+Une telle approche serait certes minutieuse, mais elle ne présente pas de difficultés
+insurmontables. Il suffit peut-être, pour être réaliste, de renoncer à vouloir produire
+des données annuellement, pour un résultat assez peu intéressant tant les variations
+d’une année sur l’autre sont minimes. Sortir de l’illusion et des faux-semblants nous
+semble mériter une approche un peu plus construite, même si elle se révèle
+relativement longue à mettre en œuvre.
+
+BIBLIOGRAPHIE
+Laurent BOTTI, Nicolas PEYPOCH et Bernardin SOLONANDRASANA, Économie du tourisme, coll. « Les
+topos », Dunod, 2013.
+Jean-Louis CACCOMO (dir.), Fondements d’économie du tourisme. Acteurs, marchés, stratégies, coll. « Les
+métiers du tourisme », De Boeck, 2007.
+Cécile CLERGEAU, « Création de richesses par le tourisme », dans Philippe VIOLIER (dir.), Le tourisme,
+un phénomène économique, coll. « Études », La Documentation française, 2013.
+DIRECTION GÉNÉRALE DES ENTREPRISES, Mémento du tourisme, parution annuelle.
+DIRECTION GÉNÉRALE DES ENTREPRISES, Les chiffres clés du tourisme, parution annuelle.
+
+Philippe DUHAMEL, Géographie du tourisme et des loisirs. Dynamiques, acteurs, territoires, coll. « U »,
+Armand Colin, 2018.
+Stéphanie DURIEUX, Pascal EUSEBIO et David LÉVY, « Un million d’emplois liés à la présence de
+touristes. La moitié dans les espaces urbains », Insee Première, n° 1555, juin 2015.
+ÉQUIPE MIT, Tourismes 1. Lieux communs, coll. « Mappemonde », Belin, 2002.
+
+Rémy KNAFOU et Mathis STOCK, « Tourisme », dans Jacques LÉVY et Michel LUSSAULT, Dictionnaire de la
+géographie et de l’espace des sociétés, Belin, 2003.
+Joël RABOTEUR, Introduction à l’économie du tourisme, L’Harmattan, 2000.
+Thea M. SINCLAIR et Michael John STABLER, The economics of tourism, Routledge, 1997.
+Mathis STOCK, « Les sociétés à individus mobiles : vers un nouveau mode d’habiter ? »,
+EspacesTemps.net, 2005 [https://www.espacestemps.net/articles/societes-individus-mobiles/].
+
+Mondes du Tourisme, 16 | 2019
+
+8
+
+Contribution à une approche renouvelée des statistiques sur l’emploi touristique
+
+Mathis STOCK, Vincent COËFFÉ et Philippe VIOLIER, avec la collaboration de Philippe DUHAMEL, Les
+enjeux contemporains du tourisme. Une approche géographique, Presses universitaires de Rennes,
+2017.
+François VELLAS, Économie et politique du tourisme international, Economica, 2006.
+
+NOTES
+1. Lorsque la démonstration nous oblige à mobiliser la définition ou l’appellation « tourisme » au
+sens de l’OMT et des institutions, beaucoup trop large pour nous, le mot apparaît entre
+guillemets.
+2. Selon Les chiffres clés du tourisme en France, édition 2018, autre publication de la DGE.
+3. Cf. site internet : https://www.tourisme-territoires.net/rn2d/
+
+RÉSUMÉS
+Cet article analyse, dans un premier temps, les statistiques sur l’emploi touristique publiées par
+la direction générale des Entreprises du ministère de l’Économie et des Finances. Elles sont
+fondées sur une catégorie dite des « activités caractéristiques » qui isole certaines branches de
+l’économie, lesquelles, dans la réalité, fournissent des services également consommés par les
+habitants, comme la restauration et les cafés. Par ailleurs, cette mesure n’est pas stable dans le
+temps. Ensuite, nous proposons une contribution pour une approche plus fine qui se fonde sur les
+pratiques des touristes et sur une typologie des lieux et espaces touristiques.
+This paper analyses firstly the tourist employment statistics published by the Directorate General
+for Enterprise (D.G.E) of the French Ministry of Economy and Finance. Such statistics are based
+upon a category named “typical activities” that isolates certain sectors of the economy, which in
+reality provide services consumed by local inhabitants, for instance restaurants and cafés.
+Furthermore, such a measurement is not stable over time. Secondly, we propose here a
+contribution to a much more precise approach based upon the tourist practices and a typology of
+tourist places and spaces.
+
+INDEX
+Mots-clés : statistique, emploi, consommation, tourisme
+Keywords : statistics, employment, consumption, tourism
+
+AUTEUR
+PHILIPPE VIOLIER
+Géographie, Université d’Angers, Esthua, UM ESO
+philippe.violier@univ-angers.fr
+
+Mondes du Tourisme, 16 | 2019
+
+9
+
+

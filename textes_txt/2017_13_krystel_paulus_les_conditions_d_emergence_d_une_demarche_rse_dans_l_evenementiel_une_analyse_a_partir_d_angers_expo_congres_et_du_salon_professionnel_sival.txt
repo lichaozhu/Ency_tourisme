@@ -1,0 +1,253 @@
+Mondes du Tourisme 
+13 | 2017
+
+Tourisme et innovations
+
+Krystel Paulus, Les conditions d’émergence d’une
+démarche RSE dans l’événementiel : une analyse à partir
+d’Angers Expo Congrès et du salon professionnel SIVAL
+Thèse de doctorat en sciences de gestion à l’Université d’Angers, dirigée
+par le Professeur Cécile Clergeau (soutenue le 16 novembre 2016)
+Conditions for the emergence of CSR approach in events: An analysis of Angers
+Expo Congrès and its tradeshow Sival
+Krystel Paulus
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/1410
+DOI : 10.4000/tourisme.1410
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+ 
+Référence électronique
+Krystel Paulus, « Krystel Paulus, Les conditions d’émergence d’une démarche RSE dans l’événementiel :
+une analyse à partir d’Angers Expo Congrès et du salon professionnel SIVAL », Mondes du Tourisme [En
+ligne], 13 | 2017, mis en ligne le 30 décembre 2017, consulté le 23 septembre 2020. URL : http://
+journals.openedition.org/tourisme/1410  ; DOI : https://doi.org/10.4000/tourisme.1410
+
+Ce document a été généré automatiquement le 23 septembre 2020.
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modification 4.0 International.
+
+Krystel Paulus, Les conditions d’émergence d’une démarche RSE dans l’événemen...
+
+Krystel Paulus, Les conditions
+d’émergence d’une démarche RSE dans
+l’événementiel : une analyse à partir
+d’Angers Expo Congrès et du salon
+professionnel SIVAL
+Thèse de doctorat en sciences de gestion à l’Université d’Angers, dirigée
+par le Professeur Cécile Clergeau (soutenue le 16 novembre 2016)
+Conditions for the emergence of CSR approach in events: An analysis of Angers
+Expo Congrès and its tradeshow Sival
+Krystel Paulus
+
+RÉFÉRENCE
+Krystel Paulus, Les conditions d’émergence d’une démarche RSE dans l’événementiel : une
+analyse à partir d’Angers Expo Congrès et du salon professionnel SIVAL, Thèse de doctorat en
+sciences de gestion à l’Université d’Angers, dirigée par le Professeur Cécile Clergeau
+(soutenue le 16 novembre 2016)
+
+NOTE DE L'AUTEUR
+Ce travail doctoral a reçu :
+- le prix AFMAT 2017 de la meilleure thèse en management du tourisme,
+- le prix ADERSE 2017 en partenariat avec la FNEGE de la meilleure thèse en
+management de la RSE.
+
+Mondes du Tourisme, 13 | 2017
+
+1
+
+Krystel Paulus, Les conditions d’émergence d’une démarche RSE dans l’événemen...
+
+1
+
+Face aux attentes sociétales en matière de développement durable (MPI, 2013), de plus
+en plus d’organisateurs professionnels de congrès du secteur MICE (Meetings, Incentives,
+Conventions and Exhibitions) s’orientent vers la production de manifestations durables 1.
+C’est notamment dans l’intention de se différencier les uns des autres que certains
+gestionnaires de lieux d’expositions cherchent à produire des événements « éco-socioconçus » s’inscrivant dans leur propre démarche de responsabilité sociétale des
+entreprises (RSE)-ISO 26000. À partir d’une étude de cas unique enchâssée, menée dans
+le cadre d’une convention CIFRE2 au sein d’Angers Expo Congrès, un gestionnaire d’un
+centre des congrès et d’un parc des expositions, notre thèse s’attache à identifier les
+conditions à même de faciliter le déploiement d’une démarche RSE dans le contexte
+spécifique d’un événementiel. Notre travail doctoral se compose de trois parties et de
+six chapitres.
+
+2
+
+La première partie introduit le cadre conceptuel de la recherche.
+
+3
+
+Le premier chapitre revient sur les spécificités des démarches RSE dans l’événementiel.
+D’origine nord-américaine, la RSE est d’abord une démarche qui pousse les
+organisations à intégrer les enjeux du développement durable dans leurs activités. En
+conséquence, en réfléchissant aux impacts sociétaux de leurs produits/services/
+processus et en considérant les attentes de leurs parties prenantes, elles se retrouvent
+entraînées dans une dynamique de changement, porteuse de connaissances nouvelles.
+Mais l’ambiguïté et la complexité du concept de RSE lui-même occasionnent une foule
+de démarches responsables : chaque acteur l’interprète et la construit au vu de ses
+propres ambitions stratégiques. Outre ces points de vue différenciés voire antagonistes
+en matière de RSE, le contexte événementiel complique également la mise en œuvre de
+ce processus de changement et de diffusion de connaissances. En effet, par essence
+temporaires et multiformes, les produits événementiels portés par les gestionnaires de
+lieux d’expositions se présentent comme des réseaux inter-organisationnels de projets
+engageant une multitude d’acteurs très hétérogènes. L’objectif de notre travail est
+d’identifier les conditions qui vont favoriser l’émergence d’une démarche RSE dans ces
+contextes éphémères.
+
+4
+
+Les cadres théoriques retenus pour notre recherche sont introduits dans le deuxième
+chapitre. Nous avons tout d’abord recours à la théorie des parties prenantes (Freeman,
+1984 ; Pasquero, 2008) pour caractériser la dynamique multipartite en jeu lors de la
+démarche de changement RSE d’un événement. La perspective « ressource » des parties
+prenantes développée dans ce travail doctoral met en exergue trois types d’enjeux
+susceptibles d’influencer ce processus : 1) de gouvernance, 2) d’implication,
+3) d’externalités et d’impact. La théorie de l’acteur réseau (TAR) est ensuite mobilisée
+pour spécifier les mécanismes de construction et de diffusion de connaissances en
+matière de RSE entre les parties prenantes d’un événement (Callon, 1986 ; Amblard et
+al., 2004). Particulièrement féconde pour saisir les modalités de l’action collective lors
+la dynamique de changement RSE d’un événement, la TAR demeure cependant limitée
+pour appréhender les logiques individuelles de diffusion de connaissances au cours de
+ce phénomène. C’est pourquoi nous la combinons aux conceptualisations théoriques du
+transfert de connaissances (Nonaka et Konno, 1998). Trois dimensions sont alors
+retenues pour cerner ces modalités de transfert de connaissances RSE : 1) les
+connaissances, 2) les acteurs, 3) leurs relations inter-organisationnelles.
+
+5
+
+La deuxième partie est dédiée au dispositif méthodologique de la recherche.
+
+Mondes du Tourisme, 13 | 2017
+
+2
+
+Krystel Paulus, Les conditions d’émergence d’une démarche RSE dans l’événemen...
+
+6
+
+La stratégie d’accès au réel et le design qualitatif sont exposés dans le troisième
+chapitre. Notre double lecture – individuelle et collective – des conditions d’émergence
+d’une démarche de changement RSE et de diffusion de connaissances entre les parties
+prenantes d’un événement porté par un lieu d’expositions repose ici sur un
+positionnement épistémologique interprétativiste et sur un modèle de raisonnement
+récursif. Notre méthodologie empirique, basée sur une étude de cas unique enchâssée,
+se focalise sur deux unités d’analyse : 1) la démarche RSE de l’organisation et 2) celle
+d’un de ses événements, auxquelles nous avons respectivement accédé via une
+recherche-intervention et une recherche-action. En effet, face aux difficultés de mise
+en œuvre de sa démarche RSE-ISO 26000, engagée depuis 2009, l’entreprise publique
+locale a décidé de recruter en 2011 une doctorante CIFRE. En parallèle de notre mission
+de responsable de projet RSE, nous avons étudié l’éco-socio-conception de la 27 ème
+édition de son salon professionnel SIVAL, consacré aux productions végétales.
+Recueillies par observation – entretiens semi-directifs, analyse documentaire,
+questionnaires –, nos données qualitatives et quantitatives ont été analysées au sein
+d’une monographie et par la méthode des équations structurelles (PLS).
+
+7
+
+Le quatrième chapitre introduit la monographie de notre recherche. Dans un premier
+temps, la dynamique temporelle de la démarche RSE d’Angers Expo Congrès a été
+retracée suivant deux périodes clefs : 1) l’origine de la démarche RSE-ISO 26000, 2) son
+déploiement. À travers ce projet d’organisation responsable, les ambitions du président
+et du directeur d’Angers Expo Congrès étaient simultanément de rapprocher les
+salariés des deux équipements, d’insérer l’entreprise dans la perspective durable de son
+territoire et dans celle de ses réseaux professionnels, de répondre aux attentes de
+consommation durable et de se différencier de ses concurrents. C’est le secrétaire
+général qui a été mandaté pour mettre en œuvre cette démarche RSE. Avec l’appui d’un
+expert, puis d’une doctorante CIFRE, un diagnostic des performances sociétales a alors
+été entrepris, suivi de l’élaboration d’un plan pluriannuel d’actions et de l’instauration
+d’un système de pilotage de la démarche. Dans un second temps, l’éco-socio-conception
+de l’édition 2013 du SIVAL est relatée. Après avoir présenté le réseau des parties
+prenantes de l’événement, nous rendons compte de l’émergence de sa démarche RSE en
+précisant les rôles et les perceptions de l’équipe-projet, des salariés d’Angers Expo
+Congrès, des membres du comité d’organisation, des exposants, des visiteurs et des
+autres parties prenantes.
+
+8
+
+La troisième partie se concentre sur notre travail de conceptualisation théorique, sur sa
+confrontation empirique et sur les enseignements de notre recherche.
+
+9
+
+Le cinquième chapitre énonce nos propositions théoriques et nos résultats d’analyse.
+Ainsi, à partir de l’approche « ressource » et de la notion de projet (Bessire, 2006), nous
+avons élaboré une grille multidimensionnelle des parties prenantes qui les distingue
+selon leur appartenance au réseau d’acteurs stables de l’organisation ou au réseau
+d’acteurs ponctuels de l’événement et selon leur statut (gouvernante, participante,
+impactée) durant chacun des deux processus RSE. Nous avons envisagé ensuite cette
+démarche RSE dans l’événementiel comme un processus de traduction, s’opérant à
+deux niveaux : 1) intra-organisationnel (démarche RSE de l’organisation), 2) interorganisationnel (éco-socio-conception de l’événement). Notre cadre conceptuel nous
+autorise alors à caractériser les modalités d’action des parties prenantes autour de la
+démarche RSE et à formuler des hypothèses sur leurs modalités de transfert interorganisationnel de connaissances RSE. De cette façon, l’analyse du cas révèle le
+
+Mondes du Tourisme, 13 | 2017
+
+3
+
+Krystel Paulus, Les conditions d’émergence d’une démarche RSE dans l’événemen...
+
+positionnement et le rôle évolutif des parties prenantes lors du processus RSE. Elle met
+aussi en exergue les mécanismes de construction entre les parties prenantes au cours
+du processus de traduction RSE, tout en apportant un éclairage sur les mécanismes de
+transfert de connaissances RSE selon leur posture émettrice ou réceptrice.
+10
+
+Le sixième chapitre est consacré à la discussion des résultats et aux recommandations
+managériales. En premier lieu, cette recherche doctorale propose d’adapter le concept
+de parties prenantes aux spécificités des démarches de changement RSE dans
+l’événementiel, tout en dotant les gestionnaires de lieux d’expositions d’une grille
+d’analyse multipartite et multidimensionnelle de leurs manifestations. En deuxième
+lieu, en associant la TAR et la théorie des parties prenantes 3, ce travail appréhende la
+manière dont chaque partie prenante va être actrice de la démarche RSE d’un
+événement. En ce sens, il offre aux managers une véritable méthodologie de conduite
+du changement RSE dans le cadre inter-organisationnel de l’événementiel, articulée
+autour de « moments » entremêlés les uns aux autres. Enfin, grâce à l’association de la
+TAR et des conceptualisations théoriques du transfert de connaissances, cette
+recherche met en lumière les mécanismes individuels de diffusion des connaissances
+qui sont à l’œuvre lors du processus de changement RSE d’un événement. Ainsi, elle
+fournit aux organisateurs professionnels de congrès des leviers d’action tenant compte
+de la situation émettrice ou réceptrice des parties prenantes, ainsi que de leurs
+relations inter-organisationnelles.
+
+BIBLIOGRAPHIE
+Henri AMBLARD, Philippe BERNOUX, Gilles HERREROS et Yves-Frédéric LIVIAN, Les nouvelles approches
+sociologiques des organisations, Éditions du Seuil, 2004.
+Dominique BESSIRE, « Sortir du face-à-face entreprises et parties prenantes », dans Marie
+BONNAFOUS-BOUCHER et Yvon PESQUEUX (dir.), Décider avec les parties prenantes, « Recherches », La
+
+Découverte, 2006, p. 54-65.
+Michel CALLON, « Eléments pour une sociologie de la traduction. La domestication des coquilles
+Saint-Jacques et des marins-pêcheurs dans la baie de Saint-Brieuc », L’Année Sociologique, n° 36,
+1986, p. 169-207.
+Edward R. FREEMAN, Strategic management: a stakeholder approach, « Pitman series in business and
+public policy », Pitman, 1984.
+MPI, « The Value of CSR in the Meeting Industry », 2013.
+Ikujiro NONAKA et Noboru KONNO, « The Concept of “Ba”: Building a foundation for Knowledge
+Creation », California Management Review, n° 40(3), 1998, p. 40-54.
+Jean PASQUERO, « Entreprise, développement durable et théorie des parties prenantes : esquisse
+d’un arrimage socio-constructionniste », Management international, n° 12(2), 2008, p. 27-47.
+
+Mondes du Tourisme, 13 | 2017
+
+4
+
+Krystel Paulus, Les conditions d’émergence d’une démarche RSE dans l’événemen...
+
+Fanny ROMESTANT, « Enquêter sur des réseaux de parties prenantes. De l’intérêt d’une
+méthodologie basée sur le prisme de la théorie de la traduction », XXII e conférence de l’AIMS,
+Clermont-Ferrand, 2013.
+
+NOTES
+1. Selon la terminologie ISO 20121.
+2. Convention industrielle de formation par la recherche.
+3. Dans la lignée des travaux de Romestant (2013).
+
+Mondes du Tourisme, 13 | 2017
+
+5
+
+

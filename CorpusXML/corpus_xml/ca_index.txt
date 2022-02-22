@@ -1,0 +1,27 @@
+ca_TFHJW_3-37_Fn_1;https://journals.openedition.org/viatourism/1630 ;Flux de mobilitat touristica a Berlín
+ca_BDJFSOT_8-34_Ts_0;https://journals.openedition.org/viatourism/1069 ;Turismes i dinàmiques identitàries
+ca_SAC_3-34_Va_1;https://journals.openedition.org/viatourism/1610 ;Venda de souvenirs a Chich'en Itza
+ca_MBS_37-45_Uc_1;https://journals.openedition.org/viatourism/780 ;Un torcebraços pel decreixement urbà-turístic
+ca_JCG_3-28_Es_0;https://journals.openedition.org/viatourism/1650 ;Els privilegiats en vacances
+ca_HT_13-8_El_0;https://journals.openedition.org/viatourism/659 ;Editoral
+ca_HT_18-68_Pc_0;https://journals.openedition.org/viatourism/668 ;Parati, actius de localització i valorització del patrimoni històric
+ca_MPLL_93-93_Es_1;https://journals.openedition.org/viatourism/457 ;Estratègies de promoció gastronòmica associades al turisme en arees geograficament marginades
+ca_SRR_10-18_Te_1;https://journals.openedition.org/viatourism/1585 ;Turigriños Go Home
+ca_MDMGB_33-8_El_0;https://journals.openedition.org/viatourism/421 ;Editoral
+ca_PBJMDRK_46-47_Ea_0;https://journals.openedition.org/viatourism/1345 ;Experiències turístiques i trajectòries de vida
+ca_JCMRHAM_45-88_Ua_1;https://journals.openedition.org/viatourism/1425 ;Urbanisme expansiu i turisme residencial nord-europeu a la costa mediterrània espanyola 
+ca_MGBJFSNG_62-63_Ls_0;https://journals.openedition.org/viatourism/1832 ;L’erotització dels llocs turístics. Espais, actors i imaginaris
+ca_AFV_43-56_Ec_1;https://journals.openedition.org/viatourism/1686 ;El Latin lover espanyol: un mite estrictament domèstic? 
+ca_JMDAD_19-34_Ls_0;https://journals.openedition.org/viatourism/2768 ;La fàbrica de conceptes turístics 
+ca_PB_40-28_Ue_0;https://journals.openedition.org/viatourism/2003 ;Una revisió del post-turisme
+ca_CSI_8-31_Ls_1;https://journals.openedition.org/viatourism/2647 ;La evolució de les destinacions
+ca_JFS_12-22_Ir_0;https://journals.openedition.org/viatourism/2922 ;Introducció al dossier
+ca_CCRCCJ_38-31_Ls_0;https://journals.openedition.org/viatourism/3342 ;La fàbrica de rutes turístiques
+ca_MLGPN_30-68_Ea_0;https://journals.openedition.org/viatourism/3648 ;Els reptes del turisme de cara a la construcció de la pau a Colòmbia
+ca_SVP_42-104_Ts_1;https://journals.openedition.org/viatourism/3443 ;Termacolores: Un projecte de turisme de benestar que té en compte la riquesa dels coneixements indígenes
+ca_LBEP_21-52_Es_0;https://journals.openedition.org/viatourism/4114 ;El turisme a prova de paradigmes post i descolonials
+ca_PDPBEG_9-52_Es_0;https://journals.openedition.org/viatourism/5092 ;El paisatge com a recurs turístic a les zones rurals
+ca_MD_54-100_Dn_0;https://journals.openedition.org/viatourism/5488 ;Desenvolupament turístic i paisatge mil·lenari a la Xina. El cas de les terrasses dels Hani a Yunnan
+ca_MLCCHF_11-90_Ls_0;https://journals.openedition.org/viatourism/5785 ;La reinvenció dels territoris turístics: quina transició per a les destinacions dels Alps?
+ca_SH_24-58_Rs_1;https://journals.openedition.org/viatourism/6300 ;Reinventant representacions d’identitat i cultura “locals”
+ca_MTFNJFRLCPALNS_59-61_Ls_0;https://journals.openedition.org/viatourism/6466 ;Llocs patrimonials excepcionals, un recurs per als territoris

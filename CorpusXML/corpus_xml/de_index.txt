@@ -1,0 +1,46 @@
+de_PN_38-76_Ro_0;https://journals.openedition.org/viatourism/1268 ;Reise durch ein Pulverfass: Krieg und das touristische Imaginäre in Sarajevo
+de_AH_43-39_Ss_0;https://journals.openedition.org/viatourism/1286 ;Schlachtfelder und imaginärer Tourismus
+de_PB_35-155_Ts_0;https://journals.openedition.org/viatourism/1322 ;Touristische Brachflächen in Französisch-Polynesien - Eröffnung einer Stadt im Bestimmungsort und Form des Widerstandes gegen den internationalen Tourismus
+de_JCG_4-20_Hs_0;https://journals.openedition.org/viatourism/1596 ;Hochzeit im Paradies
+de_TFHJW_3-40_Sn_1;https://journals.openedition.org/viatourism/1623 ;Ströme touristischer Mobilität in Berlin
+de_BDJFSOT_9-35_Tl_0;https://journals.openedition.org/viatourism/1066 ;Tourismus und Identitäten im Wandel
+de_EGMS_32-71_Ir_0;https://journals.openedition.org/viatourism/1112 ;Identität, Imagination und Tourismus bei den Tuareg im Norden des Niger
+de_RK_6-55_Un_0;https://journals.openedition.org/viatourism/1602 ;Ungleiche Schicksalswege der Palasthotels in Graubünden
+de_TT_41-131_Is_1;https://journals.openedition.org/viatourism/1038 ;Imaginäre Geographien klassischer und neuer Reisemedien – Wirklichkeitskonstruktion touristischer Intermediäre am Beispiel Sevillas
+de_MGBSJ_50-99_Wn_0;https://journals.openedition.org/viatourism/849 ;Welterbe, Tourismus und nachhaltige Entwicklung in Africa: Aussagen, Konzepte und Herausforderungen
+de_IC_39-126_Eh_0;https://journals.openedition.org/viatourism/860 ;Einbindung touristischer Entwicklungsprojekte in die Naturschutzgebiete in Gabun: Erkenntnisse aus einem gescheiterten Versuch
+de_POAO_54-99_Mk_0;https://journals.openedition.org/viatourism/907 ;Managementprobleme eines nachhaltigen Tourismus: Dzanga-Sangha in der Zentralafrikanischen Republik
+de_DCTSAK_57-147_Wi_1;https://journals.openedition.org/viatourism/937 ;Wie sich das kulturelle Welterbe einer heiligen Stadt des Islam in Wert setzen lässt: Das Problem der touristischen Erschließung von Djenné in Mali
+de_MTMHE_47-164_Dn_0;https://journals.openedition.org/viatourism/969 ;Die Lobé-Wasserfälle, ein außergewöhnliches geokulturelles Erbe an der kamerunischen Küste zwischen nachhaltigem Tourismus und der Bewahrung kultureller Identitäten
+de_TT_44-133_Gt_1;https://journals.openedition.org/viatourism/693 ;Geschäftsmodell Tanztourismus in Sevilla und Buenos Aires – Bedeutungsdimensionen immaterieller Kulturgüter im Destinationsmanagement
+de_VG_13-43_Ds_0;https://journals.openedition.org/viatourism/1658 ;Die Reisebüros im Zeitalter des e-Tourismus
+de_HT_13-9_El_0;https://journals.openedition.org/viatourism/661 ;Editorial
+de_HT_35-56_Os_0;https://journals.openedition.org/viatourism/538 ;Orte und Reiseströme des brasilianischen Binnentourismus
+de_MJVWG_75-133_Es_1;https://journals.openedition.org/viatourism/501 ;Erinnerungslandschaften des Ersten Weltkriegs (1914-1918) : Ein Paradigmenwechsel in der Tourismusforschung über das Erbe des Krieges
+de_KHDATV_11-127_Ms_1;https://journals.openedition.org/viatourism/527 ;Megadiversität entlang der Äquatorroute in Ecuador – Sprungbrett oder Hemmschuh für die nachhaltige Entwicklung des Tourismus ?
+de_SRR_9-18_Te_1;https://journals.openedition.org/viatourism/1583 ;Turigriños Go Home
+de_MB_8-85_Ve_1;https://journals.openedition.org/viatourism/1619 ;Verfeinerung des Central Tourist District von Paris mittels GPS-Daten und GIS-Analyse
+de_MDMGB_22-9_El_0;https://journals.openedition.org/viatourism/419 ;Editorial
+de_BLB_30-56_De_0;https://journals.openedition.org/viatourism/333 ;Die Weltreise der backpackers, eine normalisierte Reise?
+de_HV_61-66_Es_0;https://journals.openedition.org/viatourism/403 ;Einbrechen oder das Gefühl der Heterotopieim Kontext des Tourismus
+de_PBJMDRK_46-43_Te_0;https://journals.openedition.org/viatourism/1346 ;Touristische Erfahrungen und Lebensverläufe
+de_JCG_12-81_Js_0;https://journals.openedition.org/viatourism/1484 ;21. Juli 2008, Porto Pollo (Korsika) : Zwölf Stunden aus dem Leben eines Strandes
+de_JCG_6-57_Bn_0;https://journals.openedition.org/viatourism/1486 ;Beach spotting in Sint Maarten (Niederländische Antillen)
+de_MGBJFSNG_63-66_Dn_0;https://journals.openedition.org/viatourism/1899 ;Die Erotisierung touristischer Orte. Räume, Akteure und Phantasien
+de_BMG_28-134_Ts_1;https://journals.openedition.org/viatourism/1725 ;Tourismus und erotische Imaginationen des besetzten Paris: Französinnen und Deutsche während der deutschen Besatzung von 1940 bis 1944
+de_SO_24-47_Ke_1;https://journals.openedition.org/viatourism/1784 ;„Komm’ und entdecke Deine (Liebes-) Geschichte“
+de_SV_36-23_Hs_1;https://journals.openedition.org/viatourism/1800 ;Heiliges und Sinnliches
+de_JMDAD_20-42_Dn_0;https://journals.openedition.org/viatourism/2824 ;Die Entstehung von touristischen Konzepten
+de_PDTT_59-41_Ig_1;https://journals.openedition.org/viatourism/2375 ;"Ist das Wissenschaft oder kann das weg? 
+de_JFS_12-26_Es_0;https://journals.openedition.org/viatourism/2917 ;Einleitung des Themenhefts
+de_SMPAMP_49-153_Nr_1;https://journals.openedition.org/viatourism/3002 ;Neuversionen der Fiktion rund um den Tourismus in der neuen spanischen Strand-Sonne-Komödie: Fin de curso, Atasco en la nacional und Benidorm, mon amour.
+de_MLGPN_30-74_Dn_0;https://journals.openedition.org/viatourism/3911 ;Die Herausforderungen des Tourismus bei der Friedensschaffung in Kolumbien
+de_ZAK_62-109_Pt_0;https://journals.openedition.org/viatourism/3948 ;Post-Konflikt-Tourismus: zwischen Patrimonialisierung des Konflikts und Hybridisierung der Tourismusaktivität
+de_LBEP_16-67_Dn_0;https://journals.openedition.org/viatourism/4117 ;Der Tourismus im Zeichen postkolonialer und dekolonialer Paradigmen
+de_LLTT_47-127_Le_1;https://journals.openedition.org/viatourism/4644 ;Landschaftsstereotype und Relevanz kreativwirtschaftlicher Narrative in der touristischen Vermarktung der Destination Bodensee 
+de_PDPBEG_9-60_Le_0;https://journals.openedition.org/viatourism/5072 ;Landschaft als touristische Ressource der ländlichen Gebiete
+de_EG_52-136_La_0;https://journals.openedition.org/viatourism/5228 ;Landschaftliche Inszenierung, Vorstellungen und Reflexionen zur Landschaft in drei touristifizierten Shui-Dörfern in Süd-Guizhou (China)
+de_LLFJETT_55-84_Ke_1;https://journals.openedition.org/viatourism/5353 ;Kreativwirtschafts- und Kulturtourismusstandort Bodensee – eine Mediendiskursanalyse
+de_MLCCHF_11-115_Tn_0;https://journals.openedition.org/viatourism/5780 ;Tourismusgebiete müssen sich neu erfinden. Doch in welche Richtung entwickeln sich die Bergstationen in den Alpen? 
+de_AB_45-136_At_0;https://journals.openedition.org/viatourism/6037 ;Attraktivität der Gebiete am Rande der französischen Alpen neu erfinden: Zugang zu Wohnraum als Herausforderung im touristischen Kontext
+de_HS_15-59_An_1;https://journals.openedition.org/viatourism/6376 ;'Arktische' Tourismusrepräsentationen und die Stimmen Darin

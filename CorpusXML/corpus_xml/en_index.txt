@@ -1,0 +1,206 @@
+en_MGBNG_16-20_Ts_0;https://journals.openedition.org/viatourism/1180 ;Tourist imaginaries 
+en_BD_36-65_Tw_0;https://journals.openedition.org/viatourism/1197 ;Tourism, Imaginaries and Identities: reversing the point of view 
+en_LB_29-83_Ty_0;https://journals.openedition.org/viatourism/1217 ;The tourist imaginary in Costa Rica: from a “way of seeing” to “making a territory”
+en_HV_44-33_As_0;https://journals.openedition.org/viatourism/1232 ;Anecdotes and Tourism Imaginaries
+en_MLG_26-44_Cy_0;https://journals.openedition.org/viatourism/1248 ;“Colombia, the only risk is wanting to stay”
+en_PN_20-70_To_0;https://journals.openedition.org/viatourism/1262 ;Travelling through a powder keg: War and Tourist Imaginary in Sarajevo
+en_AH_44-41_Wn_0;https://journals.openedition.org/viatourism/1283 ;War Battlefields, tourism and imagination
+en_TD_24-126_As_0;https://journals.openedition.org/viatourism/1296 ;Authenticity through staging. Dialogic analysis of Jemaa El Fna square’s touristic and cultural activities and representations
+en_PB_28-122_Tm_0;https://journals.openedition.org/viatourism/1318 ;Tourist brownfields in French Polynesia - Revealing a destination crisis and a form of resistance to international tourism
+en_PBFD_22-26_Iu_0;https://journals.openedition.org/viatourism/1175 ;In memory of Rachid Amirou
+en_AFTESP_9-74_Tt_1;https://journals.openedition.org/viatourism/1573 ;Tourism and real estate boom in Spain: an industry weighed down by cement?
+en_TFHJW_3-36_Fn_1;https://journals.openedition.org/viatourism/1627 ;Flows of tourist mobility in Berlin 
+en_AC_7-101_Pa_0;https://journals.openedition.org/viatourism/1665 ;Polynesian performances: local adaptations of a « cultural-tourism formula » in New Zealand and Tonga
+en_BDJFSOT_8-30_Ts_0;https://journals.openedition.org/viatourism/1060 ;Tourism and identity processes
+en_MOV_40-133_Ts_0;https://journals.openedition.org/viatourism/1083 ;The use of Amazigh identities in tourism development projects. Interconnectedness and embeddedness dynamics in the Moroccan mountains
+en_EGMS_36-62_Ir_0;https://journals.openedition.org/viatourism/1108 ;Identity, imaginary and tourism in the tuareg region, in Niger
+en_WT_39-54_Ws_0;https://journals.openedition.org/viatourism/1123 ;Women of Ait Bouguemez: How Tourism Affects Identities
+en_OT_31-46_Tr_0;https://journals.openedition.org/viatourism/1136 ;Tourism and gender identities in Agadez, Niger
+en_RK_12-40_Dn_0;https://journals.openedition.org/viatourism/1600 ;Different fates of palaces in Graubünden
+en_EJC_24-24_Ts_0;https://journals.openedition.org/viatourism/994 ;Tribute to Georges Cazes
+en_FJMYAZM_7-97_Cm_1;https://journals.openedition.org/viatourism/1556 ;Cartagena (Spain). “Discovering the past in order to build the future through memory and tourism”
+en_TRWK_3-62_Ts_0;https://journals.openedition.org/viatourism/1560 ;The pursuit of difference as a reason for travelling decisions
+en_AFTRK_11-101_Pn_1;https://journals.openedition.org/viatourism/1565 ;Pelli Tower in Seville: the dialectic of the renovation of urban landscapes and heritage conservation
+en_CLPJMCP_62-120_Tr_1;https://journals.openedition.org/viatourism/1005 ;The use of DEA (Data Envelopment Analysis) methodology to evaluate the impact of ICT on productivity in the hotel sector
+en_PN_32-76_Sn_0;https://journals.openedition.org/viatourism/1019 ;"Souvenirs" from Vukovar: Tourism and Memory within the Post-Yugoslav Region
+en_BR_22-143_Fo_0;https://journals.openedition.org/viatourism/1028 ;From the organizing of tours to the reinterpretation of visited places: Invention of a touristic space-time in the Lobi country of Burkina Faso
+en_TT_41-136_It_1;https://journals.openedition.org/viatourism/1044 ;Imaginary Geographies of Classic and New Travel Media – Reality-Construction of Touristic Intermediaries with Sevilla as a Case in Point
+en_SAC_3-33_Sa_1;https://journals.openedition.org/viatourism/1607 ;Sale of souvenirs in Chichen Itza
+en_MGBSJ_44-100_Ws_0;https://journals.openedition.org/viatourism/1162 ;World Heritage, tourism and sustainable development in Africa: discourses, approaches and challenges
+en_IC_39-114_It_0;https://journals.openedition.org/viatourism/867 ;Integrating tourism development projects at Gabon protected natural sites: Lessons learned from an aborted attempt
+en_AP_70-104_Tn_0;https://journals.openedition.org/viatourism/880 ;The role of local populations in tourism development projects: the case of Loango National Park in Gabon
+en_POAO_55-94_Tc_0;https://journals.openedition.org/viatourism/903 ;The difficulties of sustainable tourist management: Dzanga-Sangha in Central African Republic 
+en_MB_30-148_Gn_0;https://journals.openedition.org/viatourism/920 ;Gaining a foothold in the world “for a better life”. Encounters between inhabitants and tourists in Lalibela (Ethiopia), a small World Heritage town
+en_DCTSAK_98-108_Ci_1;https://journals.openedition.org/viatourism/1530 ;Capture the wealth of heritage in a Holy City of Islam : the problem of developing tourism in Djenné in Mali
+en_MTMHE_46-152_Ts_0;https://journals.openedition.org/viatourism/964 ;The Lobé Waterfall, an exceptional geocultural heritage on the coast of cameroon between sustainable tourism and the conservation of cultural identities
+en_EM_66-129_Ce_1;https://journals.openedition.org/viatourism/978 ;Culture and tourism? Limits and potential of sustainable tourist development in Gorée, Senegal and Ilha de Moçambique, Mozambique
+en_YR_46-121_Mo_0;https://journals.openedition.org/viatourism/988 ;Methodological stakes around the "heritage - tourism - development" triangulation in the Democratic Republic of the Congo
+en_NBS_7-57_Nn_1;https://journals.openedition.org/viatourism/856 ;Ngorongoro Crater: Disturbed peace in the Garden of Eden 
+en_RT_7-57_Qn_0;https://journals.openedition.org/viatourism/1612 ;Québécois tourists in Florida: a sociocultural phenomenon
+en_OE_32-73_Mp_0;https://journals.openedition.org/viatourism/685 ;Mykonos: a place of experimentation for the gastronomy-world relationship
+en_TT_34-136_Dt_1;https://journals.openedition.org/viatourism/700 ;Dance Tourism Business Models in Seville and Buenos Aires: dimensions of meaning of intangible cultural assets in destination management
+en_GSHFCMCBJMG_69-75_Gl_1;https://journals.openedition.org/viatourism/732 ;Gastronomic Souvenirs as Travel Souvenirs: A Case Study in Curitiba, Brazil
+en_YS_51-79_We_1;https://journals.openedition.org/viatourism/745 ;Who Maintains “Old England”? - Tourism and Migration in the English Countryside
+en_PB_5-32_Fh_0;https://journals.openedition.org/viatourism/1653 ;Frameworks for Tourism Research 
+en_VG_13-39_Tm_0;https://journals.openedition.org/viatourism/1657 ;Travel agencies in the age of e-tourism
+en_HT_13-9_El_0;https://journals.openedition.org/viatourism/662 ;Editorial
+en_APPVASA_63-77_Cm_1;https://journals.openedition.org/viatourism/578 ;Countryside Middle Class Growth in Brazil and its Impacts on Domestic Tourism
+en_CMPNAMT_56-84_Pl_1;https://journals.openedition.org/viatourism/597 ;Public policies and local experiences of landscape tourism : the example of Pantanal
+en_MATSABR_41-76_Ta_1;https://journals.openedition.org/viatourism/625 ;Touristic Urbanization in Brazil : A Focus on Florianópolis – Santa Catarina
+en_MHL_8-89_Ps_1;https://journals.openedition.org/viatourism/672 ;Political Uses of Landscape in Tourism Discursive Production in the City of Florianópolis
+en_TL_6-58_St_0;https://journals.openedition.org/viatourism/1539 ;Sparrows on the seashore: tourism policies and development
+en_CEHG_8-42_Bs_0;https://journals.openedition.org/viatourism/1577 ;Brazilian hospitality in Recife and Ilheus
+en_JFS_48-81_Ca_0;https://journals.openedition.org/viatourism/431 ;Colonial tourism and prostitution: the visit to Bousbir in Casablanca (1924-1955)
+en_MPLL_106-79_Rs_1;https://journals.openedition.org/viatourism/459 ;Related Strategies to Promote Gastronomy in Geographically Disadvantaged Areas 
+en_MCPR_60-78_Al_1;https://journals.openedition.org/viatourism/471 ;‘Appelsinpiken’ and experiential tourism. Andalusia, ‘geography with a thrill’
+en_MJVWG_78-95_Me_1;https://journals.openedition.org/viatourism/494 ;Memoryscapes of the Great War (1914-1918): A paradigm shift in tourism research on war heritage
+en_KHDATV_12-122_Mm_1;https://journals.openedition.org/viatourism/524 ;Megadiversity along the equator route in Ecuador – stepping stone or impediment for a sustainable development of tourism ?
+en_ACM_13-110_Fs_0;https://journals.openedition.org/viatourism/534 ;From wasteland to a Hilton hotel: the trajectory of a block in Reykjavík after the economic crisis (2008-2015)
+en_KHDATV_15-122_Mm_0;https://journals.openedition.org/viatourism/536 ;Megadiversity along the equator route in Ecuador – stepping stone or impediment for a sustainable development of tourism ?
+en_SRR_10-18_Te_1;https://journals.openedition.org/viatourism/1579 ;Turigriños Go Home
+en_CGA_6-57_Ri_1;https://journals.openedition.org/viatourism/1589 ;River tourism and boat graveyards along the Canal du Midi
+en_MB_8-86_Rs_1;https://journals.openedition.org/viatourism/1617 ;Refining the Central Tourist District of Paris with GPS tracking data and GIS analysis
+en_None_7-47_Tn_1;https://journals.openedition.org/viatourism/1635 ;The Otherness in Tourism – the art of seduction
+en_MDMGB_22-10_El_0;https://journals.openedition.org/viatourism/417 ;Editorial 
+en_DMC_69-60_Wr_1;https://journals.openedition.org/viatourism/306 ;Way off the Beaten Path Or How I Became a Tourism Researcher
+en_HV_61-72_Bs_1;https://journals.openedition.org/viatourism/314 ;Breaking and entering, or a feeling of heterotopia in tourism situations
+en_BLB_30-62_Ty_0;https://journals.openedition.org/viatourism/324 ;The backpackers' “round the world” trip, standardised journey?
+en_JS_57-70_Me_0;https://journals.openedition.org/viatourism/356 ;Motorcycle tourism: renewed geographies of a marginal tourism practice
+en_HV_61-72_Bs_0;https://journals.openedition.org/viatourism/393 ;Breaking and entering, or a feeling of heterotopia in tourism situations
+en_ACGDTMGB_73-156_Bw_0;https://journals.openedition.org/viatourism/413 ;Before and after tourism(s). The trajectories of tourist destinations and the role of actors involved in "off-the-beaten-track" tourism: a literature review
+en_ABM_50-61_Te_0;https://journals.openedition.org/viatourism/808 ;Tourism and writers’ houses, in between places and literature
+en_CR_26-49_Dy_1;https://journals.openedition.org/viatourism/291 ;Developing participatory tourism in Milan, Italy 
+en_PBJMDRK_48-41_Ts_0;https://journals.openedition.org/viatourism/1339 ;Tourist experiences and life trajectories
+en_HV_58-82_Te_0;https://journals.openedition.org/viatourism/1352 ;The tourist experience: an experience of the frameworks of the tourist experience?
+en_LGPAL_31-74_Pe_0;https://journals.openedition.org/viatourism/1372 ;Psammotourism: Desert sand as a specific resource and touristic experience
+en_JA_18-94_As_0;https://journals.openedition.org/viatourism/1387 ;Angkor, lost city or inhabited site? Understanding the building process of tourist imaginaries
+en_RT_25-24_Es_0;https://journals.openedition.org/viatourism/1393 ;Ethnic touristic islands
+en_FDAM_23-43_Ce_1;https://journals.openedition.org/viatourism/1407 ;Children in Tourism: a fresh perspective ? 
+en_JCMRHAM_45-90_Ut_1;https://journals.openedition.org/viatourism/1426 ;Urban Sprawl and Northern European Residential Tourism in the Spanish Mediterranean Coast 
+en_JFS_5-64_Tt_0;https://journals.openedition.org/viatourism/1669 ;The Leaning Tower of Pisa and the smartphone of the post-tourist
+en_MGBJFSNG_63-73_Ts_0;https://journals.openedition.org/viatourism/1830 ;The eroticization of tourist destinations. Spaces, actors and imaginaries
+en_AFV_43-51_Th_1;https://journals.openedition.org/viatourism/1671 ;The Spanish Latin lover: a strictly domestic myth? 
+en_AS_45-96_Ts_0;https://journals.openedition.org/viatourism/1696 ;Tangier and the cultivation of desire in the print travel guides: latent and transgressive forms
+en_BMG_29-100_Tn_1;https://journals.openedition.org/viatourism/1710 ;Tourism and Erotic Imaginaries in Wartime Paris: French and Germans during the Occupation, 1940-1944
+en_LG_63-50_Se_1;https://journals.openedition.org/viatourism/1842 ;Smoking Hot: the Odalisque’s eroticizing Cigarette
+en_MEF_49-128_Ls_0;https://journals.openedition.org/viatourism/1763 ;Lust, tranquillity and sensuality in French spa towns in the heyday of balneotherapy (the belle époque and the roaring twenties)
+en_SO_24-35_Cy_1;https://journals.openedition.org/viatourism/1772 ;“Come and find your (love) story”. 
+en_SV_35-26_Tl_1;https://journals.openedition.org/viatourism/1792 ;The Sacred and the Sensual
+en_NG_16-54_Hs_1;https://journals.openedition.org/viatourism/1838 ;Hot Spring Resorts in Japan and China as Erotic places
+en_VV_29-96_Hs_0;https://journals.openedition.org/viatourism/1821 ;Hesitations and reconfigurations in the management of visitor flows in outstanding natural areas
+en_JMDAD_22-34_Ts_0;https://journals.openedition.org/viatourism/2725 ;The production of tourism concepts
+en_DMC_34-26_Tt_1;https://journals.openedition.org/viatourism/2239 ;The Making of The Tourist
+en_MADG_23-139_Tm_1;https://journals.openedition.org/viatourism/2017 ;The Heritage-scape: Origins, Theoretical Interventions, and Critical Reception of a Model for Understanding UNESCO’s World Heritage Program
+en_RK_19-40_Tn_0;https://journals.openedition.org/viatourism/2548 ;The invention of the tourist destination
+en_KFG_20-58_An_1;https://journals.openedition.org/viatourism/2169 ;Assessing and Advancing Research on Tourism Gentrification
+en_DD_31-43_Rh_1;https://journals.openedition.org/viatourism/2120 ;Rescuing policy in tourism network research
+en_FHD_31-41_Tm_1;https://journals.openedition.org/viatourism/2469 ;The potential for justice through tourism
+en_PB_40-23_Ad_0;https://journals.openedition.org/viatourism/1971 ;After-tourism revisited
+en_JMD_1-26_Th_0;https://journals.openedition.org/viatourism/2689 ;The ways of doing research
+en_DMC_1-44_Tn_1;https://journals.openedition.org/viatourism/2779 ;The symbolic power of the tourist attraction
+en_MADG_4-22_As_1;https://journals.openedition.org/viatourism/2108 ;A lecture to pilgrims 
+en_KFG_3-34_Tn_1;https://journals.openedition.org/viatourism/2224 ;The field as source of inspiration
+en_DD_1-44_As_1;https://journals.openedition.org/viatourism/2149 ;Active participation in the policy networks 
+en_FHD_1-53_Bs_1;https://journals.openedition.org/viatourism/2697 ;Bridging the gap between academic and activist worlds
+en_PDTT_58-42_It_1;https://journals.openedition.org/viatourism/2412 ;“Is this science or can we get rid of it? 
+en_CSI_8-29_Ts_1;https://journals.openedition.org/viatourism/2636 ;The Evolution of Destinations
+en_SMPAMP_49-139_Hr_1;https://journals.openedition.org/viatourism/2971 ;How Tourism Imaginary has been Updated in the New Spanish Sun-and-Beach Comedy: Fin de curso, Atasco en la nacional and Benidorm, mon amour
+en_MHCCH_50-65_Fa_0;https://journals.openedition.org/viatourism/3083 ;From James Bond with love: tourism and tourists in the Bond saga 
+en_PA_20-114_Fr_0;https://journals.openedition.org/viatourism/3207 ;From the Road Movie to Wilderness Travel: The Quest for Adventure on the Road and the Myth of the Heroic Traveller
+en_JFS_7-63_Iy_0;https://journals.openedition.org/viatourism/3295 ;Interview with Patrice Leconte, director of the Bronzés trilogy
+en_CCRCCJ_39-37_Ts_0;https://journals.openedition.org/viatourism/3321 ;The building of touristic itineraries
+en_KH_27-53_Md_1;https://journals.openedition.org/viatourism/3347 ;Mobilities and Eventization: Dubai as a City of Speed
+en_MLGPN_30-51_Ta_0;https://journals.openedition.org/viatourism/4046 ;Tourism challenges facing peacebuilding in Colombia
+en_LFSS_74-80_Ee_1;https://journals.openedition.org/viatourism/4052 ;Ecotourism in Colombian Peacebuilding: Peace, Conflict and Environmental Justice
+en_AAB_48-108_Ts_1;https://journals.openedition.org/viatourism/3715 ;Tourism Implementation, an Issue of Territoriality: National Approach and Local Action Methods and Resources
+en_SVP_42-88_Te_1;https://journals.openedition.org/viatourism/3427 ;Termacolores: a wellness tourism project encompassing the wealth of indigenous knowledge
+en_MLVR_58-82_Im_1;https://journals.openedition.org/viatourism/3474 ;Indigenous communities of colombian amazon trapeze: social imaginaries and tourism
+en_AMVBMGDV_64-86_Ta_1;https://journals.openedition.org/viatourism/3551 ;Tourism Initiatives as a Lever for Reintegration of Former FARC Combatants in Colombia
+en_SP_57-38_Fa_0;https://journals.openedition.org/viatourism/3806 ;French Tourism Imaginaries of Colombia
+en_LGERFM_66-96_Ca_1;https://journals.openedition.org/viatourism/3541 ;Can tourism lead competitive and sustainable development now and in the near future in Colombia?
+en_ZAK_64-108_Py_0;https://journals.openedition.org/viatourism/3984 ;Post-conflict tourist landscapes: between the heritage of conflict and the hybridization of tourism activity
+en_LBEP_21-63_Ts_0;https://journals.openedition.org/viatourism/4119 ;Tourism in the context of postcolonial and decolonial paradigms
+en_SPP_28-46_Cs_1;https://journals.openedition.org/viatourism/4129 ;Can the ‘Other’ Frame Back in Tourism Studies?
+en_AGP_37-73_Ca_0;https://journals.openedition.org/viatourism/4251 ;Coloniality and tourism: the fabric of identities and alterities in India
+en_SC_33-173_Fy_0;https://journals.openedition.org/viatourism/4376 ;From the Tourismification of a Village to the Displacement of its Population: Expressions of a Hierarchical Relationship Between the Chinese State and the Wa Ethnic Minority
+en_MOR_32-78_Pe_1;https://journals.openedition.org/viatourism/4469 ;Post-Colonial Macau: hope and despair in a World Centre of Tourism and Leisure
+en_HS_30-66_Os_1;https://journals.openedition.org/viatourism/4576 ;On Biohospitality: Hotels as Barracks or the Waiter’s Three Bodies
+en_LB_3-98_Iy_1;https://journals.openedition.org/viatourism/4767 ;Interview with Nelson Graburn, Professor of Anthropology at the University of California, Berkeley
+en_RK_74-37_Sm_0;https://journals.openedition.org/viatourism/4829 ;Stromboli or Russian roulette tourism
+en_LLTT_48-127_Ln_1;https://journals.openedition.org/viatourism/4731 ;Landscape stereotypes and potential of creative economic narratives in the tourism marketing of Lake Constance as a destination
+en_JR_11-69_An_0;https://journals.openedition.org/viatourism/4796 ;A dressed up beach, but with no bathing: Fidjrossè in Cotonou (Benin)
+en_BMG_16-105_Tr_1;https://journals.openedition.org/viatourism/4611 ;Toward a Deeper Understanding of History: War, Tourism, and their Links – The Case of the First World War
+en_PDPBEG_9-47_Ls_0;https://journals.openedition.org/viatourism/5068 ;Landscape as a tourism resource for rural areas
+en_PBEGATL_58-93_Kl_0;https://journals.openedition.org/viatourism/4982 ;Kitsch landscapes as tourist destinations in South and Southeast Asia (China, Vietnam, Nepal)
+en_TTLHPD_34-125_Tm_0;https://journals.openedition.org/viatourism/5127 ;The place of peripheral rural areas in the construction, by and for tourism, of the identity of the region of Dalat (Vietnam)
+en_EG_52-122_La_0;https://journals.openedition.org/viatourism/5203 ;Landscape staging, representations, and landscape thinking in three touristified Shui villages in southern Guizhou (China)
+en_MD_59-99_Mn_0;https://journals.openedition.org/viatourism/5428 ;Millennial landscape and tourist development in China. The case of the Hani rice terraces in Yunnan
+en_ZWNG_32-61_Ts_1;https://journals.openedition.org/viatourism/5491 ;Tourism and Cultural Landscapes in Southern China’s Highlands
+en_PDPUPBML_25-128_Du_0;https://journals.openedition.org/viatourism/5586 ;Development of mountain domestic tourism close to the major urban areas of Nepal: South side of the Annapurna Massif and Helambu
+en_PDML_7-104_Ts_0;https://journals.openedition.org/viatourism/5276 ;The Mardi Himal Trek (south face of the Annapurnas, Nepal) and recent developments in trekking practices
+en_LLFJETT_59-94_Cs_1;https://journals.openedition.org/viatourism/5321 ;Creative industry and cultural tourism destination Lake Constance – a media discourse analysis
+en_JR_21-112_Ta_0;https://journals.openedition.org/viatourism/5286 ;The commemoration, heritage and tourism ambition of Benin around the legacy of the kingdoms of Abomey and Allada
+en_NG_30-66_Cm_1;https://journals.openedition.org/viatourism/5376 ;Contemporary Tourism in Asia: Religion, Heritage and Commercialism
+en_NG_32-76_Ln_1;https://journals.openedition.org/viatourism/5373 ;Le tourisme contemporain en Asie : Religion, patrimoine et commercialisation
+en_MGB_9-80_Ae_0;https://journals.openedition.org/viatourism/5382 ;Ariane Devanthéry et Claude Reichler (Edited and presented by), Vaut le Voyage ?
+en_MLCCHF_11-70_Rs_0;https://journals.openedition.org/viatourism/5772 ;Re-inventing tourism areas: what form of transition in Alpine resorts?
+en_AF_29-122_Lt_1;https://journals.openedition.org/viatourism/5792 ;Living in the mountains: Mobilities, forms of residentiality and local identities of new inhabitants of a Swiss ski resort
+en_CD_35-72_Rn_0;https://journals.openedition.org/viatourism/5955 ;Reputation measurement: a tool for ski station applied to Isère Mountain
+en_AB_40-117_Rt_0;https://journals.openedition.org/viatourism/6011 ;Reinventing the attractiveness of borders in the French Alps: the challenge of access to lodging in a tourist context
+en_CCAS_40-130_Gs_0;https://journals.openedition.org/viatourism/6097 ;Glacier retreat and perception of climate change by local tourism stakeholders: the case of Chamonix-Mont-Blanc in the French Alps
+en_MDLK_65-101_Ay_0;https://journals.openedition.org/viatourism/6201 ;Are mobile devices playing a part in creating new tourist practices? Les Champs-Elysées: a case study
+en_SH_25-59_Re_1;https://journals.openedition.org/viatourism/6236 ;Reinventing Representations of “Local” Identity and Culture
+en_MTFNJFRLCAPPALNS_60-58_Os_0;https://journals.openedition.org/viatourism/6448 ;Outstanding heritage sites, a resource for the territories
+en_HS_7-38_Ie_1;https://journals.openedition.org/viatourism/6356 ;In conversation with a tourism edifice
+en_MG_11-67_Sy_0;https://journals.openedition.org/viatourism/6337 ;Study of urban winterity, analysis of Montreal’s narrative identity
+en_HS_15-54_An_1;https://journals.openedition.org/viatourism/6370 ;‘Arctic’ tourism representations and the voices within
+en_EM_8-80_Ae_1;https://journals.openedition.org/viatourism/6341 ;Analyzing cultural localization in online tourism promotion. A PhD thesis resume
+en_CVY_66-29_Is_1;https://journals.openedition.org/tourisme/321 ;Improving strategic diagnoses
+en_MLACH_67-29_Tr_1;https://journals.openedition.org/tourisme/83 ;Tourist behavior and weather 
+en_PKNTKT_29-31_Sa_1;https://journals.openedition.org/tourisme/88 ;Sustainable Tourism in Malaysia
+en_LSAM_59-72_Ts_1;https://journals.openedition.org/tourisme/366 ;Territorial development through cultural tourism and creative activities
+en_KLDR_49-56_Tm_1;https://journals.openedition.org/tourisme/372 ;The nexus between an art experience and creative tourism
+en_SPCBK_32-35_Ti_1;https://journals.openedition.org/tourisme/1187 ;Towards sustainable tourism in Bali
+en_DF_45-84_Te_1;https://journals.openedition.org/tourisme/1338 ;The impact of the “economy of history”: The example of battlefield tourism in France
+en_SHCC_21-75_Fa_1;https://journals.openedition.org/tourisme/2856 ;From the “Other” to the “Self”: Turning Cameras Around in Lashi Hai (China)
+en_SPC_23-48_Te_0;https://journals.openedition.org/tourisme/3016 ;Tourism and the intangible heritage of the horse
+en_SPC_50-79_Ts_1;https://journals.openedition.org/tourisme/3019 ;Tourism as an agent of reinvention for European equestrian intangible heritages
+en_MA_36-142_Ey_1;https://journals.openedition.org/tourisme/3161 ;Equestrian culture and heritage in Brazil: untapped potential for a tourism that favours local development? São Luiz do Purunã as a case study
+en_GHIS_56-89_Is_1;https://journals.openedition.org/tourisme/3208 ;Intangible heritage of Icelandic equestrianism: the experience of domestic horse tourists
+en_SB_61-50_Ae_1;https://journals.openedition.org/tourisme/3366 ;A Glance at Tourism Economics over the last decade
+en_JOL_26-85_Ts_1;https://journals.openedition.org/teoros/1797 ;The Tourist Itinerary Travel Loop: historical and contemporary travel characteristics
+en_JCLH_31-92_My_1;https://journals.openedition.org/teoros/738 ;Motel Marketing Strategies in Quebec, Ontario, and New York: a Comparative Exploratory Study
+en_TC_47-70_Fn_1;https://journals.openedition.org/teoros/1554 ;From Romanticism to New Age : the Evolving Perception of a Church Ruin
+en_YLSJHJT_59-104_Bm_1;https://journals.openedition.org/teoros/1570 ;Business Perspectives of Adopting Sustainable Tourism Practices: A Study of Tourism Companies in Vietnam
+en_MSHELLER_31-33_Rd_1;https://journals.openedition.org/teoros/2823 ;Retouching the “Untouched Island”
+en_JB_29-54_Us_1;https://journals.openedition.org/teoros/2827 ;Understanding Tourist Beaches as Eco-social Landscapes
+en_DA_27-35_Tt_1;https://journals.openedition.org/teoros/1617 ;Tourism Education Life Begins at 40
+en_JRBRLRSST_65-98_Tg_1;https://journals.openedition.org/teoros/1621 ;Tourism Sciences or Tourism Studies?Implications for the Design and Content of Tourism Programming
+en_NNRTEL_46-105_Ra_1;https://journals.openedition.org/teoros/1597 ;Ranking Tourism Attractions According to their Suitability for Public Investment in Gansu Province, China
+en_JP_12-57_Ic_1;https://journals.openedition.org/teoros/139 ;Implications of Eutrophication for Lake Tourism in Québec
+en_LHJC_37-72_Ms_1;https://journals.openedition.org/teoros/79 ;Marketing Strategies of Museums in Quebec and Northeastern United States
+en_RROURA_52-117_Td_1;https://journals.openedition.org/teoros/402 ;The Polar Cultural Heritage as a Tourism Attraction: a Case Study of the Airship Mooring Mast at Ny-Ålesund, Svalbard
+en_NK_0-28_Rs_1;https://journals.openedition.org/teoros/527 ;Roots Tourism – Whose Roots?
+en_CMHALLJSAARINEN_0-29_Ge_1;https://journals.openedition.org/teoros/911 ;Geotourism and Climate Change
+en_EFS_22-48_Tn_1;https://journals.openedition.org/teoros/1409 ;The Road Less Travelled. Tourism and Innovation:
+en_RDODDS_16-48_Im_1;https://journals.openedition.org/teoros/1995 ;Introduction: Innovations in sustainable tourism
+en_KJMKAYJMCAMPBELL_25-38_Ia_1;https://journals.openedition.org/teoros/2041 ;Innovative Community Tourism in Uganda
+en_SRGRACI_21-110_Po_1;https://journals.openedition.org/teoros/1996 ;Putting Community Based Tourism into Practice: The Case of the Cree Village Ecolodge in Moose Factory, Ontario
+en_LWILLMOTTSRGRACI_26-94_Sa_1;https://journals.openedition.org/teoros/1974 ;Solid Waste Management in Small Island Destinations: A Case Study of Gili Trawangan, Indonesia
+en_JRAJAONSONGATANGUAY_27-103_Ss_1;https://journals.openedition.org/teoros/2033 ;Strategy for selecting sustainable tourism indicators for the Gaspésie and Îles de la Madeleine regions
+en_BSJT_22-86_Ee_1;https://journals.openedition.org/teoros/2008 ;Ecotourism and Natural Resources in Dominica: Co-management as an Innovative Practice 
+en_RDODDS_31-91_Er_1;https://journals.openedition.org/teoros/1990 ;Eco-tourism for Education and Marine Conservation: The Chumbe Island Coral Park in Zanzibar
+en_NBERTHET_24-106_Ss_1;https://journals.openedition.org/teoros/2054 ;Sustainable tourism:  An issue of territorial rebalancing in the French département of Pyrénées-Orientales
+en_AAGRENIER_28-50_Ir_1;https://journals.openedition.org/teoros/2259 ;Interview with Dr. Sandra WALL REINIUS, researcher
+en_OM_56-31_Te_1;https://journals.openedition.org/teoros/2501 ;Transformative consumer service
+en_GAMZJEVA_49-22_Is_1;https://journals.openedition.org/teoros/2671 ;Indigenous Communities
+en_LHNJC_44-79_Ms_1;https://journals.openedition.org/teoros/2653 ;Marketing Strategies of Gift and Souvenir Shops in Canada and the United States
+en_NSHARMA_40-29_Bs_1;https://journals.openedition.org/teoros/2855 ;Beyond the Shades of Darkness
+en_LBUTOWSKI_42-69_Ts_1;https://journals.openedition.org/teoros/2899 ;The Issue of Disciplinarity and Non-disciplinarity of Tourism Studies
+en_TBAILLARGEON_27-94_Ih_1;https://journals.openedition.org/teoros/2906 ;Interview with Dr. Philip Stone, executive director of the Institute for Dark Tourism Research
+en_ZIRT_39-58_Ln_1;https://journals.openedition.org/teoros/3074 ;Lifestyle Migration and the Quest for a Life-long Vacation
+en_ZI_6-90_Ps_1;https://journals.openedition.org/teoros/3112 ;Pour en lire plus : Opting for Elsewhere: Lifestyle Migration in the American Middle Class
+en_VS_28-56_Sa_1;https://journals.openedition.org/teoros/3313 ;Sex, Seduction, and Care for the Other in Touristic Cuba
+en_KM_59-61_Ps_1;https://journals.openedition.org/teoros/3349 ;Pura Vida: Affect, Puerto Viejo, and Emergent Tourism Erotics
+en_NBAH_42-130_Cp_1;https://journals.openedition.org/teoros/4096 ;Copresence is a Problematic Resource for Leisure Mobility. One Hub, Multiple Passenger Experiences on a Sunday Evening Return Trip
+en_AEBROAA_52-96_Rk_1;https://journals.openedition.org/teoros/4305 ;Reviewing Two Decades of Value Creation in Tourism: An Attempt to Develop a Conceptual Framework

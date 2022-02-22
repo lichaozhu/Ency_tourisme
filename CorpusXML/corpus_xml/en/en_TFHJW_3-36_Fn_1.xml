@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="en_TFHJW_3-36_Fn_1" source="https://journals.openedition.org/viatourism/1627" lang="en">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <DOI>https://doi.org/10.4000/viatourism.1627</DOI>
+        <revue>Viatourism</revue>
+        <numero>1</numero>
+        <annee>2012</annee>
+    </meta>
+    <traductions>
+        <traduction lang="es" source="1628">Flujos de movilidad turística en Berlín</traduction>
+        <traduction lang="ca" source="1630">Flux de mobilitat touristica a Berlín</traduction>
+    </traductions>
+    <auteurs>
+        <auteur nom="Freytag" prenom="Tim">
+            <oeuvres>
+                <publication id="de_TFHJW_3-40_Sn_1" source="https://journals.openedition.org/viatourism/1623" lang="de">Ströme touristischer Mobilität in Berlin</publication>
+                <publication id="fr_TFHJW_3-38_Fn_1" source="https://journals.openedition.org/viatourism/1626" lang="fr">Flux de mobilité touristique à Berlin </publication>
+                <publication id="es_TFHJW_3-39_Fn_1" source="https://journals.openedition.org/viatourism/1628" lang="es">Flujos de movilidad turística en Berlín</publication>
+                <publication id="ca_TFHJW_3-37_Fn_1" source="https://journals.openedition.org/viatourism/1630" lang="ca">Flux de mobilitat touristica a Berlín</publication>
+                <publication id="fr_TFMG_44-80_He_1" source="https://journals.openedition.org/tourisme/234" lang="fr">Heidelberg, ou comment une ville historique est devenue un haut lieu touristique</publication>
+            </oeuvres>
+            <description>
+                University of Freiburg 
+            </description>
+        </auteur>
+        <auteur nom="Weber" prenom="Hans-Jörg">
+            <oeuvres>
+                <publication id="de_TFHJW_3-40_Sn_1" source="https://journals.openedition.org/viatourism/1623" lang="de">Ströme touristischer Mobilität in Berlin</publication>
+                <publication id="fr_TFHJW_3-38_Fn_1" source="https://journals.openedition.org/viatourism/1626" lang="fr">Flux de mobilité touristique à Berlin </publication>
+                <publication id="es_TFHJW_3-39_Fn_1" source="https://journals.openedition.org/viatourism/1628" lang="es">Flujos de movilidad turística en Berlín</publication>
+                <publication id="ca_TFHJW_3-37_Fn_1" source="https://journals.openedition.org/viatourism/1630" lang="ca">Flux de mobilitat touristica a Berlín</publication>
+            </oeuvres>
+            <description>
+                University of Freiburg 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>Flows of tourist mobility in Berlin </titre>
+    <corps>
+        <paragraphe num="1">
+            Berlin follows Paris and London as the major destinations in European city tourism. In 2010 more than 20 million bednights were registered in the city’s hotels and accommodation facilities. Consequently, the German capital can serve as a laboratory to study configuration and change in urban tourism.
+        </paragraphe>
+        <paragraphe num="2">
+            The map shows the mobility of 300 visitors in Berlin. The changing colors represent the proportion of individuals who were tracked within the squares of a 25-meter grid during the field study. The red color highlights the places that are most frequently visited, such as the Reichstag, Brandenburger Tor and PotsdamerPlatz. Moreover, the major street axes Unter den Linden, Friedrichstraße and Kurfürstendamm can be identified as well as specific routes of the local railway system. Combined with the questionnaire data, the mobility paths can be analyzed according to socioeconomic, demographic and other characteristics.
+        </paragraphe>
+        <paragraphe num="3">
+            Using GPS loggers and questionnaires, the data was collected in Berlin in September 2010 as part of a research project conducted by the authors of this article. The data analysis was carried out with ArcGIS software in cooperation with Michael Bauder at the Department of Cultural Geography, Freiburg University, Germany.
+        </paragraphe>
+    </corps>
+</article>

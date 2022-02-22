@@ -1,0 +1,758 @@
+Mondes du Tourisme
+12 | 2016
+
+Varia
+
+La balnéarisation sous conditions locales. Les
+concurrences à propos de « l’identité
+communale » à Saint-Brévin en Pays de Loire.
+Arnaud Sébileau
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/1350
+DOI : 10.4000/tourisme.1350
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+Référence électronique
+Arnaud Sébileau, « La balnéarisation sous conditions locales. Les concurrences à propos de « l’identité
+communale » à Saint-Brévin en Pays de Loire. », Mondes du Tourisme [En ligne], 12 | 2016, mis en ligne
+le 01 décembre 2016, consulté le 30 avril 2019. URL : http://journals.openedition.org/tourisme/1350 ;
+DOI : 10.4000/tourisme.1350
+
+Ce document a été généré automatiquement le 30 avril 2019.
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modiﬁcation 4.0 International.
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+La balnéarisation sous conditions
+locales. Les concurrences à propos
+de « l’identité communale » à SaintBrévin en Pays de Loire.
+Arnaud Sébileau
+
+NOTE DE L'AUTEUR
+Les données collectées ici l’ont été dans le cadre d’un dépouillement préalable des
+archives municipales de Saint-Brévin sur plusieurs périodes de cristallisation des luttes à
+propos de « l’identité communale ». Une attention particulière a ainsi été portée sur : les
+années 1789-1810, durant lesquelles se jouent les délimitations intercommunales ; les
+années 1850-1859 quand une partie des terres de la commune sont l’objet de luttes entre
+la commune et l’État ; les années 1870-1873 lorsque des acquéreurs réclament à la
+commune des concessions sur leurs propriétés ; l’année 1900, date à laquelle la
+municipalité change de nom. Ces choix ont été orientés par l’exploitation secondaire de
+travaux d’historiens « amateurs » du pays de Retz, notamment André Duru (2009), Renée
+Guillemin et Michel Tessier (1982) ; Henri Dardelin (2004), rédacteur en 1931 de la seule
+monographie sur Saint-Brévin. À ces lectures s’est rajoutée la collecte de données de
+seconde main sur Saint-Brévin ou sur ses communes limitrophes dans des travaux
+d’universitaires spécialistes du littoral ligérien et du balnéaire, particulièrement ceux de
+Johann Vincent (2007) : ces bribes d’informations ont été réutilisées au service de la
+démonstration. La détermination de ces « découpages » se fonde ainsi sur l’identification,
+après croisement des informations puisées dans ces diverses lectures, des moments de
+remises en cause – si ce n’est de « crises » – de l’emprise municipale sur les terres
+communales et sur son « identité ». Outre les luttes locales (comme les conflits juridiques
+entre l’État et la commune de Saint-Brévin à propos des sables sur la période 1850-1859,
+ou les concessions sur les terres de la commune entre 1870 et 1873), les évènements
+
+Mondes du Tourisme, 12 | 2016
+
+1
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+nationaux qui eurent des effets sur la « municipalisation » brévinoise ont aussi circonscrit
+le début de notre recherche : de 1789 à 1810, lorsque la question des frontières
+municipales et de la protection des frontières maritimes est posée, avant l’élaboration du
+cadastre, par les administrations successives dans un contexte de guerre civile et de
+conflits avec d’autres nations.
+Ce travail est soutenu par la région des Pays de la Loire dans le cadre d’un projet « Rechercheformation-innovation » (RFI) sur la Sociogenèse de l’attractivité balnéaire ligérienne (Sabl). Ce
+projet, supporté par AngersTourism Lab, repose sur la collaboration de sociologues et géographes
+du laboratoire Espaces et sociétés de l’université d’Angers (ESO, CNRS 6590) et du Centre nantais de
+sociologie (CENS, FRE CNRS 3706).
+1
+
+Inspiré par une lecture exploratoire des délibérations municipales de la commune de
+Saint-Brévin-les-Pins, en Loire-Atlantique, cet article vise, par la contextualisation du cas
+brévinois, à formuler quelques hypothèses nouvelles de travail sur la « balnéarisation du
+littoral » en insistant sur les enjeux relatifs à la maîtrise de l’espace et les concurrences à
+propos de « l’identité locale1 ». Orienté par le souci de ne pas se laisser emporter par la
+reconstruction a posteriori d’une histoire du bord de mer trop linéaire car trop détachée
+des particularités et variations en la matière, le point de vue adopté ici est donc de
+revenir au détail des données, de prendre au sérieux les singularités des configurations
+locales et de privilégier les aspects monographiques afin d’identifier les conditions locales
+d’adhésions ou a contrario de résistances à la promotion du « tourisme balnéaire ». Il s’agit
+donc, en se centrant sur l’histoire brévinoise, de s’interroger sur les concurrences à
+propos de l’économie touristique et de montrer qu’elles sont indissociées des rapports de
+force et de sens à propos de « l’identité communale » et de la définition légitime de
+l’exploitation locale des sols et du littoral. Une telle optique devrait permettre de
+soulever, au moins à titre programmatique, les questions auxquelles devrait se confronter
+une enquête encore à faire sur les contextes localisés au sein desquels une commune est
+transformée ou non en « station balnéaire ».
+
+2
+
+Pour ce faire, dans une première partie, nous essaierons de démontrer les intérêts
+épistémologiques à décentrer l’analyse de la demande de bains de mer et à s’intéresser à
+l’état des rapports de force et de sens locaux à propos de « l’identité communale » afin
+d’éclairer sous un autre jour la légitimation de l’économie de services aux « étrangers » et
+la genèse des « stations balnéaires2 ». Dans la seconde partie, nous montrerons comment
+le cas brévinois exige effectivement de prendre en considération de manière plus
+contextualisée les antagonismes de classe corrélatifs de l’opposition entre autochtones
+« ruraux » et hétérochtones « urbains » à propos de l’usage et l’exploitation légitimes du
+bord de mer. Nous insisterons dans un troisième temps de la démonstration sur les
+enjeux relatifs à l’emprise sur le marché foncier communal, notamment en terme de
+préservation des intérêts paysans et de leur définition de l’exploitation des terres ; et
+enfin, en nous référant au constat de la diversité sociale des promoteurs des usages
+préventifs et curatifs de la baignade dans la région qui nous intéresse et en insistant sur
+les marchés que les médecins ont intérêt à promouvoir lorsqu’ils travaillent à la publicité
+des « bains de mer » et des usages thérapeutiques du littoral, nous relativiserons l’idée
+selon laquelle, à l’origine de la « balnéarisation », se trouverait un inédit « désir de
+rivage » au XVIIIe siècle (Corbin, 1990).
+
+Mondes du Tourisme, 12 | 2016
+
+2
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+Le monopole politique de « l’identité communale » en
+question
+3
+
+Encore partielle et parcellaire, la lecture préalable des archives brévinoises permet, dans
+l’optique de saisir la genèse des « stations balnéaires », de déplacer le regard
+habituellement centré sur les « baigneurs » et leur encadrement vers une analyse
+sociologique de l’espace politique, des concurrences qui lui sont spécifiques (entre élites
+politiques des communes limitrophes notamment) et de son éventuelle hétéronomie avec
+d’autres espaces eux-mêmes interdépendants et localement engagés dans la
+« balnéarisation ». Au cœur de ce travail, se trouve ainsi l’objectivation des rapports entre
+espaces dont on ne peut présumer l’indépendance ou l’autonomie relative3. Par exemple,
+et sans que la liste soit exhaustive, l’attention peut être portée sur les relations de
+l’espace politique avec celui des promoteurs « des bains de mer » (journalistes, médecins,
+rédacteurs de guides touristiques…), celui des propriétaires terriens qui ne se confond pas
+intégralement avec celui des exploitants agricoles, celui des prestataires de services
+(parmi lesquels hébergements, restauration…), celui de l’aménagement territorial
+(architectes, ingénieurs des ponts et chaussées…) et celui de la « gestion curative et
+normative des corps » (Baud, 1993 : médecins, encadrants des activités récréatives…4).
+
+4
+
+Les écarts chronologiques d’imposition du « tourisme balnéaire » comme marché légitime
+et comme investissement « public » prioritaire pourraient ainsi être expliqués, en chaque
+configuration locale, par le pouvoir différencié dont dispose chacun de ces espaces à
+imposer ses propres vues et intérêts aux autres. Par exemple, c’est dans la défense de leur
+emprise locale sur le marché foncier et la propriété des terres contre l’administration
+centrale que se révèle la relative autonomie qu’essaient de préserver les élus du conseil
+municipal lorsque, entre 1833 et 1859, ils saisissent la justice pour contester l’inclusion
+des lais de mer au domaine public et faire valoir leur pleine appartenance à la
+municipalité. Après que ces élus ont obtenu satisfaction, les lais de mer sont l’objet d’un
+plan de partage : ils sont pour partie revendus aux plus offrants (parmi lesquels des
+notables de Paimboeuf et de Nantes) ou deviennent l’objet d’aménagement des voies de
+communications. Si la municipalité a alors remporté une bataille judiciaire, elle n’en est
+pas moins régulièrement concurrencée au cours du XIXe et au début du XXe siècle par
+l’administration centrale comme par les nouveaux propriétaires (réunis en associations et
+en syndicats d’initiatives) à propos de la bonne exploitation des sols et, de manière
+concomitante, du bon aménagement du territoire communal5. En 1810 c’est l’État, en la
+personne de Napoléon Ier, qui exige par décret la fixation des dunes par ensemencement
+(Vincent, 2007) ; entre 1828 et 1859, plusieurs propriétaires nouvellement arrivés sur la
+commune demandent des concessions sur les sables et la possibilité de planter des pins
+(Duru, 2009 ; Guillemin et Tessier, 1982) ; en 1881 est fondée, à l’initiative de certains
+d’entre eux, la Société des terrains et bains de mer de Saint-Brévin-l’Océan qui,
+notamment, réclame l’aménagement des accès à la mer et des voies de circulations (Duru,
+2009) ; en 1910, une « Association syndicale des propriétaires, habitants et habitués de
+Saint-Brévin-les-Pins » assura le financement de l’empierrement des routes et la publicité
+de la commune auprès des sociétés de tourisme (Dardelin, 2004) ; en 1927, le syndicat
+d’initiative de Saint-Brévin, composé pour partie d’ex-membres de la première
+association fondée en 1910, se donna pour mission « de réaliser toutes mesures propres à
+développer la prospérité » de la commune et entreprit pour ce faire des « démarches
+
+Mondes du Tourisme, 12 | 2016
+
+3
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+auprès des Compagnies de l’État, des Messageries de l’Ouest pour l’amélioration des
+moyens de communication avec Saint-Brévin » (Dardelin, 2004).
+5
+
+Si, d’un point de vue diachronique, il est possible d’affirmer que tout au long de la période
+qui va de la fin du XVIIIe siècle au début du XXe siècle, « l’intrusion balnéaire » contribue à
+transformer le littoral et ses communes, on ne peut que constater que cette « intrusion »
+s’organise, s’institutionnalise et témoigne de la transformation des rapports de force au
+sein des localités concernées. La relative et progressive autonomisation entre espace
+politique et espace de la paysannerie laisse envisager la dissociation entre les enjeux
+relatifs à la préservation des intérêts agricoles au début du XIXe siècle et des enjeux de
+reconnaissance politique de plus en plus subordonnés à une population non autochtone,
+citadine et non paysanne (Vincent, 2007)6. Plus précisément, sans doute faut-il d’un point
+de vue sociologique s’attarder d’une part sur le fait que cette transformation, ou, plus
+précisément, cette redéfinition, cette préservation de l’identité communale est l’enjeu
+constant de luttes entre groupes sociaux qui ont des conceptions différenciées, voire
+antagonistes de l’économie, des marchés, des populations légitimes pour lesquels
+devraient s’orienter la politique communale, tant en termes d’aménagements que de
+construction identitaire7. D’autre part, d’un point de vue synchronique, en chaque
+période identifiée, l’état du rapport de force entre ces groupes n’est pas le même, et se
+reconfigure probablement au gré de la recomposition et des modifications de
+recrutement du conseil municipal (eux-mêmes assujettis aux changements de régimes à
+l’échelle nationale) ; des transformations plus générales du mode de vie paysan sur cette
+période (Agulhon, 1976) ; et des variations démographiques qui s’accélèrent à compter de
+1890, avec sans doute l’arrivée de populations non natives qui s’installent à Saint-Brévin8.
+C’est donc tout un programme de recherche qui exige de se concentrer sur l’identification
+sociale des élus, des agents de promotions du balnéarisme, des néorésidents et
+propriétaires qui achètent des terres et investissent dans la promotion de la commune,
+les ressources culturelles, leur capital d’autochtonie, les rapports et relations qu’ils
+entretiennent et leurs stratégies respectives pour décrire, en chaque période, les
+conditions sociales de disqualification, au profit d’autres priorités pour la collectivité, de
+l’accueil saisonnier d’une population de visiteurs, ou à l’opposé, de sa légitimation comme
+« clientèle » à capter et « marché » à conquérir au service de tous.
+
+Rapports de classes en bord de mer : usages urbains
+de la plage et exploitations paysannes du littoral
+6
+
+Effectivement, du côté des marchés que représentent les « bains de mer », l’attention
+portée aux dates et à ce qu’en disent les archives municipales incite à décrire plus
+précisément la « juxtaposition d’usages » différents de la mer sur les plages et à affiner les
+constats d’une disparité territoriale en la matière (Corbin, 1990, p. 100). C’est là aussi une
+invitation à ne pas être trop oublieux que les différences sociales ne s’objectivent pas
+nécessairement et exclusivement dans de simples relations de cohabitations, sur la plage
+comme ailleurs, mais aussi parfois par des antagonismes et des rivalités quant à
+l’occupation de l’espace, si ce n’est par des rapports de force et de sens sur l’usage
+légitime de la mer, de l’estran et des dunes9.
+
+7
+
+Les usages préexistants de la mer, différents selon l’histoire locale, ont, comme cela a été
+souligné par les spécialistes de l’économie du littoral ligérien, pu faire l’objet de
+
+Mondes du Tourisme, 12 | 2016
+
+4
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+redéfinitions au profit de ceux considérés par leurs promoteurs comme plus rentables, si
+ce n’est plus acceptables et plus légitimes10. Mais ce constat a été fait sur les activités
+économiques les plus visibles ou, plus précisément, les plus sujettes à enregistrement
+officiel car liées à des industries. La pêche, la cueillette, l’exploitation de l’estran par les
+paysans-pêcheurs du littoral ne sont pas l’objet d’une comptabilité et d’un
+enregistrement administratif comme peuvent l’être les échanges liés à la circulation des
+navires marchands. Qu’en est-il donc des exploitations locales du littoral non sujettes à
+commerce avec les villes alentours, et rendues « invisibles » parce que moins – voire
+nullement – suivies par l’administration sauf sous la forme exclusive de l’interdiction ou
+de la condamnation ? On ne peut que noter, par exemple, l’opprobre officielle qui s’abat
+par l’intermédiaire d’un arrêté municipal sur les pêcheurs à Saint-Brévin en 1828, non en
+raison de leur activité de pêche à pied, mais bien plus en raison de leur nudité quand ils
+s’y adonnent. Postérieure aux critiques du docteur Thoré, visiteur de Biarritz en 1810,
+envers la nudité des paysans venus des montagnes sur la côte profiter de la mer, la
+décision du conseil municipal brévinois révèle l’exploitation de la plage et de l’estran par
+les « sans-voix » brévinois. Plus même que leur nudité, ce décret dévoile le regard
+extérieur qui commence à se poser sur leurs us et coutumes. Dans les deux cas, il s’agit
+bien d’une disqualification des usages autochtones et d’antagonismes relatifs à des
+rapports socialement différenciés au corps, et l’on pourrait en déduire une « pression »
+exercée sur les populations locales par les « baigneurs ». Mais c’est peut-être accorder
+plus d’importance au discours des promoteurs du « bain de mer » qu’ils n’en ont
+comparativement à d’autres groupes initialement hétérochtones qui, sans témoigner d’un
+prosélytisme en faveur des usages curatifs et récréatifs de la mer, tentent en s’installant
+dans les communes du littoral d’y introduire leurs propres visions de l’usage des sols et de
+la mer. Il est tout à fait notable qu’en 1810, alors qu’il n’y a pas encore à Saint-Brévin de
+promoteurs de « bains de mer », la réaction à l’encontre de la nudité des pêcheurs
+provienne des autorités municipales qui, en cette commune, légifèrent à ce propos de
+manière consécutive aux injonctions du préfet (Duru, 2009). Le monopole de la gestion
+normative des corps est, dans la commune, assuré aux détenteurs de la représentation
+municipale et aux autorités publiques tant que des « entrepreneurs de morale » ne
+viennent pas contester les habitudes locales en la matière (Becker, 1985).
+8
+
+Dans les archives municipales brévinoises, force est effectivement de constater qu’avant
+1828, ce « problème d’ordre public » n’occupe que peu de place : il s’avère que, si l’on se
+fie aux délibérations que nous avons préalablement parcourues et aux préoccupations
+premières des autorités brévinoises, les quelques visiteurs dont l’existence est signifiée le
+sont en raison de leur propension à acquérir des terres dont la propriété est discutée 11.
+C’est précisément leur souhait d’en imposer une exploitation contraire aux usages locaux
+qui pose problème : l’introduction de parcs à huîtres est notamment refusée par la
+population locale (Duru, 2009). C’est là une hypothèse forte que permet de formuler le
+travail préalable engagé et exploité ici : c’est peut-être moins « un désir de rivage » et
+« une nouvelle harmonie avec la mer » qui orientent l’intrusion de populations urbaines
+dans les communes du littoral que la possibilité d’accéder à la propriété et,
+éventuellement, à son exploitation selon des modalités redéfinissant les usages agricoles
+locaux. Pour ce qui concerne la période qui va de la Révolution jusqu’à la fin du XIXe
+siècle, si l’on restreint à la France l’étendue sur laquelle on cherche à saisir les
+transformations relatives aux espaces littoraux, la caractéristique incontournable à
+prendre en considération est l’absence d’homogénéité et la prégnance des
+particularismes locaux soulignés à l’occasion de multiples travaux d’historiens portant
+
+Mondes du Tourisme, 12 | 2016
+
+5
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+sur le monde rural, mais qui tous signifient effectivement l’importance de la question du
+marché foncier et de la redistribution des terres.
+9
+
+Ces enjeux, depuis 1789 jusqu’au moment (différent selon les configurations locales), où
+les statuts des communaux et des biens aux propriétés incertaines seront enfin clarifiés,
+sont consubstantiels de « l’identité communale » (Bois, 1960 ; Weber, 1983 ; Vivier, 1998).
+Cette diversité territoriale à l’échelle nationale se traduit, entre autres déterminations
+toutes liées aux pesanteurs de l’histoire, par des exploitations distinctes des ressources
+agricoles sur les terres du littoral ; par l’appartenance ou non à une aire portuaire
+conditionnant les échanges économiques locaux, et donc par l’orientation ou non de
+l’activité vers la pêche, l’agriculture, le commerce, voire l’industrie support du trafic
+maritime (Michon, 2011) ; par les rapports nécessairement distincts entretenus entre
+« élites » locales et nationales (corrélatifs notamment des stratégies de préservation de la
+distance ou de la proximité avec le pouvoir central) ; et enfin par l’état des relations entre
+« notables » ruraux et urbains situés à proximité (Agulhon, 1970). Aussi pourrait-on dire
+que, pour chaque commune du littoral dont l’histoire permet a posteriori de dire qu’elle va
+devenir une « station balnéaire », la question qui se pose est d’abord celle de la terre
+plutôt que de la mer. Au risque de paraître facétieux, avant même de pouvoir construire
+sur un terrain privé un établissement de balnéothérapie, un casino face à la mer ou des
+lieux de villégiatures, encore faut-il que des biens fonciers placés sur la plage ou non loin
+d’elle soient potentiellement l’objet d’échanges économiques.
+
+La défense des terres et de leur exploitation
+agricole face aux « étrangers »
+10
+
+Question centrale, plus que ne l’est alors la « baignade » dont la définition normative et la
+promotion sont monopolisées par quelques avant-gardistes, le marché des terres incluses
+sur le territoire communal est d’autant plus l’objet de l’attention des municipalités que la
+propriété communale de ces terres leur est contestée et devient ainsi l’enjeu de la
+préservation du patrimoine foncier local. Dans le cadre de ces luttes, « l’identité locale »
+est toujours invoquée comme elle l’est lorsque des propriétaires terriens tentent
+d’imposer des usages qui portent atteinte aux exploitations habituelles des sols du
+littoral. Dans les deux cas, les enjeux sont la conquête ou la préservation pour les
+détenteurs du pouvoir politique local d’une autonomie quant à la définition identitaire de
+la commune, quant au maintien de son économie agricole jusqu’alors dominante et quant
+à la préservation des intérêts des paysans.
+
+11
+
+À Saint-Brévin, deux épisodes au moins en témoignent. En janvier 1872, les habitants
+manifestent devant la mairie contre la demande faite par Mr Goupilleau, négociant
+nantais, propriétaire récent de terres cédées en 1859 sur lesquelles il construit des écluses
+à poissons et qu’il envisage de transformer en parc à huîtres. Cette demande, qui porte
+atteinte à l’exploitation commune et sans entrave des rochers pour la récolte de goémon
+ou de coquillages, est refusée par le conseil municipal, dont la position laisse encore
+envisager le souci de préserver les usages agricoles de l’estran et le souci de ne pas se
+dissocier de la population paysanne :
+Le conseil croit de son devoir de donner son avis sur cette question qui lui paraît de
+la plus haute importance au point de vue de l’agriculture et de l’alimentation des
+populations qui profitent actuellement des ressources du rocher [concerné]. Le
+conseil partage le sentiment de la population et exprime le vœu que toutes les
+
+Mondes du Tourisme, 12 | 2016
+
+6
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+écluses à poissons soient supprimées dans les plus brefs délais et, dans le cas de leur
+maintien, qui est nuisible à l’intérêt général, il proteste de la façon la plus
+énergique contre leur transformation en parc à huîtres12.
+12
+
+Une demande similaire suivra en 1878, de la part du comte de Tilly, propriétaire de
+terrains au nord de la commune13. Il réclame la concession exclusive de la côte pour y
+établir des parcs et bouchots à moule et essuie le refus de la municipalité :
+En présence d’une population émue et troublée par la pensée que, par concession
+faite à Mr de Tilly, elle peut être menacée de perdre les ressources que lui donne le
+littoral, le conseil partage ses craintes et ses inquiétudes et déclare que de temps
+immémorial, les habitants de la commune puisent sur cette côte une notable
+portion de leur subsistance et les engrais marins qui font la prospérité agricole et
+qu’accorder la concession serait lui enlever à la fois une partie de son alimentation
+et les éléments indispensables à son agriculture. Le conseil déclare surtout qu’il a la
+conviction que quel que soit le succès de l’opération que veut entreprendre Mr de
+Tilly, la valeur du résultat qu’il pourra obtenir n’atteindra jamais la valeur de la
+prospérité agricole qui sera détruite et anéantie par le fait de cette concession 14.
+
+13
+
+En cette période durant laquelle se manifeste déjà la présence de populations
+hétérochtones à la commune qui investissent dans des terrains du bord de mer, l’autorité
+de la municipalité s’affirme contre celui qui conteste, contrecarre, porte atteinte aux
+modes d’exploitation des sols et du rivage propres à l’économie paysanne de subsistance
+qui oriente encore le quotidien de la majeure partie des Brévinois15. L’arrivée d’une
+population en attente de services ou en exigence d’autres usages des terres, des sables et
+du rivage n’est pas légitimée comme « chances de gain » comme l’est encore leur
+exploitation agricole16. Doivent donc être questionnées les conditions sociales de
+légitimation du « tourisme balnéaire » et de la manière dont cette économie du service se
+concilie ou se substitue à l’économie paysanne telle qu’elle était définie jusqu’alors.
+
+14
+
+Aussi peut-on dire qu’un projet de recherche sur la balnéarisation du littoral devrait aussi
+intégrer et orienter ses méthodes pour comprendre les transformations corrélatives de
+l’espace politique local et des modes de subsistances paysans. Celles-ci seules peuvent en
+effet expliquer les raisons pour lesquelles les sables et la côte, de ressources agricoles,
+sont requalifiés et légitimés en ressources touristiques et deviennent des « dunes » et des
+« plages », ou alors continuent à être associés à leurs exploitations ou non-exploitations
+initiales, à l’instar des « sables » qui, comme à Saint-Brévin, restent une terre pauvre
+réservée aux pauvres tant que leur ensemencement n’aboutit pas vers 1870. Une telle
+analyse consisterait donc à prendre pour objet les luttes à propos de « l’identité
+communale », dont la définition n’est pas à l’initiative exclusive des élus (Vivier, 1998) :
+chargés pourtant de la « représentation communale », les membres des conseils
+municipaux ne sont pas les seuls à déterminer ce que la commune donne à voir et à faire
+comparativement aux autres, ce qui constitue les substrats objectifs de sa singularisation
+en terme de paysages et de sols, ni même les principes à partir desquels se constituent ses
+possessions foncières17.
+
+Promotions médicales du bord de mer et exploitations
+thérapeutiques du littoral
+15
+
+La lecture des archives invite effectivement à constater la prégnance d’autres
+corporations, parmi lesquelles celle des médecins, dans la promotion des localités du bord
+de mer, par le biais des cures thermales et de la baignade en mer18. Néanmoins, le
+
+Mondes du Tourisme, 12 | 2016
+
+7
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+prosélytisme des médecins en faveur des localités du littoral et de leurs espaces naturels
+ne s’exerce pas partout de la même manière ni avec la même force. Séduisante lorsque
+l’on dépasse l’échelle de la monographie localisée, la thèse d’un nouveau « désir de
+rivage » soutenue par Alain Corbin a pour intérêt de signifier l’emprise médicale sur le
+travail de formalisation et d’imposition de la « mode des bains de mer » parmi les
+catégories dominantes. Mais si d’un point de vue historique ces travaux permettent une
+vue globale des transformations à l’œuvre et l’importance de la surface géographique sur
+laquelle elles se déroulent, ils effacent les disparités locales qui, elles aussi, en mettant en
+exergue les concurrences auxquelles se livrent les médecins, permettent de poser
+d’autres questions. Le cas brévinois et sa contextualisation locale invite à prendre acte de
+l’inégale répartition des offres de soins liées à l’exploitation de la mer et des décalages
+chronologiques et géographiques avec lesquels elles s’imposent. À la thèse chère à Alain
+Corbin d’une « institutionnalisation » des spécialités médicales et d’une normalisation des
+usages bourgeois de la mer conduisant à « l’invention » et à la promotion des cures
+thermales, le recours à la monographie permet d’ajouter celle d’une inégale distribution
+des ressources sociales parmi les médecins, où seuls les plus dotés en la matière peuvent
+réussir à rassembler et mobiliser suffisamment autour de leur projet (en terme de moyens
+économiques comme de soutiens sociaux) pour faire ouvrir un établissement de soins
+dans une station du littoral19. Celle-ci se trouvant, nécessairement, dans l’aire
+géographique au sein de laquelle se trouve leur surface sociale et « la clientèle » qu’ils
+envisagent de capter.
+16
+
+Ainsi, il s’écoule cent années entre les ouvertures de l’établissement thermal de Brighton,
+en Angleterre en 1730, à l’initiative du Dr Russel et destiné à la haute aristocratie
+anglaise, et de celui de Pornic en 1830, encouragé par le propriétaire du château et
+administré par le Dr Guilmin – qui publiera son Album des baigneurs et dont la clientèle,
+parmi laquelle se trouvent des membres reconnues des classes cultivées comme
+l’historien Jules Michelet, cible moins les catégories les plus proches du pouvoir (Guilmin,
+1830). Comme il se déroulera encore 91 ans pour que, à quelques kilomètres de Pornic,
+soit ouvert en 1921 un sanatorium à Saint-Brévin-les-Pins à l’initiative du département de
+Loire-Inférieure, fermé en 1923 et converti en hôpital réservé aux indigents, aux colonies
+de vacances, aux enfants auxquels sont dispensés des séjours à l’air marin. Son médecinchef, le Dr Henri Dardelin, est lui aussi promoteur des bains de mer et publiera lui aussi,
+en 1931, le premier guide à destination des « touristes », dont les séjours à Saint-Brévin
+remontent au milieu du XIXe siècle. De tels écarts chronologiques et de telles différences
+sociales entre promoteurs médicaux des « bains de mer » doivent inviter à la prudence et
+à la vigilance quant aux conditions sociales de diffusion et d’imposition de cet usage
+singulier de la mer par ceux qui, pourrait-on dire, en initient l’offre d’encadrement. À
+titre de comparaison, Richard Russel, né le 26 novembre 1687 à Lewes en Angleterre,
+pharmacien et fils d’un chirurgien, écrit en 1750 un ouvrage sur les bienfaits de l’eau de
+mer. En 1752, il est élu membre de la Royal Society et, quelques années plus tard, la
+famille royale vient en villégiature à Brighton. Henri Dardelin est lui né en 1872 en France
+dans les Yvelines, auteur d’un ouvrage sur les effets sur le corps des différents corsets
+féminins, il s’installe tardivement sur la côte (il arrive à Saint-Brévin en 1927), sera
+nommé médecin-chef de l’hôpital de Mindin, et sa reconnaissance professionnelle ne
+dépend donc pas de la promotion des « bains de mer » ni d’une clientèle cossue. La prise
+en considération de telles différences peut aussi être éclairante à propos des usages
+sociaux de la « promotion touristique » du bord de mer, et évite de reprendre à son
+
+Mondes du Tourisme, 12 | 2016
+
+8
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+compte des catégories comme « station balnéaire », « station thermale », qui se
+formaliseront et seront diffusées a posteriori au service de la publicité politique ou
+médicale des localités ainsi désignées20.
+17
+
+Car c’est précisément de cela dont il s’agit : l’implication de médecins comme Henri
+Dardelin dans la publicité de la commune brévinoise, notamment par la rédaction de
+guides touristiques a pour fonction la défense des intérêts non seulement de la
+municipalité, mais aussi des intérêts spécifiques de ces petits notables néorésidents qui
+ne sauraient être les mêmes selon les configurations locales et leurs propres trajectoires.
+Engagés dans des stratégies de reconnaissance au sein de leur espace d’appartenance où
+se jouent notamment la définition légitime de la gestion curative des corps et la conquête
+de clientèles distinctes (le sanatorium à Saint-Brévin n’a pas grand-chose à voir avec
+l’établissement de Pornic), les médecins comme Dardelin et Guilmin contribuent à la
+promotion du tourisme « balnéaire » en jouant aussi localement, mais différemment,
+l’acquisition et la conversion d’un capital d’autochtonie (Retière, 2003). Si, pour Guilmin,
+médecin précurseur installé dans une commune dont les élites sont proches voire issues
+de la bourgeoisie nantaise, il s’agit d’assurer la pérennité des marchés sur lesquels il
+investit sa notoriété professionnelle, pour Dardelin l’enjeu est peut-être plus la
+conversion d’un capital culturel en capital symbolique. Investir à Saint-Brévin au début
+du XXe, après l’arrivée des « touristes », n’est pas investir à Pornic au début du XIXe siècle
+pour faire venir les « baigneurs ». Le travail « politique » de Dardelin repose ainsi moins
+sur la proximité avec les élites communales que sur des engagements multiples dans les
+syndicats de propriétaires et autres associations qui concurrencent la municipalité du
+point de vue de la définition de la bonne administration communale et lui permettent
+d’accéder progressivement au statut de « notable » local. C’est là tout l’intérêt du
+comparatisme : au-delà du constat d’un processus général de « mise en tourisme » du
+littoral effectué a posteriori par la reconstruction historique, le recours aux monographies
+de cas et à leur contextualisation permet d’identifier qu’en matière de promotion des
+localités « balnéaires », il est à la fois question de concurrences à propos de « l’identité
+communale » et, indissociablement, de l’interdépendance entre espaces (des politiques,
+des médecins, des propriétaires fonciers notamment) dont les rapports varient en chaque
+cas selon les caractéristiques et les intérêts des agents qui s’engagent dans la
+« balnéarisation » de leur commune.
+
+Conclusion
+18
+
+Ces hypothèses, pistes de réflexions et de recherches en appellent ainsi d’autres qui
+dépassent de loin les seules interrogations sur l’imposition du « tourisme balnéaire ». Plus
+humblement et méthodiquement, la transformation d’une commune rurale ou de terres
+« sans maîtres » en « station balnéaire » offre l’occasion de questionner non seulement ce
+que sont la « république au village » (Agulhon, 1970) et les enjeux spécifiquement locaux
+d’appropriation des terres et de leurs usages légitimes autour desquels se mobilisent les
+fractions sociales qui constituent les petites élites locales, mais aussi la manière dont les
+relations entretenues avec des agents ou institutions extérieurs à la commune sont
+constituées et instrumentalisées au service de l’affermissement, de la préservation ou de
+la conquête d’un pouvoir à la fois local et sur le local21. C’est, en dernier ressort, ce que le
+« tourisme balnéaire » pose comme question : comment s’est opérée la disqualification
+partielle d’une économie autocentrée de subsistance paysanne, de ses agents et
+
+Mondes du Tourisme, 12 | 2016
+
+9
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+institutions locales au profit d’une économie orientée vers le service aux personnes, si ce
+n’est par des processus reposant pour partie sur la légitimation d’une autre ouverture à
+l’extérieur que celle définie par les échanges agricoles, et plus particulièrement par la
+prise en considération d’une demande hétérochtone en terme de manière de vivre « au
+village » et de conditions de vie quotidienne ? Posée ainsi au sociologue, la problématique
+des transformations des « territoires du vide » en « stations balnéaires » incite à
+questionner l’ensemble de ces catégories d’actions politiques que sont « le tourisme », « le
+balnéaire », « le littoral ».
+19
+
+L’ambition serait donc plus précisément de comprendre les usages de ces catégories, leur
+exploitation et leur diffusion dans le cadre d’enjeux relatifs à la définition de la politique
+communale légitime dont le monopole ne revient pas aux seuls élus, mais leur est disputé
+par d’autres détenteurs de pouvoirs sur l’administration territoriale, situés à des échelons
+supérieurs de l’organisation bureaucratique, comme par des membres appartenant à ce
+qui constitue, de manière relative, les « élites locales ». C’est bien l’appartenance à ces
+élites qui est aussi un enjeu en tant que tel : pour des hétérochtones qui prétendent
+justement à l’autochtonie, il s’agit de ne pas laisser aux seuls élus le débat sur « l’identité
+communale », sur ce que doivent être et devenir la commune, ses sols, ses cadres de vie
+collectifs22. Dans cette optique de recherche, il y a encore quelques profits scientifiques à
+poursuivre la sociogenèse comparée des communes qui deviennent « stations
+balnéaires ». C’est-à-dire à construire l’espace des concurrences au sein des communes et
+entre municipalités du point de vue des conditions sociales qui favorisent leurs
+engagements respectifs dans une économie dont la singularité est qu’elle dépend de
+l’accueil de populations non autochtones et des relations entretenues avec les institutions
+en charge du maillage territorial, de l’élaboration des frontières entre territoires, des
+voies de communications et de transports. Envisagée de la sorte, une histoire sociale du
+« balnéarisme » est une sociologie des stratégies ayant pour objet la « conquête des
+libertés » locales (Lévêque, 1989). Ou plus précisément l’emprise sur le décloisonnement
+communal et sur la maîtrise des relations entretenues entre le local et l’extra-local, le
+communal et l’extra-communal, le pouvoir politique municipal et le pouvoir central. Un
+tel programme de recherche permettrait d’entamer une sociologie de l’« État » et, plus
+précisément, des ressorts du pouvoir performatif de cette notion qu’est l’« intérêt
+général », qui se décline tant dans les formes de justification de la promotion locale du
+« bain de mer » que dans celles de l’imposition nationale d’un contrôle des espaces du
+littoral envisagé au plus haut niveau de l’administration gouvernementale, comme ce fut
+le cas notamment pour la question des sables et de leur statut23.
+
+BIBLIOGRAPHIE
+Maurice Agulhon, La République au village. Les populations du Var, de la Révolution à la Seconde
+République, Plon, 1970.
+Maurice Agulhon, « La société paysanne et la vie à la campagne », dans Georges Duby et Armand
+Wallon (dir.), Histoire de la France rurale, t. 3 : De 1798 à 1914, Seuil, 1976, p. 286-329.
+
+Mondes du Tourisme, 12 | 2016
+
+10
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+Jean-Pierre Baud, L’Affaire de la main volée : une histoire juridique du corps, Seuil, 1993.
+Paul Bois, Paysans de l’Ouest, des structures sociales aux options politiques dans la Sarthe, Vilaire, 1960.
+Howard Becker, Outsiders. Études de sociologie de la déviance, Métailié, 1985 (éd. originale 1963).
+Rogers Brubaker, « Au-delà de l’“identité” », Actes de la recherche en sciences sociales, vol. 139, n o 1,
+2001, p. 66-85.
+Christophe Charle, Les Élites de la République, 1880-1900, Fayard, 2006 (1 re édition 1987).
+Alain Corbin, Le Territoire du vide. L’Occident et le désir du rivage, 1750-1840, « Champs », Flammarion,
+1990 (1re éd. 1988).
+Henri Dardelin, Saint-Brévin-les-Pins, Lorisse, 2004 (1 re édition 1931).
+Philippe Duhamel, Magali Talandier et Bernard Toulier, Le Balnéaire. De la Manche au monde,
+Presses universitaires de Rennes, 2015.
+André Duru, Saint-Brévin à travers les siècles, Herault, 2009.
+Renée Guillemin et Michel Tessier, Saint-Brévin, mer et forêt, Éditions des Paludiers, 1982.
+Auguste Guilmin, Pornic et ses bains. Album du baigneur, Rittnev et Goupil, Charpentier père, fils
+et Cie, 1830.
+Élisabeth Justome, « En bord de Manche. Études comparée des stations balnéaires de la côte
+Picarde (Picardie) et de la côte de Granit rose (Côtes-d’Armor) », dans Philippe Duhamel, Magali
+Talandier et Bernard Toulier, (dir.) Le Balnéaire. De la Manche au monde, Presses universitaires de
+Rennes, 2015, p. 109-120.
+Pierre Lévêque, « La conquête des libertés », dans Jacques Le Goff (dir.), Histoire de la France, t. 2 :
+L’État et les pouvoirs, Seuil, 1989, p. 371-397.
+Gildas Loirand, Une difficile affaire publique. Une sociologie du contrôle de l’État sur les activités
+physiques et sportives et sur leur encadrement professionnel, thèse de doctorat de sociologie,
+université de Nantes, 1996.
+Karl Marx, Le Capital, livre troisième, Éditions sociales, 1977 (édition originale 1867).
+Bernard Michon, Le Port de Nantes au XVIIIe siècle. Construction d’une aire portuaire, Presses
+universitaires de Rennes, 2011.
+Patrice Pinell, « Champ médical et processus de spécialisation », Actes de la recherche en sciences
+sociales, nos 156-157, janvier 2005, p. 4-36.
+Jean-Noël Retière, « Autour de l’autochtonie. Réflexions sur la notion de capital social
+populaire », Politix, vol. 16, no 63, 2003, p. 121-143.
+Mathis Stock, « Habiter les stations balnéaires. Mobilités et pratiques des lieux à travers
+l’exemple de Brighton and Hove », dans Philippe Duhamel, Magali Talandier et Bernard Toulier
+(dir.) Le Balnéaire. De la Manche au monde, Presses universitaires de Rennes, 2015, p. 323-338.
+Johan Vincent, L’Intrusion balnéaire. Les populations littorales bretonnes et vendéennes face au tourisme,
+1800-1945, Presses universitaires de Rennes, 2007.
+Nadine Vivier, Propriété collective et identité communale. Les biens communaux en France,
+1750-1914, Publications de la Sorbonne, 1998.
+Eugen Weber, La Fin des terroirs. La modernisation de la France rurale, 1870-1914, Fayard, 1983.
+Max Weber, Économie et société, t. 1 : Les Catégories de la sociologie, Plon, 1971 (1 re édition 1956).
+
+Mondes du Tourisme, 12 | 2016
+
+11
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+Max Weber, La Ville, La découverte, 2014.
+
+NOTES
+1. Intégralement numérisées, ces délibérations sont consultables sur le site des archives
+départementales de Loire-Atlantique (http://archives.loire-atlantique.fr/jcms/accueil-fr-j_6).
+Pour les périodes analysées pour ce travail de recherche, ont été dépouillés de manière
+exhaustive les cahiers allant de 1789 à 1800 et de 1800 à 1810. Pour les périodes suivantes, seules
+les dates de délibérations précisément repérées suite à la lecture d’autres travaux ont été
+consultées.
+2. Sur la prudence épistémologique à propos du terme « identité » et qui justifie les guillemets ici
+utilisés en ce qu’ils désignent précisément les enjeux relatifs à l’identification communale, voir
+Brubaker, 2001.
+3. Voir à ce sujet la définition que Max Weber (1971) donne de l’autonomie qui « signifie, à la
+différence de l’hétéronomie, que l’ordre du groupe est instauré par des personnes qui ne lui sont
+pas extérieures, mais par des membres du groupement en vertu de cette qualité ».
+4. On ne saurait oublier que les « baigneurs », ou plus précisément leurs corps, vont être l’objet
+d’enjeux quant à la légitimité de leur encadrement : une telle approche, grâce à laquelle il est
+possible de penser autrement l’histoire de l’encadrement des « sports » s’inspire des travaux de
+Gildas Loirand sur l’histoire bien ultérieure de la « professionnalisation » du métier d’éducateur
+sportif (1996).
+5. Les travaux par exemple de Bernard Toulier ou d’Élisabeth Justome, sans le formuler ainsi,
+invitent effectivement à poser la question du pouvoir des architectes et de leur emprise sur le
+marché de l’aménagement balnéaire (Duhamel, Talandier et Toulier, 2015 ; Justome, 2015).
+6. La compréhension de cette autonomisation est l’enjeu central de la recherche en cours sur le
+littoral ligérien : identifier comment et à quel moment, selon les localités, les enjeux politiques se
+dissocient des enjeux de préservation des marchés agricoles et de l’économie foncière qui y est
+lié.
+7. On peut ici se reporter aux travaux de Mathis Stock pour se donner une idée de la manière
+dont la géographie se saisit de la question des transformations des stations balnéaires (2015).
+8. La population brévinoise stagne entre 1800 et 1850 (de 913 à 1 026 habitants) ; mais elle
+augmente de presque 60 % de son volume initial entre 1851 et 1901 (de 1 026 à 1 641 habitants).
+9. Il ne suffit pas de dire que « la juxtaposition sociale des usages impose parfois l’intervention
+des autorités » (Corbin, 1990), encore faut-il répondre à la question des origines de cette
+intervention : qui mobilise les autorités ? Où particulièrement, et comment ? Et quelles
+résistances ou réactions cela suscite-t-il, si toutefois celles-ci se manifestent.
+10. On peut se référer en l’occurrence à Bernard Michon (2011), qui a notamment bien analysé les
+relations et les interdépendances économiques entre les élites nantaises (notamment les
+armateurs et négociants) avec les « petites élites » des avant-ports nantais, dont Paimboeuf et
+Saint-Brévin. Ce travail sur la constitution de toute une « aire portuaire » montre, par la
+négative, qu’à l’aube du XIXe siècle, dans les localités du littoral ligérien situées à proximité de la
+Loire, le commerce le plus visible et le plus légitime est celui qui est lié à la circulation maritime
+et fluviale des biens et des denrées. Il laisse deviner l’existence d’une économie des transports
+fluviaux qui bénéficierait aux quelques propriétaires d’embarcations à Saint-Brévin.
+11. Les délibérations municipales brévinoises ont été lues dans leur intégralité sur la période
+1789-1828.
+12. Délibération du 14 janvier 1872.
+13. Nous n’avons pas, à ce stade, plus d’information sur Mr Goupilleau ou le comte de Tilly.
+
+Mondes du Tourisme, 12 | 2016
+
+12
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+14. Délibération du 28 juillet 1878.
+15. À propos des transformations des formes de propriétés foncières, les pages de Karl Marx à
+propos des conversions du surprofit en rente foncière sont éclairantes (1977).
+16. On peut en l’occurrence se référer aux travaux de Max Weber (2014) pour se doter d’un
+modèle analytique des luttes pour le pouvoir dominant constitutives de l’histoire des villes
+occidentales, et notamment sur la monopolisation des droits et privilèges relatifs à la maîtrise
+des marchés qui organisent les échanges locaux, font le pouvoir et contribuent à la
+singularisation d’une « ville ».
+17. À Saint-Brévin, comme dans les Landes, la singularisation par la pinède sera le produit d’un
+travail militant autant que d’un ensemencement dont l’initiative revient aux acquéreurs des
+terres sableuses du Sud de la commune.
+18. Les recherches entamées depuis la rédaction de cet article laissent envisager que parmi les
+corps de métiers auxquels appartiennent les agents impliqués dans la balnéarisation des
+communes du littoral ligérien se trouvent les notaires et les géomètres.
+19. Ce processus est corrélatif de la « spécialisation médicale » alors à l’œuvre dans le champ de
+la médecine, analysé par Patrice Pinell (2005).
+20. Il est en de la définition des « bains de mer » comme de celle du « tourisme » : il y a plus à
+gagner à essayer de comprendre les intérêts performatifs à énoncer ce que serait la pratique du
+« tourisme » – notamment pour mieux défendre l’idée d’une demande et d’un marché du
+tourisme –, que de contribuer au débat visant à identifier ce qu’est le tourisme et ce qui n’en est
+pas, qui est touriste et qui ne l’est pas.
+21. Christophe Charle (2006) a bien souligné la manière dont les trois élites de la République
+investissent de manière différenciée dans la villégiature, qui peut être l’occasion de l’entretien et
+de l’extension de formes de sociabilités qui elles-mêmes s’objectivent dans des conquêtes du
+pouvoir politique local.
+22. Que l’on songe par exemple aux ressources sociales et aux proximités entre « élites » qu’a
+supposé la création par décret, sous l’égide de la présidence de la République, la création en 1900
+de la commune de Pornichet à l’initiative des acquéreurs de lots de terrains initialement situés à
+la fois sur les communes de La Baule et de Saint-Nazaire.
+23. Par exemple lorsque Napoléon décide, par décret du 14 décembre 1810, la fixation des dunes
+par l’ensemencement.
+
+RÉSUMÉS
+Partant d’un dépouillement exploratoire des archives municipales de la commune de SaintBrévin-les-Pins, cet article essaie de reconstruire les espaces sociaux localisés au sein des
+communes rurales qui, sous l’impulsion des transformations objectives et symboliques de la
+redéfinition de l’usage des sols et de leur exploitation, sont requalifiées en « stations balnéaires ».
+Montrant ainsi qu’à Saint-Brévin, le travail de prosélytisme en faveur des « bains de mer » ne
+relève pas des mêmes rapports sociaux que dans une commune comme Pornic, située à quelques
+kilomètres plus au sud, l’analyse des rapports de force et de sens à propos de l’appropriation des
+terres et de l’aménagement des territoires permet de mettre en évidence les concurrences à
+propos de « l’identité communale ». À Saint-Brévin, ces luttes opposent élus et acquéreurs
+hétérochtones jusqu’en 1900, date à laquelle le conseil municipal entérine le changement de nom
+de la commune. Par la suite, ce sont d’autres prosélytes qui contestent aux élus brévinois la
+
+Mondes du Tourisme, 12 | 2016
+
+13
+
+La balnéarisation sous conditions locales. Les concurrences à propos de « l’i...
+
+publicité et la définition de l’exploitation du littoral. Ce travail est une invitation
+programmatique à procéder à la comparaison de la manière dont, avec plus ou moins d’efficacité
+selon les configurations qu’elles rencontrent, les fractions dominantes de populations d’origine
+urbaine s’engagent dans la conquête locale du pouvoir sur « le local ».
+Runner of an exploratory perusal of the municipal archives of the municipality of Saint-Brévinles-Pins, this article tries to reconstruct the social spaces localized within the rural districts
+which, at the instigation of the objective and symbolic transformations of the redefining of the
+use of grounds and their exploitation, are requalifiées in “sea resorts”. So showing that to SaintBrévin, the work of proselytism in favour of the “sea swimming” does not raise the same social
+relationships as in a municipality as Pornic, situated in some kilometers further south, the
+analysis of the balance of power and sense. About the appropriation of lands and town and
+country planning allows to highlight the competitions about “the municipal identity”. To SaintBrévin, these fights bring into conflict elected representatives and hétérochtones buyers until
+1900, date in which the City Council confirms the change of name of the municipality. Afterward,
+it is other proselytes which dispute to the brévinois elected representatives the advertising and
+the definition of the exploitation of the coast. This work is a programmatic invitation to proceed
+in comparison with the way, with more or less of efficiency according to the configurations
+which they meet, the dominant fractions of populations of urban origin make a commitment in
+the local conquest of the power on “the premises (place)”.
+
+INDEX
+Mots-clés : balnéarisation, concurrences locales, identité communale, littoral ligérien
+Keywords : Balnearization, local competitions, municipal identity, Ligerian Coast
+
+AUTEUR
+ARNAUD SÉBILEAU
+Institut de formation en éducation physique et en sport d’Angers (IFEPSA-UCO), chercheur au
+Centre nantais de sociologie (CENS, FRE CNRS 3706) – asebi6@yahoo.fr
+
+Mondes du Tourisme, 12 | 2016
+
+14
+
+

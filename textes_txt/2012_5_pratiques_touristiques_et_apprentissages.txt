@@ -1,0 +1,3153 @@
+Mondes du Tourisme
+5 | 2012
+
+Actions politiques territorialisées et tourisme
+
+Pratiques touristiques et apprentissages
+Gilles Brougère
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/415
+DOI : 10.4000/tourisme.415
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+Édition imprimée
+Date de publication : 1 juin 2012
+Pagination : 62-75
+ISSN : 2109-5671
+Référence électronique
+Gilles Brougère, « Pratiques touristiques et apprentissages », Mondes du Tourisme [En ligne], 5 | 2012,
+mis en ligne le 30 septembre 2015, consulté le 19 avril 2019. URL : http://journals.openedition.org/
+tourisme/415 ; DOI : 10.4000/tourisme.415
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modiﬁcation 4.0 International.
+
+GILLES BROUGÈRE
+
+Pratiques touristiques et apprentissages
+GILLES BROUGÈRE
+
+[brougere@univ-paris13.fr]
+
+Professeur de sciences de l’éducation
+Directeur d’Experice (Centre de recherche interuniversitaire Expérience, ressources culturelles, éducation),
+université Paris 13
+
+Résumé. Si nombre de disciplines contribuent aux études sur le tourisme, celui-ci n’est pas un objet des
+sciences de l’éducation et, plus largement, l’étude des relations entre tourisme et éducation ou la question
+de savoir si les pratiques touristiques peuvent être des espaces d’apprentissage sont peu présentes dans la
+littérature. Certes, de la référence au Grand Tour à celle du tourisme culturel, en passant par la question du
+nécessaire apprentissage du tourisme comme pratique spécifique, on trouve des évocations de l’éducation
+ou des apprentissages, mais peu développées et le plus souvent en dehors de toute recherche empirique. Il
+nous semble qu’il manque une théorie, des concepts permettant de penser une telle relation. Nous partons
+des théories de “l’apprentissage situé” pour les confronter et les adapter à des données empiriques
+(observations et entretiens) issues d’une recherche sur le tourisme social. Sur cette base, nous proposerons
+une architecture conceptuelle autour des notions de participation guidée et d’exploration guidée permettant
+de penser les effets d’apprentissage de pratiques touristiques.
+
+Abstract. Many academic disciplines contribute to the tourism studies, but it is not the case for educational
+sciences. More generally the issue of the relationship between education and tourism, or those of the tourism
+practice as learning place has no room in the scientific literature. The reference to the Grand Tour, to cultural
+tourism, or to the question of the necessity to learn the tourism practice as all other practices, involve some
+remarks about learning in tourism context, but undeveloped and with few empirical data. It lacks of theories,
+concepts to think about such relationship. The article uses the theories of situated learning to confront and to
+adapt its to empirical data (observations and interviews) from a research about social tourism. We propose a
+conceptual architecture with the notions of guided participation and guided exploration, which are useful to think
+about the learning effects of tourism practices.
+62
+
+MONDES DU TOURISME N°5 • JUIN 2012
+
+RECHERCHE • VARIA
+
+S
+
+i beaucoup de disciplines
+
+Il nous semble que cette situation
+
+esquissons et que nous soumettons
+
+contribuent aujourd’hui aux
+
+appelle une réflexion sur la façon
+
+à la critique des spécialistes du tou-
+
+études sur le tourisme, il
+
+dont on peut penser la question de
+
+risme est tout autant issue de théories
+
+semble bien que la contribution des
+
+l’apprentissage au sein des pratiques
+
+antérieures que de confrontations
+
+sciences de l’éducation soit proche
+
+touristiques, ou plutôt, formulation
+
+avec un terrain de recherche que
+
+de zéro, si l’on ne tient pas compte
+
+que nous préférons, les pratiques
+
+nous présenterons. Il s’agit de faire
+
+de ce qui concerne non le tourisme
+
+touristiques comme espace d’ap-
+
+des allers et retours entre théories
+
+lui-même mais son enseignement
+
+prentissage. Cela implique de dis-
+
+disponibles et données de terrain.
+
+dans des écoles ou universités. Que
+
+poser de concepts qui, pris dans
+
+Notre recherche sur le tourisme
+
+l’on considère cette discipline comme
+
+diverses théories de l’éducation ou
+
+s’intègre dans un programme de
+
+spécifique ou simplement comme
+
+de l’apprentissage, et moyennant
+
+recherche plus large sur les pratiques
+
+l’association de diverses disciplines
+
+des modifications, peuvent s’appli-
+
+sociales comme espace d’apprentis-
+
+pour étudier l’éducation au sens le
+
+quer au tourisme.
+
+sage : qu’apprend-on et comment
+
+plus large (ce qu’il conviendrait d’ap-
+
+Le but de cet article est de pro-
+
+dans le cadre de pratiques qui n’ont
+
+peler symétriquement les études sur
+
+poser un cadre conceptuel issu des
+
+pas pour objectif l’apprentissage ?
+
+l’éducation), le tourisme ne fait pas
+
+théories forgées pour penser certaines
+
+Ce que la littérature internationale
+
+partie de ses objets, lors même qu’elle
+
+situations éducatives pouvant per-
+
+nomme “apprentissage informel” a
+
+s’intéresse à d’autres situations que
+
+mettre de théoriser la dimension
+
+été l’objet d’explorations diverses
+
+l’école ou l’éducation formelle, par
+
+éducative des pratiques touristiques.
+
+(Brougère et Bézille, 2007 ; Brougère
+
+exemple au travail. Tout se passe
+
+Mais notre façon de faire de la
+
+et Ulmann, 2009), en particulier par
+
+comme si les activités frivoles, de
+
+recherche nous interdit de déployer
+
+les tenants de l’apprentissage situé
+
+récréation, de loisir avaient bien des
+
+cet article uniquement au niveau
+
+(Lave et Wenger, 1991 ; Wenger, 2005).
+
+difficultés à trouver place au sein
+
+théorique ou conceptuel.
+
+Nous disposons ainsi, sinon d’une
+
+de cette discipline.
+
+En effet, nous pensons que, si la
+
+théorie, tout au moins d’un ensemble
+
+Du côté des études du tourisme
+
+construction théorique n’est pas tou-
+
+théorique et conceptuel relatif à l’ap-
+
+malgré la relative évidence d’une
+
+jours et seulement issue de l’empirie
+
+prentissage en situation informelle.
+
+relation avec des questions d’ap-
+
+selon le modèle de la théorisation
+
+Cette recherche s’enracine dans
+
+prentissage ou d’éducation, depuis
+
+ancrée (Glaser et Strauss, 2010), elle
+
+l’analyse de situations de travail ou
+
+le Grand Tour jusqu’au tourisme
+
+ne peut pour autant se développer
+
+d’autres situations qui semblent en
+
+culturel, en passant par certains
+
+sans confrontation avec un terrain,
+
+être proches. Elle met l’accent sur
+
+objectifs du tourisme social ou la
+
+des données. Nous nous inscrivons
+
+l’idée que l’apprentissage n’est pas
+
+place des apprentissages corporels,
+
+ici dans le modèle de la “théorie
+
+nécessairement conscient, ou, s’il
+
+les travaux ou réflexions portant
+
+adaptative” proposée par Derek
+
+l’est, qu’il peut être fortuit ou, s’il
+
+sur les relations entre tourisme et
+
+Layder (1998), qui consiste à s’ap-
+
+n’est pas fortuit, qu’il peut rester
+
+apprentissage ou éducation sont
+
+puyer sur des éléments théoriques
+
+informel car autodirigé, organisé et
+
+rares. Il s’agit le plus souvent d’ana-
+
+pour les adapter en permanence en
+
+régulé par la personne elle-même
+
+lyses sporadiques qui ne conduisent
+
+fonction des données empiriques.
+
+(Schugurensky, 2007). On peut ainsi
+
+pas, malgré leur intérêt, à un déve-
+
+Si la théorie n’est pas uniquement
+
+apprendre non seulement sans école,
+
+loppement de recherches centrées
+
+produite par le terrain, elle n’est pas
+
+mais également sans enseignant ni
+
+sur cette question. Elles semblent
+
+pour autant une construction decon-
+
+pédagogie. Cet apprentissage(1) ren-
+
+manquer de concepts permettant de
+
+textualisée que les données devraient
+
+voie à une logique de participation :
+
+construire une relation forte entre
+
+seulement valider. Ou, pour le dire
+
+c’est en participant que l’on apprend,
+
+apprentissage et tourisme.
+
+autrement, la théorie que nous
+
+et la motivation est celle d’être
+JUIN 2012 • MONDES DU TOURISME N°5
+
+63
+
+GILLES BROUGÈRE
+
+membre d’un groupe, d’où l’idée de
+
+Au-delà de cette tentative d’utiliser
+
+gré à nombre de curriculums contem-
+
+communautés de pratique caracté-
+
+le paradigme ludique, il y a peu de
+
+porains, en particulier au niveau
+
+risées par un engagement mutuel,
+
+recherches qui mettent en évidence
+
+européen avec le programme
+
+une entreprise commune et un réper-
+
+la question éducative dans les pra-
+
+Erasmus. Reste la question de savoir
+
+toire partagé (Wenger, 2005). Enfin
+
+tiques touristiques. C’est relativement
+
+si “l’idiot du voyage” (Urbain, 2002)
+
+cette participation a pu être analysée
+
+paradoxal dans la mesure où chacun
+
+apprend également. Il s’agit bien de
+
+par Billett (2004) comme une relation
+
+relève l’origine du terme, sinon de
+
+s’intéresser aux pratiques les plus
+
+étroite entre engagement de la per-
+
+la pratique contemporaine, dans le
+
+répandues, les plus éloignées de tout
+
+sonne dans la situation et affor-
+
+Grand Tour, voyage initiatique en
+
+projet éducatif. Ces pratiques, si
+
+dance de la situation (ce que celle-
+
+Europe, permettant de découvrir les
+
+elles ont remplacé le Grand Tour,
+
+ci offre à celui qui y participe). Les
+
+États européens et de s’exercer aux
+
+n’en sont pas la suite “naturelle”,
+
+modalités peuvent être diverses. Ce
+
+pratiques sociales de leur classe, effec-
+
+et leur dimension éducative ne repose
+
+corps de théorie, adapté à des situa-
+
+tué par les jeunes nobles du XVI au
+
+pas nécessairement sur un projet
+
+tions de travail, semble s’appliquer
+
+XVIII
+
+au jeu de façon générale (Brougère,
+
+2004). Cependant, comme bien sou-
+
+Une autre voie pour saisir les rela-
+
+2005), et à des activités plus spéci-
+
+vent, l’origine étymologique doit être
+
+tions entre tourisme et éducation
+
+fiques comme le jeu en ligne (Berry,
+
+prise avec distance. Si le Grand Tour
+
+est ce que l’on appelle le tourisme
+
+2009). Peut-il s’appliquer au tourisme
+
+est bien affaire d’éducation, s’il s’agit
+
+culturel (visite de musée, du patri-
+
+de façon à rendre visible des appren-
+
+bien de voyager, nous sommes très
+
+moine, etc.), auquel on accorde une
+
+tissages qui, par définition, sont
+
+loin des pratiques touristiques
+
+importance grandissante. Ainsi John
+
+implicites et invisibles ?
+
+contemporaines : “Le Grand Tour
+
+Urry (2002, p. 137) souligne que le
+
+constitue la mise à l’épreuve d’une
+
+tourisme est aujourd’hui lié à l’ap-
+
+(2)
+
+64
+
+e
+
+e
+
+siècle (Towner, 1985 ; Boutier,
+
+explicite.
+
+QUELQUES PISTES POUR PENSER
+
+éducation nobiliaire dont l’économie,
+
+prentissage et reviendrait sur les pas
+
+LES LIENS ENTRE
+
+commune aux principales nations
+
+du Grand Tour. Il justifie cela à par-
+
+TOURISME ET ÉDUCATION
+
+européennes, s’est constituée à la
+
+tir de la popularité des musées, des
+
+Renaissance ; elle articule les disci-
+
+reconstitutions historiques hyper-
+
+Certains (Cohen, 1985 ; Mitchell,
+
+plines militaires (équitation, manie-
+
+réalistes. À cela s’ajoutent le désir
+
+1998) ont pensé trouver dans les
+
+ment des armes, mathématiques) et
+
+d’apprendre de nouveaux sports à
+
+proximités entre jeu et tourisme de
+
+les arts mondains (danse, musique) ;
+
+l’occasion des vacances, le dévelop-
+
+quoi justifier la dimension éducative
+
+l’apprentissage politique (histoire,
+
+pement du tourisme centré sur la
+
+de cette activité. Mais la critique de
+
+géographie, droit) et la connaissance
+
+culture et l’art, l’intérêt pour des
+
+l’évidence de la relation entre jeu et
+
+des moyens de communication
+
+sites industriels. Le tourisme est donc
+
+éducation (Brougère, 1995, 2005 ;
+
+(langues étrangères)” (Boutier, 2004,
+
+une “pratique culturelle” (Rojek et
+
+Power, 2000 ; Sutton-Smith, 1997) ne
+
+pp. 8-9). Il s’agit d’un voyage d’édu-
+
+Urry, 1997, p. 5). Ce tourisme culturel,
+
+permet pas de fonder, sinon de façon
+
+cation sans doute plus proche, si l’on
+
+Jennifer Craik (1997, p. 121) le définit
+
+mythique, la relation sur cette base,
+
+veut le traduire dans le monde
+
+comme une excursion dans d’autres
+
+d’autant plus que si le jeu est une
+
+contemporain, d’un stage de fin
+
+cultures, d’autres lieux, de façon à
+
+des dimensions centrales du tourisme,
+
+d’études que du tourisme de loisir
+
+apprendre à propos des populations,
+
+il ne se confond pas avec le tourisme,
+
+qui nous intéresse ici. Que le voyage
+
+de leurs modes de vie, de leurs arts.
+
+qui implique également repos, socia-
+
+dans ses formes les plus nobles, les
+
+On trouve associées une composante
+
+bilité, divertissement, découverte
+
+plus valorisées soit éducatif et forme
+
+éducative et expérientielle et une
+
+(Équipe Mit, 2011), activités qui ne
+
+tout particulièrement la jeunesse,
+
+idée romantique de la culture. Mais
+
+peuvent être confondues avec le jeu.
+
+cela est relativement reconnu et inté-
+
+au-delà de ces constats qui justifient
+
+MONDES DU TOURISME N°5 • JUIN 2012
+
+RECHERCHE • VARIA
+
+de poser des questions relatives aux
+
+fiter de leurs vacances certes pour
+
+ficile, nous nous sommes tourné
+
+apprentissages, on ne trouvera pas
+
+se reposer, mais également, du fait
+
+vers des populations exclues du tou-
+
+de recherche pour étudier de tels
+
+de l’ambiguïté même du projet, pour
+
+risme, confrontées à une expérience
+
+apprentissages. La recherche s’est
+
+accéder à la culture légitime ou
+
+nouvelle et, pour elles, rare.
+
+davantage tournée d’une part vers
+
+prendre conscience de leur situation
+
+Nous avons suivi un groupe de
+
+l’analyse de l’offre, de la mise en
+
+d’exploitation. Mais le projet est
+
+femmes et leurs enfants pris en
+
+tourisme, d’autre part vers celle de
+
+loin de recouvrir la réalité qui a sou-
+
+charge par un centre social d’une
+
+l’expérience touristique que sur ses
+
+vent conduit à un alignement sur
+
+ville du Nord de la France (séjour
+
+effets en termes d’apprentissage.
+
+les pratiques touristiques de masse
+
+subventionné à 90 % par les caisses
+
+On trouve également d’impor-
+
+proposées par le secteur privé. Nous
+
+d’allocations familiales). Ces per-
+
+tantes réflexions sur la nécessité
+
+verrons que, malgré la difficulté de
+
+sonnes sont accompagnées au niveau
+
+d’apprendre à être touriste, de s’ap-
+
+maintenir de tels projets d’éducation
+
+du projet et du choix collectif du
+
+proprier les pratiques du voyage
+
+populaire, il en reste aujourd’hui
+
+lieu de vacances et de son pro-
+
+d’agrément (Équipe Mit, 2002, 2011 ;
+
+des éléments.
+
+gramme par leur centre social et,
+
+Ceriani, Knafou, Stock, 2004 ; Ceriani,
+
+Enfin, la question de la rencontre
+
+spécifiquement, deux travailleurs
+
+Duhamel, Knafou et Stock, 2005). Cette
+
+interculturelle conduit plus souvent
+
+sociaux ; le déplacement sur le lieu
+
+dimension est au centre des travaux
+
+à évoquer le choc culturel que l’ap-
+
+du séjour (un village de vacances
+
+d’Orvar Löfgren (1994), qui souligne
+
+prentissage. Des analyses plus fines
+
+du tourisme social) s’effectue col-
+
+à la fois les transformations collec-
+
+montrent sa présence dans certains
+
+lectivement à l’aide d’un car égale-
+
+tives et l’apprentissage relatif de
+
+lieux, mais sans mettre l’accent sur
+
+ment utilisé pour les déplacements
+
+compétences sans lesquelles le tou-
+
+l’apprentissage, même si l’on peut
+
+et visites. Il s’agit bien pour elles de
+
+risme ne serait pas possible. Si ces
+
+considérer qu’il est sous-jacent (Jack
+
+vacances, plus de l’ordre de la vil-
+
+différents travaux font valoir la pré-
+
+et Phipps, 2005). Tout se passe comme
+
+légiature que du tourisme (Urbain,
+
+sence d’apprentissages nécessaires
+
+si l’image même du tourisme condui-
+
+1994), mais cette différence n’est pas
+
+au “devenir touriste”, la façon dont
+
+sait à rendre difficile de l’associer à
+
+considérée ici comme pertinente,
+
+on apprend reste une boîte noire,
+
+l’apprentissage. Explorer les pra-
+
+car la mobilité qui en fait une activité
+
+preuve en est la référence, à deux
+
+tiques touristiques comme espace
+
+touristique prend deux formes :
+
+reprises, à l’école dans le dernier
+
+d’apprentissage représente donc un
+
+l’éloignement du domicile pour sept
+
+ouvrage de l’Équipe Mit (2011, p. 118
+
+défi théorique (nos théories sont-
+
+nuits, qui suppose un voyage de plu-
+
+-119), même si cela relève de la méta-
+
+elles adaptées ?), et suppose d’ex-
+
+sieurs heures, et les excursions réa-
+
+phore. La difficulté est bien là, com-
+
+plorer un domaine bien peu fré-
+
+lisées lors du séjour, qui en font un
+
+prendre comment on apprend quand
+
+quenté.
+
+temps de mobilité continuée même
+si toutes les nuits se déroulent en
+
+il n’y pas d’école.
+L’éducation populaire à travers
+diverses formes de tourisme militant,
+
+UNE RECHERCHE
+
+un même lieu. Pour reprendre l’ana-
+
+SUR LE TOURISME SOCIAL
+
+lyse proposée par Urry (2002), il
+s’agit bien d’une rupture avec la vie
+
+syndical, associatif ou social a développé un projet éducatif au sein du
+
+Nous ne pouvons aller plus loin
+
+tourisme populaire. Sylvain Pattieu
+
+sans évoquer l’un des terrains sur
+
+Notre question est celle des
+
+(2009), dans son étude historique
+
+lequel nous avons travaillé pour
+
+apprentissages de ces personnes
+
+de l’association Tourisme et Travail,
+
+mettre à l’épreuve et surtout adapter
+
+aidées pour leurs activités touris-
+
+a montré l’importance et la persis-
+
+la théorie. Ainsi que nous l’avons
+
+tiques.
+
+tance d’un projet qui conduit à pro-
+
+évoqué, rendre visible l’apprentissage
+
+Comment apprennent-elles ? Ont-
+
+poser aux classes populaires de pro-
+
+de la posture du touriste étant dif-
+
+elles le sentiment d’apprendre ? Y
+
+(3)
+
+quotidienne et ses lieux.
+
+Qu’apprennent-elles ?
+
+JUIN 2012 • MONDES DU TOURISME N°5
+
+65
+
+GILLES BROUGÈRE
+
+a-t-il une spécificité de cette popu-
+
+des raisons économiques évoquées,
+
+Ce tourisme social s’inscrit dans
+
+lation en matière d’apprentissages
+
+mais aussi devant la difficulté d’or-
+
+une perspective d’éducation popu-
+
+touristiques ? Quelle théorie devons-
+
+ganiser un déplacement familial.
+
+laire. Comme le souligne Luc
+
+nous adapter ou construire pour
+
+Nous avons suivi les activités du
+
+Greffier, les projets éducatifs restent
+
+rendre compte de ces apprentissages ?
+
+groupe, aussi bien celles se déroulant
+
+présents, mais se heurtent souvent
+
+Pour répondre, ou tout au moins
+
+au centre ou à sa proximité (repas,
+
+à une pratique considérée comme
+
+commencer à construire une réponse,
+
+piscine, moments informels, plage)
+
+“consumériste” des vacanciers. Ainsi,
+
+nous nous appuyons sur des données
+
+que les excursions en car (souffleur
+
+“les deux opérateurs issus du mou-
+
+recueillies en 2009 : d’une part, une
+
+de verre, moulin à farine reconstitué,
+
+vement ouvrier [étudiés par l’auteur]
+
+observation participante immersive
+
+zoo façon réserve). À cette occasion,
+
+sont interpellés par la tension repérée
+
+dans un village de vacances de la
+
+nous avons eu de nombreuses dis-
+
+entre la demande touristique de
+
+côte atlantique géré par un organisme
+
+cussions informelles. Trois mois plus
+
+populations de plus en plus marquées
+
+de tourisme social , d’autre part,
+
+tard, nous avons organisé un entre-
+
+par une culture partagée des vacances
+
+un entretien collectif réalisé quelques
+
+tien collectif avec quatre femmes fré-
+
+et le projet social de nature collective
+
+mois plus tard au centre social.
+
+(4)
+
+quentant le centre social accompa-
+
+mais non collectiviste qu’ils défen-
+
+L’observation porte sur neuf
+
+gnateur du séjour. Deux d’entre elles
+
+dent” (Greffier, 2006, p. 182), et “on
+
+familles, sans présence d’aucun père,
+
+avaient participé au séjour évoqué,
+
+peut donc traduire au sein du panel
+
+que la famille soit monoparentale
+
+deux autres à des séjours semblables
+
+retenu [quatre centres de vacances
+
+ou, dans deux cas, que le père n’ait
+
+mais en d’autres lieux(5).
+
+de la région Aquitaine] une forte
+
+pas pu (ou voulu ?) se libérer. Deux
+
+tension entre les idéologies soutenues
+
+des mères sont immigrantes ou filles
+
+PROJETS ET SPÉCIFICITÉ ÉDUCATIVE
+
+par les mouvements historiques du
+
+d’immigrantes (Maroc et Algérie) et
+
+DU TOURISME SOCIAL
+
+tourisme social et les réalités parta-
+
+témoignent d’une mobilité plus forte
+
+66
+
+gées d’une culture des vacances de
+
+du fait d’un retour périodique dans
+
+S’intéresser à ce type de tourisme
+
+plus en plus construite sur un mode
+
+leur pays d’origine (une année sur
+
+signifie rencontrer le projet éducatif,
+
+de consommation. Cette tension dis-
+
+deux), où l’une d’entre elles consacre
+
+ou plutôt les projets éducatifs, du
+
+crimine les opérateurs qui défendent
+
+parfois une partie du temps à un
+
+centre social d’une part, de l’asso-
+
+un engagement historique politique
+
+séjour en hôtel, le reste se faisant
+
+ciation gestionnaire du centre de
+
+du tourisme social et ceux qui s’ins-
+
+sous forme d’hébergement familial.
+
+vacances d’autre part. Celle-ci définit
+
+crivent comme de simples acteurs
+
+Les sept autres mères donnent plutôt
+
+son projet de vacances familiales
+
+dans un traitement des politiques
+
+le sentiment d’une absence de mobi-
+
+comme permettant “de se retrouver,
+
+sociales du tourisme” (ibid., p. 183).
+
+lité (pas de voiture ni de permis de
+
+de partager du temps et de se res-
+
+L’affirmation éducative semble plus
+
+conduire, pas de moyens pour des
+
+sourcer tout en s’ouvrant aux
+
+forte, plus facile à mettre en œuvre
+
+vacances, impression d’enfermement
+
+antres” ; les activités “s’appuient
+
+et plus évidente quand il s’agit d’en-
+
+dans leur quartier). Ces familles
+
+sur un concept à la fois ludique et
+
+fants. Pour les adultes, cette
+
+comptent deux à quatre enfants cha-
+
+éducatif”. Les séjours se doivent
+
+démarche éducative est très large-
+
+cune, avec, dans un cas, la présence
+
+d’être “vecteurs de mixité sociale et
+
+ment liée au développement d’ani-
+
+de deux jeunes frère et sœur de la
+
+d’éducation à la citoyenneté”. Il
+
+mations ludiques, sportives et fes-
+
+mère. Leur discours montre que
+
+s’agit de “développer les relations
+
+tives. À cela s’ajoutent des pro-
+
+même un séjour en camping sur la
+
+entre vacanciers, générer la convi-
+
+grammes de découverte régionale,
+
+côte de la mer du Nord, à une cen-
+
+vialité, développer du lien social”
+
+mais l’investissement des vacanciers
+
+taine de kilomètres de leur résidence,
+
+et de découvrir l’environnement
+
+dans de telles pratiques est très faible
+
+apparaît comme inaccessible pour
+
+naturel, humain et culturel.
+
+(p. 193).
+
+MONDES DU TOURISME N°5 • JUIN 2012
+
+RECHERCHE • VARIA
+
+On retrouve ici les constats de
+
+évoque un “transfert symbolique de
+
+groupe entre la volonté de maintenir
+
+Sylvain Pattieu sur la rupture entre
+
+la vie quotidienne” (p. 10). Mais ces
+
+le régime alimentaire habituel (en
+
+le projet éducatif de Tourisme et
+
+pratiques quotidiennes sont sorties
+
+particulier pour les enfants) et celui
+
+Travail et les attentes de touristes
+
+de leur contexte habituel et, dans
+
+d’avoir des expériences liées aux
+
+prêts à “bronzer idiots”, à tel point
+
+certains cas, quand les lieux de séjour
+
+produits locaux ou à la festivité du
+
+que la réussite supposée de celui-là
+
+sont fréquentés par une population
+
+restaurant comme symbole de la
+
+à travers une prise de conscience
+
+hétérogène, rendues visibles à
+
+rupture vacancière. La demande de
+
+politique apparaît comme un leurre
+
+d’autres qui peuvent ne pas les par-
+
+ne pas nettoyer la chambre à la fin
+
+(Pattieu, 2007, p. 101).
+
+tager. Le tourisme met en contact
+
+du séjour n’est pas respectée par ces
+
+C’est dans le cadre d’une tension
+
+des populations qui n’ont pas l’ha-
+
+femmes dont plusieurs nous ont dit
+
+déjà ancienne entre projet éducatif
+
+bitude de vivre ensemble. Le plus
+
+combien il était important pour elles
+
+et logique touristique que se déroule
+
+souvent, cette question est évoquée
+
+de faire le ménage et de rendre leur
+
+le séjour observé. Mais notre popu-
+
+à travers le contact entre le touriste
+
+chambre propre, mais aussi de
+
+lation possède sans doute une carac-
+
+et l’autochtone ; dans notre cas, il
+
+retrouver les routines du quotidien :
+
+téristique propre qui justifie l’aide
+
+s’agit du contact entre touristes de
+
+“Comme on a l’habitude par
+
+de la CAF, pour laquelle “les
+
+même origine en vacances dans leur
+
+exemple de faire à manger, de faire
+
+vacances et les loisirs jouent un rôle
+
+propre pays, ainsi que du décalage
+
+le ménage, de faire les lits, de faire
+
+essentiel dans l’insertion sociale”
+
+entre ces mêmes populations et les
+
+plein de trucs − et qu’on voit que…
+
+(Greffier, 2006, p. 59). Du point de
+
+professionnels qui les encadrent
+
+et qu’on peut pas les faire… ça com-
+
+vue du centre social comme des vil-
+
+(Ulmann, 2011). Les pratiques tou-
+
+mence à embêter un peu.”
+
+lages, cette population est considérée
+
+ristiques n’apparaissent pas comme
+
+Les pratiques touristiques appa-
+
+comme ne maîtrisant pas les codes
+
+étant “pures” et séparées, elles gref-
+
+raissent comme une altération, une
+
+du tourisme dans le cadre des séjours
+
+fent des pratiques de mobilité sur
+
+modification plus ou moins impor-
+
+collectifs. Mais cela ne relève que
+
+des pratiques quotidiennes incor-
+
+tante de pratiques du quotidien, une
+
+pour partie de la question du tou-
+
+porées que chacun transporte avec
+
+“dé-routinisation” (Ceriani et al.,
+
+risme : les dimensions de la vie col-
+
+soi. C’est sans doute leur spécificité,
+
+2008) recherchée ou subie. Leur non-
+
+lective et de la parentalité sont le
+
+par rapport à d’autres pratiques de
+
+maîtrise conduit à reprendre ou à
+
+plus souvent évoquées. Il s’agirait
+
+loisir (comme le jeu) qui peuvent
+
+maintenir les façons de faire au plus
+
+de familles marquées par des lacunes
+
+être pensées sur la base de la sépa-
+
+près des pratiques habituelles. Le
+
+dans les compétences parentale et
+
+ration, de la distinction avec les pra-
+
+tourisme se joue dans cette différence
+
+éducative, par une difficulté à accep-
+
+tiques quotidiennes. Les pratiques
+
+entre volonté de maintenir et repro-
+
+ter les règles de la vie collective (en
+
+touristiques sont fortement liées au
+
+duire dans un autre contexte les pra-
+
+ce qui concerne le repas, le repos
+
+fait de transporter, de déplacer (et
+
+tiques du quotidien et celle d’adopter
+
+nocturne, etc.).
+
+parfois de mettre en péril) les pra-
+
+des pratiques spécifiques et diffé-
+
+Cela renvoie à un premier constat,
+
+tiques quotidiennes, avec des stra-
+
+rentes. Le conflit (lors d’une autre
+
+qui permet de souligner la difficulté
+
+tégies différentes selon les touristes
+
+observation) peut passer entre
+
+de la question des apprentissages
+
+(ou leur apprentissage du tourisme),
+
+enfants et parents, quand ces derniers
+
+touristiques : les pratiques touris-
+
+qui peuvent tendre à la volonté de
+
+cherchent à maintenir une logique
+
+tiques ne sont que partiellement des
+
+reproduire au plus près la vie quo-
+
+du quotidien (prendre les repas à
+
+pratiques spécifiques. Le touriste
+
+tidienne ordinaire ou, au contraire,
+
+midi) alors que, pour les jeunes, les
+
+transporte avec lui des façons d’être,
+
+de transformer celle-ci pour adopter
+
+vacances se caractérisent par l’aban-
+
+des modes de vie, des routines quo-
+
+des pratiques spécifiques.
+
+don de toute référence horaire, se
+
+tidiennes. Henry Raymond (1982)
+
+On trouve cette tension dans notre
+
+coucher tard, se lever tard, ne plus
+JUIN 2012 • MONDES DU TOURISME N°5
+
+67
+
+GILLES BROUGÈRE
+
+68
+
+avoir d’heure pour manger. Il est
+
+malisation sociale par le tourisme.
+
+touristique, pas vraiment perçue,
+
+intéressant de constater que ce sont
+
+Il s’agit moins d’apprendre à ces
+
+facilement naturalisée, que de stig-
+
+les parents ayant une plus grande
+
+familles à être touristes que de pro-
+
+matiser des modes de vie considérés
+
+expérience touristique qui acceptent
+
+fiter de la situation touristique, qui
+
+comme peu compatibles avec la vie
+
+pour leurs enfants adolescents une
+
+rend visibles ces pratiques familiales
+
+collective : cela signifie respecter les
+
+redéfinition complète du rythme
+
+habituellement cachées, pour inter-
+
+autres, afficher une éducation fami-
+
+(avec, en contrepartie, une autono-
+
+venir sur leur mode de vie et sur
+
+liale conforme aux normes.
+
+misation de ceux-ci).
+
+l’éducation parentale. Le projet des
+
+Au-delà de la critique que l’on
+
+Autre dimension du séjour, les
+
+vacances devient un projet d’inté-
+
+peut porter sur cette logique de nor-
+
+pratiques cachées dans la famille
+
+gration de la norme sociale et fami-
+
+malisation, celle-ci ne révèle-t-elle
+
+deviennent visibles (en particulier
+
+liale dominante.
+
+pas l’articulation entre les compé-
+
+les pratiques éducatives) ; elles consti-
+
+Minnaert, Maitland et Miller
+
+tences du tourisme et des compé-
+
+tuent un champ d’observation et de
+
+(2009) montrent, à partir de leurs
+
+tences sociales plus générales qui
+
+découverte. On entend des discours
+
+données recueillies en Angleterre,
+
+peuvent
+
+critiques des autres pratiques, mais
+
+l’efficacité sociale du tourisme dans
+
+remarques ? 1. Le tourisme est de
+
+aussi certains entretiens évoquent
+
+la transformation des modes de vie,
+
+fait réservé à ceux qui sont capables
+
+l’idée que l’on peut apprendre des
+
+c’est-à-dire l’incorporation du
+
+de développer des comportements
+
+pratiques éducatives des autres.
+
+modèle dominant. Ils mettent en
+
+considérés comme adaptés à la vie
+
+L’attachement aux enfants, souvent
+
+évidence la dimension normative
+
+collective. Il y aurait des pré-requis
+
+évoqué, est fondamental dans la
+
+que les vacances peuvent avoir au
+
+au tourisme, qui en réserveraient la
+
+population rencontrée et se traduit
+
+sein de la famille.
+
+pratique à ceux qui maîtrisent déjà
+
+conduire
+
+à
+
+deux
+
+par le désir d’une relation maintenue
+
+Dans le cas de notre centre social,
+
+d’autres types de pratiques qui n’ont
+
+et permanente (des enfants toujours
+
+on demande aux participants, dans
+
+rien de spécifique. 2. Apprendre à
+
+sous leur regard), le refus d’utiliser
+
+la construction du programme des
+
+être touriste, c’est apprendre des
+
+les structures de garde du centre
+
+activités prévues en amont, de penser
+
+pratiques hybrides dont une partie
+
+(sauf exception nécessaire). Non
+
+aux enfants. Ainsi la visite du zoo
+
+ne relève pas de la spécificité tou-
+
+seulement les enfants sont au cœur
+
+a-t-elle été choisie en fonction de
+
+ristique mais d’autres dimensions
+
+des vacances, mais le discours
+
+ceux-ci. Il s’agit bien de viser l’édu-
+
+de la vie sociale et collective. Le tou-
+
+conduit à mettre en avant un ethos
+
+cation familiale à travers l’activité
+
+risme est ici une pratique qui révèle
+
+de bonne mère, renforcé par la visi-
+
+de tourisme, même si le projet ne
+
+d’autres apprentissages sociaux fon-
+
+bilité (et la critique) des pratiques
+
+se limite pas à cela et inclut la dimen-
+
+damentaux, et un espace qui permet
+
+familiales des autres vacanciers. Les
+
+sion de souffler, de mettre à distance
+
+des apprentissages plus larges que
+
+vacances conduisent à être parent
+
+la vie quotidienne, de se ressourcer.
+
+la pratique touristique, tout parti-
+
+sous le regard des autres, à se mettre
+
+Le paradoxe du village de
+
+culièrement quand il s’agit de popu-
+
+en scène comme parent, et peuvent
+
+vacances à vocation (voulue ou de
+
+lations considérées comme défavo-
+
+développer une réflexivité sur ce que
+
+fait) sociale est d’être un lieu de visi-
+
+risées.
+
+signifie être parent, mère en l’oc-
+
+bilité des pratiques quotidiennes et
+
+currence pour notre population. On
+
+familiales (une forme de panopticon(6)
+
+LES APPRENTISSAGES
+
+peut voir fonctionner ainsi une ins-
+
+où chacun agit sous le regard de
+
+TOURISTIQUES
+
+tance de normalisation par la col-
+
+l’autre). Quand les familles ne sont
+
+lectivité.
+
+pas considérées comme prêtes pour
+
+Cependant, l’apprentissage du
+
+La conjonction de ces deux élé-
+
+être des touristes, il s’agit moins de
+
+tourisme, quoique moins nettement
+
+ments conduit à un projet de nor-
+
+viser l’apprentissage de la pratique
+
+visible, est bien présent dans nos
+
+MONDES DU TOURISME N°5 • JUIN 2012
+
+RECHERCHE • VARIA
+
+observations, plus que dans les entre-
+
+centre social va prendre en charge
+
+dien, la lessive étant un important
+
+tiens. Et, d’une certaine façon, c’est
+
+ou tout au moins accompagner, en
+
+sujet de discussion et de problèmes) ;
+
+bien de cela qu’il s’agit, ne serait-
+
+planifiant séjour et visite avant le
+
+– les visites, fort appréciées (même
+
+ce que parce que la règle du centre
+
+départ avec les vacanciers, en s’oc-
+
+par celles qui se montraient réser-
+
+social est de limiter l’accompagne-
+
+cupant de l’orientation sur place
+
+vées) ; un souffleur de verre, un
+
+ment à deux séjours en groupe, après
+
+(trouver les lieux et les informations
+
+moulin reconstitué selon les tech-
+
+quoi il s’agit tout au plus de soutenir
+
+sur les horaires, lire les cartes), en
+
+niques anciennes de construction,
+
+les départs individuels. Pour les tra-
+
+soutenant les différents projets nés
+
+un zoo façon safari, visités collec-
+
+vailleurs sociaux qui accompagnent
+
+sur place (achats, feu d’artifice).
+
+tivement en car. Elles constituent
+
+les neuf familles observées, il manque
+
+L’activité du centre social consiste
+
+un élément important de la perfor-
+
+à ces dernières “la capacité d’orga-
+
+à apprivoiser l’inconnu propre à un
+
+mance touristique : on écoute (on
+
+nisation” nécessaire à un séjour de
+
+tel séjour et à limiter l’incertitude.
+
+demande aux enfants d’écouter), on
+
+vacances.
+
+Il met en place un dispositif qui
+
+regarde, on achète à la fin ;
+
+Comme le souligne Barry Brown
+
+devrait à terme permettre aux popu-
+
+– le restaurant collectif payé par le
+
+(2007), le touriste, tout au moins
+
+lations d’atteindre une autonomie
+
+centre social sur le budget chèques-
+
+dans une situation individuelle, doit
+
+en matière de pratiques touristiques.
+
+vacances, moment symbolique fort
+
+résoudre un certain nombre de pro-
+
+Il s’agit bien de l’apprentissage de
+
+(coquetterie, rêve de prince charmant
+
+blèmes pour organiser son séjour,
+
+telles pratiques.
+
+pour les mères célibataires, etc.) ;
+
+tout au moins dans un lieu nouveau
+
+Le séjour est alors un apprentis-
+
+– quelques activités comme le spa,
+
+pour lui. Il doit décider quoi faire,
+
+sage des vacances, d’autant plus
+
+la visite du marché, les apéros-jeux,
+
+comment le faire, où le faire et com-
+
+effectif que les populations ont une
+
+le feu d’artifice. Dans ce dernier cas,
+
+ment atteindre le lieu. Cette logique
+
+expérience qui dépasse peu l’excur-
+
+il s’agissait de s’y rendre à pied, le
+
+d’organisation et de résolution de
+
+sion ponctuelle ou le court séjour
+
+long de la mer, et les femmes nous
+
+problèmes est d’autant plus centrale
+
+en camping dans des localités
+
+ont dit qu’elles n’y seraient pas allées
+
+que le loisir touristique est un temps
+
+proches, à l’exception des deux mères
+
+sans le soutien des travailleurs
+
+vide qui peut être empli par une
+
+immigrantes dotées de compétences
+
+sociaux, craignant la foule pour
+
+multitude d’activités différenciées.
+
+“mobilitaires”mais ayant quelques
+
+leurs enfants.
+
+Il ne peut être organisé de l’extérieur
+
+difficultés, ne serait-ce que d’ordre
+
+comme le sont nombre de tâches
+
+économique, à les exercer en France.
+
+liées au travail. C’est justement cette
+
+À partir de nos données, nous pou-
+
+absence de capacité à résoudre de
+
+vons, dans le cadre d’un séjour d’une
+
+Il y a donc une réelle participation
+
+tels problèmes et à organiser ses
+
+semaine dans un village de vacances,
+
+aux pratiques touristiques à travers,
+
+vacances qu’évoquent les respon-
+
+repérer différents apprentissages :
+
+d’une part, l’adaptation (parfois dif-
+
+sables du centre social.
+
+– la conquête de l’espace environnant
+
+ficile) des pratiques quotidiennes à
+
+UNE PARTICIPATION GUIDÉE
+
+Pour résoudre ces problèmes les
+
+et de la plage accessible à pied (2 à
+
+la situation du séjour de vacances
+
+touristes individuels mettent en
+
+5 minutes). Repos, jeux avec les
+
+et, d’autre part, le développement
+
+œuvre différentes stratégies, telles
+
+enfants (très surveillés), détente et
+
+de pratiques spécifiquement touris-
+
+que le partage avec d’autres touristes,
+
+plaisanteries entre adultes ;
+
+tiques, telles qu’elles sont construites
+
+l’usage des guides (livres) ou d’autres
+
+apprendre aussi à se protéger du
+
+en partie à travers l’accompagnement
+
+dispositifs trouvés sur place, le
+
+soleil ;
+
+par le centre social. C’est de l’ordre
+
+recours aux cartes, la planification
+
+– la vie dans le centre de séjour,
+
+de la participation, au sens d’enga-
+
+préalable à la visite (Brown, 2007).
+
+notamment la nourriture (mais cette
+
+gement dans une activité partagée
+
+C’est cet ensemble de tâches que le
+
+dimension est happée par le quoti-
+
+(Wenger, 2005).
+JUIN 2012 • MONDES DU TOURISME N°5
+
+69
+
+GILLES BROUGÈRE
+
+70
+
+Mais ce qui caractérise cette popu-
+
+processus créatif. En ce sens les infor-
+
+relation affective forte qui se noue
+
+lation est que sa participation est
+
+mations et habiletés ne sont pas
+
+avec ces “guides”. C’est un appren-
+
+guidée. La notion de “participation
+
+transmises mais transformées dans
+
+tissage sans enseignants ni péda-
+
+guidée” a été développée par Barbara
+
+le processus d’appropriation” (Rogoff,
+
+gogie, les travailleurs sociaux gui-
+
+Rogoff (1990) pour mettre en évi-
+
+1990, p. 197) . La participation gui-
+
+dant la pratique à laquelle ils par-
+
+dence les modalités d’apprentissage
+
+dée renvoie non seulement au pro-
+
+ticipent eux-mêmes. En cela, il n’est
+
+et de développement de l’enfant, à
+
+cessus de communication mais aussi
+
+pas visible car celui qui apprend
+
+travers la participation et le soutien
+
+aux arrangements des pratiques,
+
+(ici les pratiques touristiques) ne
+
+des autres (adultes, pairs) ; mais il
+
+pour les rendre accessibles et appro-
+
+fait que participer à une activité
+
+n’y a pas de raison de limiter cette
+
+priables.
+
+pour laquelle il est aidé, soutenu,
+
+(7)
+
+notion aux enfants, dans la mesure
+
+Dans nos observations concer-
+
+guidé. Il n’y a pas décalage entre
+
+où, pour Rogoff elle-même, il n’y a
+
+nant le tourisme social, nous décou-
+
+la pratique et son apprentissage,
+
+pas de différence de modalités d’ap-
+
+vrons différentes modalités de gui-
+
+c’est en pratiquant que l’on
+
+prentissage entre enfants et adultes,
+
+dage : faire un programme, accom-
+
+apprend, mais la situation révèle
+
+à cela près que ces derniers, du fait
+
+pagner, organiser, orienter, résoudre
+
+nettement le processus de guidage.
+
+de leur expérience antérieure incor-
+
+les problèmes et les conflits (avec
+
+L’hypothèse que nous formulons
+
+porée, peuvent avoir plus de diffi-
+
+les autres vacanciers, avec le per-
+
+ici est que la situation de tourisme
+
+cultés à apprendre – comme on peut
+
+sonnel du centre). Ainsi la prépa-
+
+social aidé permet de voir ce qui
+
+le noter pour l’apprentissage d’une
+
+ration, qui s’est déroulée en plu-
+
+est vrai de façon plus large, à savoir
+
+langue étrangère (Brougère, 2009,
+
+sieurs séances au centre social, a
+
+que l’apprentissage des pratiques
+
+pp. 276-277). Le guidage peut être
+
+conduit à la programmation de
+
+touristiques relève pour une grande
+
+explicite ou tacite, et renvoie à une
+
+visites malgré le peu d’enthousiasme
+
+part de la participation guidée :
+
+activité conjointe et partagée avec
+
+a priori, mais, dans une perspective
+
+– selon le modèle de Rogoff, gui-
+
+un expert ou au moins une personne
+
+d’éducation populaire, les respon-
+
+dage des parents et d’autres adultes
+
+plus compétente dans le domaine
+
+sables y tiennent. L’intérêt ici est
+
+vis-à-vis des enfants ; c’est ce
+
+visé par la pratique. Il s’appuie sur
+
+que les réticences sont largement
+
+qu’évoque l’Équipe Mit (2011) à
+
+des communications plus ou moins
+
+levées au moment des visites, appré-
+
+travers l’idée de transmission. Il
+
+tacites, mais aussi sur l’engagement
+
+ciées et intégrées comme un
+
+nous semble que la notion de par-
+
+de celui qui apprend dans l’activité,
+
+moment fort de la pratique touris-
+
+ticipation est plus juste ;
+
+directement, par imitation ou à tra-
+
+tique ainsi appropriée. Les tra-
+
+– pour les adultes, on peut saisir le
+
+vers l’observation. C’est en partici-
+
+vailleurs sociaux sont là en perma-
+
+rôle des guides, au sens usuel dans
+
+pant que l’on apprend, et c’est la
+
+nence dans le village de vacances,
+
+le tourisme, et d’autres accompa-
+
+participation qui est guidée, sans
+
+disponibles pour régler les conflits
+
+gnateurs ;
+
+que l’apprentissage soit une activité
+
+avec la direction quand des enfants
+
+– les guides écrits sont des éléments
+
+séparée, isolée ; il est totalement
+
+sont trop bruyants le soir, pour
+
+essentiels de cette participation gui-
+
+intégré à la participation et donc
+
+accompagner le groupe la première
+
+dée ;
+
+souvent invisible. C’est affaire d’in-
+
+fois à la plage, l’aider à organiser
+
+– on peut découvrir d’autres dis-
+
+terdépendance et d’autonomie socia-
+
+une demi-journée d’achats, sur-
+
+positifs moins évidents de guidage :
+
+lement construite. C’est le moyen
+
+veiller les enfants dans l’atelier du
+
+office du tourisme, hôtelier, pro-
+
+de s’approprier les pratiques, mais
+
+souffleur de verre.
+
+priétaire du gîte ou de la chambre
+
+dans un processus de transformation
+
+Le discours sur les deux tra-
+
+d’hôte, autres vacanciers (les habi-
+
+de celles-ci : “[…] L’appropriation
+
+vailleurs sociaux témoigne de l’im-
+
+tués). Jack et Phipps (2005) mon-
+
+des pratiques sociales relève d’un
+
+portance de ces personnes, et de la
+
+trent bien comment les touristes
+
+MONDES DU TOURISME N°5 • JUIN 2012
+
+RECHERCHE • VARIA
+
+échangent des informations, des
+
+tique, sauf à évoquer une commu-
+
+visite d’un souffleur de verre, “c’est
+
+histoires entre eux et ainsi orientent
+
+nauté virtuelle des touristes, ce qui
+
+mieux qu’à la télé”, dit une des
+
+réciproquement leurs activités.
+
+ne correspond pas à la dimension
+
+mères, “… maintenant on sait com-
+
+À travers la participation guidée,
+
+concrète d’un faire ensemble présente
+
+ment c’est fait” ; cette dimension
+
+le touriste (ou celui qui devient tou-
+
+dans la notion développée par
+
+d’apprentissage immédiat est évi-
+
+riste) s’approprie les pratiques tou-
+
+Wenger (2005).
+
+dente et appréciée. Ainsi on sait
+
+ristiques, mais au sens où il les
+
+Il semble qu’ici il soit intéressant
+
+quelque chose, on a vu en vrai
+
+transforme, les interprète sans néces-
+
+de renvoyer à une logique d’explo-
+
+(même si on avait déjà vu à la télé),
+
+sairement les reproduire fidèlement.
+
+ration, d’exploration curieuse (Jacob,
+
+le vrai n’étant pas l’authentique –
+
+Ce processus de socialisation tou-
+
+2002) liée à la disponibilité, en par-
+
+qui pourrait renvoyer à une théorie
+
+ristique est bien un processus d’ap-
+
+ticulier dans le cadre du divertisse-
+
+du tourisme comme recherche de
+
+prentissage.
+
+ment ou en réponse à l’ennui, liée
+
+l’authenticité dans un monde aliéné,
+
+à un état d’excitation (Auray, 2011).
+
+discutée par Cohen (1979). En effet,
+
+Le thème de l’émerveillement ren-
+
+voir un parc Disney est du même
+
+L’EXPLORATION GUIDÉE
+
+contré dans notre entretien collectif
+
+ordre et, pour notre terrain d’ob-
+
+Si en participant aux pratiques
+
+nous semble renvoyer à cela. Ainsi,
+
+servation, le zoo safari avec son vil-
+
+touristiques, on apprend, ce n’est
+
+au sujet de la visite d’une chocola-
+
+lage africain est considéré comme
+
+pas le seul type d’apprentissage que
+
+terie à l’ancienne (“on n’imagine
+
+vrai. Il n’y a pas de référence à une
+
+l’on peut mettre en évidence, même
+
+pas que vraiment dans les anciens
+
+vérité ontologique, mais à quelque
+
+s’il s’agit du plus facile à repérer,
+
+temps tout se faisait par main”) :
+
+chose qui est là sans médiation,
+
+d’autant plus que l’on suppose qu’il
+
+“J’étais émerveillé parce que c’était
+
+même s’il s’agit d’un artefact
+
+doit se faire à un moment ou un
+
+vraiment, on voyait que c’était vrai-
+
+construit pour le touriste (comme
+
+autre de la vie du touriste. D’autres
+
+ment… c’était fait d’eux-mêmes.”
+
+le moulin à farine visité). Il s’agit
+
+dimensions de l’apprentissage peu-
+
+On peut le savoir par d’autres
+
+bien “d’une expérience originale
+
+vent être perçues, en particulier par
+
+canaux, mais :“Quand on le voit,
+
+sans rapport avec la découverte du
+
+le touriste lui-même. Ainsi, un sen-
+
+ça, par contre, ça m’a vraiment tou-
+
+Monde par le truchement des
+
+timent d’apprendre quelque chose
+
+chée…” Cet émerveillement, d’au-
+
+médias : d’une confrontation à la
+
+émerge dans les entretiens : “Ben
+
+tant plus fort qu’il renvoie à une
+
+réalité, non dénuée de représenta-
+
+déjà on voit des choses qu’on n’a
+
+rupture avec le quotidien, avec l’or-
+
+tions bien sûr, mais moins média-
+
+pas l’habitude de voir, et puis il y a
+
+dinaire de la vie, vient caractériser
+
+tisée” (Ceriani et al., 2008).
+
+les autres personnes, c’est vrai que
+
+cette expérience. Enfants et adultes
+
+Le vrai est à définir dans une
+
+le contact avec les autres personnes
+
+ont été émerveillés. Cela conduit à
+
+logique de loisir comme découverte.
+
+qu’on connaît pas, c’est vrai que
+
+penser que la force de l’expérience
+
+Cela renvoie à une dimension essen-
+
+parler avec les autres personnes [...].”
+
+touristique ne se mesure pas de façon
+
+tielle du tourisme, dont l’Équipe
+
+À travers la découverte de lieux
+
+absolue en fonction de la nature de
+
+Mit (2011) souligne l’importance à
+
+et de personnes, la rencontre avec
+
+ce qui est vécu, mais de façon dif-
+
+travers les trois mots “voir, découvrir
+
+de l’inconnu et des inconnus apparaît
+
+férentielle, en fonction du degré de
+
+et s’émerveiller” (p. 111). Le tourisme
+
+une dimension de l’apprentissage
+
+rupture ressenti avec le quotidien.
+
+permettrait de voir pour de vrai (et
+
+qui semble difficilement relever de
+
+La discontinuité est ici forte dans
+
+non à travers la représentation
+
+la participation. Certes la personne
+
+notre population et rend encore plus
+
+médiatisée). On peut ainsi voir des
+
+continue à participer à des pratiques
+
+visibles les apprentissages potentiels.
+
+reconstitutions historiques (fabri-
+
+touristiques, mais nous sommes loin
+
+L’émerveillement renvoie à l’idée
+
+cation du chocolat), des activités
+
+de l’idée de communauté de pra-
+
+de voir “pour de vrai”. Lors de la
+
+artisanales à l’ancienne (souffleur
+JUIN 2012 • MONDES DU TOURISME N°5
+
+71
+
+GILLES BROUGÈRE
+
+de verre), des animaux “en liberté”
+
+actuels pour les enfants ou oubliés
+
+que l’exploration de nouveaux
+
+(zoo façon safari), etc. Voir “pour
+
+pour les mères. Autre source d’ap-
+
+espaces sociaux, les deux étant indis-
+
+de vrai” semble être une dimension
+
+prentissage évoquée, les discussions
+
+sociables, la participation supposant
+
+importante, qui définit bien le tou-
+
+avec les autres vacanciers, des per-
+
+des pratiques touristiques effectives
+
+risme par opposition au spectacle
+
+sonnes “que l’on ne connaît pas
+
+qui sont de l’ordre de l’exploration.
+
+télévisuel, celui de l’immersion dans
+
+d’avance”, qui habitent des régions
+
+L’accompagnement au feu d’artifice
+
+le monde, qui permet un contact
+
+que l’on n’a pas visitées. À l’émer-
+
+montre bien comment l’exploration
+
+corporel et visuel : “[…] La pratique
+
+veillement que l’exceptionnel produit
+
+d’une telle manifestation est enca-
+
+touristique est une pratique in situ,
+
+se combine la curiosité du vacancier,
+
+drée, à la demande même des mères
+
+avec présence du corps du touriste
+
+qui se traduit par la manifestation
+
+inquiètes de ce que cela peut avoir
+
+auprès d’autres corps” (Équipe Mit,
+
+d’un intérêt pour ce qui est différent,
+
+d’incertain, d’incontrôlable, en par-
+
+2011, p. 275).
+
+à condition sans doute que cela ne
+
+ticulier pour leurs enfants. Mais
+
+soit pas trop différent.
+
+l’exploration guidée recourt aussi
+
+Le regard mis en avant par Urry
+
+72
+
+(2002) n’en constitue qu’un aspect,
+
+L’exploration renvoie bien à l’al-
+
+à tous les dispositifs de guidage tou-
+
+peut-être pas le plus important pour
+
+térité et à l’inconnu propres au tou-
+
+ristique traditionnels, les brochures,
+
+des vacanciers populaires dont
+
+risme (Équipe Mit, 2011). Et, indé-
+
+les attractions construites (comme
+
+d’autres études soulignent l’attrait
+
+niablement, nos familles explorent
+
+le souffleur de verre, dont l’orga-
+
+pour des festivités collectives (Périer,
+
+la plage, les lieux transformés en
+
+nisation de l’atelier et le discours
+
+2000). Cela donne une force à la
+
+attraction touristique, le village de
+
+guident l’exploration de la fabrica-
+
+connaissance par contact. Le tou-
+
+vacances en tant qu’il associe espace
+
+tion du verre). Il reste que l’explo-
+
+risme serait le loisir qui s’oppose à
+
+et personnes inconnues.
+
+ration conserve une part d’incerti-
+
+la télévision et la complète. La télé-
+
+De même que nous avons pu par-
+
+tude, de rencontres non program-
+
+vision ne remplace pas le voyage,
+
+ler de participation guidée pour
+
+mées, comme celle de cette apprentie
+
+mais au contraire donnerait envie
+
+l’apprentissage des pratiques tou-
+
+souffleuse de verre québécoise, en
+
+de voir. Cela apporte à l’apprentis-
+
+ristiques elles-mêmes, nous pouvons
+
+stage, travaillant chez un souffleur
+
+sage une dimension corporelle :
+
+ici parler d’exploration guidée : un
+
+français installé au Québec, ancien
+
+apprendre par corps, utiliser sa pré-
+
+ensemble de dispositifs organise le
+
+voisin du chauffeur de car. De cette
+
+sence comme moyen de connaître,
+
+tourisme pour permettre, par le gui-
+
+coïncidence s’ensuit une conversa-
+
+qu’il s’agisse de compléter par cette
+
+dage, la découverte. Cela va du dis-
+
+tion sur le Québec, l’immigration
+
+confrontation des connaissances
+
+positif créé ou adapté pour le tou-
+
+des Français, l’artisanat – explora-
+
+antérieures ou de plonger dans un
+
+riste à tous les supports sur lesquels
+
+tion partagée et nettement moins
+
+nouvel univers à explorer, pour
+
+peut compter le touriste sans qu’ils
+
+guidée.
+
+autant que la curiosité soit là.
+
+lui soient exclusivement destinés.
+
+Le touriste est la figure antino-
+
+L’entretien collectif montre que
+
+On peut distinguer des dispositifs
+
+mique de l’explorateur, celui qui
+
+la question de l’apprentissage n’est
+
+d’orientation (guides, centres d’in-
+
+découvre sans guide mais qui, par
+
+pas difficile à solliciter même si elle
+
+formation, signalétique) et des dis-
+
+son relevé, permettra à d’autres
+
+prend la figure que nous venons
+
+positifs de découverte (spectacle de
+
+d’être guidés pour découvrir à leur
+
+d’évoquer. Elle s’intègre, mais avec
+
+flamenco conçu pour les touristes,
+
+tour ce qu’il a découvert. Le tourisme
+
+son exceptionnalité, dans les appren-
+
+musées, zoo, centres d’interpréta-
+
+est par excellence affaire de guide.
+
+tissages du quotidien, qui consistent
+
+tion…).
+
+Mais c’est sans doute ce guidage qui
+
+à raconter aux enfants de quoi est
+
+Dans notre cas, les travailleurs
+
+rend possible l’apprentissage en évi-
+
+fait le monde, elle entre en synergie
+
+sociaux guident tout autant la par-
+
+tant l’anxiété d’une confrontation
+
+avec des apprentissages scolaires
+
+ticipation aux pratiques touristiques
+
+à l’inconnu qui ne serait pas maî-
+
+MONDES DU TOURISME N°5 • JUIN 2012
+
+RECHERCHE • VARIA
+
+trisable. Pour nos familles le guidage
+
+la participation est ici centrale,
+
+mais nous opérerons la distinction suivante :
+
+multiple par les travailleurs sociaux,
+
+comme dans toutes les pratiques
+
+“éducation” renverra à un projet, à une mise en forme,
+
+eux-mêmes guidés à l’aide des res-
+
+sociales étudiées sous l’angle de l’ap-
+
+alors qu’“apprentissage” renvoie soit aux effets de l’édu-
+
+sources usuelles du tourisme (guides
+
+prentissage, elle rejoint explicitement
+
+cation soit à l’absence de mise en forme éducative.
+
+papier, sites internet, informations
+
+la forme étudiée par Rogoff à propos
+
+transmises par le village de vacances,
+
+des enfants en milieu familial, la
+
+(2) Le terme, forgé par Gibson (1979) dans le cadre de
+
+etc.), permet un contact maîtrisé de
+
+participation guidée. Cependant
+
+la psychologie de la perception, à partir du verbe anglais
+
+l’inconnu, la réduction de l’incerti-
+
+cette notion ne permet pas de saisir
+
+to afford (offrir, mettre à disposition), a pour but de
+
+tude et la possibilité d’apprendre.
+
+l’ensemble des apprentissages repé-
+
+conceptualiser les propriétés de l’environnement telles
+
+Mais toute guidée qu’elle soit, l’ex-
+
+rés, ce qui nous a fait retenir la
+
+qu’elles sont perçues (l’affordance) en tant que possibi-
+
+ploration, comme la participation,
+
+notion d’exploration, certes sortie
+
+lité d’action en relation avec les caractéristiques d’un
+
+suppose un engagement de la per-
+
+de l’actualité de la recherche sur
+
+individu (animal ou humain), à la façon, par exemple,
+
+sonne sans lequel il ne peut y avoir
+
+l’éducation, mais qui est aujourd’hui
+
+dont la forme d’une branche d’arbre offre une possibi-
+
+exploration ni participation et donc
+
+convoquée dans les analyses de
+
+lité de s’asseoir à un humain (du fait de la taille de ce
+
+apprentissage. On peut parler d’en-
+
+l’usage d’internet (Auray, 2011). Il
+
+dernier, de sa configuration physiologique rapportée à
+
+gagement possible car soutenu par
+
+nous semble à nouveau que la spé-
+
+l’arbre). Chez Billett (2004), l’usage est moins précis
+
+les travailleurs sociaux dans notre
+
+cificité est ici aussi le guidage, ce
+
+mais renvoie à cette relation entre ce qu’offre la situa-
+
+cas, les professionnels du tourisme
+
+qui nous conduit à proposer la
+
+tion et ce qu’en perçoit (dans un sens plus général et
+
+ou d’autres vacanciers. Il faut éga-
+
+notion d’exploration guidée comme
+
+non limité à la perception visuelle) l’individu. Le terme,
+
+lement, pour reprendre les termes
+
+modalité d’apprentissage mobilisée
+
+utilisé dans différentes disciplines telles que l’ergonomie
+
+de Billett (2004), que la situation
+
+par les pratiques touristiques.
+
+ou le design, n’est pas traduit en français faute de
+
+offre une possibilité d’exploration,
+
+Participation et exploration gui-
+
+des affordances. Mais, là encore, les
+
+dées ne sont pas spécifiques au tou-
+
+guides (et ici encore, les travailleurs
+
+risme, mais cette activité, à travers
+
+sociaux) aident à percevoir celles-
+
+l’importance qu’elle accorde à la
+
+(3) Un autre terrain, que nous n’évoquerons pas ici,
+
+ci en les sélectionnant, en les com-
+
+sortie du quotidien, à la mobilité, à
+
+renvoie à l’observation de soi comme “tourisme appre-
+
+mentant, en cadrant l’activité.
+
+la rupture, met en évidence l’impor-
+
+nant” (Brougère, 2012).
+
+*
+
+*
+
+vocable approprié. Nous nous rangeons à cet usage qui
+consiste à importer directement le terme anglais.
+
+tance du guidage dans la pratique,
+
+Le tourisme social – avec l’accent
+
+permettant ainsi l’apprentissage,
+
+(4) La recherche présentée a reçu le soutien financier
+
+mis sur l’aide, l’accompagnement –
+
+dans la maîtrise des pratiques, dans
+
+de cet organisme de tourisme social et bénéficié de
+
+permet de voir de façon très explicite
+
+la possibilité de tirer d’une situation
+
+l’ouverture de ses centres aux chercheurs ainsi que de
+
+et évidente une logique de guidage
+
+de nouvelles expériences et connais-
+
+celle de l’université Paris 13, qui abrite notre équipe de
+
+à l’œuvre. Il permet également de
+
+sances. Selon ce modèle, l’appren-
+
+recherche Experice.
+
+rencontrer des personnes dont l’ex-
+
+tissage n’est pas quelque chose d’ex-
+
+périence touristique est limitée et
+
+térieur, un effet du tourisme, mais
+
+(5) On trouvera une présentation plus détaillée de
+
+qui dévoilent plus que d’autres les
+
+ce qui accompagne la pratique, à la
+
+cette recherche dans Brougère (2011).
+
+logiques d’apprentissage sous-
+
+fois pour la rendre possible et comme
+
+jacentes, sans pour autant dévelop-
+
+une dimension de l’expérience qu’elle
+
+(6) Le terme renvoie à l’architecture carcérale imaginée
+
+per une logique de tourisme savant
+
+offre.
+
+par Jeremy Bentham à la fin du XVIIIe siècle, permettant
+
+et distingué.
+Cela nous a permis de transformer
+
+n
+
+à un gardien de voir constamment prisonniers et celNOTES
+
+et d’adapter au tourisme des théories
+
+(1) Les notions d’apprentissage et d’éduca-
+
+préexistantes de l’apprentissage. Si
+
+tion sont loin d’être définies de façon claire,
+
+lules depuis la tour centrale où il se trouve.
+(7) Notre traduction.
+
+JUIN 2012 • MONDES DU TOURISME N°5
+
+73
+
+GILLES BROUGÈRE
+
+RÉFÉRENCES
+
+74
+
+BIBLIOGRAPHIQUES
+
+Nicolas AURAY, “Les technologies de l’information et le régime
+
+cachées du touriste”, Sciences Humaines, n° 145, 2004, pp. 28-31.
+
+exploratoire”, dans Danièle BOURCIER et Pek
+
+Giorgia CERIANI, Philippe DUHAMEL, Rémy KNAFOU, Mathis STOCK,
+
+VAN
+
+ANDEL (dir.), La
+
+Sérendipité : le hasard heureux, Hermann, 2011, pp. 329-342.
+
+“Le tourisme et la rencontre de l’autre”, L’Autre : cliniques, cultures
+
+Vincent BERRY, “Loisirs numériques et communautés virtuelles : des
+
+et sociétés, vol. 6, n° 1, 2005, pp. 71- 82.
+
+espaces d’apprentissage”, dans Gilles BROUGÈRE et Anne-Lise
+
+Giorgia CERIANI, Vincent COËFFÉ, Jean-Christophe GAY, Rémy
+
+ULMANN (dir.), Apprendre de la vie quotidienne, Puf, 2009, pp. 143-
+
+KNAFOU, Mathis STOCK et Philippe VIOLIER, “Conditions géogra-
+
+153.
+
+phiques de l’individu contemporain”, EspacesTemps.net, 2008
+
+Stefen BILLETT, “Working participatory practices: conceptualising
+
+[http://www.espacestemps.net/document4573.html].
+
+workplaces as learning environments”, Journal of Workplace Learning,
+
+Erik COHEN, “A phenomenology of tourist experiences”, Sociology,
+
+vol. 16, n° 5-6, 2004, pp. 312-324.
+
+vol. 13, 1979, pp. 179-201.
+
+Jean BOUTIER, Le Grand Tour : une pratique d’éducation des noblesses
+
+Erik COHEN, “Tourism as play”, Religion, n° 15, 1985, pp. 291-304.
+
+européennes (XVIe-XVIIIe siècles), 2004 [en ligne]. À partir de
+
+Jennifer CRAIK, “The culture of tourism”, dans Chris ROJEK et John
+
+http://halshs.archives-ouvertes.fr/docs/00/05/10/63/PDF/Boutier_J.-
+
+URRY (dir.), Touring Cultures. Transformations of travel and theory,
+
+2004-GrandTour.pdf [consulté le 9 mars 2011].
+
+Routledge, 1997, pp. 113-136.
+
+Gilles BROUGÈRE, Jeu et éducation, L’Harmattan, 1995.
+
+ÉQUIPE MIT, Tourismes 1. Lieux communs, Belin, 2002.
+
+Gilles BROUGÈRE, Jouer/Apprendre, Economica, 2005.
+
+ÉQUIPE MIT, Tourismes 3. La révolution durable, Belin, 2011.
+
+Gilles BROUGÈRE, “Une théorie de l’apprentissage adaptée :
+
+James J. GIBSON, The Ecological approach of visual perception,
+
+l’apprentissage comme participation”, dans Gilles BROUGÈRE et
+
+Lawrence Erlbraum, 1979.
+
+Anne-Lise ULMANN (dir.), Apprendre de la vie quotidienne, Puf, 2009,
+
+Barney G. GLASER et Anselm A. STRAUSS, La Découverte de la théo-
+
+pp. 267-278.
+
+rie ancrée, Armand Colin, 2010.
+
+Gilles BROUGÈRE, “Qu’apprennent des personnes aidées en
+
+Luc GREFFIER, L’Animation des territoires. Les villages de vacances du
+
+vacances ?”, dans Actes du congrès de l’Actualité de la recherche en
+
+tourisme social, L’Harmattan, 2006.
+
+éducation et en formation (AREF), Université de Genève, septembre
+
+Gavin JACK et Alison PHIPPS, Tourisme and Interculturel Exchange.
+
+2010, 2011 [https://plone2.unige.ch/aref2010/symposiums-
+
+Why Tourisme Matters, Channel View Publications, 2005.
+
+longs/coordinateurs-en-b/tourisme-et-
+
+Stéphane JACOB, La Curiosité. Éthologie et psychologie, Mardaga,
+
+apprentissages/Quapprennent%20des%20personnes%20aidees%20
+
+2002.
+
+en%20vacances.pdf/view].
+
+Derek LAYDER, Sociological practice. Linking theory and social research,
+
+Gilles BROUGÈRE, “S’observer comme touriste apprenant”, commu-
+
+Sage, 1998.
+
+nication au colloque Tourisme et apprentissages (Université Paris 13,
+
+Orvar LÖFGREN, “Learning to be a tourist”, Ethnologia Scandinavica,
+
+avril 2011), Experice, 2012 [http://www.univ-
+
+vol. 24, 1994, pp. 102-125.
+
+paris13.fr/experice/fr/actes-coll01/brougere.html].
+
+Jean LAVE et Etienne WENGER, Situated Learning. Legitimate
+
+Gilles BROUGÈRE et Hélène BÉZILLE, “De l’usage de la notion d’in-
+
+Peripherical Participation, Cambridge University Press, 1991.
+
+formel dans le champ de l’éducation”, Revue française de pédagogie,
+
+Lynn MINNAERT, Robert MAITLAND et Graham MILLER, “Tourism
+
+n° 158, 2007, pp. 117-160.
+
+and social policy, the value of social tourism”, Annals of Tourism
+
+Gilles BROUGÈRE et Anne-Lise ULMANN (dir.), Apprendre de la vie
+
+Research, vol. 36, n° 2, 2009, pp. 316-334.
+
+quotidienne, Puf, 2009.
+
+Richard D. MITCHELL, “Learning through play and pleasure travel:
+
+Barry BROWN, “Working the problems of tourism”, Annals of
+
+using play literature to enhance research into touristic learning”,
+
+Tourism Research, vol. 34, n° 2, 2007, pp. 364-383.
+
+Current Issues in Tourism, vol. 1, n° 2, 1998, pp. 176-188.
+
+Giorgia CERIANI, Rémy KNAFOU, Mathis STOCK, “Les compétences
+
+Sylvain PATTIEU, “Nous n’avons rien à Katmandou. Production mili-
+
+MONDES DU TOURISME N°5 • JUIN 2012
+
+RECHERCHE • VARIA
+
+tante et usages populaires du tourisme”, Actes de la recherche en
+sciences sociales, n° 170, 2007, pp. 88-101.
+Sylvain PATTIEU, Tourisme et travail. De l’éducation populaire au secteur marchand (1945-1985), Les Presses de Sciences Po, 2009.
+Pierre PÉRIER, Vacances populaires. Images, pratiques et mémoires,
+Pur, 2000.
+Thomas G. POWER, Play and Exploration in Children and Animals,
+Lauwrence Erlbaum, 2000.
+Henri RAYMOND, “Tourisme social et loisirs. L’espace des alternatives”, Temps libre, n° 5, 1982, pp. 101-109.
+Barbara ROGOFF, Apprenticeship in Thinking : Cognitive Development
+in Social Context, Oxford University Press, 1990.
+Chris ROJEK et John URRY, “Transformation of travel and theory”,
+dans Chris ROJEK et John URRY (dir), Touring Cultures. Transformations
+of travel and theory, Routledge, 1997, pp. 1-19.
+Daniel SCHUGURENSKY, “Vingt mille lieues sous les mers : les quatre
+défis de l’apprentissage informel”, Revue française de pédagogie,
+n° 160, 2007, pp. 13-27.
+Brian SUTTON-SMITH, The Ambiguity of play, Havard University Press,
+1997.
+John TOWNER, “The Grand Tour : a key phase in the history of
+tourism”, Annals of Tourism Research, vol. 12, n° 3, 1985, pp. 293333.
+Anne-Lise ULMANN, “Les professionnels du tourisme social : des
+modes d’agir contre la barrière culturelle”, dans Actes du congrès de
+l’Actualité de la recherche en éducation et en formation (AREF),
+Université de Genève, septembre 2010, 2011
+[https://plone2.unige.ch/aref2010/symposiums-longs/coordinateursen-b/tourisme-etapprentissages/Les%20professionnels%20du%20tourisme.pdf/view].
+Jean-Didier URBAIN, Sur la plage. Mœurs et coutumes balnéaires (XIXeXXe
+
+siècles), Payot, 1994.
+
+Jean-Didier URBAIN, L’Idiot du voyage. Histoires de touristes, Payot,
+2002.
+John URRY, The Tourist Gaze, Sage, 2e éd., 2002.
+Etienne WENGER, La Théorie des communautés de pratique.
+Apprentissage, sens et identité, Presses de l’université Laval, 2005.
+
+JUIN 2012 • MONDES DU TOURISME N°5
+
+75
+
+

@@ -1,0 +1,670 @@
+Mondes du Tourisme 
+13 | 2017
+
+Tourisme et innovations
+
+Une innovation-produit au service de la stratégie
+d’un territoire touristique transfrontalier
+émergent
+Le cas de la randonnée franco-belge « Rando Famili »
+
+Using product innovation to develop an emerging crossborder tourist
+destination. The case of Franco-Belgian hiking: Rando Famili
+Fabrice Caudron et Céline Thomas
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/1396
+DOI : 10.4000/tourisme.1396
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+ 
+Référence électronique
+Fabrice Caudron et Céline Thomas, « Une innovation-produit au service de la stratégie d’un territoire
+touristique transfrontalier émergent », Mondes du Tourisme [En ligne], 13 | 2017, mis en ligne le 30
+décembre 2017, consulté le 20 mars 2020. URL : http://journals.openedition.org/tourisme/1396  ;
+DOI : https://doi.org/10.4000/tourisme.1396
+
+Ce document a été généré automatiquement le 20 mars 2020.
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modification 4.0 International.
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+Une innovation-produit au service
+de la stratégie d’un territoire
+touristique transfrontalier
+émergent
+Le cas de la randonnée franco-belge « Rando Famili »
+
+Using product innovation to develop an emerging crossborder tourist
+destination. The case of Franco-Belgian hiking: Rando Famili
+Fabrice Caudron et Céline Thomas
+
+ 
+
+Introduction
+1
+
+Le présent article traite d’une innovation-produit sur un territoire touristique
+transfrontalier. Le programme Interreg IV de l’Union européenne a soutenu
+l’émergence d’un projet franco-belge de développement de la randonnée : « Inno Rando
+Pour Tous ». Ce projet a permis la mise en place d’une coopération transfrontalière
+avec la création de nouveaux produits touristiques et l’emploi d’une nouvelle
+application mobile. À travers cette collaboration, les territoires concernés ont créé un
+nouveau produit à destination d’un public familial : « Rando Famili ». La problématique
+de notre cas d’étude porte ainsi sur les conditions d’émergence d’une innovation dans
+le domaine du tourisme.
+
+2
+
+Plusieurs types de questionnements émerge de cette coopération entre acteurs
+transfrontaliers, portant à la fois sur la question de la segmentation clients, sur la
+nature de l’expérience de consommation et sur la gouvernance transfrontalière (autour
+de la construction d’un nouveau territoire touristique).
+
+3
+
+Nous présenterons dans un premier temps le contexte et le champ théorique de cet
+article. Puis, nous présenterons le projet « Rando Famili » avant de proposer une
+discussion sur les implications managériales d’un tel projet.
+
+Mondes du Tourisme, 13 | 2017
+
+1
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+ 
+
+1. Contexte et champs théorique : territoire touristique
+transfrontalier et innovation-produit
+1.1. Un territoire touristique en construction
+4
+
+Les frontières nationales servent le plus souvent à définir un territoire touristique pour
+en déterminer la fréquentation mais également, plus largement, l’ensemble des
+indicateurs permettant de caractériser l’importance du tourisme dans l’économie d’un
+pays. Les partenariats transfrontaliers constituent donc une pratique différente par
+rapport à ce que les acteurs du tourisme font habituellement dans le cadre de leur
+activité. Ces partenariats institutionnels posent de nombreuses questions quant au
+leadership (et plus largement à la souveraineté) lié au développement d’un projet
+commun (Timothy, 1999). Les mêmes travaux insistent sur l’importance des traités
+bilatéraux, dans le contexte nord-américain, pour établir des règles de gouvernance
+claires. Au sein de l’Union européenne, le cadre est déterminé par l’existence de
+programmes de grande envergure. Le programme Interreg constitue notamment l’une
+de initiatives communautaires les plus importantes, du moins celle qui a permis la mise
+en œuvre du plus grand nombre de projets à l’échelle européenne (Bolgherini et Roux,
+2008).
+
+5
+
+Sur la zone géographique concernée par le projet « Inno Rando Pour Tous », l’enjeu est
+explicite : « le programme France-Wallonie-Vlaanderen : régions françaises et belges qui
+coopèrent pour effacer la frontière ! Le programme de coopération territoriale européen Interreg
+France-Wallonie-Vlaanderen s’inscrit dans une volonté de favoriser les échanges économiques et
+sociaux entre cinq régions frontalières : le Nord-Pas de Calais, la Champagne-Ardenne et la
+Picardie, en France ; la Wallonie et la Flandre, en Belgique. Il vise à associer des compétences
+communes tout en valorisant les richesses de chaque région concernée, et ce, au bénéfice des
+populations de la zone. » (extrait du site internet Interreg France – Wallonie –
+Vlaanderen : http://interreg5.interreg-fwvl.eu/)
+
+6
+
+La politique européenne promeut ici explicitement la constitution d’un nouvel espace
+touristique (Denert et Hurel, 2000). Au-delà de la création d’un nouveau territoire,
+voire d’une nouvelle destination, ce type de projet transfrontalier vise à favoriser
+l’échange et le transfert de ressources et de savoirs en vue de la constitution de
+nouveaux avantages compétitifs. Les trois facteurs d’attractivité majeurs d’un territoire
+transfrontalier sont sa localisation géographique (d’où peut découler un intérêt naturel
+ou culturel), sa dimension géopolitique (histoire, héritage, etc.) et son type de
+développement touristique (Weidenfeld, 2013).
+
+7
+
+Le projet franco-belge « Inno Rando Pour Tous » couvre un vaste territoire
+transfrontalier de randonnée au nord de Paris et sur une partie de la Belgique. Il
+associe, pour le versant français, les agences de développement et de réservation
+touristiques (encore dénommées comités départementaux du tourisme au lancement
+du projet) et les conseils généraux du Nord et de l’Aisne, et, pour le versant belge,
+l’Intercommunale IDETA, également Maison du tourisme de la Wallonie picarde. Il a été
+financé dans le cadre du programme Interreg IV France-Wallonie-Vlaanderen
+2007-2013, sous le titre « Inno Rando Pour Tous ». Le budget global de l’opération est de
+3 945 000 euros. L’objectif opérationnel du partenariat vise à utiliser au mieux le
+potentiel des technologies émergentes web et mobiles afin de satisfaire les besoins en
+
+Mondes du Tourisme, 13 | 2017
+
+2
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+randonnée d’un segment de clientèle particulier : le public familial (adultes avec
+enfants jusqu’à 12 ans). Dans ce cadre, ce sont essentiellement les actions portant sur
+l’innovation-produit « Rando Famili » qui nous intéressent. La démarche stratégique
+des acteurs rejoint l’objectif principal assigné au marketing territorial : identifier les
+besoins amont pour en déduire des actions, dans le cadre des frontières d’un territoire
+défini (Debabi et Daouas, 2015). Ce diagnostic amont a amené les partenaires à lancer
+une innovation dans le domaine du tourisme de randonnée afin de constituer un
+nouveau facteur d’attractivité du territoire.
+8
+
+La particularité de notre cas d’étude tient à la pluralité des acteurs mobilisés. Nous
+sommes en effet à la charnière d’un territoire transfrontalier qui réunit des Français et
+des Belges ; plus précisément des Français, des Belges néerlandophones et des Belges
+francophones.
+ 
+
+1.2. Champ théorique : une innovation-produit dans le domaine de la
+randonnée touristique
+9
+
+Au sens de l’Insee, l’innovation de produit est l’« introduction sur le marché d’un
+produit (bien ou service) nouveau ou significativement amélioré au regard de ses
+caractéristiques essentielles. » Appliqué au domaine touristique, le concept
+d’innovation se révèle néanmoins plus complexe, dans la mesure où « l’innovation dans
+le secteur du tourisme provient généralement d’éléments issus de problématiques
+environnementales, culturelles ou encore sociales » (Leroux, 2015). L’innovation dans le
+secteur touristique mobilise ainsi une hétérogénéité d’acteurs ayant souvent recours
+aux technologies de l’information et de la communication (TIC).
+
+10
+
+Le secteur du tourisme a mis du temps à s’approprier les innovations issues des TIC
+mais celles-ci constituent désormais un axe de développement stratégique majeur pour
+le secteur (Gallouj et Leroux, 2011). Nous analysons ici le cas d’une innovation
+technique, qui correspond à l’apparition d’un nouveau service pour le consommateur.
+Ce nouveau service permet d’accéder à un parcours de randonnée amélioré par
+l’utilisation d’une application mobile. On se trouve ici dans une démarche de M-tourism
+qui relève de la « relation de détermination » largement conditionnée par la demande
+de service et de qualité émise par le touriste (Gallouj et Leroux, 2011).
+
+11
+
+La randonnée constitue un champ particulier du tourisme, une forme de tourisme de
+niche. À ce titre, elle peut être un lieu privilégié d’innovation, dans le sens où elle se
+doit d’adopter une approche très pragmatique, proche des « motivations des touristes »
+(Carlisle et al., 2013).
+
+12
+
+L’offre de randonnée constitue par ailleurs un élément important du développement
+d’un tourisme durable de qualité en milieu rural, comme c’est par exemple le cas sur le
+territoire Picard (François, 2004 ; Leroux, 2015). C’est également un moteur important
+du développement d’offres de services pourvoyeuses d’emplois et de retombées pour le
+territoire, même si la mesure précise des impacts s’avère difficile (Marsac et al., 2012) :
+restaurants de terroir, cafés-rando, hébergements ruraux de toutes sortes, guides
+nature, etc. Bien que constituant la première activité de pleine nature pratiquée en
+France et l’activité physique préférée des Français en vacances (d’après l’étude
+Statistica 2016, Classement des activités sportives préférées des français en novembre 2016 1), le
+marketing de la randonnée a rarement dépassé une segmentation « fonctionnelle » en
+lien avec la nature de la pratique (grande randonnée, boucles à la journée, boucles à la
+
+Mondes du Tourisme, 13 | 2017
+
+3
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+demi- journée) ou le terrain et l’environnement du circuit lui-même, directement lié à
+l’image de la destination (montagne/campagne/lande, etc.).
+13
+
+D’un point de vue global, la randonnée ne permet pas de retombées économiques
+directes et immédiates (les sentiers sont balisés et accessibles à tous, sans « ticket
+d’entrée » la plupart du temps). Le développement d’une offre spécifique repose donc
+d’abord sur des acteurs non marchands, à savoir, selon les territoires, le secteur public
+et/ou associatif. Son financement reste majoritairement le fait d’acteurs publics qui
+n’en tirent aucun profit direct, en dehors de la vente de cartes ou de topoguides. Ces
+particularités amènent certains acteurs du secteur à imaginer des solutions innovantes
+pour des publics hétérogènes.
+
+14
+
+Saayman et Viljoen (2016) ont élaboré une typologie des randonneurs, répartis en trois
+catégories principales et aux motivations très différentes :
+• les « admirateurs », qui apprécient la proximité avec la nature, la beauté des paysages et
+l’isolement par rapport au contexte urbain ;
+• les « aventuriers », qui sont largement attirés par la dimension physique de la randonnée en
+tant que performance sportive, autonome et parfois risquée ;
+• les « amateurs », qui regroupe un public familial, désireux d’apprendre sur la nature et qui
+privilégie l’aspect relationnel ; c’est cette catégorie de randonneurs qui constitue la cible
+principale du projet « Inno Rando Pour tous ».
+
+ 
+
+2. Le cas d’une randonnée franco-belge
+15
+
+Notre étude de cas se situe au carrefour de l’innovation-produit et du tourisme de
+randonnée, dans le contexte d’un territoire touristique transfrontalier émergent. Cette
+expérience rejoint le développement d’offres qualifiées pour un public familial dans le
+cadre du tourisme durable (Salvador-Perignon, 2012 ; Siau, 2007 ; Courvoisier et
+Courvoisier, 2005) : produits artisanaux, musées, attractions, hébergements, loisirs
+sportifs de nature, etc.
+ 
+
+2.1. Méthodologie
+16
+
+« Rando Famili » constitue l’un des axes de déploiement du projet « Inno Rando Pour
+Tous », à côté du déploiement d’itinéraires de randonnée pour personnes à mobilité
+réduite, et s’inscrit lui-même dans le cadre du programme Interreg IV France-WallonieVlaanderen 2007-2013. Ce projet a fait l’objet d’une convention qui couvre la période
+s’étalant du 1er octobre 2008 au 31 mars 2015. Notre étude a consisté à extraire du
+projet global l’ensemble des éléments d’information portant sur l’innovation-produit
+« Rando Famili ». Elle repose sur quatre types de données :
+• le rapport d’activités final du projet « Inno Rando Pour Tous », au 31 décembre 2014 (qui
+contient l’ensemble des éléments relatifs à la conduite du projet),
+• les supports de communication externe du projet, dont le site web : www.randofamili.com/
+pour
+
+la
+
+version
+
+francophone
+
+et
+
+www.familiewandelingen.com pour
+
+la
+
+version
+
+néerlandophone,
+• les comptes-rendus des réunions de pilotage du projet,
+• des extraits d’échanges sur la plateforme collaborative du projet et des échanges informels
+avec l’opérateur chef de file du projet, pour la partie wallonne.
+
+Mondes du Tourisme, 13 | 2017
+
+4
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+17
+
+L’étude de cas a été corédigée avec l’un des acteurs du projet, qui en était le
+gestionnaire principal pour la partie belge francophone.
+ 
+
+2.2. Présentation de l’étude de cas
+Le projet et sa gouvernance
+18
+
+Jusqu’à la création de ce projet, la randonnée bénéficiait sur ces territoires d’un
+marketing s’adressant à une clientèle adulte, individus ou groupes. Les partenaires ont
+choisi de cibler le public familial en sélectionnant des circuits à haute valeur ajoutée.
+
+19
+
+Trois actions stratégiques ont ainsi été menées : les deux premières (actions 1 et 2)
+visaient à développer l’accessibilité de l’offre au public PMR (personnes à mobilité
+réduite), la dernière (action 3) concerne l’innovation-produit et la politique de
+communication correspondante. C’est essentiellement sur l’action 3 que s’est porté
+notre intérêt, avec la production de « contenus riches et innovants ». Nous ne
+mentionnons ici que les actions communes directement liées au projet, excluant par làmême la communication spécifique mise en œuvre par chacun des partenaires, au
+travers notamment des réseaux sociaux.
+Encadré 1. Synthèse des actions réalisées dans le cadre du projet « Rando
+Famili »
+Action 1 : aménagement des itinéraires PMR (personnes à mobilité réduite)
+Action 2 : développement et structuration de l’offre PMR (équipement)
+Action 3 : innovation, promotion
+Réalisation de :
+- un site internet transfrontalier,
+- des contenus riches (23 vidéos, 263 capsules audios, une soixantaine de topofiches),
+- une interface mobile (application « Rando Famili » pour IOS et Androïd),
+- une campagne promotionnelle de webmarketing (espace publicitaire Google,
+Facebook et sites affinitaires, du type Pays du Nord),
+- des publications en français et en néerlandais,
+- la création d’une marque (« Rando Famili »).
+Source : Rapport d’activités final du projet « Inno Rando Pour Tous », programme
+Interreg IV.
+ 
+Création de la marque « Rando Famili » et positionnement
+
+20
+
+Dans le cadre de l’action 3, les partenaires ont donc créé une marque commune :
+« Rando Famili, des balades fun et facile à faire en famille ». Ce choix a été le fruit d’un
+processus de discussion visant à permettre l’émergence d’une coopération génératrice
+de valeur ajoutée pour chacun des acteurs. Ainsi, on voit se construire, petit à petit, au
+cours des séances de travail et sur la plateforme collaborative en ligne, un projet
+commun autour du public familial. Le résultat de ce processus apparaît explicitement
+dans le rapport final du projet (p. 12) :
+« Au cours de ces séances de travail, il est apparu que la clientèle familiale
+constituait une cible de clientèle partagée et essentielle à l’offre de randonnée sur
+les trois territoires associés. C’est aussi une clientèle qui est en demande de
+
+Mondes du Tourisme, 13 | 2017
+
+5
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+réassurance sur la pratique de la randonnée, car la présence d’enfants amène des
+contraintes (difficulté limitée des itinéraires, distances courtes, motivation de
+l’enfant à poursuivre jusqu’au bout). Les partenaires ont donc convenu de créer un
+dispositif innovant en adressant cette clientèle (sans précédent d’après les
+recherches effectuées) et la clientèle en situation de handicap. Chacun a convenu
+d’effectuer une sélection d’itinéraires pédestres (maximum 30 par territoire)
+convenant à la clientèle familiale sur la base de critères définis en commun
+(distance, difficulté, intérêt et services) et de les promouvoir sur un dispositif
+partagé, dénommé Rando Famili / Familie Wandelingen. »
+
+ 
+Les circuits « Rando Famili »
+21
+
+Cette nouvelle « marque » regroupe 81 randonnées pédestres qualifiées pour le public
+familial (à travers des critères de distance, d’accessibilité et d’intérêt). Ces circuits ont
+vu leur valeur renforcée par la création de pastilles audios à écouter en chemin, d’une
+topo-fiche conviviale et attractive pour les enfants et de vidéos de séduction
+thématiques aidant au choix en amont. Les tracés et leurs contenus multimédias sont
+accessibles depuis l’application « Rando Famili » téléchargeable sur l’App Store et sur
+Google Play. À chaque fois des topo-fiches « familiales » ont été éditées : l’objectif était
+de générer de la valeur ajoutée pour le public cible en proposant des outils ludiques et
+conviviaux. C’est ainsi qu’une cinquantaine d’aquarelles ont été dessinées afin de
+représenter chaque itinéraire de façon moins technique qu’une carte-guide classique.
+Les 263 pastilles audios renforcent en outre la possibilité d’interprétation du circuit par
+le public en lui apportant des anecdotes ou des explications en lien avec les monuments
+ou les paysages rencontrés.
+
+22
+
+Parallèlement, 23 vidéos thématiques ont été réalisées. Elles sont accessibles à partir du
+site internet du projet, de sa chaîne YouTube (https://www.youtube.com/user/
+familirando) ou de l’application mobile. La vidéo la plus regardée porte sur « Les bières
+de Wallonie picarde », avec plus de 8 000 vues en début d’année 2015.
+Figure 1. Exemple de topo-fiche familiale (extrait)
+
+Mondes du Tourisme, 13 | 2017
+
+6
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+ 
+Un site internet conçu selon une nouvelle segmentation clients
+23
+
+Le site internet de promotion des itinéraires est visible sur www.randofamili.com en
+français et www.familiewandelingen.com en néerlandais (cible : clientèle belge
+flamande). Sa création a été pilotée par un partenaire français du projet. Il a généré
+98 000 visites en 2013 et a été appuyé par une campagne de webmarketing qui s’est
+étalée sur 2012-2013. Le site propose une segmentation des randonnées (appelées
+« balades ») adaptées au public cible : par zone géographique, en fonction de leur durée
+et de la facilité d’accès (il existe par exemple un champ « accessible aux poussettes »).
+Plusieurs modalités de recherche complètent cette segmentation afin d’offrir au public
+une facilité de navigation.
+ 
+
+Figure 2. La page d’accueil du site www.randofamili.com (version francophone)
+
+ 
+Les applications mobiles
+24
+
+C’est une des parties françaises du projet qui a piloté la création des applications
+destinées aux deux environnements les plus répandus : IOS et Android. Leurs
+fonctionnalités ont été conçues afin d’apporter une valeur ajoutée par rapport au site
+internet et aux topo-fiches. Les applications proposent donc les services suivants : la
+recherche d’un itinéraire « autour de moi » ou par critères, la visualisation légère d’un
+itinéraire (descriptif et photos), le téléchargement des contenus riches de l’itinéraire, le
+guidage GPS pendant la balade, le déclenchement automatique des pastilles audios et,
+enfin, le jeu Inspecteur rando pour les enfants.
+
+25
+
+Le résultat final ne semble pas complètement à la hauteur des espérances des
+partenaires, dans la mesure où la gestion de la diversité de la provenance des contenus
+(réunion des flux des systèmes d’information touristique de chaque partenaire) a rendu
+la réalisation de ces applications très complexe. Il apparaît, dans les comptes-rendus de
+
+Mondes du Tourisme, 13 | 2017
+
+7
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+réunions, que l’application est jugée « très lourde » et « compliquée d’utilisation » pour
+un « public amateur ».
+ 
+
+Figure 3. Capture d’écran IPhone de l’Appli « Rando Famili »
+
+ 
+
+3. Discussion
+26
+
+L’étude de cas « Rando Famili » nous amène à mettre en valeur trois enseignements.
+
+27
+
+1) Les technologies émergentes web et mobiles permettent de penser des produits
+innovants pour de nouveaux segments de la clientèle touristique
+
+28
+
+Dans le cas présenté ici, l’innovation-produit est directement liée à l’émergence de
+nouveaux outils web et mobiles. Néanmoins, il ne s’agit pas uniquement d’une
+innovation instrumentale : les implications de l’utilisation des nouvelles technologies
+amènent à une redéfinition des segmentations « classiques » de la clientèle dans le
+secteur. Ainsi, l’application mobile et le site internet permettent-ils de proposer des
+usages adaptés à de nouveaux segments (Galloug et Leroux, 2011 ; Carlisle et al., 2013).
+
+29
+
+2) L’expérience au cœur du tourisme de randonnée : un touriste actif
+
+30
+
+L’expérience du randonneur peut être résumée en trois points : le paysage, le
+« moment » (les relations interpersonnelles notamment) et les émotions (Chhetri et al.,
+2004). La nature de cette expérience est intrinsèquement subjective. Dans la même
+étude, les mots utilisés par les randonneurs sont explicites : attracting, boring,
+challenging, crowding, enjoying, exciting, frustrating, motivating, stimulating, etc. La
+randonnée doit être mémorable pour devenir une expérience personnelle et
+émotionnelle à partir de laquelle le touriste pourra se mettre en scène (Saayman et
+Viljoen, 2016).
+
+Mondes du Tourisme, 13 | 2017
+
+8
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+31
+
+Le point commun à toutes les analyses sur les expériences de consommation concerne
+l’importance des émotions ressenties (Ladwein, 2005). Apparaît par ailleurs
+l’importance de la dimension active du consommateur ; l’expérience de consommation
+joue un rôle central dans la satisfaction, la randonnée permet une mise en récit de soi à
+travers une expérience où le touriste est acteur d’une expérience renforcée par les
+nouveaux supports techniques qui sont mis à sa disposition (Filser, 2005).
+
+32
+
+3) Les implications d’une gouvernance transfrontalière dans la construction d’un
+nouveau territoire touristique
+
+33
+
+On retrouve ici l’enjeu de « similarité des structures » impliquées dans le projet afin de
+faciliter le processus d’innovation (Weidenfeld, 2013). Les proximités géographique,
+économique et managériale ont une influence majeure sur la réussite du processus
+d’innovation et le transfert de savoirs à l’échelle du nouveau territoire. Les acteurs
+impliqués dans le projet ont ainsi pour caractéristique de posséder des structures de
+promotion du tourisme assez similaires.
+
+34
+
+Si « la prise en compte de l’identité [d’un territoire] et l’engagement des élus sur la mise en
+œuvre de politiques touristiques durables sont au fondement de ce qui doit nécessairement
+devenir un projet partagé pour réussir » (Siau, 2007), les représentations portées par les
+acteurs peuvent évoluer tout au long du projet. L’originalité de la gouvernance d’un
+projet transfrontalier est d’encourager le processus d’innovation en transformant la
+représentation que les acteurs se font de leur propre territoire. À terme, le soutien des
+institutions européennes à ce type de projet permet l’émergence d’un nouveau
+territoire touristique, allant bien au-delà de ce que les élus envisageaient.
+
+35
+
+Ce processus de maturation peut permettre l’émergence d’une stratégie spécifique à la
+destination et, par voie de conséquence, la mise en place de produits touristiques
+innovants permettant un positionnement original du nouveau territoire (Maunier,
+2007). À partir du moment où l’innovation-produit et l’association d’une diversité
+d’acteurs transforme la représentation que les acteurs touristiques eux-mêmes se font
+de leur territoire, en créant une nouvelle « personnalité » pour la destination, un
+« nouvel objet politique local » (Bartikowski et al., 2008 ; Haschar-Noé, 2009), c’est la
+stratégie de développement touristique elle-même qui est impactée. Dans le cas du
+projet « Rando Famili », les acteurs ont probablement pris conscience, à travers leur
+collaboration, du potentiel touristique que représente la fréquentation de chemins de
+randonnée par des pratiquants et pratiquantes dans un espace périurbain (Sahuc,
+2010), ou du moins proche de grands centres urbains. Du côté français, la métropole
+lilloise comptait par exemple 1,1 million d’habitant en 2015 2, alors que la partie la plus
+urbanisée du territoire transfrontalier en comptait 2,1 millions en 2008 3.
+
+36
+
+Sur le plan opérationnel, un nouveau besoin émerge avec la nécessité d’une fonction de
+coordination des acteurs, en lien avec l’utilisation des outils numériques : la question se
+pose de la création d’un poste d’animateur numérique du territoire (Alexandre-Bourhis
+et al., 2013). Au-delà de la simple création d’un poste, une question plus large se pose :
+l’approche par filière/par produit, avec la constitution d’équipes spécifiques, amènerat-elle à la création de territoires touristiques sans identité propre ? L’intrication des
+structures sera nécessairement croissante.
+ 
+
+Mondes du Tourisme, 13 | 2017
+
+9
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+En guise de conclusion
+37
+
+L’étude de cas présentée ici a fait l’objet d’un recueil de données qualitatives,
+essentiellement basé sur des ressources documentaires et des échanges informels
+confidentiels. Corédigée avec l’un des acteurs majeurs du projet, cette étude adopte une
+démarche essentiellement descriptive et il sera intéressant d’en compléter le contenu à
+travers deux nouvelles sources notamment afin d’étudier l’évolution de ce nouveau
+territoire touristique transfrontalier :
+• des entretiens auprès des différents acteurs du projet afin de tester auprès d’eux les
+questions relatives à l’émergence d’un territoire touristique transfrontalier et à la
+gouvernance complexe liée à ce type de projet,
+• les données chiffrées permettant d’évaluer définitivement les résultats des actions menées.
+
+38
+
+L’obtention de ces données permettra de répondre à la question de la prise de décision
+des randonneurs après la visite du site ou des médias sociaux de chacun des partenaires
+et l’un des enjeux futurs sera une mise en commun plus marquée des moyens et une
+attention plus précise portée à l’expérience vécue par les randonneurs sur les
+itinéraires de randonnée (Thanh Tan et Maingot, 2013).
+
+BIBLIOGRAPHIE
+N. ALEXANDRE-BOURHIS, S. KHALLA et C. ROUVRAIS CHARRON, « Quels métiers pour la communication
+numérique des organisations touristiques ? », Management et Avenir, 2013/2, n° 60, p. 195-211.
+B. BARTIKOWKI, D. MERUNKA et P. VALETTE-FLORENCE, « L’attitude vis-à-vis des destinations
+touristiques : le rôle de la personnalité des villes », Management et Avenir, 2008/4, n° 18, p. 72-87.
+S. BOLGHERINI et C. ROUX, « Les régions d’Europe et l’enjeu des coopérations », Pôle Sud, 2008/2,
+n° 29, p. 111-130.
+S. CARLISLE, M. KUNC, E. JONES et S. TIFFIN, « Supporting innovation for tourism development
+through multistakeholder approaches: Experiences from Africa », Tourism Management, 2013,
+vol. 35, p. 59-69.
+P. CHHETRI, C. ARROWSMITH et M. JACKSON, « Determining hiking experiences in nature-based tourist
+destination », Tourism Management, 2004/1, vol. 25, p. 31-43.
+F.-H. COURVOISIER et F.-A. COURVOISIER, « Communication et marketing d’institutions culturelles en
+suisse francophone », Management et Avenir, 2005/3, n° 5, p. 133-150.
+M. DEBABI et K. DAOUAS, « Les produits du terroir et écologiques comme vecteur d’innovation au
+tourisme responsable », Management et Avenir, 2015/2, n° 76, p. 157-168.
+O. DENERT et H. HUREL, « De l’espace frontalier au territoire transfrontalier », Labyrinthe, 2000/6
+n° 6.
+M. FILSER, « Le management des activités culturelles et de loisirs : questions stratégiques et état
+des recherches académiques », Management et Avenir, 2005/3, n° 5, p. 179-189.
+
+Mondes du Tourisme, 13 | 2017
+
+10
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+H. FRANÇOIS, « Le tourisme durable une organisation du tourisme en milieu rural », Revue
+d’économie régionale et urbaine, 2004/1, p. 57-80.
+C. GALLOUG et E. LEROUX, « E-tourisme, innovation et modes d’organisation », Management et Avenir,
+2011/2, n° 42, p. 213-231.
+N. HASCHAR-NOÉ, « L’aménagement des chemins de randonnée : un instrument d’identification et
+de gouvernance territoriales », Espaces et sociétés, 2009/3, n° 138, p. 115-133.
+R. LADWEIN, « L’expérience de consommation, la mise en récit de soi et la construction identitaire :
+le cas du trekking », Management et Avenir, 2005/3, n° 5, p 105-118.
+E. LEROUX, « Management du tourisme responsable, vecteur d’innovation environnementale,
+sociale, économique et territoriale », Management et Avenir, 2015/2, n° 76, p. 111-119.
+C. MAUNIER, « Une approche triadique du marketing des destinations », Market Management,
+2007/2, vol. 7, p. 41-64.
+A. MARSAC, A.-M. LEBRUN et P. BOUCHET, « Tourisme durable et expériences touristiques : un
+dilemme. Proposition d’un dispositif d’analyse appliqué à l’itinérance en milieu rural »,
+Management et Avenir, 2012/6, n° 56, p. 134-153.
+M. SAAYMAN et A. VILJOEN, « Who are wild enough to hike a wilderness trail? », Journal of Outdoor
+Recreation and Tourism, 2016, vol. 14, p. 41-51.
+P. SAHUC, « Chemins périurbains : aménités vécues et enjeux réel », Natures Sciences Sociétés,
+2010/2, vol. 18, p. 147-157.
+M. SALVADOR-PERIGNON, « Tourisme culinaire et valorisation des produits artisanaux : vers un
+tourisme durable », Management et Avenir, 2012/6, n° 56, p. 114-133.
+V. SIAU, « Sports de nature et attractivité des territoires », Pour, 2007/2, n° 194, p. 13-20.
+D.J. TIMOTHY, « Cross-border partnership in tourism resource management: International parks
+along the US-Canada Border », Journal of Sustainable Tourism, 1999/7, n° 3-4, p. 182-205.
+V. THANH TAN et M. MAINGOT, « Comprendre les décisions d’achat dans les médias sociaux : le cas du
+e-tourisme », Gestion, 2013/1, vol. 38, p. 30-38.
+A. WEIDENFELD, « Tourism and cross border regional innovation systems », Annals of Tourism
+Research, vol. 42, 2013, p. 191-213.
+
+NOTES
+1. Source : https://fr.statista.com/statistiques/510847/classement-activites-sportives-prefereesfrance/
+2. Source : Métropole européenne de Lille.
+3. Source : Eurométropole Lille-Tournai-Courtrai.
+
+Mondes du Tourisme, 13 | 2017
+
+11
+
+Une innovation-produit au service de la stratégie d’un territoire touristique...
+
+RÉSUMÉS
+L’article traite d’une innovation-produit sur un territoire touristique transfrontalier émergent.
+Le programme Interreg IV a soutenu l’émergence d’un projet franco-belge de développement de
+la randonnée : « Inno Rando Pour Tous ». Ce projet a permis la mise en place d’une coopération
+transfrontalière avec la création de nouveaux produits touristiques et l’emploi d’une nouvelle
+application mobile. Les territoires concernés ont ainsi créé un produit à destination d’un public
+familial : « Rando Famili ». Après une présentation du cas d’étude, fondé sur un recueil qualitatif
+de données, nous proposons trois axes de réflexion liés à l’innovation-produit, à l’expérience de
+consommation et à l’émergence d’un nouveau territoire touristique.
+This paper deals with an innovative product in a cross-border tourism destination. The
+Interreg IV program supported the emergence of the Franco-Belgian hiking development project
+"Inno Rando Pour Tous". This project enabled an original cross-border cooperation which led to
+the launch of new tourism products and the use of mobile techniques. The territories involved
+implemented a product addressing families, "Rando Famili". We will first present the case study
+based on a qualitative data collection, and then develop three perspectives related to product
+innovation, experiential marketing and the emergence of a new tourism destination.
+
+INDEX
+Mots-clés : innovation-produit, marketing touristique, territoire transfrontalier
+Keywords : product innovation, tourism marketing, cross-border territory
+
+AUTEURS
+FABRICE CAUDRON
+Maître de conférences, Université de Lille
+E-mail : fcaudron@iaelille.fr
+CÉLINE THOMAS
+Ancienne responsable marketing, Intercommunale IDETA, Direction de la valorisation du
+territoire
+E-mail : celthomas@yahoo.fr
+
+Mondes du Tourisme, 13 | 2017
+
+12
+
+

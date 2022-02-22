@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="fr_TVT_45-70_Ps_1" source="https://journals.openedition.org/teoros/545" lang="fr">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <revue>Teoros</revue>
+        <numero>29-1</numero>
+        <annee>2010</annee>
+    </meta>
+    <auteurs>
+        <auteur nom="Vo Thanh" prenom="Tan" email="utngaovn@yahoo.fr">
+            <oeuvres>
+                <publication id="fr_TVTVKRD_81-83_Le_1" source="https://journals.openedition.org/teoros/2597" lang="fr">L’organisation d’un méga-événement sportif et l’image touristique de la ville hôte </publication>
+            </oeuvres>
+            <description>
+                Docteur ès sciences du tourisme Enseignant-chercheur ESC La Rochelle — CEREGE, France 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>Prévision de la demande touristique par méthodes Delphi et Box-Jenkins</titre>
+    <sousTitre>Application à la destination du Vietnam</sousTitre>
+    <resume>
+        L’article étudie l’évolution des principaux marchés émetteurs à destination du Vietnam, à savoir la Chine, le Japon et les États-Unis dans le contexte touristique concurrentiel d’Asie du Sud-Est. De ce fait, nous analysons la demande touristique potentielle en provenance de ces marchés à l’horizon 2010 en utilisant deux méthodes complémentaires : la méthode Delphi et la technique Box-Jenkins. Les résultats montrent que le tourisme vietnamien verrait, selon la méthode Delphi, dans les années à venir ses arrivées chinoises, japonaises et américaines croître et valident l’efficacité de la méthode Box- Jenkins pour des prévisions à court terme. Par contre, elle ne s’avère pas très fiable pour des prévisions à long terme.
+    </resume>
+    <corps>
+        <paragraphe num="1">
+            La demande touristique est la base sur laquelle reposent toutes les décisions des politiques économiques associées au tourisme (Dupont, 2002 ; Song et Witt, 2006). L’importance de la prévision dans le tourisme n’est plus une question controversée : les études entreprises par Artus (1972), Loeb (1982), Frechtling (1996), Law et Au (1999), Law (2000), Chandra et Menezes (2001), Lim et McAleer (2002), Wong et Song (2002) et Song et Witt (2006) nous ont bien montré l’importance de la prévision de la demande touristique dans la planification des politiques et mettent l’accent sur la nécessité d’avoir des prévisions précises de la demande touristique. Les praticiens s’intéressent à la prévision touristique pour les raisons suivantes :
+        </paragraphe>
+        <paragraphe num="2">
+            Premièrement, au niveau microéconomique, en raison du rôle principal de la demande comme déterminant de la rentabilité économique, la prévision de la demande touristique constitue un élément extrêmement important dans la planification des activités économiques relatives au tourisme. Étant donné qu’il est impossible de stocker un service touristique, il est clair qu’une bonne prévision de la demande touristique est une étape essentielle dans l’efficacité de la planification des activités commerciales relatives au tourisme. Les sièges d’avion, d’autobus, de train, les places de restaurant, les voitures et appartements de location, les chambres d’hôtel, les places dans les bateaux de croisière, les équipements de divertissements touristiques mis en location… ne peuvent pas être entreposés. Une fois que leur vente ou location potentielle est perdue, elle est perdue pour toujours.
+        </paragraphe>
+        <paragraphe num="3">
+            Deuxièmement, au niveau macroéconomique, la prévision touristique est importante, parce que l’investissement touristique, particulièrement l’investissement dans la construction des infrastructures dans les destinations telles que des aéroports, des routes… exige des engagements financiers à long terme des finances publiques, et les retours nets prévus sur l’investissement ne seraient pas réalisés si la demande touristique était insuffisante pour utiliser pleinement les capacités conçues des projets d’investissement. La prévision de la demande touristique à long terme joue donc un rôle assez significatif dans l’évaluation des projets d’investissement en termes d’infrastructures touristiques.
+        </paragraphe>
+        <paragraphe num="4">
+            Troisièmement, la prévision exacte de la demande touristique aidera les gouvernements dans la formulation des stratégies de développement touristique à moyen et long terme, particulièrement en termes d’offre et de marketing.
+        </paragraphe>
+        <paragraphe num="5">
+            Concernant la destination du Vietnam, sur le plan touristique, ces dernières années, elle a connu une attractivité croissante, mesurée par l’augmentation constante des arrivées internationales depuis 2000, sauf en l’an 2003 où le tourisme de la région d’Asie du Sud-Est en général et celui du Vietnam en particulier ont été gravement touchés par l’épidémie du SRAS (voir talbeau 1).
+        </paragraphe>
+        <paragraphe num="6">
+            Cependant, il est crucial de remarquer que la croissance du tourisme au Vietnam ne s’explique pas seulement par ses ressources touristiques abondantes mais également par des conditions géopolitiques favorables (Combes, 2002/2003 ; Tirasatayapitak, 2005 ; Do, 2007 ; Vo Thanh, 2007), contrairement aux destinations concurrentes telles que la Malaisie, l’Indonésie et la Thaïlande (Combes, 2002/2003) qui ont
+        </paragraphe>
+        <paragraphe num="7">
+            connu, ces derniers temps, des événements défavorables : attentats, tsunami, etc.
+        </paragraphe>
+        <paragraphe num="8">
+            Parmi les pays de la zone d’Asie du Sud-Est, le Cambodge et le Laos sont des pays dont la superficie, le contexte politique, l’état des infrastructures et les capacités d’accueil sont trop particulières ou trop différentes pour que ces deux pays soient considérés comme des concurrents de la zone. La Birmanie est dans une situation politique et économique telle qu’il est pour l’instant inconcevable de la ranger parmi les acteurs touristiques de la zone. Il est par contre probable que la zone d’Asie du Sud-Est comprenne cinq pays qui peuvent être considérés comme véritablement concurrentiels : la Thaïlande, la Malaisie, l’Indonésie, les Philippines et le Vietnam (Combes, 2002/2003 : 98).
+        </paragraphe>
+        <paragraphe num="9">
+            Par conséquent, on assiste à une réorientation géographique des touristes plus qu’à une modification du volume global des voyages (voir tableau 2).
+        </paragraphe>
+        <paragraphe num="10">
+            Cette réorientation géographique de la part des touristes est au profit de la destination du Vietnam considérée comme plus sécurisante que ses destinations concurrentes (Combes, 2002/2003 ; Vo Thanh, 2006 : 40). Ainsi, une fois que les effets de ces événements non contrôlables défavorables au rayonnement touristique de ces destinations concurrentes s’estomperont, la destination du Vietnam devra faire face à une forte concurrence interrégionale, puisque selon certains auteurs (Aznam, 1992 ; Tan, McCahon et Miller, 2003 ; Combes, 2002/2003 ; Tirasatayapitak, 2005), ces destinations sont assez similaires en termes de ressources naturelles et culturelles touristiques, de position géographique, etc. Il serait donc intéressant de prévoir la demande touristique des marchés principaux de la destination du Vietnam pour les années à venir, ce qui permettra en partie au tourisme vietnamien de se préparer en matière d’offre, visant à faire face à cette concurrence.
+        </paragraphe>
+        <paragraphe num="11">
+            L’étude de la littérature existante montre qu’il n’y a pas encore jusqu’à présent d’études qualitatives et quantitatives publiées dans les revues scientifiques internationales concernant la prévision de la demande touristique de la destination du Vietnam bien qu’il s’agisse d’un pays asiatique du Sud-Est disposant de ressources touristiques abondantes et que ce pays soit considéré comme une des destinations touristiques les plus dynamiques sur le marché international (Combes, 2002/2003 ; Tirasatayapitak, 2005 ; Do, 2007 ; Vo Thanh, 2007).
+        </paragraphe>
+        <paragraphe num="12">
+            L’objectif principal de cet article est de trouver une réponse à la problématique suivante : quel sera l’état d’évolution des principaux marchés du tourisme du Vietnam ?
+        </paragraphe>
+        <paragraphe num="13">
+            La Chine et le Japon sont les deux marchés émetteurs principaux et traditionnels de la destination du Vietnam, alors que les États-Unis ont apparu, depuis ces dernières années, comme un marché émetteur prometteur pour le Vietnam (voir tableau 3). Notre recherche consistera à identifier l’état d’évolution de ces marchés.
+        </paragraphe>
+        <paragraphe num="14">
+            Toutes les activités économiques sont concernées par la réduction des risques. Ce besoin s’affirme avec plus d’acuité lorsqu’il s’agit d’activités touristiques, et ce, pour les raisons suivantes :
+        </paragraphe>
+        <paragraphe num="15">
+            Ainsi, la prévision précise de la demande touristique devient un besoin crucial et peut être utile aux planificateurs, dirigeants d’entreprises touristiques et responsables marketing en termes d’établissement de la faisabilité de projets, d’exploration des marchés potentiels, de détermination des besoins, de prévision des conséquences économiques et socio-culturelles en un lieu donné…
+        </paragraphe>
+        <paragraphe num="16">
+            Les méthodes de prévision touristique peuvent être réparties en deux grandes catégories (Archer, 1980 ; Uysal et Crompton, 1985 ; Frechtling, 2001). D’une part, les méthodes quantitatives, qui organisent les données du passé selon des règles mathématiques, peuvent être divisées en deux grandes parties : la méthode causale (modèles économétriques causaux) et la méthode d’extrapolation des tendances passées ou la série temporelle (modèles des séries temporelles) (Lim et McAleer, 2002 : 389). D’autre part, les méthodes qualitatives sont aussi appelées méthodes par jugement, dans lesquelles on a recours à l’avis ou au jugement d’experts plutôt qu’à des règles mathématiques. Il s’agit par exemple de la méthode de probabilité subjective, de la méthode Delphi, d’approche par le jury d’opinion.
+        </paragraphe>
+        <paragraphe num="17">
+            Faute de données disponibles, nous ne possédons que des statistiques concernant les arrivées touristiques des marchés principaux chinois, japonais et américain à la destination du Vietnam de 1995 à 2007 et n’avons pas de données relatives aux variables explicatives de la demande touristique de ces trois principaux marchés de la destination du Vietnam. De plus, la méthode Delphi est considérée par certains auteurs (Frechtling, 2001 ; Dupont, 2002 ; Randriamboarison, 2003) comme la méthode qualitative de prévision de la demande touristique la plus utilisée. Nous nous penchons ainsi sur l’approche d’analyse en série temporelle et sur la méthode Delphi.
+        </paragraphe>
+        <paragraphe num="18">
+            La terminologie d’« analyse en série temporelle » a été utilisée pour la première fois par Box et Jenkins dans les années 1970. Cette méthode d’analyse s’appuie sur les Anciennes valeurs d’une variable pour tenter de prévoir sa valeur future, telle que la demande touristique. Elle ne prend pas en compte l’approche économétrique consistant à expliquer une variable endogène ou dépendante par des variables exogènes ou explicatives déterminées par la théorie économique. Autrement dit, elle suppose que la variable dépendante peut faire l’objet d’une prévision avec comme seule variable celle explicative.
+        </paragraphe>
+        <paragraphe num="19">
+            Le passage en revue des travaux concernant l’analyse en série temporelle dans la prévision de la demande touristique (Geurts et Ibrahim, 1975 ; Witt et Witt, 1992 ; Kulendran, 1996 ; Kulendran et King, 1997 ; Law, 2000 ; Burger <em>et al., </em>2001 ; Dupont, 2002 ; Lim et McAleer, 2002 ; Cho, 2003) nous a permis de conclure, en conformité avec la remarque de Law et Au (1999), que malgré le consensus sur la nécessité de développer des modèles de prévision performants et la reconnaissance de leur utilité, il n’existe pas encore de modèle standard d’analyse en série temporelle permettant d’obtenir une prévision satisfaisante. Autrement dit, les résultats obtenus par l’emploi des différentes approches d’analyse en série temporelle par les auteurs précités montrent qu’il n’est pas possible de se prononcer en faveur d’une approche particulière si ce n’est peut-être la méthode Box-Jenkins. Cette dernière est tout de même reconnue par certains auteurs comme une méthode assez performante en termes de prévision à court terme (Geurts, Buchman et Ibrahim, 1976 ; Calantone <em>et al., </em>1987 ; Witt et Witt, 1992 ; Kulendran, 1996 ; Dupont, 2002 ; Nguyễn, 2002).
+        </paragraphe>
+        <paragraphe num="20">
+            La méthode Box-Jenkins est basée sur l’ajustement d’un type spécial de modèle statistique linéaire connu sous le nom ARIMA (Autoregressive Integrated and Moving Average) (Palmer <em>et al., </em>2006). Par exemple, notons Y la variable à prédire : l’analyse de Box-Jenkins commence par transformer Y en une variable stationnaire. (La moyenne de la variable Yt, sa variance et sa covariance avec une autre valeur de Yt, notée Yt-k ne dépendent pas du temps t. Autrement dit, la série a une moyenne et une variance qui sont constantes quel que soit le temps.)
+        </paragraphe>
+        <paragraphe num="21">
+            Box et Jenkins montrent qu’il est possible, en présence de variable non stationnaire, de rendre une série stationnaire par la différenciation. Selon ces auteurs, il suffit d’appliquer une ou deux opérations de différenciation pour stationnariser une série. Cette technique permet d’élaborer une autre série stationnaire Y*, autrement dit l’<em>input </em>de l’approche de Box-Jenkins. Le modèle général pour Y* est appelé ARIMA.
+        </paragraphe>
+        <paragraphe num="22">
+            Lancée aux États-Unis comme technique de prévision qualitative par Ran Corporation au début des années 1950, cette méthode s’appuie sur la contribution d’un panel d’experts auxquels on demande de répondre à un questionnaire préalablement rédigé. Ce questionnaire vise à rechercher un consensus sur la prévision d’une tendance future. Dans le secteur du tourisme, il s’agit, par exemple, d’un consensus sur la demande touristique future d’une destination. Le panel peut fonctionner sous forme de réunions entre spécialistes, ou par interrogations téléphoniques de ceux-ci, mais l’utilisation du courrier est la plus fréquente. Un soin particulier doit être porté dans le recrutement d’experts représentant une grande variété d’intérêts et d’expériences dans le tourisme. Il est recommandé, dans le choix de ces spécialistes, de faire appel à des dirigeants réputés dans le domaine, à des fonctionnaires d’État, à des consultants… Par exemple, lorsqu’on cherche à prévoir la demande touristique d’une destination donnée, le choix des experts devrait porter sur des représentants du monde de l’hébergement, des voyagistes, des fonctionnaires d’État chargés du tourisme.
+        </paragraphe>
+        <paragraphe num="23">
+            En ce qui concerne le questionnaire, il comporte, dans son processus, un certain nombre d’étapes, en moyenne, de deux à quatre étapes, au cours desquelles les réponses reçues sont résumées et retournées aux experts. En général, pour mener la méthode Delphi, il faut respecter quatre points : l’anonymat, l’itération, la réaction contrôlée et les statistiques des réponses. L’anonymat est requis lors de la présentation du questionnaire. Les experts peuvent exprimer leurs jugements à titre privé. Des pressions sociales excessives doivent être écartées. En outre, le processus itératif permet aux experts de changer de jugement sans crainte de perdre la face aux yeux des autres. Pour chaque questionnaire itératif, on fournit des réactions contrôlées par lesquelles on rappelle à chaque expert sa dernière prévision et les experts sont informés des avis de leurs collègues anonymes. Souvent les réactions sont présentées comme un résumé statistique des réponses fournies par le panel, comprenant l’intervalle entre le premier quartile et le troisième quartile, et la médiane. Les panels sont composés le plus souvent de 40 à 50 experts (Dupont, 2002 : 435). L’objectif du processus est de savoir quel est le nombre de fois à choisir pour réaliser la prévision. Une des règles adoptées à cet égard est celle qui consiste à poursuivre le processus du questionnaire jusqu’à ce que le premier quartile et le troisième quartile deviennent relativement proches de la médiane, c’est-à-dire une situation où le premier quartile ne serait pas inférieur à la valeur inférieure de 10 % à la médiane et où le troisième quartile ne serait pas supérieur à la valeur supérieure de 10 % à la médiane (Dupont, 2002 : 435). Depuis sa création par Rand Corporation, l’utilisation du modèle Delphi a pris une envergure considérable et celui-ci n’est plus employé seulement dans le secteur de l’armement mais aussi dans les disciplines scientifiques et technologiques (pour de plus amples informations sur la technique Delphi, nous engageons le lecteur à consulter le papier de Rowe et Wright (1999) qui résume certains travaux utilisant cette méthode).
+        </paragraphe>
+        <paragraphe num="24">
+            Pour ce qui est du secteur du tourisme, la technique Delphi a aussi attiré un bon nombre d’auteurs tels que English et Kernan (1976), Liu (1988) et Kaynak <em>et al. </em>(1994).
+        </paragraphe>
+        <paragraphe num="25">
+            Partant d’une constatation que les politiques touristiques dépendent en grande partie de la structure de demande future de la destination, puisque l’objectif des planificateurs est de chercher à ajuster efficacement l’offre à la demande, nous envisageons de mener une étude profonde sur la prévision de la demande touristique de la destination du Vietnam en adoptant, afin d’obtenir une prévision adéquate, à la fois la méthode quantitative ARIMA et la méthode qualitative Delphi. Calantone <em>et al., </em>(1987) et Van Doorn (1984, cité dans Calantone <em>et al., </em>1987) ont aussi reconnu la nécessité d’intégrer plusieurs méthodes de prévision pour obtenir une prévision compréhensible. Selon ces auteurs, cette intégration pourrait être entreprise le plus souvent, car il existe des compléments naturels entre les différentes techniques de prévision.
+        </paragraphe>
+        <paragraphe num="26">
+            Quant à nous, le choix de ces deux approches de prévision est dû aux remarques suivantes :
+        </paragraphe>
+        <paragraphe num="27">
+            Dans cette section, nous présentons respectivement les résultats empiriques obtenus par l’utilisation à la fois de la méthode Delphi et de celle Box-Jenkins.
+        </paragraphe>
+        <paragraphe num="28">
+            Notre étude qualitative qui a duré trois mois, de mai à juillet 2007, consistait dans un premier temps à élaborer le questionnaire et à recruter les experts auxquels nous demandions de répondre à notre questionnaire rédigé préalablement. Dans ce premier questionnaire, nous avons fourni aux experts les récentes statistiques sur les arrivées touristiques des marchés d’origine principaux à la destination du Vietnam de 1995 à 2006 (au moment des enquêtes, nous ne disposions que des données sur l’historique des arrivées touristiques de 1995 à 2006 des trois marchés principaux au Vietnam, à savoir la Chine, le Japon et les États- Unis) et leur avons demandé de nous donner les prévisions sur les arrivées touristiques au Vietnam en l’an 2010, en provenance des trois principaux marchés émetteurs : Chine, Japon et États-Unis. Dans un deuxième temps, après avoir traité les réponses au premier questionnaire, nous en avons rédigé un second. Ce dernier rappelle à l’expert sa première prévision et lui fournit en même temps un résumé des réponses fournies par l’ensemble du panel d’experts, en particulier le premier quartile, le troisième quartile et la médiane.
+        </paragraphe>
+        <paragraphe num="29">
+            Notre choix des experts s’est essentiellement porté vers des experts vietnamiens représentant une grande variété d’intérêts et d’expériences dans le secteur touristique. Donc, notre panel était composé de 40 experts, dont cinq chercheurs- universitaires, dix hôteliers, cinq restaurateurs, cinq transporteurs (il s’agissait des agences aériennes, de bus et de train), sept agents de voyages, huit fonctionnaires d’État (de l’ANTVN, des Services du tourisme de la province de Thua Thien Hue, de la ville de Da Nang, de Ho Chi Minh- Ville et de la ville de Hanoi, et de l’Institut vietnamien de recherches et de développement touristiques).
+        </paragraphe>
+        <paragraphe num="30">
+            Avant que le critère d’interruption du processus itératif décrit plus haut ne soit atteint, deux itérations ont été nécessaires pour le marché chinois et une seule pour les marchés japonais et américain. Le traitement des réponses fournies par les experts a abouti aux résultats présentés dans le tableau 4.
+        </paragraphe>
+        <paragraphe num="31">
+            Les résultats de prévision nous disent que le taux de croissance prévisionnel des arrivées touristiques chinoises sur quatre ans de 2007 à 2010 est le plus important des marchés étudiés (53,92 %). Cependant, si l’on regarde l’historique des arrivées, on pourra constater que ce taux n’est pas aussi intéressant que l’on croit, puisque l’année 2006 a connu une belle chute des arrivées touristiques chinoises au Vietnam : de 778 431 arrivées en 2004 à 516 286 en 2006, soit une chute de 33,68 %. Toutefois, les arrivées chinoises connaîtraient une augmentation à l’horizon 2010. En contrepartie, les prévisions des arrivées des marchés japonais et américain sont plus optimistes, car il s’agirait d’une croissance constante. Cette tendance à la hausse pourrait s’expliquer par l’adhésion du Vietnam à l’Organisation mondiale du commerce le 7 novembre 2006 et par ses bonnes relations commerciales établies depuis ces dernières années avec les États-Unis. En tout cas, les arrivées touristiques des marchés principaux à la destination du Vietnam connaîtraient un fort taux de croissance à l’horizon 2010.
+        </paragraphe>
+        <paragraphe num="32">
+            À noter que l’efficacité de la prévision au moyen de la méthode Delphi dépend en grande partie de la qualification et de l’expérience des experts envers le domaine concerné, ainsi que de leur objectivité. En effet, les experts auraient tendance à exprimer plus ce qu’ils souhaitent que ce qu’ils pensent être le futur. En conséquence, afin d’obtenir une prévision fiable, à notre avis, il est nécessaire de bien sélectionner les experts qui sont appelés à participer à la prévision et de compléter cette méthode de prévision par une méthode quantitative.
+        </paragraphe>
+        <paragraphe num="33">
+            Dans le cadre de cet article, nous appliquons le modèle ARIMA dans la prévision des arrivées chinoises, japonaises et américaines à la destination vietnamienne pour la période de 2007 à 2010 à l’aide du logiciel Eviews. La série étudiée couvre les arrivées touristiques mensuelles de 1995 à 2006 de ces trois principaux marchés d’origine. Les données sont fournies par l’ANTVN. Les statistiques relatives aux arrivées touristiques de 2007 de ces trois principaux marchés servent à apprécier la précision de la prévision.
+        </paragraphe>
+        <paragraphe num="34">
+            La méthode d’analyse en série temporelle proposée par Box-Jenkins (1970) a ouvert une nouvelle page dans les méthodes de prévision. Techniquement, cette méthode aussi désignée par méthode ARIMA ne se base pas sur une ou plusieurs équations, mais sur la seule analyse de la contingence de la série temporelle. La série temporelle peut s’expliquer par les comportements présents, passés, les retards et les éléments contingents (Nguyễn, 2002 : 125).
+        </paragraphe>
+        <paragraphe num="35">
+            Pour pouvoir utiliser la technique Box-Jenkins, rappelons-le, il nous faut d’abord tester la stationnarité de la série étudiée. Lorsqu’une série n’est pas stationnaire, il faut la rendre stationnaire en la différenciant. Pour tester la stationnarité d’une série, le test le plus utilisé par les chercheurs est celui de la racine unitaire développé par Dickey-Fuller. Dans le cadre de cette étude quantitative, nous l’avons employé pour tester la stationnarité des séries étudiées.
+        </paragraphe>
+        <paragraphe num="36">
+            D’une manière générale, le processus ARMA(p,q) prend la forme suivante : <br/>At = φ1At-1 + φ2At-2 + … + φpAt-p + εt + φ1εt-1 + φ2εt-2 + … + φqεt-q t = 1, …, n
+        </paragraphe>
+        <paragraphe num="37">
+            Où At est le nombre d’arrivées touristiques d’un pays d’origine à une destination au temps t, φ1 est le paramètre d’autorégression de premier ordre et εt est un terme d’erreur ou bruit blanc. Dans notre cas, la destination considérée est le Vietnam et les pays d’origine sont la Chine, le Japon et les États-Unis.
+        </paragraphe>
+        <paragraphe num="38">
+            Le processus général proposé par Box et Jenkins est appelé Autoregressive Integrated Moving Average ou ARIMA(p,d,q), où d est le nombre de fois que l’on doit différencier la série pour qu’elle soit stationnaire. AR(p) est un cas particulier du processus ARIMA(p,d,q) lorsque d = 0 et q = 0. MA(q) est un cas particulier du processus ARIMA(p,d,q) lorsque p = 0 et d = 0. Afin de sélectionner un modèle ARIMA le plus approprié, la technique Box-Jenkins consiste à :
+        </paragraphe>
+        <paragraphe num="39">
+            À noter qu’il y a plusieurs méthodes nous permettant d’identifier les p et q. Cependant, il n’y a pas de méthode dominante. Parfois, on combine plusieurs critères afin d’identifier les p et q les plus appropriés (il s’agit par exemple des fonctions d’autocorrélation simple et d’autocorrélation partielle, des critères Akaike et Schawarztest, et du test du multiplicateur de Lagrange (Nguyễn, 2002 : 128- 133)). Actuellement, la plupart des chercheurs emploient les fonctions d’autocorrelation simple et d’autocorrelation partielle pour les déterminer, puis ils utilisent les critères Akaike (1974) et Schwarz (1978) pour sélectionner les p et q les plus appropriés (Nguyễn, 2002 : 128). Dans notre travail, nous avons également employé ces critères.
+        </paragraphe>
+        <paragraphe num="40">
+            Nous avons obtenu les résultats présentés dans le tableau 5. 
+        </paragraphe>
+        <paragraphe num="41">
+            Quand on compare les arrivées réelles avec les arrivées prévisionnelles par la méthode Box-Jenkins, on peut constater, conformément à la position de certains auteurs (Geurts, Buchman et Ibrahim, 1976 ; Calantone <em>et al., </em>1987 ; Witt et Witt, 1992 ; Kulendran, 1996 ; Dupont, 2002 ; Nguyễn, 2002), que la méthode Box-Jenkins est assez efficace si l’on veut effectuer des prévisions à court terme. Tandis qu’elle ne l’est pas pour les prévisions à long terme pour les marchés américain et chinois : la destination du Vietnam verrait, à l’horizon 2010, ses arrivées touristiques chinoises stagner. Ces dernières resteraient presque au même niveau que l’an 2007. Concernant les arrivées touristiques américaines au Vietnam à l’horizon 2010, elles ne seraient même pas au même niveau que l’an 2007 (voir Illustration 1).
+        </paragraphe>
+        <paragraphe num="42">
+            Certes, l’écart des prévisions par rapport aux données réelles en 2007 n’est que +12,43 % pour la Chine, -3,66 % pour le Japon et -14,17 % pour les États-Unis (voir tableau 6).
+        </paragraphe>
+        <paragraphe num="43">
+            Par rapport aux résultats des prévisions par la méthode Delphi, on voit bien que les résultats obtenus par la méthode Box-Jenkins sont, à long terme, beaucoup moins optimistes que ceux obtenus par la méthode Delphi, surtout pour les marchés chinois et américain : selon les résultats obtenus par la méthode Box-Jenkins, en l’espace de trois ans, entre 2007 et 2010, les arrivées chinoises ne connaîtraient qu’un taux de croissance de 12,65 % et les arrivées américaines enregistraient une chute de 4,28 % par rapport à l’an 2007. L’invalidité de la méthode Box- Jenkins pour des prévisions à long terme pourrait s’expliquer par les raisons suivantes :
+        </paragraphe>
+        <paragraphe num="44">
+            Vu l’évolution historique des arrivées des marchés chinois, japonais et américain à la destination vietnamienne, les conditions favorables de développement touristique du Vietnam et les bons déterminants de la demande touristique de ces trois marchés de la destination du Vietnam (Combes, 2002/2003 ; Tirasatayapitak, 2005 ; Do, 2007 ; Vo Thanh, 2008), notre position vient soutenir les résultats obtenus par la méthode Delphi (voir tableau 7).
+        </paragraphe>
+        <paragraphe num="45">
+            Selon les résultats de nos prévisions par la méthode Delphi et l’étude de Combes (2002/2003) sur le tourisme vietnamien, ce dernier devrait voir, dans les années qui viennent, ses arrivées chinoises, japonaises et américaines croître. En conséquence, le tourisme vietnamien devrait se préparer en termes de diversification des offres afin de répondre le mieux aux besoins des touristes de ses marchés principaux chinois, japonais et américain qui ne sont pas du tout les mêmes (Combes, 2002/2003).
+        </paragraphe>
+    </corps>
+</article>

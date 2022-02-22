@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="es_MB_8-97_PG_1" source="https://journals.openedition.org/viatourism/1618" lang="es">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <DOI>https://doi.org/10.4000/viatourism.1618</DOI>
+        <revue>Viatourism</revue>
+        <numero>8</numero>
+        <annee>2015</annee>
+    </meta>
+    <traductions>
+    </traductions>
+    <auteurs>
+        <auteur nom="Bauder" prenom="Michael">
+            <oeuvres>
+                <publication id="en_MB_8-86_Rs_1" source="https://journals.openedition.org/viatourism/1617" lang="en">Refining the Central Tourist District of Paris with GPS tracking data and GIS analysis</publication>
+                <publication id="fr_MB_8-97_AG_1" source="https://journals.openedition.org/viatourism/1614" lang="fr">Affinage du Central Tourist District de Paris grâce au données de repérage GPS et à l’analyse SIG</publication>
+                <publication id="de_MB_8-85_Ve_1" source="https://journals.openedition.org/viatourism/1619" lang="de">Verfeinerung des Central Tourist District von Paris mittels GPS-Daten und GIS-Analyse</publication>
+            </oeuvres>
+            <description>
+                Universität Freiburg, Humangeographie 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>Perfeccionar el Central Tourist District de París con datos de localización GPS y análisis de SIG</titre>
+    <corps>
+        <paragraphe num="1">
+            París es uno de los destinos turísticos más importantes del mundo y, por eso, ha sido objeto de numerosos estudios dentro del campo de la investigación turística. Se ha prestado especial atención a la dimensión espacial de las actividades del turismo y de los visitantes de la ciudad (entre otros Pearce, 1998; Gérardot, 2009; Freytag, 2010; Olteanu Raimond et al., 2012). Este artículo se centra en el concepto de Central Tourist District (CTD), postulado por Burtenshaw et al. (1981) y aplicado a París por Duhamel y Knafou (2007), quienes enfatizaron en la importancia del turismo y de la concentración espacial de las actividades relacionadas con el turismo. Sobre la base de un nuevo enfoque para diferenciar los límites internos y externos de la zona turística principal de París a través de un enfoque basado en el análisis de localización por GPS y SIG, este artículo trata de redefinir los límites externos y cuestiona la homogeneidad de su estructura interna.
+        </paragraphe>
+        <section niveau="h1">El Central Tourist District según Duhamel y Knafou (2007)</section>
+        <paragraphe num="2">
+            El término Central Tourist District (CTD) se remonta a Burtenshaw et al. (1981). Los autores definen el CTD como un cúmulo de zonas turísticas en un espacio limitado, sin que estén necesariamente vinculadas entre sí. Para Burtenshaw et al. (1981, p. 172) los hoteles, la infraestructura turística y las unidades territoriales desempeñan un papel clave en la delimitación del CTD. Por el contrario, Duhamel y Knafou (2007, p. 49) entienden el CTD como el espacio en el que se llevan a cabo las prácticas turísticas. Por lo tanto, lo reconocen como algo mucho más dinámico y más independiente del marco infraestructural, aunque las prácticas turísticas requieran de dicho marco. Esto se debe a que el término práctica turística se establece como un conjunto de habilidades y competencias aprendidas, que encuentran su expresión en las actividades rutinarias. De esta manera, se refieren a encuentros temporales de los turistas con su entorno (Freytag, 2008, Pág. 5). La delimitación territorial concreta de Duhamel y Knafou se basa en – además de las observaciones y del conocimiento previo de las prácticas turísticas de París – el número de entradas vendidas en lugares de interés turístico, museos, etc., y se modifica de acuerdo con la localización de la infraestructura turística. Sin embargo, en muchos casos no es posible establecer si las entradas las han comprado turistas o residentes. Además, la precisión de la localización espacial de las prácticas turísticas a través de la observación dista mucho de ser ideal (Weber &amp;amp; Bauder, 2013), ya que el límite de la zona externa puede desdibujarse. Así, la delimitación de zona turística principal que se presenta a continuación se basa en tecnologías de localización GPS para evitar así las desventajas específicas aquí mencionadas.
+        </paragraphe>
+        <paragraphe num="3">
+            Los datos necesarios para esta propuesta se recopilaron entre mayo y junio de 2013 en París y se componen de 129 cuestionarios y otros tantos seguimientos por GPS. Además, hubo un segundo periodo complementario de consulta en mayo de 2014 centrado en la delimitación de los barrios turísticos urbanos (Montmartre, Marais y Quartier Latin) y las actividades asociadas realizadas a través de observaciones y recorridos, que verificaron los resultados existentes hasta el momento. Los estudios fueron generosamente financiados por el programa PROCOPE del Servicio Alemán de Intercambio Académico (DAAD) y el Ministerio de Asuntos Exteriores y Europeos de Francia. Para analizar las trayectorias registradas, los datos se revisaron con varios términos de corrección procedentes de la señal GPS, convertidos en un formato de datos de SIG legibles, vinculados digitalmente al cuestionario de acuerdo con la asignación precisa de claves principales y agregados en una cuadrícula de red cerrada con varias resoluciones (ver Bauder, 2012 para más información sobre este proceso). La información acerca de la intensidad de uso de cada célula se almacenó en la tabla de atributos de la cuadrícula.
+        </paragraphe>
+        <paragraphe num="4">
+            La combinación de datos de movimiento espaciales y temporales de alta precisión (6-10 m de precisión; 5 segundos de intervalo de grabación) con los datos de cuestionario detallados por una interfaz digital – difundidos bajo el término advanced GPS tracking – ofrece la posibilidad de deducir una zona turística principal a través de varios métodos de análisis de SIG. Los beneficios de esta metodología residen sobre todo, además de en sus ventajas en cuanto a cantidad, calidad, integridad y consistencia de los datos, en la viabilidad de diferenciar la movilidad y la actividad de espacios de turistas de una manera socio-científica relevante con base en cuestionarios seleccionables y su combinación estadística, respectivamente (ver Bauder, 2014b).
+        </paragraphe>
+        <section niveau="h1">La delimitación basada en GPS de una zona turística principal</section>
+        <paragraphe num="5">
+            Los mapas GPS de las rutas de movilidad generales tanto en baja (ancho Raster de 20 m) como en alta resolución (5 m) forman la base para la delimitación de una zona turística principal. La comparación de las rutas de GPS en baja resolución con el CTD muestra un amplio consenso respecto al límite exterior, con la excepción de la zona sur de París. Mediante el mapa de rutas en alta resolución pueden llevarse a cabo delimitaciones territoriales aún más exactas. De este modo, algunas zonas del distrito 8 y áreas alrededor de la Biblioteca Nacional de Francia (área François-Mitterrand) no aparecen como un área principal. En la medida de lo posible, ese amplio consenso (teniendo en cuenta el principio de incertidumbre) toma en cuenta la selección y la delimitación externa realizadas por Duhamel y Knafou. Sin embargo, cuestiona su condición de área homogénea.
+        </paragraphe>
+        <paragraphe num="6">
+            Esto es debido a que no todos los lugares dentro de la zona turística principal delimitada por las rutas se utilizan del mismo modo. A través del análisis de significativos lugares de parada generales y particulares (Hot Spots) se pueden identificar localizaciones especiales en los destinos, mientras que otras zonas y lugares quedan relegadas. Pero, ¿cómo se da forma al uso de la áreas turísticas situadas entre esas localizaciones? Incluso en este sentido, no podemos asumir un uso equitativo. El análisis de la ruta ya da una idea de la importancia de ciertos ejes de movimiento que conectan los lugares de parada. El análisis de la velocidad media de los turistas confirma la función de conexión de estos ejes (movimiento intencionado frente a meros paseos; Bauder, 2014A) y el análisis de las principales direcciones de movimiento permite la anexión de otra capa de información al movimiento de los ejes.
+        </paragraphe>
+        <paragraphe num="7">
+            Además de la identificación de la estructura general, esta propuesta permite responder a preguntas relativas a las diferencias en cuanto a la utilización del espacio por parte de diferentes grupos de turistas. A través de la selección de grupos con base en el cuestionario es posible, por ejemplo, oponer visitantes por primera vez y visitantes que repiten. Los datos de GPS muestran que los visitantes que repiten predominan sobre los visitantes por primera vez en algunas zonas. Sin embargo, no se muestra que los visitantes que repiten no utilicen las áreas de “masas turísticas” (con la excepción de la zona alrededor de la Torre Eiffel). Según necesidades personales, otros grupos se pueden seleccionar y oponerse y, posteriormente, su uso principal del espacio puede mostrarse también en el mapa.
+        </paragraphe>
+        <section niveau="h1">Conclusión</section>
+        <paragraphe num="8">
+            Los resultados de esta propuesta basada en el seguimiento por GPS confirman contundentemente las delimitaciones del CTD identificadas por Duhamel y Knafou (2007). Sin embargo, la evaluación precisa de la movilidad de los visitantes en el tiempo y el espacio permite no sólo determinar los límites del CTD con mayor precisión – abarcando un área más pequeña en comparación con los resultados de Duhamel y Knafou (2007) -, sino también establecer una diferencia entre rutas y lugares específicos dentro del CTD que muestran tasas extremadamente altas de visitantes. Tal y como se enfatiza más arriba, se pueden identificar diferentes puntos calientes, ejes y áreas turísticos. En consecuencia, el área que se conceptualizó como un CTD ya no aparece como una zona turística homogénea, sino más bien como un área a la que se ha dado forma y se ha segmentado a través de diferentes rutas y lugares que son de gran relevancia para la movilidad del visitante.
+        </paragraphe>
+    </corps>
+    <bibliographie>
+        <reference>Bauder M., 2012, „Erfahrungen aus dem GPS-Tracking von Touristen – Konsequenzen für die Weiterentwicklung als neue humangeographische Methode“ in Strobl J., Blaschke Th., Griesebner G., eds., Angewandte Geoinformatik 2012. Beiträge zum 24. AGIT-Symposium Salzburg, pp. 420-429. Berlin/Offenbach: Wichmann.</reference>
+        <reference>Bauder M., 2014a, „Using GPS Supported Speed Analysis to Determine Spatial Visitor Behaviour”, International Journal of Tourism Research. DOI: 10.1002/jtr.1991.</reference>
+        <reference>Bauder M., 2014b, Der Einsatz von Geoinformationstechnologie zur Analyse touristischer Mobilität, Doctoral dissertation, Albert-Ludwigs-Universität Freiburg.</reference>
+        <reference>Burthenshaw D., Bateman M., Ashworth G. J., 1981, The European city, a western perspective. London: Fulton.</reference>
+        <reference>Duhamel P., Knafou R., 2007, “Le tourisme dans la centralité parisienne” in Saint-Julien T., Le Goix R., eds., La métropole parisienne. Centralités, inégalités, proximités, pp. 39-64. Paris: Belin.</reference>
+        <reference>Freytag T., 2010, “Déjà-vu: Tourist practices of repeat visitors in the city of Paris”, Social Geography, vol. 5, pp. 49-58.</reference>
+        <reference>Gérardot M., 2009, Tourisme et métropole. Analyser le lien entre tourisme, métropole, métropolisation et métropolité par le rythme. L’exemple de Paris, Doctoral dissertation, Université Paris 1.</reference>
+        <reference>Olteanu Raimond A.-M., Couronné Th., Fen-Chong J., Smoreda Z., 2012, “Le Paris des visiteurs étrangers, qu’en disent les téléphones mobiles? Inférence des pratiques spatiales et fréquentations des sites touristiques en Ile-de-France” Revue Internationale de la Géomatique vol. 22, n° 3, pp. 413–437.</reference>
+        <reference>Pearce D. G., 1998, “Tourism districts in Paris: structure and functions”, Tourism Management, vol. 19, n° 1, pp. 49-65.</reference>
+        <reference>Weber H.-J. L., Bauder M., 2013, „Neue Methoden der Mobilitätsanalyse: Die Verbindung von GPS-Tracking mit quantitativen und qualitativen Methoden im Kontext des Tourismus“, Raumforschung und Raumordnung, vol. 71, n° 2, pp. 99-113.</reference>
+    </bibliographie>
+</article>

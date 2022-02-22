@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="fr_MDLK_65-106_Ls_1" source="https://journals.openedition.org/viatourism/6171" lang="fr">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <DOI>https://doi.org/10.4000/viatourism.6171</DOI>
+        <revue>Viatourism</revue>
+        <numero>18</numero>
+        <annee>2020</annee>
+    </meta>
+    <auteurs>
+        <auteur nom="Delaplace" prenom="Marie">
+            <oeuvres>
+                <publication id="fr_MDMGB_22-9_dl_1" source="https://journals.openedition.org/viatourism/415" lang="fr">Éditorial</publication>
+                <publication id="fr_SBBMD_52-50_De_1" source="https://journals.openedition.org/teoros/2517" lang="fr">Desserte ferroviaire à grande vitesse et tourisme </publication>
+                <publication id="fr_MGBMD_49-47_Ls_1" source="https://journals.openedition.org/teoros/2790" lang="fr">Le tourisme urbain « hors des sentiers battus »</publication>
+                <publication id="fr_MDPOSNB_20-100_Cs_1" source="https://journals.openedition.org/teoros/3910" lang="fr">Coprésences, conflits, complémentarités dans les usages des lieux par les touristes et les habitants</publication>
+                <publication id="fr_MDEGLK_52-121_Ls_1" source="https://journals.openedition.org/teoros/4035" lang="fr">Le tourisme urbain événementiel : une ressource également pour les habitants. Le cas du marché de Noël des Champs-Élysées</publication>
+            </oeuvres>
+            <description>
+                Université de Paris Est Marne la Vallée, Lab’Urba - EUP 
+            </description>
+        </auteur>
+        <auteur nom="Kebir" prenom="Leïla">
+            <oeuvres>
+                <publication id="fr_MDEGLK_52-121_Ls_1" source="https://journals.openedition.org/teoros/4035" lang="fr">Le tourisme urbain événementiel : une ressource également pour les habitants. Le cas du marché de Noël des Champs-Élysées</publication>
+            </oeuvres>
+            <description>
+                Université de Lausanne, IGD 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>Les terminaux mobiles contribuent-ils à renouveler les pratiques des touristes ? Le cas des Champs Elysées</titre>
+    <sousTitre>Article évalué par les pairs</sousTitre>
+    <resume>
+        Les terminaux mobiles (smartphone ou tablette) sont susceptibles de modifier les comportements des touristes dans un lieu. Ils permettent en effet sur l’instant de réserver des hébergements, des activités, un restaurant, etc. Ils peuvent changer l’accès, les circuits au sein d’une destination ainsi que l’expérience du touriste. Le but de cet article est d’identifier si ces terminaux mobiles modifient effectivement les pratiques touristiques in situ. Pour ce faire une enquête a été menée en mai-juin 2018 sur les Champs Elysées. Elle nous permet d’identifier les types de personnes présentes sur les Champs Elysées, les motifs pour lesquels elles y sont et les raisons pour lesquelles elles utilisent leurs terminaux mobiles. A partir des données concernant les personnes indiquant comme motif de visite « tourisme », nous montrons que si elles sont bien équipées, et si près des ¾ d’entre elles se sont connectées à internet, leurs usages restent finalement très traditionnels au sens où ils autorisent surtout des pratiques préexistantes qui étaient réalisées différemment.
+    </resume>
+    <corps>
+        <section niveau="h1">Introduction</section>
+        <paragraphe num="1">
+            Les sources de l’attractivité touristique (qualité des infrastructures, gestion des mobilités dans et vers la destination, capacités hôtelières, qualité des ressources humaines, des patrimoines, etc.) sont affectées par les technologies du numérique à plusieurs égards. Ces technologies font évoluer les modalités de préparation du voyage, la communication sur internet des destinations, la réservation en ligne d’hébergements, d’activités, le téléchargement d’applications locales <em>ex ante</em>, etc.. Les secteurs traditionnels du tourisme (hébergement et transport) sont également impactés par le développement de l’économie collaborative et de plateformes qui révolutionnent l’offre de services. Par ailleurs, elles produisent des données massives qui peuvent être utilisées à des fins de marketing par les opérateurs. Enfin, comme Buhalis et Law le soulignaient déjà en 2008, les technologies mobiles sans fil et les nouvelles possibilités offertes par les terminaux mobiles (smartphones et tablettes connectées) ouvrent de nouvelles voies de développement par le potentiel d’innovation qu’elles portent en termes de produit et de service. L’objet du présent article est d’analyser ces équipements et les services qu’ils proposent (géolocalisation, réalité augmentée ou superposée, communication immédiate sur la destination dans les réseaux sociaux, échanges instantanés d’expériences, etc.). Permettent-ils le développement de nouveaux usages, de nouvelles pratiques ? Deviennent-ils des éléments essentiels de l’expérience <em>in situ</em> ? Leur usage de plus en plus important, et de façon quasi-continue, pourrait modifier la circulation, les activités ainsi que les expériences au sein de la destination. Mais quels sont leurs usages par les touristes ? Sont-ils innovants ? Quels sont les services effectivement utilisés ? A partir d’une enquête réalisée sur les Champs Elysées, cet article propose d’analyser ces pratiques. Dans une première partie, nous présentons le développement de l’équipement et de l’usage des terminaux mobiles en France et dans le monde et donnons des exemples d’investissement par les acteurs du tourisme dans ces technologies et les pratiques qu’ils autorisent. Puis, l’enquête réalisée nous permet de montrer que les pratiques, contrairement aux attentes, restent finalement peu étendues et peu innovantes. 
+        </paragraphe>
+        <section niveau="h1">I. Le développement du M-tourisme en France</section>
+        <section niveau="h2">A. Un développement de l’usage du numérique dans le tourisme </section>
+        <paragraphe num="2">
+            Le tourisme est reconnu comme pionnier de la mutation numérique (Cabrespines et Wargnie, 2017). Il est considéré comme le secteur économique dans lequel la transformation numérique a été la plus rapide (McKinsey, 2014). Selon Datareportal<a class="footnotecall" href="#ftn1" id="bodyftn1">1</a> le premier motif d’achats en ligne dans le monde est le voyage (hébergements inclus) avec des dépenses estimées en 2019 à 750,7 milliards de dollars, suivie par l’achat de vêtements (524,7 milliards) et de musique (250 milliards). En termes de pratiques, après le e-tourisme (réservation sur internet, guides touristiques en ligne, etc.), c’est le M-Tourisme, structuré autour de l’usage des technologies et des équipements mobiles (tablettes tactiles et smartphones) qui se déploie. En effet, le développement des réseaux mobiles et l’accroissement du taux d’équipement favorisent ces usages. En 2018, le taux de pénétration des téléphones portables était de 67 % à l’échelle mondiale soit 10 points de plus que celui de l’Internet 57 %. A titre de comparaison, en France ces taux étaient en 2019 de 99 % pour les téléphones mobiles et de 92 % pour l’Internet (source Datareportal<a class="footnotecall" href="#ftn2" id="bodyftn2">2</a>). Ces taux ne cessant d’augmenter, et en particulier ceux relatifs aux téléphones portables (Datareportal<a class="footnotecall" href="#ftn3" id="bodyftn3">3</a>), la clientèle touristique française potentiellement équipée est élevée. Le tableau suivant (Document 1) présente le taux de pénétration du téléphone mobile en 2018 dans les principaux pays émetteurs de touristes internationaux en France.
+        </paragraphe>
+        <paragraphe num="3">
+            Les touristes provenant des neuf principaux pays émetteurs étaient à l’origine de 73 % des nuitées en 2017 (DGE, 2018). Principalement européens (britanniques, allemands, belges et luxembourgeois, italiens, suisses, espagnols, hollandais) ils sont également américains et chinois. Ils proviennent de pays dont le taux de pénétration du téléphone portable est compris entre 71 % et 87 % (Datareportal, 2018). Aussi l’usage de smartphones et de tablettes dans ces pays est relativement élevé (Document 2). 
+        </paragraphe>
+        <paragraphe num="4">
+            Selon Datareportal, 2018<a class="footnotecall" href="#ftn5" id="bodyftn5">5</a>, la part des adultes des principaux pays émetteurs de touristes internationaux en France utilisant des smartphones est comprise entre 71 % (Belgique et Suisse) et 87 % (Espagne et Pays Bas). Une proportion moins élevée fait usage de tablettes (de 20 % en Chine à 61 % aux Pays-Bas). 
+        </paragraphe>
+        <paragraphe num="5">
+            Pour ce qui concerne le tourisme interne, on comptait en France métropolitaine, en 2017, près de 835 millions de nuitées dues à des voyages personnels réalisés par des résidents de 15 ans ou plus (DGE, 2018). Cette clientèle est également bien équipée puisque le taux de pénétration du téléphone portable était en janvier 2018 de 75 % et l’usage par les adultes de smartphones et de tablettes était respectivement de 71 % et de 41 % (Source Datareportal 2018<a class="footnotecall" href="#ftn6" id="bodyftn6">6</a>). 
+        </paragraphe>
+        <paragraphe num="6">
+            Dans ce contexte, le développement de la 3G, puis la 4G, le déploiement du Wi-Fi gratuit dans de nombreux lieux touristiques et dans les espaces publics, la fin des frais de roaming dans l’Union Européenne, sont autant de facteurs qui facilitent potentiellement l’usage de ces terminaux mobiles par la clientèle lors de séjours touristiques. Aussi nombreux sont les sites touristiques et les destinations qui investissent dans des services de M-tourisme. 
+        </paragraphe>
+        <section niveau="h2">B. Les investissements des acteurs du tourisme afin d’influer sur les usages des terminaux mobiles in situ</section>
+        <paragraphe num="7">
+            Le développement des outils digitaux transforme les pratiques mais également la communication touristique (Viallon, 2015). Les acteurs du tourisme développent leurs interventions autour du M-Tourisme et notamment des applications utilisées en destination. Ils interviennent également autour des réseaux sociaux (Facebook, Twitter, Instagram, etc.) dans la mesure où ceux-ci affectent de plus en plus les choix de destination. Ces investissements se déclinent autour de trois finalités.
+        </paragraphe>
+        <paragraphe num="8">
+            <strong>Permettre l’accès à l’Internet par la fourniture de Wi-Fi gratuit</strong>
+        </paragraphe>
+        <paragraphe num="9">
+            Pour que les touristes puissent utiliser leurs terminaux mobiles, il faut tout d’abord que la couverture numérique du territoire le permette. C’est en effet un élément essentiel de l’attractivité, en particulier pour le tourisme (Cabrespines et Wargnie, 2017). Or comme le reconnaitra le Plan France Très Haut Débit déployé en 2015, cette couverture n’est pas homogène à travers le territoire « <em>Le numérique est aujourd’hui dans tous les usages : les transports, les entreprises, les loisirs, les objets connectés, l’accès à l’information, les smartphones, etc. Mais il n’est pas dans tous les territoires (…) parce que les infrastructures sont insuffisantes – quand elles ne sont pas inexistantes</em> » (page 3). En outre, cette couverture numérique est de qualité différente. Ainsi, en France, fin 2018, 6,8 millions de personnes n’ont pas accès à un Internet de qualité minimale (&amp;gt;3 Mbit/s). 20 % de la population n’a pas accès à un « bon haut débit » (&amp;gt; 8 Mbit/s)<a class="footnotecall" href="#ftn7" id="bodyftn7">7</a>. 
+        </paragraphe>
+        <paragraphe num="10">
+            Un autre aspect important concerne les frais d’accès que cet usage peut impliquer. Aussi de nombreux opérateurs du tourisme proposent du Wi-Fi gratuit facilitant ainsi l’usage des terminaux mobiles, notamment par les visiteurs internationaux résidants hors de l’Union Européenne<a class="footnotecall" href="#ftn8" id="bodyftn8">8</a>. Des offices de tourisme ont ainsi installé des bornes Wi-Fi dans ou à proximité de leurs bureaux de même qu’il est aujourd’hui courant de pouvoir se connecter gratuitement dans des hôtels, des restaurants ainsi que dans les transports publics de longue distance. Les offices de tourisme, mais aussi plus largement les communes, peuvent mettre en place des hotspots Wi-Fi sur l’ensemble de leur territoire (<em>i.e.</em> un Wi-Fi territorial) avec des aides de l’Union européenne<a class="footnotecall" href="#ftn9" id="bodyftn9">9</a>. Ce dernier qui permet de dépasser l’absence de couverture numérique, facilite l’usage d’internet en permettant que les visiteurs n’aient à s’authentifier qu’une fois. La fédération nationale des offices de tourisme de France a également créé en 2014 un service Point I-mobile qui permet notamment aux visiteurs des offices qui y souscrivent de se connecter gratuitement au Wi-Fi, et d’obtenir des informations. Certains offices du tourisme développent eux-mêmes, de façon individuelle ou collective, une solution Wi-Fi en faisant appel à des compagnies comme Touristobox<a class="footnotecall" href="#ftn10" id="bodyftn10">10</a> ou 2ISR<a class="footnotecall" href="#ftn11" id="bodyftn11">11</a>. Ainsi en Alsace, les acteurs privés et publics du tourisme ont créé en 2007 l’association Witou qui propose de leur fournir une connexion Wi-Fi. 
+        </paragraphe>
+        <paragraphe num="11">
+            <strong>Fournir des informations accessibles sur les terminaux mobiles et accroître l’expérience</strong>
+        </paragraphe>
+        <paragraphe num="12">
+            Pour développer leurs services, les acteurs du tourisme (musées, offices du tourisme, conseils départementaux et régionaux du tourisme, agences de développement touristique<a class="footnotecall" href="#ftn12" id="bodyftn12">12</a>) peuvent se saisir du M-tourisme au travers de divers outils. Ils peuvent tout d’abord développer des sites web <em>responsive design</em>, c’est à dire qui s’adaptent à tous les supports (écran d’ordinateur, de téléphone ou de tablette) ; ceci afin de permettre un accès par terminal mobile aux services digitaux qu’ils proposent. Ils peuvent également produire des applications de M-tourisme. 
+        </paragraphe>
+        <paragraphe num="13">
+            Globalement, trois grands types d’applications peuvent être distingués (Bourliataux-Lajoinie, Rivière, 2013) :
+        </paragraphe>
+        <paragraphe num="14">
+            Le premier concerne les applications de géolocalisation. Ce sont des applications qui sont déjà présentes dans les terminaux mobiles mais qui doivent être activées par l’utilisateur. Elles permettent de se géolocaliser en temps réel et de s’orienter mais aussi de trouver un commerce, un patrimoine, un lieu et de définir le chemin pour s’y rendre. <em>Google Maps</em> en est l’exemple le plus connu. Ces applications ont l’avantage de permettre d’identifier <em>in situ</em> les lieux de visite et de faire apparaître sur le terminal des informations supplémentaires de façon plus ou moins automatique (localisation d’aménités à proximité, de sites touristiques, parfois illustrés de photos, de vidéos, etc.).
+        </paragraphe>
+        <paragraphe num="15">
+            Le deuxième type correspond aux codes QR (<em>Quick Response Code</em>) apparus au Japon en 1994. Il s’agit d’un pictogramme carré qui, scanné par un terminal mobile à l’aide d’une application téléchargée au préalable, donne accès à des informations. Dans le domaine du tourisme, ce type de code peut être par exemple accolé à un monument pour indiquer des informations pratiques (horaires d’ouverture, tarifs, etc.). 
+        </paragraphe>
+        <paragraphe num="16">
+            Le troisième type correspond à des applications dédiées qui doivent être installées sur les terminaux mobiles. Ces applications peuvent proposer des informations spécifiques in situ (informations pratiques, images, textes explicatifs, recommandations d’usagers, etc.,). Ainsi Foursquare est une application permettant de recommander des lieux (restaurants, hôtels, lieux de shopping, de vie nocturne, etc.) et ce faisant de gagner des points. Plus innovant encore, la réalité augmentée permet de visualiser sur un terminal des informations supplémentaires rajoutées à la réalité : par exemple des images d’anciens bâtiments n’existant plus apparaissant à leur emplacement d’origine. De nombreux musées ont ainsi développé des applications depuis 2012 (Lesaffre <em>et al.</em>, 2014). Enfin des applications de réalité superposée peuvent permettre de visionner une vidéo, des images d’archives, ce qui peut être considéré comme une deuxième réalité, qui se superpose à la réalité. <em>Sky Boy</em> permet par exemple, dans les lieux qui en sont équipés, d’ajouter au réel des informations virtuelles. Après avoir téléchargé l’application et activé la géolocalisation, le touriste peut, en pointant son terminal vers un spot indiqué sur le terrain, être immergé dans une action se déroulant là où il se trouve. Il peut visiter virtuellement le lieu, faire apparaitre un guide et suivre sa visite… ; ces applications sont souvent proposées en plusieurs langues. 
+        </paragraphe>
+        <paragraphe num="17">
+            L’encadré suivant propose des exemples d’investissements réalisés par des acteurs du tourisme en France.
+        </paragraphe>
+        <paragraphe num="18">
+            Ainsi le numérique et en particulier ces différents outils permettraient d’accroître l’expérience touristique (cf. infra). En effet, ces outils peuvent être considérés comme des ressources propres en mesure d’orienter les pratiques dans un espace et par conséquent l’expérience (Simon, 2015).
+        </paragraphe>
+        <paragraphe num="19">
+            <strong>Agir sur et avec les réseaux sociaux</strong>
+        </paragraphe>
+        <paragraphe num="20">
+            Les réseaux sociaux sont un autre domaine dans lequel les acteurs investissent en lien avec le M-tourisme. La littérature portant sur l’usage de ces derniers dans les stratégies de communication des destinations porte sur les interactions entre les entreprises (Tran <em>et al.</em>, 2016, Sørensen, 2007) et entre les entreprises avec leurs clients. Selon Költringer et Dickinger (2015, cité par Molinillo, 2017), les réseaux sociaux constituent la source la plus riche et la plus diverse d’informations en ligne. En 2013, Hay <em>et al.</em> (2013) considéraient que ces réseaux avaient profondément changé les conditions de l’activité des acteurs en charge des destinations en modifiant la façon dont les voyageurs accèdent à l’information, la façon dont ils planifient leurs voyages et les modalités de partage de leurs expériences
+        </paragraphe>
+        <paragraphe num="21">
+            Ainsi de nombreux acteurs du tourisme utilisent aujourd’hui des réseaux sociaux pour améliorer leur image (Molinillo <em>et al.</em>, 2017). Beaucoup se servent, par exemple, des comptes Twitter pour communiquer et promouvoir leur destination. Certains créent des <em>hashtags</em><a class="footnotecall" href="#ftn16" id="bodyftn16">16</a> pour des évènements spécifiques afin de leur fournir une plus grande visibilité. Mais l’aspect sans doute le plus disruptif ici est que, de par leur fonctionnement, les touristes et les habitants deviennent des co-créateurs de la marque de la destination (Oliveira et Panyik, 2015). Par les contenus qu’ils partagent, les opinions qu’ils expriment en temps réel, ils deviennent de fait des producteurs d’image de la destination. <em><span lang="en" xml:lang="en">“Content generated by tourists, travellers, professional travel bloggers and travel journalists who post, comment and share information on social media channels is arguably the greatest digital challenge of destination branding today</span></em><span lang="en" xml:lang="en">” (Oliveira et Panyik, 2015). </span>Les touristes peuvent lorsqu’ils ont accès à Internet, partager des images liées à des évènements, des photos voire des photos géo-localisées avec leurs proches (Courrieu, 2012). Ces actions participent à la production de l’e-réputation et affectent l’image de la destination. Ainsi Kim et Stepchenkova (2015) montrent un effet significatif des photographies postées par des visiteurs sur la perception des destinations par les autres utilisateurs des réseaux sociaux et leurs intentions de départ. Parfois ce sont les habitants, par l’usage qu’ils ont de ces réseaux sociaux, qui deviennent des ambassadeurs de la destination.
+        </paragraphe>
+        <paragraphe num="22">
+            Certains ont ainsi investi dans les réseaux sociaux en impliquant les habitants. Des offices de tourisme, des intercommunalités ou des Pays ont mis en place des programmes de sorties et de visites gratuites pour leurs « ambassadeurs »<a class="footnotecall" href="#ftn17" id="bodyftn17">17</a>, s’ils communiquent sur leur ville. Ces ambassadeurs sont des acteurs, souvent des habitants, qui s’engagent à représenter le territoire mais aussi à accueillir les touristes. L’office de tourisme d’Auxerre communique avec une « communauté d’ambassadeurs », qui réalise des photographies du territoire qui sont postées sur les réseaux sociaux (Territoires conseil, 2017). Les ambassadeurs de Dunkerque proposent un site<a class="footnotecall" href="#ftn18" id="bodyftn18">18</a> sur lequel sont recensées leurs actions en particulier sur les réseaux sociaux. Les habitants sont en effet une source importante du contenu touristique des territoires que l’on songe aux contributions qu’ils peuvent ajouter dans les dispositifs de géolocalisation comme, <em>OpenStreetMap</em>, ou <em>Google Map</em> (ajout de lieux "à voir", de photos personnelles pour vanter son quartier, sa ville ou sa région), aux avis qu’ils peuvent laisser sur les sites tels que TripAdvisor, ou encore à la multitude de blogs, de forums qu’ils animent.
+        </paragraphe>
+        <paragraphe num="23">
+            Les acteurs du tourisme dans les destinations, on le voit, déploient différentes actions favorables au M-Tourisme au sens où celles-ci reposent sur l’équipement croissant des individus en terminaux mobiles et sur l’accès <em>in situ</em> à l’Internet. Mais si celles-ci promettent de nouveaux usages et comportements, qu’en est-il effectivement ? Les touristes s’en servent-ils et modifient-ils leurs pratiques in situ ? 
+        </paragraphe>
+        <section niveau="h1">II. Quelles pratiques des visiteurs in-situ engendrées par le M-tourisme ?</section>
+        <paragraphe num="24">
+            A notre connaissance, peu d’analyses permettent d’identifier les pratiques de M-tourisme. Après avoir mis en évidence les enseignements des analyses existantes, l’objectif de cette partie est de présenter les résultats de l’étude conduite sur les Champs Elysées à ce sujet.
+        </paragraphe>
+        <section niveau="h2">A. Usage, appropriation des terminaux mobiles en destination et expérience touristique</section>
+        <paragraphe num="25">
+            Analyser la façon dont les terminaux mobiles modifient l’expérience des touristes nécessite de distinguer l’appropriation du simple usage de cette innovation. En effet l’appropriation induit une modification des comportements et peut se traduire par de nouvelles stratégies. Il s’agit non seulement d’intégrer l’usage de l’innovation dans sa vie quotidienne mais il est également nécessaire que cet usage « <em>fasse émerger de la nouveauté dans la vie de l’usager</em> » Proulx <em>et al.</em>, 2007, voir aussi à ce sujet Haddon, 2011). Cependant force est de constater que le problème de l’adoption des technologies par les utilisateurs finals a souvent été omis (Akrich, 1990, p. 83). <span lang="en" xml:lang="en">“</span><em><span lang="en" xml:lang="en">Evolutionary economics, business studies and innovation studies tend to focus mainly on the production-side and the creation of knowledge and innovation (e.g. learning within firms, organisational routines, knowledge management), while the user side has received less attention</span></em><span lang="en" xml:lang="en">” (Geels, 2004, p. 900). </span>Mais les techniques et l’économie -que ces techniques conditionnent- sont encastrées dans le social (Granovetter, 1985). Il s’agit de penser ensemble la technique et le social (Flichy, 2003, p. 75 et suivantes) et de comprendre quelles sont les possibles interactions entre le numérique et l’expérience des touristes. 
+        </paragraphe>
+        <paragraphe num="26">
+            Nous définirons ici l’expérience touristique simplement comme « <em>tout ce qui advient en situation touristique</em> » (cf. Vergopoulos, 2016 pour une présentation des différentes acceptions du concept d’expérience touristique). Selon certains auteurs, le numérique permettrait de vivre différemment l’expérience touristique (Gretzel et Jamal, 2009). Ainsi analysant ce qu’ils appellent les touristes créatifs (en référence à la classe créative de Florida), Gretzel et Jamal (2009) suggèrent que les technologies mobiles permettent de changer la production de l’expérience <em>in situ</em>. De même, à partir d’une analyse conduite à Zermatt, Ellina Mourtazina (2019, p. 3) montre que la photographie numérique change l’expérience touristique car elle n’est pas une manière de voir mais doit être conçue comme « <em>une manière d’être-au-monde et de faire avec ces éléments du monde environnant </em>». 
+        </paragraphe>
+        <paragraphe num="27">
+            En revanche, dans leur analyse des impacts des guides numériques sur les pratiques touristiques de découverte du patrimoine, Bideran et Fraysse (2015, p. 5) soulignent que l’outil peut aussi standardiser, baliser l’expérience touristique, au sens où ils peuvent recommander à « <em>l’usager le meilleur emplacement pour réaliser la meilleure prise de vue avec son appareil portable</em> ».
+        </paragraphe>
+        <paragraphe num="28">
+            Pourtant, une étude réalisée par le CRT Bretagne en 2013 sur les différentes utilisations des smartphones par la clientèle européenne au cours de leur séjour montrait que leurs utilisations étaient finalement assez traditionnelles au sens où les smartphones permettent d’effectuer des actes qui, auparavant, pouvaient être réalisés autrement avec un guide ou, à un autre moment, auprès des acteurs de l’accueil touristique. Il s’agit tout d’abord d’obtenir des informations pratiques, de rechercher les restaurants à proximité, les hôtels, les magasins, etc.. Les terminaux mobiles deviennent un guide touristique (Gallouj et Leroux, 2011) qui permet au touriste d’accéder à des parcours de visite, de co-construire son propre parcours, d’obtenir des informations historiques et culturelles, de participer à des évènements et animations qui se produisent autour de lui et dont il n’avait pas connaissance. Le partage d’avis et de photos sur les réseaux sociaux est ensuite l’utilisation pour laquelle l’usage systématique est le plus fréquent. Juste après la recherche d’informations pratiques. Toutefois, si ces utilisations sont traditionnelles, elles participent de l’autonomisation et de l’indépendance du touriste (Buhalis et Law, 2008, Gretzel et al., 2014). 
+        </paragraphe>
+        <paragraphe num="29">
+            En revanche, dans cette étude les autres usages, et notamment ceux associés à des applications, au-delà de la simple géolocalisation, semblent encore peu développés. Ainsi la lecture de <em>QR code</em> est peu utilisée (5 % de façon systématique et 14 % assez souvent). De même les visites virtuelles de sites culturels ne sont utilisées systématiquement que par moins de 5 % des enquêtés et assez souvent par 18 % d’entre eux. 
+        </paragraphe>
+        <paragraphe num="30">
+            Ainsi les touristes ne semblent que très peu s’être appropriés ces nouveaux équipements. Cette étude tend à monter que le smartphone n’a fait émerger de la nouveauté que pour très peu de touristes. Toutefois en 2013 (date de l’étude), les taux d’équipements en terminaux mobiles étaient, selon le CREDOC plus faibles (Albérola <em>et al.</em>, 2017, p. 8).
+        </paragraphe>
+        <paragraphe num="31">
+            De surcroît, les usages et donc la possibilité d’une appropriation peuvent être différents selon les territoires dans la mesure où la couverture numérique varie dans l’espace (cf. supra).
+        </paragraphe>
+        <section niveau="h2">B. L’étude de cas sur les Champs Elysées : méthodologie et présentation de la population</section>
+        <paragraphe num="32">
+            Afin d’identifier la façon dont le M-tourisme affecte les pratiques, une enquête a été réalisée sur les Champs Elysées. Cette enquête s’inscrit dans le cadre d’un programme de recherche conduit par le groupe Ville Tourisme Transport et Territoires du LabEX Futurs Urbains de l’Université de Paris Est qui porte sur les usages des lieux et les relations entre habitants permanents (résidents, travailleurs) et temporaires (touristes, excursionnistes, autres formes a priori temporaires) dans les destinations touristiques. Cette recherche visait à montrer, d’une part, comment touristes et résidents se côtoient, se confrontent et sont parfois complémentaires dans les destinations touristiques et, d’autre part, quels sont leurs comportements dans ces destinations et en particulier quelles sont leurs pratiques numériques. Pour ce faire des enquêtes ont été conduites dans différentes « destinations touristiques » (Roland Garros, La Vallée Village, les Champs Elysées). Nous nous focalisons ici sur les pratiques numériques mobiles aux Champs Elysées, qui sont particulièrement intéressantes dans la mesure où il s’agit s’un lieu où se côtoient des touristes, des passants, des travailleurs et des résidents.
+        </paragraphe>
+        <paragraphe num="33">
+            <strong>Le terrain investi</strong>
+        </paragraphe>
+        <paragraphe num="34">
+            L’avenue des Champs Elysées est localisée dans le 8ème arrondissement de Paris, entre la place de la Concorde et le rond-point des Champs-Élysées-Marcel-Dassault (cf. Document 3). 
+        </paragraphe>
+        <paragraphe num="35">
+            <strong></strong>
+        </paragraphe>
+        <paragraphe num="36">
+            L’avenue accueille des commerces dès le début du XIXème. Elle devient un lieu de prestige que fréquente la haute société étrangère dans les années 1900 (Aufrère, 1950) puis un des principaux lieux de visite à Paris. Située en plein cœur de la ville, l’avenue dispose d’une bonne couverture numérique comme c’est le cas de façon croissante dans de nombreuses grandes villes<a class="footnotecall" href="#ftn19" id="bodyftn19">19</a>. 
+        </paragraphe>
+        <paragraphe num="37">
+            En effet pour favoriser la connexion des visiteurs, le comité des Champs Elysées<a class="footnotecall" href="#ftn20" id="bodyftn20">20</a> propose depuis 2016 une connexion Wi-Fi en très haut débit gratuite et illimitée sur toute l’avenue repérable par le logo suivant (cf. document 4).
+        </paragraphe>
+        <paragraphe num="38">
+            58 points d’accès Wi-Fi ont été installés sur toute la longueur des Champs-Elysées<a class="footnotecall" href="#ftn21" id="bodyftn21">21</a> en grande majorité sur les colonnes publicitaires Morris de JCDecaux, partenaire de l’opération. L’avenue est ainsi assez largement couverte. 
+        </paragraphe>
+        <paragraphe num="39">
+            Cependant force est de constater que peu d’applications faisant référence aux Champs Elysées ont été développées à Paris. Ainsi sur les 20 applications pratiques pour Paris proposées en Juillet 2018 dans le guide SortiraParis.com<a class="footnotecall" href="#ftn22" id="bodyftn22">22</a>, seule l’application mobile « Welcome to Paris” développée par l’Office de Tourisme et de Congrès de Paris en coopération avec Orange fait référence aux Champs Elysées. Elle permet de construire un programme de visite en fournissant des adresses, des évènements, des itinéraires et des informations pratiques. Elle permet également d’acheter rapidement un ticket pour un musée et de découvrir des évènements ou des lieux à visiter autour de soi. En revanche, d’autres applications comme « Paris au fil de la Seine » développée par Paris Musées qui permet de découvrir des peintures et des photographies géolocalisées issues de différents musées retraçant ainsi les abords de la Seine au fil du temps, ou Foxie qui proposent de visiter des rues insolites ne concernent pas les Champs Elysées. 
+        </paragraphe>
+        <paragraphe num="40">
+            Enfin, suite à la fermeture de Virgin Megastore, il n’y a plus, à notre connaissance, de commerces ou d’institutions proposant des QR codes sur les Champs Elysées. 
+        </paragraphe>
+        <paragraphe num="41">
+            Dans ce contexte, la question était de savoir quels étaient les usages en termes de M-tourisme.
+        </paragraphe>
+        <paragraphe num="42">
+            <strong>Le déroulement de l’enquête</strong>
+        </paragraphe>
+        <paragraphe num="43">
+            Une enquête en face à face a été menée durant les deux dernières semaines de Mai 2018 et durant les deuxième et troisième semaines de juin 2018. L’objectif était d’identifier les types de visiteurs présents sur l’avenue des Champs Elysées (touristes français et internationaux, résidents parisiens et franciliens, excursionnistes, etc.) ainsi que leurs pratiques numériques. 
+        </paragraphe>
+        <paragraphe num="44">
+            Les questionnaires ont été administrés en face à face à différents moments de la journée et dans une moindre mesure le soir jusque 21h et parfois 23h, tous les jours de la semaine y compris le week-end. Les enquêteurs étaient positionnés à deux endroits toujours identiques, des deux côtés de l’avenue. Les personnes ont été enquêtées de façon aléatoire sans critère d’âge, de sexe, de catégorie sociale ni de nationalité. L’administration de l’enquête durait approximativement 10 min par personne interrogée. Une fois le questionnaire renseigné, toute nouvelle personne passant devant l’enquêteur était interrogée. 408 questionnaires ont été renseignés en anglais et en français sur l’avenue des Champs Elysées.
+        </paragraphe>
+        <paragraphe num="45">
+            <strong>Les visiteurs sur les Champs Elysées et leurs motifs de présence </strong>
+        </paragraphe>
+        <paragraphe num="46">
+            L’enquête a permis de révéler une présence importante sur cette avenue des résidents en France (70,1 % des visiteurs). 26,85 % viennent d’Ile de France (hors Paris) et 25,54 % de Paris. 13,8 % viennent d’autres villes françaises. Les visiteurs internationaux ne représentent que 29,9 % de l’échantillon avec une prédominance des pays d’Europe puis d’autres pays hors Europe (Etats-Unis, Brésil, Chine, Maroc, etc.)<a class="footnotecall" href="#ftn23" id="bodyftn23">23</a>.
+        </paragraphe>
+        <paragraphe num="47">
+            La population présente est en majorité jeune, puisque 30,2 % des visiteurs ont entre 25 et 39 ans et un peu plus de 20 % ont entre 20 et 24 ans (cf. Document 5). Cette structure par âge apparaît favorable pour un usage des terminaux mobiles.
+        </paragraphe>
+        <paragraphe num="48">
+            Employés et étudiants sont les principales catégories socio-professionnelles (CSP) et représentent respectivement 25,3 % et 23,8 %, suivis par les cadres et professions intellectuelles et supérieures (CSP+) puis les professions intermédiaires (cf. Document 6).
+        </paragraphe>
+        <paragraphe num="49">
+            L’enquête permet d’identifier le motif principal<a class="footnotecall" href="#ftn24" id="bodyftn24">24</a> de présence sur les Champs Elysées (Document 7). Le tourisme est la principale raison avec 122 visiteurs<a class="footnotecall" href="#ftn25" id="bodyftn25">25</a>. Suivent le travail (83), les achats (67) et les loisirs (64).
+        </paragraphe>
+        <paragraphe num="50">
+            C’est à partir du motif principal « tourisme » que nous avons défini les touristes. 90 sont des touristes résidant à l’étranger et 32 résident en France hors Ile de France.
+        </paragraphe>
+        <section niveau="h2">C. Internet et usages des terminaux mobiles par les touristes</section>
+        <paragraphe num="51">
+            L’enquête nous a permis d’identifier l’usage d’internet avant la venue sur les Champs mais également sur place.
+        </paragraphe>
+        <paragraphe num="52">
+            Les usages d’internet avant la présence sur les Champs Elysées
+        </paragraphe>
+        <paragraphe num="53">
+            Si, globalement, 184 visiteurs (45.1 %) utilisent internet avant de venir sur les Champs Elysées, 71,3 % des touristes (87/122) le font. L’usage d’internet avant la venue est toutefois plus important pour les touristes étrangers (68/90, soit 75,5 %) que pour les touristes français (19/32, soit 59,4 %).
+        </paragraphe>
+        <paragraphe num="54">
+            Internet constitue la seule source d’informations des touristes pour 67,2 % (82/122) d’entre eux.<a class="footnotecall" href="#ftn26" id="bodyftn26">26</a> .
+        </paragraphe>
+        <paragraphe num="55">
+            Mais 17 touristes sur 35 n’ont ni consulté Internet ni d’autres sources d’informations. Ils étaient présents pour découvrir, pour l’ambiance ou se balader.
+        </paragraphe>
+        <paragraphe num="56">
+            Ils consultent en premier des sites dédiés (39/ 87 soit 44,8 %) c’est le cas de 55,9 % (38/68) des touristes non-résidents qui ont consulté Internet). Les touristes qui se sont connectés consultent ensuite des guides disponibles sur internet (24/87 soit 27,6 % )<a class="footnotecall" href="#ftn27" id="bodyftn27">27</a>. 
+        </paragraphe>
+        <paragraphe num="57">
+            Les principales informations recherchées concernent les transports et en premier les itinéraires en transport public, puis en voiture, puis à pied (Document 8). Mais l’usage d’internet pour réserver une activité est très peu importante. Seuls 8 touristes sur 122 ont utilisé internet avant leur venue pour réserver une solution de transport. Aucun n’a réservé une activité hors transport sur internet avant leur venue 
+        </paragraphe>
+        <paragraphe num="58">
+            <strong>L’usage d’Internet sur les Champs Elysées</strong>
+        </paragraphe>
+        <paragraphe num="59">
+            L’usage d’internet sur les Champs Elysées dépend en premier lieu de la possession d’un équipement. 91 % (111/122) des touristes ont à leur disposition un terminal mobile (smartphone ou tablette) mais seulement 72,1 % (80/ 111) d’entre eux se sont connectés à internet sur les Champs Elysées. 87,5 % d’entre eux (70/80) l’ont fait avec leur propre connexion internet et également 12,5 % (10/80) avec le Wi-Fi gratuit fourni sur les Champs Elysées et/ou disponible dans les commerces. Ils ne sont que 8,75 % (7/80) à avoir utilisé uniquement le Wi-Fi gratuit fourni sur les Champs Elysées.
+        </paragraphe>
+        <paragraphe num="60">
+            Les touristes non-résidents ont davantage utilisé cette offre que les touristes des autres régions françaises. 
+        </paragraphe>
+        <paragraphe num="61">
+            Mais force est de constater que les applications spécifiques et QR codes sont peu utilisés. 
+        </paragraphe>
+        <paragraphe num="62">
+            La quasi-totalité des touristes (94,3 %) n’a pas téléchargé d’applications mobiles pour les utiliser lors de leur visite sur les Champs Elysées (77.7 % soit 83/90 des touristes non-résidents, 100 % des touristes venant d’autres régions françaises). En outre, les touristes non-résidents ont peu utilisé des applications pour obtenir une carte géo-localiséee (6/90), construire un itinéraire géo-localisé (6/90), obtenir des informations concernant la météo (6/90) et ensuite pour trouver des restaurants (4/90) ou obtenir des informations concernant des évènements ayant lieu sur les Champs Elysées (cf. Document 9) En revanche, aucun touriste résidant en France ne l’a fait. De même, aucun touriste non-résident ou résident n’a utilisé son smartphone pour rencontrer quelqu’un, pour lire des <em>QR code</em>, pour consulter des avis ou pour bénéficier d’offres spéciales.
+        </paragraphe>
+        <paragraphe num="63">
+            Les terminaux mobiles ont cependant été utilisés pour échanger des informations 34.4 % des touristes (42/122) et parmi eux 52,3 % (22/42) l’ont fait quand ils étaient sur les Champs Elysées sans qu’il y ait de différence significative selon la résidence ou non des touristes. 45,2 % des touristes l’ont fait plus tard. 90,5 % ont échangé des photographies ou des vidéos dont 81,8 % (18/22) lorsqu’ils étaient sur les Champs Elysées ; les autres usages comme donner sa localisation ou donner un avis étant marginaux (cf. Document 10).
+        </paragraphe>
+        <paragraphe num="64">
+            Enfin et de façon inattendue, aucun touriste présent sur les Champs Elysées n’a modifié son activité sur les Champs-Elysées après avoir obtenu des informations sur internet.
+        </paragraphe>
+        <section niveau="h1">Conclusion</section>
+        <paragraphe num="65">
+            Une littérature abondante considère que le numérique et les terminaux mobiles, dans la mesure où ils modifient les pratiques, offrent de nombreuses opportunités pour repenser les destinations, innover pour construire la destination de demain, une destination intelligente (Gretzel <em>et al.</em>, 2015). De même de nombreux acteurs du tourisme investissent dans ces technologies en proposant des applications, en intervenant sur les réseaux sociaux, en interagissant avec les touristes. Cependant la question était de savoir si les visiteurs l’utilisaient et pour quelles pratiques ? L’enquête sur les Champs Elysées montre qu’Internet apparaît avant tout comme un outil pour préparer la venue avant d’être sur place en particulier pour les visiteurs internationaux. Elle montre également que la plupart des visiteurs sont équipés de smartphones, avec une connexion personnelle à internet. <em>In situ</em>, les smartphones et internet sont utilisés pour échanger des vidéos, des photos, <em>i.e.</em> pour partager une expérience. La consultation de Facebook, la réservation de transports, d’hôtels, de restaurants ou de visites ne sont pas très utilisées et les possibilités les plus innovantes de M-tourisme (applications dédiées, QR code, etc.) non plus. La question est cependant d’identifier l’origine de ce faible développement. Une première raison semble être liée à une offre peu développée sur les Champs Elysées. Leur notoriété rend peut-être superflu le développement de ce type de produits. En outre, la découverte des Champs dans son ensemble et de son ambiance étant privilégiée par les touristes, ce type d’outils pourrait être moins utile ; la recherche d’informations sur les Champs Elysées étant moins centrale que dans d’autres lieux touristiques. Des travaux portant sur des lieux moins connus ou dans lesquels des informations multiples sont nécessaires pour en apprécier toutes les dimensions doivent alors être envisagés pour identifier si ces usages plus innovants y sont davantage développés et utilisés. 
+        </paragraphe>
+    </corps>
+    <bibliographie>
+        <reference>Akrich, M. (1990), De la sociologie des techniques à une sociologie des usages ; L’impossible intégration du magnétoscope dans les réseaux câblés de première génération ? Techniques et Culture, n° 16, pp. 83-110.</reference>
+        <reference>Albérola, E., Aldeghi, I., Brice-Mansencal, L., Croutte, P, Datsenko, R., Guisse, N., et Hoibian, S. (2017), Baromètre Du Numérique 2017, Rapport du CREDOC réalisé pour le compte du Conseil Général de l’Economie, de l’Industrie, de l’Energie et des Technologies (CGE), l’Autorité de Régulation des Communications Electroniques et des Postes (Arcep) et l’Agence du numérique.</reference>
+        <reference>Aufrère, L. (1950), Introduction à l’étude morphologique et démographique de l’Avenue des Champs Élysées, Annales de Géographie, t. 59, n° 313, pp. 13-37.</reference>
+        <reference>Bideran, de J. et Fraysse, P. (2015), Guide numérique et mise en scène du territoire, entre médiation patrimoniale et stratégie de communication touristique », Études de communication [En ligne], 45, consulté le 28 juin 2020. URL : http://journals.openedition.org/edc/6464 </reference>
+        <reference>Bourliataux-Lajoinie, S. et Rivière A. (2013), « L’enjeu des m-services en marketing touristique territorial : proposition d’un cadre d’analyse », Recherches en Sciences de Gestion, vol. 2, n° 95, pp. 65-82.</reference>
+        <reference>Buhalis, D. et Law, R. (2008), « Progress in information technology and tourism management: 20 years on and 10 years after the Internet—The state of eTourism research », Tourism Management, vol. 29, no 4, pp. 609-623.</reference>
+        <reference>Cabrespines, J.-L. et Wargnie, R. (2017), « Tourisme et numérique », Les avis du CESE, 26 décembre 2017.</reference>
+        <reference>CRT Bretagne - FNCRT (2013), M-Tourisme et réseaux sociaux : les pratiques des clientèles européennes, CRT Bretagne FNCRT 2013.</reference>
+        <reference>Courrieu, P. (2012), « Perspectives du m-tourisme à l’heure de la généralisation de l’usage des mobiles », Cahiers Espace, n° 114, pp. 19-28.</reference>
+        <reference>Flichy, P. (2003), L’innovation technique, Récents développements en Sciences sociales. Vers une nouvelle théorie de l’innovation, Sciences et société La découverte.</reference>
+        <reference>Gallouj, C. et Leroux, E. (2011), « E-tourisme, innovation et modes d’organisation », Management &amp; Avenir, 2, n° 42, pp. 213 – 231</reference>
+        <reference>Geels, F.W. (2004), “From sectoral systems of innovation to socio-technical systems; Insights about dynamics and change from sociology and institutional theory”, Research Policy, 33, pp. 897–920.</reference>
+        <reference>Granovetter, M. (1985), “Economic action and social structure: the problem of embeddedness”, American journal of sociology, vol. 91, Issue 3, pp. 481-510.</reference>
+        <reference>Gretzel, U., Sigala, M., Xiang, Z., Koo, S. (2015), Smart tourism: foundations and developments, Electronic Markets, September, vol. 25, n° 3, pp. 179–188.</reference>
+        <reference>Gretzel, U., Fesenmaier, D. et O’Leary, T. (2014), “The Transformation of Consumer Behaviour”, Tourism Business Frontiers, pp. 9-18.</reference>
+        <reference>Gretzel, U. et Jamal, T. (2009), “Conceptualizing the creative tourist class: Technology, mobility, and Tourism experiences”, Tourism Analysis, vol. 14, no4, pp. 471-481.</reference>
+        <reference>Haddon, L. (2011), “Domestication Analysis, Objects of Study, and the Centrality of Technologies in Everyday Life”, Canadian Journal of Communication, vol. 36, pp. 311-323.</reference>
+        <reference>Hays, S., Page, S. et Buhalis, D. (2013), “Social media as a destination marketing tool: its use by national tourism organisations”, Current Issues in Tourism, vol. 16, no3, pp. 211-23.</reference>
+        <reference>Kim, H., et Stepchenkova, S. (2015), “Effect of tourist photographs on attitudes towards destination: Manifest and latent content”, Tourism Management, no49, pp. 29-41.</reference>
+        <reference>Lesaffre, G., Watremez, A. et Flon, E. (2014), « Les applications mobiles de musées et de sites patrimoniaux en France : quelles propositions de médiation ? », La Lettre de l’OCIM, juillet-août, 154.</reference>
+        <reference>McKinsey France, (2014), Accélérer la mutation numérique des entreprises : un gisement de croissance et de compétitivité pour la France. </reference>
+        <reference>Molinillo, S., Liébana-Cabanillas, F. et Anaya-Sánchez, R. (2017), « Destination image on the DMO’s platforms : official website and social media », Tourism &amp; Management Studies, vol. 13, no3, pp. 5-14.</reference>
+        <reference>Mourtazina, E. (2019), « Photographier Zermatt : les pratiques photographiques des touristes à l’épreuve du numérique », Mondes du Tourisme [En ligne], 15 | 2019, mis en ligne le 01 juin 2019, consulté le 26 juin 2020. URL : http://journals.openedition.org/tourisme/2148 ; DOI : 10.4000/tourisme.2148</reference>
+        <reference>Oliveira, E. et Panyik, E. (2015), « Context and co-creation : Digital challenges in destination branding with references to Portugal as a tourist destination », Journal of Vacation Marketing, vol. 1, no11, pp. 53-74 (publié la première fois le 25 juillet 2014). </reference>
+        <reference>Proulx, S., Rueff, J., Lecomte, N. (2007), Une appropriation communautaire des technologies numériques de l’information, UQAM, https://depot.erudit.org/id/001199dd </reference>
+        <reference>Simon, G. (2015), « L’expérience urbaine des touristes : une approche relationnelle avec les objets du monde urbain », In J-M., Decroly (Ed.), Le Tourisme comme expérience. Regards interdisciplinaires sur le vécu touristique, Presses Universitaires du Québec, Montréal.</reference>
+        <reference>Sørensen, F. (2007), « The Geographies of Social Networks and Innovation in Tourism », Tourism Geographies, vol. 9, no1, pp. 22-48.</reference>
+        <reference>Territoires Conseils, (2017), « Comment intégrer le numérique dans les stratégies touristiques », Collection Collectivités locales et transition numérique, Caisse des Dépôts, février 2017. </reference>
+        <reference>Tran, M., Jeeva, A. et Pourabedin, Z. (2016), « Social network analysis in tourism services distribution channels », Tourism Management Perspectives, no18, pp. 59-67.</reference>
+        <reference>Vergopoulos, H. (2016), « L’expérience touristique : une expérience des cadres de l’expérience touristique ? », Via, 10, téléchargé le 26 juin 2020. http://journals.openedition.org/viatourism/1347.</reference>
+        <reference>Viallon, P. (2015), « La communication touristique, une triple invention », Mondes du Tourisme [En ligne], 7 | 2013, mis en ligne le 30 septembre 2015, consulté le 30 juin 2020. URL : http://journals.openedition.org/tourisme/171 ; DOI : https://doi.org/10.4000/tourisme.171</reference>
+    </bibliographie>
+    <notes>
+        <note id="1">Source : https://datareportal.com/reports/digital-2019-global-digital-overview, 10/03/2020, 15h20, p. 196.</note>
+        <note id="2">https://datareportal.com/reports/digital-2019-france, 10/03/2020, 15h30, p. 5.</note>
+        <note id="3">https://datareportal.com/reports/digital-2019-global-digital-overview, 10/03/2020, 15h50, p. 89.</note>
+        <note id="4">Source : https://datareportal.com/reports/digital-2019-global-digital-overview, 10/03/2020, 15h40, p. 7.</note>
+        <note id="5">https://datareportal.com/library, 10/03/2020, 17h00</note>
+        <note id="6">https://datareportal.com/reports/digital-2018-france, 10/03/2020, 18h30</note>
+        <note id="7">https://www.quechoisir.org/action-ufc-que-choisir-qualite-de-l-internet-fixe-un-outil-participatif-et-evolutif-favorisant-une-reelle-transparence-sur-la-fracture-numerique-n65007/?dl=43403, p.37, connecté le 17/03/2020</note>
+        <note id="8">Depuis le 15 juin 2017, les frais d’itinérance ayant été supprimés en Europe, les usages se sont développés.</note>
+        <note id="9">En 2016, l’Union Européenne annonçait que chaque village et chaque ville d’Europe disposerait d’un accès internet sans fil gratuit d’ici à 2020.</note>
+        <note id="10">https://www.touristobox.com/</note>
+        <note id="11">https://wifi.2isr.fr/installation-hotspot-wifi-gratuit-office-de-tourisme.html</note>
+        <note id="12">Les agences de développement touristique (ADT) ont pour missions d’accompagner les porteurs de projet, les professionnels et les collectivités, de promouvoir les destinations touristiques et dans certains cas de commercialiser des séjours et des excursions. Elles ont parfois une mission de réservation : ADRT</note>
+        <note id="13">C’est une technologie qui permet d’échanger des données, par exemple un paiement sans contact direct mais en positionnant le terminal mobile à proximité d’un autre terminal.</note>
+        <note id="14">Financée avec l’aide de la Ville d’Epernay</note>
+        <note id="15">http://www.epernay.fr/article/skyboy</note>
+        <note id="16">Mot clef cliquable.</note>
+        <note id="17">C’est le cas par exemple à Troyes http://www.tourisme-troyes.com/pratique/l-office-de-tourisme/devenez-ambassadeur-de-troyes-champagne-metropole</note>
+        <note id="18">http://jepi.ambassadeurdk.free.fr/</note>
+        <note id="19">Dans les zones touristiques rurales, ce n’est en revanche pas encore le cas. </note>
+        <note id="20">Le Comité Champs-Elysées a été créé en 1916. Il est chargé de la « promotion, du développement et de la notoriété internationale de l’avenue et du quartier Champs-Elysées à Paris » .https://www.comite-champs-elysees.com/</note>
+        <note id="21">https://www.lesechos.fr/2016/06/du-wifi-gratuit-sur-les-champs-elysees-208323, le 20 03 2020</note>
+        <note id="22">https://www.sortiraparis.com/arts-culture/balades/guides/25144-top-20-des-applications-pratiques-pour-votre-sejour-a-paris</note>
+        <note id="23">Toutefois, comme c’est le cas de toutes les enquêtes en face à face, le nombre de visiteurs internationaux est vraisemblablement plus important. En effet les réponses enregistrées les sous-estiment dans la mesure où ces derniers et notamment les asiatiques sont peu enclins à répondre à un questionnaire.</note>
+        <note id="24">Une seule réponse était possible.</note>
+        <note id="25">3 personnes ayant indiqué avoir un motif de tourisme mais qui habitent l’Ile de France ont été retirées.</note>
+        <note id="26">23.1 % des visiteurs utilisent aussi d’autres sources d’information (bouche à oreille, famille, amis, presse et guides papier).</note>
+        <note id="27">9 touristes ont consulté Facebook, 7 des blogs ou des forums, et 4 Twitter.</note>
+    </notes>
+</article>

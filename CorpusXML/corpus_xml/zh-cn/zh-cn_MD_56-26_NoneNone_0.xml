@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="cn/zh-cn_MD_56-26_NoneNone_0" source="https://journals.openedition.org/viatourism/5648" lang="zh">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <DOI>https://doi.org/10.4000/viatourism.5648</DOI>
+        <revue>Viatourism</revue>
+        <numero>17</numero>
+        <annee>2020</annee>
+    </meta>
+    <traductions>
+        <original lang="fr" source="5391">
+            <traducteur nom="Wenjue" prenom="张文珏" />
+            Paysage millénaire et développement touristique en Chine. Le cas des rizières en terrasses des Hani du Yunnan
+        </original>
+        <traduction lang="en" source="5428">Millennial landscape and tourist development in China. The case of the Hani rice terraces in Yunnan</traduction>
+        <traduction lang="es" source="5467">Desarrollo turístico y paisaje milenario en China. El caso de las terrazas de los Hani en Yunnan</traduction>
+        <traduction lang="ca" source="5488">Desenvolupament turístic i paisatge mil·lenari a la Xina. El cas de les terrasses dels Hani a Yunnan</traduction>
+    </traductions>
+    <auteurs>
+        <auteur nom="Dao）" prenom="米丽安∙陶（Myriam">
+            <description>
+                米丽安∙陶是一位艺术家、建筑师和独立学者。 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>中国的千年景观和旅游业发展 以云南哈尼族水稻梯田为例</titre>
+    <sousTitre>同行评审论文</sousTitre>
+    <resume>
+        在1995年 到 2015 年期间，我作为艺术家和学者在中国西南部一个水稻种植村进行了田野调查。在这篇文章中，我考察了少数民族居住的农村边疆地区发生的深刻变化。尤其是云南红河谷地区的哈尼族。哈尼族祖传的水稻梯田灌溉模式有怎样的未来，他们面临着怎样的挑战？我的研究通过中国传统艺术到当代艺术家的作品，以及我自己的作品的交汇，形成一种敏感而细腻的方式。于此同时，我也对景观规划的遗产政策进行了研究。对自然环境的保护所面临的挑战，不仅仅是环境的——生物多样性、可持续发展，还包括基于认同的少数民族和土著文化。我将指出这种景观规划的局限性，并勾勒未来。
+    </resume>
+    <corps>
+        <section niveau="h1">引言</section>
+        <paragraphe num="1">
+            应用于耕地的“文化景观”概念呈现出一系列问题——客体化、遗产化、领土的商业化，如同艺术领域与异己性相关联时，其产生的必然结果如出一辙：异域风情化和文化侵占<a class="footnotecall" href="#ftn1" id="bodyftn1">1</a>。在中国的背景下，景观被制造或者“维持”，身体被体制化 (罗钰, 2018年)，小说被编造，并构成新的想象 (马克∙欧杰 Marc Augé, 1997年)。尤其是当代艺术，自从 2002 年由奥奎∙恩维佐（Okwui Enwezor）作为策展人的第十一届卡塞尔文献展以来，遇到了全球/本土某些固有问题的冲突，并从后殖民的角度质疑了已有的表现形式<a class="footnotecall" href="#ftn2" id="bodyftn2">2</a>。艺术家不仅仅将世界置于图像中，同时质疑并推翻想象，将作品作为思考的源泉。这就是为什么，我在描述了哈尼族村寨的文化环境之后，对消费产生兴趣，从“视觉消费”的视角，来看待中国的景观和民族志，以及当代艺术对这些现象<a class="footnotecall" href="#ftn3" id="bodyftn3">3</a> 的诠释，这些对于我来说是十分必要的。
+        </paragraphe>
+        <paragraphe num="2">
+            所有的艺术创作都带有其主观性，这在某种程度上成为艺术家的宣言<a class="footnotecall" href="#ftn4" id="bodyftn4">4</a>。我的宣言便是我的三联画《遥远的目光）（《 Riken no Ken 》），三位女性的肖像——我是其中之一，身穿着哈尼族的服饰<a class="footnotecall" href="#ftn5" id="bodyftn5">5</a>。它表现了我作为艺术家、建筑师和学者的工作所基于的问题、我的观点，也反映了我作为“显而易见的少数群体<a class="footnotecall" href="#ftn6" id="bodyftn6">6</a> ”的女性处境的经历。我与中国的哈尼族感同身受，同样处于法国的边缘地位。就像人类学家乔治∙孔多米纳（Georges Condominas），由于自身的血统（法国、葡萄牙、中国和越南混血），他产生了融入越南中部山区的渴望，我由此而萌生共情<a class="footnotecall" href="#ftn7" id="bodyftn7">7</a>。
+        </paragraphe>
+        <paragraphe num="3">
+            如何理解哈尼族的农耕空间，使用哪些分析工具？如果说在 2020 年，偏离中心是必要的，在1995 年，当我开始着手研究的时候，这并不是热门话题。从那时起，菲利普∙德斯科拉（Philippe Descola）对《超越自然与文化》（菲利普∙德斯科拉，2005年著）进行了反思。奥古斯丁∙伯克（Augustin Berque）重新思考了原始景观社会的概念，它在产生景观表现的“先进”文明与不产生景观表现的其它文明之间划分了等级制度（奥古斯丁∙伯克，1998年；1994年）。然而，当我于1995 年，前往中国进行六个月的“美蒂奇别墅墙外”（Villa Medicis Hors les Murs）艺术家驻地时，主要的法国理论家们宣布，文艺复兴时期所出现的景观的依据，“没有不基于画面或文学表现的景观”，这主要通过对于两个社会的研究：西方社会和中国古代社会（奥古斯丁∙伯克，1994年）。这些解读框架在红河哈尼族这个没有文字，世代以口口相传的文化中却无法生效。这导致我放弃了我的论文《景观文化，哈尼族水稻田》，离开了学术框架和科学权威，而采取了艺术的主观性，以其它途径展开我的研究。从民族志意义上讲，没有采访这个术语。我如同一个远方亲戚，与哈尼族家庭居住在一起，并与他们建立了感情联系。模仿和某种方法的应用与艺术的过程相反。如果艺术家和建筑师为每一个特定的环境都设想一个答案，就地制作档案，创作视觉作品（绘画、摄影、建筑图、影像），那么将艺术家的观点等同于工匠，则是对艺术家工作的削减。因为通过组装、拼贴和类比的表现方式，我同样可以将物品编目，勾勒哈尼族民居的类型，盘点水稻田的分流工程，甚至绘著女性服饰刺绣纹样的画册<a class="footnotecall" href="#ftn8" id="bodyftn8">8</a>。实现这些目标的过程中，在我2005年到 2015 年的造访期间，哈尼族妇女引起了我的注意，我与她们的身体、双手和视觉表达方式的相遇，为我的研究打开了另一个方向。根据雅克∙朗西埃（Jacques Rancière）的《玩笑与邀约）（2004年著），哈尔∙福斯特（Hal Foster）在 1996 年发表的一篇文章中，称艺术的这一新功能为“民族志的转折”。1995 年到 1996 年的第一次造访的后期，我展出了系列黑白照片《上升》，颠覆了停留于表面的对于蓄满水的水稻梯田的俯视视角。我改变视角，提供了不同的景观。（文件 1）
+        </paragraphe>
+        <section niveau="h1">I. 哈尼族模式，生态系统和象征性景观</section>
+        <section niveau="h2">A. 红河哈尼族生态系统</section>
+        <paragraphe num="4">
+            中国的云南省横跨三条主要河流：湄公河（沧澜江》、扬子江（长江）和红河（文件 2），随后流经亚洲大陆。红河谷哈尼族稻农在红河哈尼族彝族自治州，海拔 800 米至1800 米的山腰灌溉梯田上进行水稻种植，面积约 13000 公顷。哈尼族人在森林上游的泉水附近建造村寨。泉水，神圣的地方，通过引水渠，分出支流，灌溉着下游村寨的全部水稻梯田（文件 3）。
+        </paragraphe>
+        <paragraphe num="5">
+            灌溉网首先贯穿村寨，流经途中补充人类和动物的排泄物，在将水引入农田之前，这些有机肥料会沉积于引水渠中。分流系统由放置在副灌溉渠中的石子组成，以便水流分布于灌溉网的所有分支中。除了这个供水系统以外，还有排水孔可以控制每块耕地的水量，并暂时排水（文件 4）。
+        </paragraphe>
+        <paragraphe num="6">
+            哈尼族的环境不仅仅基于水稻文化。稻米的种植与其它农产品共享空间，这些农产品可作为食物的补充，同时有助于实现农业平衡（帕斯卡∙布舍里 Pascal Bouchery，1999 年）。在村寨低处耕种的梯田起着苗圃的作用，收集有机废料（植物的、动物的和人类的）并转化为堆肥（固氮剂），在将植物移植到下游之前对其施肥。这是永续耕种文化的原则。水里的田地是鸭子的避难所，它们以昆虫和有害动物作为食物。在下游的耕地中，哈尼人从事渔业养殖和捕鱼（文件 5）。这种形式的永续耕种将各类物种汇聚在一起，并与其它生物共同生长。人类、自然、动物在同一个世界里共存（角媛梅，2011 年，2014年）。
+        </paragraphe>
+        <section niveau="h2">B. 哈尼世界的象征性景观</section>
+        <paragraphe num="7">
+            在哈尼族神话里，水是万物的源泉，李子贤说：“大片的水分布在地球上，世界由此起源。” “生活在这片海洋里的水生动物创造了所有人类。” 这个神话大约于七世纪和十世纪之间的唐代，在哈尼族的想象中逐渐形成（帕斯卡∙布舍里, 1995年）。“一条巨大的雌性金鱼创造了天、地、万物、诸神、人、种子。” （文件 6）。
+        </paragraphe>
+        <paragraphe num="8">
+            水是共享的资源。通过对于集体水源的管理，每个人都负有责任，这是一个社会组织，也可以说是一个良性组织。上游灌溉梯田的溢流，流向低处的稻田，并以此类推。每块耕地都是属于某个家庭的私人财产，但其中流动的水，则是所有人共享的。这些田地不仅相邻，而且自高向低，自上游向下游共享相同的水源，以此利用空间上的分层。族群关系深深地刻入每块耕地错综复杂的排列和嵌套之中（帕斯卡∙布舍里, 2012年）。可以肯定地说，在哈尼族，耕作的山脉是一个社交场所，人们在那里庆祝节日，进行社交活动。
+        </paragraphe>
+        <paragraphe num="9">
+            哈尼族，一个理想的社会，他们是否具有“山脉和水域”的宇宙观？
+        </paragraphe>
+        <paragraphe num="10">
+            “Xaota-xaotae xu-sa, uphu tsaodzae xu-sa”哈尼族以这样的方式描述了“美丽的景观”或理想的景观，字面意思是“一个水流湍急的山区环境” （帕斯卡∙布舍里，1995年）<a class="footnotecall" href="#ftn9" id="bodyftn9">9</a>。山脉和流水，构成了哈尼族的理想景观。中国道家思想体现了，山水这两个元素的重要性，同时不应该忽略另一个因素：湍急的水流，即运动。虽然红河的哈尼族人拥有自己的地域和文化，但地理上仍然属于中国<a class="footnotecall" href="#ftn10" id="bodyftn10">10</a>。红河河谷是云南省的一部分。因此，我认为有必要勾勒出哈尼世界和道教景观之间的相似之处<a class="footnotecall" href="#ftn11" id="bodyftn11">11</a>。
+        </paragraphe>
+        <section niveau="h2">C. 道家景观</section>
+        <paragraphe num="11">
+            山与水是中国风景的两大元素，以致于在中国文化中“山水”成为中国风景画的代名词。中国画的目的是创造一个“比自然本身更真实”<a class="footnotecall" href="#ftn12" id="bodyftn12">12</a> 的微观世界。如果人没有被形象地描绘出来，并不意味着人类的缺席；人在世间的存在与大自然浑然天成，无论这是他的亲身经历还是他的愿望，无非是人对自己本性的投射，而这一切都是由内在的意象所决定的。因此，描绘山水便是描绘人，更确切地说，是身体的精气神韵（程抱一，1979年）。同样，画家通过道家的世界观，以及维持生命力的血气运行通路——经络，在微观和宏观世界之间建立了对应关系。人与景共生，这便是画家们所要表现的和谐。（文件7）与西方的现代性相反，在中国的道家思想中，实物世界与现象世界合二为一。尽管如此，“山水”一词更意味着重现，而非现实。这是一个由视觉领悟的景观，甚至是一个精神景观，这是由诗人走过的“心灵之旅”。艺术作品则将我们领入视觉之旅。
+        </paragraphe>
+        <paragraphe num="12">
+            那么今天呢？中国的土地规划却与道教的景观概念相去甚远，而更多响应景观的“戏剧化”—— 基于景观社会<a class="footnotecall" href="#ftn13" id="bodyftn13">13</a> 的特性，而非关注人类同宇宙的和谐相处。米尔恰∙伊利亚德（Mircea Eliade）在 1965年便已指出：“……宇宙变得昏暗、迟钝、沉默，它不传递任何消息，不携带任何数字。”<a class="footnotecall" href="#ftn14" id="bodyftn14">14</a>
+        </paragraphe>
+        <section niveau="h1">II. 一个哈尼族稻农家庭 / 1995年 - 2015年</section>
+        <paragraphe num="13">
+            出生于1930 年的马先生<a class="footnotecall" href="#ftn15" id="bodyftn15">15</a>，如今已成为曾祖父，于1995 年在哈尼族村寨接待了我，在那里我有过两次为期三个月的造访。尽管我没有提供任何村民关于旅游发展的证词，但我依然选择不提及村寨的名称。马先生住在一栋由邻居帮忙修建的红砖房里，取代了父母的土掌屋。房子建造在桩基上，地面的空间为水牛专用，楼上有一个小阁楼。没有自来水，部分覆盖着茅草，露台则用于晾晒作物。
+        </paragraphe>
+        <paragraphe num="14">
+            马先生的儿子，出生于上世纪五十年代前后，家族的第二代，如今已成为“爷爷”，1995 年的时候，在工厂工作。他的四个孩子——出生于上世纪八十年代的第三代，如今已成为“父母”，其中两个年长的孩子，在红河州的首府上学，两个年幼的孩子在村里的学校学习，和祖父母一起生活，并且帮助他们干农活。在我第一次造访期间，我的工作重心是水稻梯田，其灌溉系统，村寨及其环境的紧密关系。
+        </paragraphe>
+        <paragraphe num="15">
+            2005 年在长达两个星期的第二次造访期间，我专注于女性服饰的纹样，马先生的儿子与妻子接管了家族的房子，现在轮到他继续耕种稻田。退休的马先生，在红河州的首府定居，身边有两个孙女（家族的第三代，我认识她们的时候还是小学生），如今都已成为母亲，她们各自有一个儿子，家族的第四代（曾孙）。在这第二次造访期间，我得以将女性服饰的刺绣与水稻田的轮廓建立联系。如今，哈尼族的妇女和年轻女子依然穿戴着传统的服饰，这些服饰绣着涡纹、水波纹，却是由工业加工而成的。旅行社挖掘到商业卖点，推出在红河谷短期居住的旅行模式，并将身穿哈尼族传统服饰的女性肖像和水稻梯田对半印刷在宣传册上（见下文，把景观土著化）。少数民族被形容为“人文马赛克”<a class="footnotecall" href="#ftn16" id="bodyftn16">16</a>，水稻梯田则是“闪闪发光的锦缎”。对于景观和纺织品的比喻已是登峰造极！ 
+        </paragraphe>
+        <paragraphe num="16">
+            2015 年我再次回到村寨，停留了三个星期。家族第三代的两个姐妹在城里做生意。近十年来，由于城乡经济差异，中国的城乡人口迁移已变得非常普遍，所产生的社会影响被作为研究（乌尔里克·克莱因伟切特 Ulrich Kleinwechter，2012年）。这便是两个兄弟遇到的具体情况，他们不得不迁移到更远的地方，云南省的省会昆明，距离村寨一天的车程，在那里从事工业工作，把孩子留给祖父母照料。老人们仍然在耕种水稻田，尽管他们已经达到法定的退休年龄。（据他们所说，男性为 60 岁，农民的妻子为 50 岁）。当然，多亏孩子们在城里赚到的钱，祖父母得以重新修建他们的整栋房屋。
+        </paragraphe>
+        <paragraphe num="17">
+            新的砖墙混泥土柱梁结构，大幅度增加了地块的建筑面积，总高度增加一倍。如同大多数哈尼族的新房子一样，屋顶安装了加热自来水的光伏板。生活方式的改变是显而易见的。在 2015 年造访期间，村寨的变化令我感到震惊。所有扩建的房屋都侵占了公共空间，并被简化为最简单的形式。进步已经来临，然而哈尼族的灌溉系统并没有改变。也就是说，餐具和洗衣机的污水仍然自上游流向下游，供给稻田。医生来到家中，为奶奶静脉注射抗生素治疗感冒。然而在二十年前，同样也是奶奶，为我的脖子和后背涂抹草药帮助我退烧<a class="footnotecall" href="#ftn17" id="bodyftn17">17</a>。
+        </paragraphe>
+        <paragraphe num="18">
+            我不知道重孙们是否会继续耕种水稻田。我担心在2025 年下一次造访时，哈尼族村落的水稻田不再是一张随着季节变幻色彩的绚丽地毯，而是由贫困的居民维护着，以取悦游客。毫无疑问，马先生的重孙们，将在扩建的房屋中开辟民宿，而迄今为止用于晾晒作物的露台，也将迎接坐在餐桌旁喝着汽水的背包客。
+        </paragraphe>
+        <section niveau="h1">III. 转变</section>
+        <section niveau="h2">A. 新的全境流动</section>
+        <paragraphe num="19">
+            直到 1990 年末，红河谷流域一直难以进入，人口稀少，地处于由多数人口——汉族聚集区域的外围。这些地区以前位于边疆，而现在则是与四个国家（缅甸、老挝、越南和泰国）有接触的最重要的地缘政治空间。自从开放共同边境以来，与其中前三个国家有着直接接触。中国与东盟的关系逐步正常化，自2010 年以来，中国与东盟建立了世界上最大的自由贸易区。随着“ 21 世纪丝绸之路”的建设，自由贸易将在未来几年得到发展。云南省位于中国-缅甸-孟加拉国走廊和中国-中南半岛-马来西亚-印度尼西亚走廊的交汇处。
+        </paragraphe>
+        <paragraphe num="20">
+            作为中央政策的一部分<a class="footnotecall" href="#ftn18" id="bodyftn18">18</a>，红河谷的交通网络得到改善——自 2005 年以来，哈尼族村寨可以通过公路进入，迫使村寨与其相辅相成的实体“山脉-森林-水源”相隔绝，从而加速了象征性的决裂。这条高速公路为贸易提供便利——农民出售他们的食物，再购买工业化商品，哈尼族生态系统的“良性循环”由于居民消费习惯、生活方式和标准的改变而被打破。建筑、服饰和饮食的改变随处可见，其影响在生态方面也同样重要（文件9）。这种对于全球化世界的开放，影响到景观和它背后无形的非物质文化结构 （刘新，2000年） ：由于强烈的“汉化”，少数民族的语言正在消失，甚至连哈尼族的名字都不再流传，村寨里其他家庭和马家的情况相同。然而，哈尼族的史诗却是基于系谱口述的。 
+        </paragraphe>
+        <section niveau="h2">B. 地理剧院</section>
+        <paragraphe num="21">
+            作为新的交通路线的直接影响，水稻田被大量纳入旅游观光路线。中国国内的摄影师首先来到这里，接着是世界各地的摄影师。他们努力为红河谷赋予“风景如画的”或是“秀丽的”形象，这种形象立刻被旅行社宣传。中国摄影师将水稻梯田艺术化，在此借用阿兰∙罗杰（Alain Roger，1997年）的表述——也就是说他们将这些水稻梯田作为艺术表现的对象。我们注意到，在中国古典绘画中，并没有这一主题<a class="footnotecall" href="#ftn19" id="bodyftn19">19</a>。摄影师们借用了古典绘画风格，着重表现被云雾笼罩的美学<a class="footnotecall" href="#ftn20" id="bodyftn20">20</a>。他们在山谷的顶峰连续数小时的守候，只为等待蓄满水的梯田被云雾笼罩的那一刻。于是，产生了一个新的图像主题：蓄满水的梯田，在阳光下闪闪发光，颜色随着阳光、季节而变化，但具有恒定的规律：以居高临下的视角呈现。梯田成为一个符号。只有蓄满水的梯田才会受到摄影师的青睐。水存在的价值，对于他们拍摄的图像而言，只是为了和天空形成镜面游戏。
+        </paragraphe>
+        <paragraphe num="22">
+            然而，根据菲利普∙德斯科拉（Philippe Descola）<a class="footnotecall" href="#ftn21" id="bodyftn21">21</a>“这绝不是对于自然环境的艺术化或人造化，而是人与宇宙之间对应关系的图像，以此可见这世上与人类禀性相吻合的事物。（……），用罗尔夫∙石泰安（Rolf Stein）的话来说，那始终是一个“微缩世界”，（……）以重现大世界，在那里人们编织亲和力，从而找到一座避难所。”这一引文与哈尼族的微缩宇宙相呼应，哈尼族的宇宙观通过庆典首饰Bararama<a class="footnotecall" href="#ftn22" id="bodyftn22">22</a> 而存在，Bararama综合了哈尼族建立的对应关系（参见文件 6，Bararama，哈尼族的庆典首饰）。
+        </paragraphe>
+        <paragraphe num="23">
+            就像现代观看使自身与世界疏远一样，摄影师们同样忽略了梯田周围的自然和人居环境。大众旅行需要对景观进行规划，并设置观景台。如同弗朗索瓦∙于连（François Jullien），我提出这样的问题：“是否只通过观看便可以进入景观？”对他而言，景观“不仅是观赏的问题，而是关于生活的问题。”（弗朗索瓦∙于连，2014年）。为了满足观赏，哈尼族的景观被舞台化。成为堪比“剧院场景”或装饰性的景观。约翰∙布林克霍夫∙杰克逊（John Brinckerhoff Jackson）在他的文章《作为剧场的景观）中指出从十六世纪开始，剧场场景与景观之间便有着密切的联系。（约翰∙布林克霍夫∙杰克逊，1979年）。英语中“scenery （布景）”一词，更好地表现了这种对照。同样，在云南，人们参观“梯田布景”（terraced fields scenery），不仅参观水稻田，还参观当地居民！ 
+        </paragraphe>
+        <section niveau="h2">C. 景观的土著化</section>
+        <paragraphe num="24">
+            位于中国西部和南部边境地区，是非汉族人口聚集最多的地区。例如：云南省就有 25 个民族——基于中华人民共和国正式列出的 56 个少数民族<a class="footnotecall" href="#ftn23" id="bodyftn23">23</a>，在那里哈尼族、傣族、苗族、彝族，毗邻而居。这些少数民族也同样生活在中国国界之外的缅甸、老挝、越南和泰国，他们在定义自身的归属上带着一定程度的模糊，无论是关于自然领土的归属还是民族身份的归属。
+        </paragraphe>
+        <paragraphe num="25">
+            回归传统作为中国社会各领域的灵感之源，被市场营销牢牢抓住，并将其作为有力论据，甚至被夸大其词（刘滢，2019年）。中国的文化和遗产旅行包含这两个重要因素：景观的呈现、民族文化的呈现（帕斯卡尔∙米兰 Pascale Milan，2012年）。因此，旅行社推出了红河谷村落的旅游项目，结合了身穿彩色服装的少数民族和水稻梯田<a class="footnotecall" href="#ftn24" id="bodyftn24">24</a>。
+        </paragraphe>
+        <paragraphe num="26">
+            由马克思主义社会学派传承下来，在关于少数民族的历史性宣传之上（伍国，2019 年），加入了旅游业讲故事的癖好。于是围绕着哈尼族“蘑菇房”的传说被理想化：“惹罗山是红色和绿色的，满山遍野长着大朵大朵的蘑菇，它们不怕风吹雨打，美丽的外观令人难忘。” （伍国， 2015 年，谢荣幸，2018年）（文件 10）。哈尼族生态气候房的神话“冬暖夏凉，干燥通风”（高凯，2013年），坚定了房地产开放商的选择，毫不犹豫地将“蘑菇房”风格作为其度假村吊脚楼的销售卖点（文件 11）。
+        </paragraphe>
+        <paragraphe num="27">
+            透过旅游业的营销策略，我们触及到2016年中国艺术家邱志杰受路易威登基金会邀请，发言时所揭露的：“对传统刻板印象的肤浅利用”<a class="footnotecall" href="#ftn25" id="bodyftn25">25</a>。他解释道：只是利用传统的表象而不寻求理解、也不寻求深入，不将其解构，也不使其发展的用法。
+        </paragraphe>
+        <section niveau="h2">D. “文化景观”的遗产化</section>
+        <paragraphe num="28">
+            2013 年标志着红河谷进一步的转折点：哈尼族景观作为文化景观被列入联合国教科文组织世界遗产名录<a class="footnotecall" href="#ftn26" id="bodyftn26">26</a>，也就是说，整个区域和周围环境都被视为需要保护的对象，以及由此衍生的社会、宗教和生态机构。根据联合国教科文组织，文化景观是“融合了自然与人类留下的印记的作品，文化景观表现了人类与其生活环境之间长期而亲密的关系”。中国政府有义务采取保护和发展措施。从表面上看，这些措施应该有利于村寨和当地土著居民，除非土著被工具化，然而在中国，并没有身份问题。土著，如果被视为一种文化，那么绝对不是政治层面上的土著，在中国，不存在“土著居民”。
+        </paragraphe>
+        <section niveau="h1">IV. 走向新的模式</section>
+        <paragraphe num="29">
+            中国政府的<strong>“</strong>生态文明<strong>”</strong>
+        </paragraphe>
+        <paragraphe num="30">
+            根据法国开发署北京代表处<a class="footnotecall" href="#ftn27" id="bodyftn27">27</a> 的政策指南。这项计划面临的挑战：“生态，污染和气候变化的防治，以及保护生物的多样性，已成为中国政府关注的主要问题。”创造“生态文明”的条件是习近平主席提出的一个任务。中国于2016年成为世界上最大的可再生能源生产国（根据国际能源署的数据）。此外，中国政府希望通过促进乡村的经济发展，来消除城乡的不平等。在此，旅游业，尤其是生态旅游，发挥着重要作用。
+        </paragraphe>
+        <paragraphe num="31">
+            这三个因素——生态转变、经济发展、文化景观的遗产注册，在红河谷水稻田的背景之下，自然会趋向于建立保护区。为了避免纵向政策的武断，必须仔细考虑这些要点：当地特色与专家列出的标准的一致性，以及由此产生的标签。
+        </paragraphe>
+        <section niveau="h2">A. 自然公园：野生景观与农耕景观</section>
+        <paragraphe num="32">
+            神圣与世俗？我的摄影作品《梯级I和II》，通过并置的图像，指出了这种二元论（文件 12）。今天，中国在建立“自然公园”<a class="footnotecall" href="#ftn28" id="bodyftn28">28</a> 的思考中，许多机构都面临着这样的二元论，他们同时研究了两种模式：美国的国家公园模式，涉及“荒野”空间，以及法国的模式，适用于农村和人口稠密地区。
+        </paragraphe>
+        <paragraphe num="33">
+            <strong><span lang="en" xml:lang="en">——</span></strong>美国国家公园模式，可以为中国西部<span lang="en" xml:lang="en">“</span>无人居住的荒野<span lang="en" xml:lang="en">”</span>的规划带来灵感。为了加强荒野的神话，美国模式带有将散落分布的人口迁移到别处的威胁。美国国家公园的创建对当地原住民，造成了沉重的后果。尤其是黄石国家公园，这片被称作广袤的“无人居住的荒野”，属于夏安人和其它部落的神圣土地（菲利普∙伯纳姆Philip Burnham, 2000年）。但是，在这种情况下，中国并不需要一个模式，它已证明人口的迁移并不会对其领土的规划政策形成障碍（参见三峡大坝<a class="footnotecall" href="#ftn29" id="bodyftn29">29</a>）。
+        </paragraphe>
+        <paragraphe num="34">
+            <strong>——</strong>法国大区立国家公园模式<strong> </strong>在法国开发署<a class="footnotecall" href="#ftn30" id="bodyftn30">30</a> 的密切帮助下，法国大区立国家公园模式，已经在浙江省实施，仙居国家公园正处于完工阶段，该模式效仿了孚日大区自然公园，并以此建立了伙伴关系。法国孚日公园建立于上世纪六十年代，旨在保护生态系统，以及当地手工业和乡村经济。（王茜，2019年）。仙居国家公园项目承诺“通过在地方一级建立协商和参与性流程，以及加强在公园治理方面的能力”产生持久影响，并希望在更广泛的范围内效仿这一模式。
+        </paragraphe>
+        <paragraphe num="35">
+            位于上海的联合国教科文组织亚太地区世界遗产培训与研究中心 （WHITRAP）采用了相同的策略，由中国和国际专家（遗产、建筑、人类学、法律、城市规划、生态旅游、农学、社会学等）组成，将自身定位在小的城镇、乡村，并确认其策略是基于对当地了解的基础之上。在他们的文字中，似乎一切都尽在掌握，合情合理。
+        </paragraphe>
+        <paragraphe num="36">
+            “在不了解所涉及的复杂领土系统，并且没有确定作为载体的景观，其有形和无形的，文化价值和自然价值的情况下，不应当制定任何领土战略。<span lang="it" xml:lang="it">” </span>（安娜<span lang="it" xml:lang="it">-</span>波娜<span lang="it" xml:lang="it">∙</span>宝拉<span lang="it" xml:lang="it"> Anna-Paola Pola</span>，<span lang="it" xml:lang="it">2019</span>年）<span lang="it" xml:lang="it"> </span>。
+        </paragraphe>
+        <paragraphe num="37">
+            然而，这些原则的实施证明了另一个现实。
+        </paragraphe>
+        <section niveau="h1">V. 地方发展中的事与愿违31</section>
+        <section niveau="h2">A. 生态旅游消耗更多的电力</section>
+        <paragraphe num="38">
+            这是可持续发展的悖论之一。虽然大众旅游业为中国提供了发展潜力，但是它会带来不利的一点：对能源需求的大幅度增长。例如，法国发展署对于仙居国家公园的投资，只有在游客饱和的情况下才能获利。然而，同样的模式将应用于云南红河谷，只有在提高游客接待能力的前提下，才能够保留这些景点。
+        </paragraphe>
+        <paragraphe num="39">
+            正如引言中所提到的，云南省几乎位于三大河流的源头。因此，许多大坝的水力发电量非常充裕。例如，有着500 万人口的省会昆明，实现全电动（汽车和两轮车）出行。自从在红河上游修建水电大坝以来，其下游一直受到干扰，比如越南已对此感到痛惜。我们有理由担心，红河整条河道的水资源匮乏，而无法灌溉梯田，并且增加了遭受侵蚀的风险<a class="footnotecall" href="#ftn32" id="bodyftn32">32</a>。
+        </paragraphe>
+        <paragraphe num="40">
+            两种速度的生态：国家文物局的专家正在对列入世界遗产名册的村寨进行修复。那些不符合全部遗产标准的村寨，那些被专家的分析框架遗漏的村寨，那些不符合发展政策的村寨，将面临怎样的命运？以上描述的哈尼族村寨便是这些村寨的一个典型案例：它位于被认定为“具有高遗产价值”，按原样被保存下来（已修复的洗衣池、碾米机、水牛祭坛前放置了中英文解释性标牌）的村寨不到十公里的距离，却被文化和环境保护策略遗漏。保护策略并不涉及村寨也不涉及水稻田。乍一看并没有变化，然而如今稻田已被灌溉它的水污染了，稻田里填满了居民由于消费习惯的改变，而产生的工业垃圾。在村寨的街道上、引水渠内，充斥着糖果包装纸和其它产品的包装纸<a class="footnotecall" href="#ftn33" id="bodyftn33">33</a>，这些工业产品取代了当地商人的豆腐串（文件<span lang="en" xml:lang="en"> 13</span>）。由于新工程的疯狂发展，对于垃圾和废水的灾难性管理，村寨被破坏。如果接待游客，这些因素都会成为问题。更别提砍伐森林及其生态系统的改变。
+        </paragraphe>
+        <section niveau="h2">B. 培育乡村旅游景观</section>
+        <paragraphe num="41">
+            红河谷梯田的遗产化引发了一个问题（曾仁辉 Jin Hooi CHAN等人，2016年）。哈尼族稻农是否会因为“联合国教科文组织世界遗产”的标签而被谴责“培育景观”，并将得到的津贴用于维持旅游景点<a class="footnotecall" href="#ftn34" id="bodyftn34">34</a>？
+        </paragraphe>
+        <paragraphe num="42">
+            一旦被列入联合国教科文组织世界遗产名录，立即采取相关的措施。因此，在2013 年，作为振兴 “中国传统村落”政策的一部分，中国政府依靠电视开展了广泛的宣传。乡村遗产是地方政府和旅游业经济发展的重要杠杆。由中共中央宣传部，国家新闻出版广电总局制作的大型纪录片《记住乡愁》，在中央电视台播出，展现了江西省，被森林和梯田包围的篁岭村。对传统建筑的重建是在景观规划期间进行的，梯田上播种着不同的种子，随着季节和游客的审美期待而变化，游客可以在一条悬空的人行天桥上欣赏美景。
+        </paragraphe>
+        <section niveau="h1">VI. 替代方案</section>
+        <paragraphe num="43">
+            对篁岭村的描述并非来自反乌托邦，而是来自农村发展纵向体系的负面影响之一。人们听到了来自不同领域的批评声音——人类学家注意到了中国少数民族<a class="footnotecall" href="#ftn35" id="bodyftn35">35</a><span lang="en" xml:lang="en"> </span>和当代艺术与电影领域作品的变化，一切都从“回归本源”获取灵感。以此强调了本地和外围观点的重要性，以及当地参与者表现出的行动主义的重要性（安妮∙麦克拉伦Anne McLaren, 2011年）。
+        </paragraphe>
+        <section niveau="h2">A. “本土”生态</section>
+        <paragraphe num="44">
+            20 世纪 90 年代末，文学中出现了一个概念，接着在学术界出现了“原生态”这个概念，它可以被理解为“本土生态”或“原始生态”（罗钰，2018年）。这一概念涉及人与自然的和谐、共存以及对于本土遗产、知识和艺术的保护。“本土生态”这一概念在拥有了文化精英的特性之后，被营销和媒体滥用，其风险则是对于“原始”和“真实”一成不变的看法，尤其是在景观规划政策中。
+        </paragraphe>
+        <section niveau="h2">B. 中国当代艺术家的回归</section>
+        <paragraphe num="45">
+            2016 年，路易威登基金会举办了《本土：变革中的中国艺术家》<a class="footnotecall" href="#ftn36" id="bodyftn36">36</a> 展览。“本土”，从字面上讲，是根，意为回归本源，这个词在二十年前可能被视为贬义词，甚至带着沙文主义的涵义。然而在中国却意喻着复苏，尤其是在当代艺术领域。这个观念与“原生态”产生共鸣，如今已成为艺术家、评论家和学者们思考的中心问题。艺术家们主张文化的异质性，反对中心霸权文化，并且试图消除中心与周边的距离<a class="footnotecall" href="#ftn37" id="bodyftn37">37</a>。
+        </paragraphe>
+        <paragraphe num="46">
+            艺术家刘晓东，来自辽宁省的一个乡村，在三十年后回到那里。他的油画肖像在形式和方法上都与乡土摄影相类似，比如，他注意到那里发生着深刻的社会、城市和生态变化，并且记录了工人和农民朋友们的日常生活。（文件 14）
+        </paragraphe>
+        <paragraphe num="47">
+            邱志杰受到古典绘画的启发，创作了《从华夏到中国》，这是一幅由山水景观构成的全景图，表现了中国近年来在文化、经济、政治和精神上发生的各种变化（参见上文，邱志杰在路易威登基金会的一次讲座上对于利用传统的批判性话语。）（文件<span lang="en" xml:lang="en"> 15</span>）
+        </paragraphe>
+        <paragraphe num="48">
+            不同世代的艺术家作品，反映了经济和生态的新趋势，其中，值得注意的是，城乡关系的转变。<span lang="en" xml:lang="en">2013 </span>年艺术家胡向前，在他的影像作品《土尾世界之演讲》中，对于集中治理的批评更进一步。在视频中，艺术家站在排成行的学生面前演讲。他来自位于广东省最南端，一个被定位为<span lang="en" xml:lang="en">“</span>世界尽头<span lang="en" xml:lang="en">”</span>的城市。他像教练一样，以商业中管理企业的方式，激励学生们：“然后，试着找到解决的方法。<a class="footnotecall" href="#ftn38" id="bodyftn38">38</a>”，这里所说的“我们”，是直接相关的人——本地的“我们”，而不是中心的“我们”，或者全球化世界的“我们”。
+        </paragraphe>
+        <section niveau="h1">结论</section>
+        <paragraphe num="49">
+            为了满足本地利益——减少贫困，维护祖先文化，应对全球化世界的挑战——旅游经济，中国为旅游业开发的其它乡村景观可以带来很多经验。广西壮族自治区的平安村也存在类似的问题，在灌溉的梯田旁，有一个壮族稻农社群<a class="footnotecall" href="#ftn39" id="bodyftn39">39</a>。1993 年，在南宁市社会科学院的民族志考察中，我注意到了当地稻农和新兴旅游经济参与者之间的紧张关系，后者以牺牲农业为代价而取得飞速发展。然而，主要的问题是作为旅游资源的梯田维护，以及寻找劳动力的担忧。从那时起，当地政府为那些依靠土地为生的家庭提供了补助。我们已经可以对首次研究进行评估（考特尼∙金梅尔Courtney Kimmel, 2015）。在此，我对少数民族景观和文化的未来提出一些想法。
+        </paragraphe>
+        <paragraphe num="50">
+            第一条思路主要涉及居民，他们最先受到影响。
+        </paragraphe>
+        <paragraphe num="51">
+            这些措施的目的是确保自给自足或至少是粮食安全，使他们从旅游经济和相关行业如休闲房产中公平而持续地收益，同时避免在可耕地上进行投机活动（袁玮熙 Samson Yuen, 2014年），以确保哈尼族在当地决策机构（省、市、村）中的代表性，并以此抵消中央政府的意识形态影响，鼓励旅游业的参与者在当地公平消费，这是通过限制土地的“品牌化”以及当地参与者的积极参与来实现的。
+        </paragraphe>
+        <paragraphe num="52">
+            第二部分涉及整个环境，山脉、森林、泉水、村寨、稻田以及河流。通过重新植树造林，对水土流失和山体滑坡的处理，以及对水土污染的控制，为生态系统面临的风险提前做好准备；其次，通过教育和鼓励减少具有危害性的机动车出行，来限制消耗（水、电）；并且通过维持当地的粮食作物，来鼓励作物的多样性。但是根本问题是水资源，这一问题可以与能源问题一并处理（大坝、水库），这是一个全国性问题。在日本、菲律宾和印度尼西亚，旅游业可以参与保护耕地景观。克利福德∙格尔茨（Clifford Geertz，1972 年）研究了巴厘岛祖传的灌溉系统，他说：“一个成熟的社会是适应环境漫长历史的最终产物，在某种程度上，环境便是社会的一个维度。”
+        </paragraphe>
+        <paragraphe num="53">
+            我希望这段引文引起我们注意的是，哈尼族自本世纪初以来，经历的巨大变化有多么重要，他们的文化基础将被部分保存，因为已经被录入世界遗产名册，而且艺术家和学者将继续对其进行记录。尽管 2015 年哈尼族稻农最为关心的是摆脱不稳定的生活条件，但是几年后，哈尼族的年轻人可能会对一份视觉档案的存在感兴趣，也许我的作品会被谦虚地收录其中。我对马氏家族的每一次造访，让我看见他们一部分文化的消失，这一事实激发了我作为艺术家的工作，主要包括清点、保留曾经存在的痕迹和印记，创建视觉档案。我的首要目的是提供绘画和照片。
+        </paragraphe>
+        <paragraphe num="54">
+            从政治上来说，我从事的研究工作并不是中立的。随着研究的深入，我清楚地看到了它们与全球的联系，能源的分享、空间规划的挑战以及少数民族文化与主流文化之间的关系。作为法国知识分子和艺术家，我秉承着介入社会问题的传统，选择从事殖民主义研究，将自己置身于被压制、被抹杀的文化一方——哈尼族的文化。（莉塞尔∙奎罗兹Lissell Quiroz, 2019年）
+        </paragraphe>
+        <paragraphe num="55">
+            同时，我也想指出，少数民族文化消失的风险，取而代之的是占有主导地位的汉族文化，无论是在语言、教育、建筑、环境还是景观方面。我认为，在今后的几十年里，需要创造另一种发展模式。
+        </paragraphe>
+        <paragraphe num="56">
+            艺术家是“吹哨人”，我引用的艺术家们很好地发挥了这一角色的作用，指出在物质文化和非物质文化基础上繁衍，将传统品牌化和民俗化的陷阱。这篇论文旨在阐明当代艺术家——由哈尔·福斯特（Hal Foster）所认定的“民族志艺术家”运动，能够提出并揭露问题。由此可见，这篇论文试图动摇学术领域和艺术领域的界限，赋予图像另一个身份——一个宣言的身份。
+        </paragraphe>
+    </corps>
+    <bibliographie>
+        <reference>Augé M. (1997) La Guerre des rêves. Exercices d'ethno-fiction, Paris, Le Seuil.</reference>
+        <reference>白永芳 (2013), 《哈尼族服饰文化中的历史记忆——以云南省绿春县"窝拖布玛"为例》, 云南人民出版社。</reference>
+        <reference>Berque, A. (1994), Dirigé par, Cinq propositions pour une théorie du paysage. Pays Paysage, Champ Vallon, Paris.</reference>
+        <reference>Berque, A. (1995, réed. 1998), Les Raisons du paysage. De la Chine antique aux environnements de synthèse, Hazan, Paris.</reference>
+        <reference>Bouchery, P. (1995), Les Hani, introduction à l’étude d’une population tibéto-birmane du Yunnan en relation avec la Chine. Thèse de doctorat, Université Paris X, Nanterre.</reference>
+        <reference>Bouchery, P. (1999), « La rizière, "écosystème spécialisé" ? Un cas dans le sud-ouest chinois », in Études rurales N°151-152, Autres temps, autres lieux, pp. 133-165.</reference>
+        <reference>Bouchery, P. (2010), “Terrace Cultivation and Mental Landscapes in Southern Yunnan”, in Lecomte-Tilouine (Ed) Nature, Culture and Religion at the Crossroads of Asia, Routledge, New Delhi.</reference>
+        <reference>Bouchery, P. (2012), « La cosmogonie des Hani au regard des matériaux de la Chine ancienne », in Archives de sciences sociales des religions, 2012/2, N° 158, Éditions de l'EHESS, p. 11-31, https://doi.org/10.4000/assr.23821, (accessed May 2020).</reference>
+        <reference>Brinckerhoff Jackson, J. (1979), “Landscape as Theater”, in The Necessity of Ruins and other Topics. Univ. of Massachusetts Press.</reference>
+        <reference>Burnham, P. (2000), Indian Country, God's Country: Native Americans and the National Parks, Island Press, Washington, D.C.</reference>
+        <reference>Chan J., C., Ying, Z., McDonald, T. and Qi, X. (2016), “Entrepreneurship in an indigenous community: sustainable tourism and economic development in a newly inscribed UNESCO World Heritage Site”, in Iankova K., Hassan A. and L'Abbe R. (Eds), Indigenous People and Economic Development: An International Perspective, Routledge, New York, pp189-204.</reference>
+        <reference>Cheng, F. (1979), Vide et plein – Le langage pictural chinois, Seuil, Paris.</reference>
+        <reference>Condominas, G. (1965 réed 2006) L’Exotique est quotidien. Sar Luk, Vietnam central, « Terre humaine », Plon, Paris.</reference>
+        <reference>Cuthbert, D. (1998) “Beg, borrow or steal: The politics of cultural appropriation”, Postcolonial Studies Vol. 1, N°2, pp. 257-262.</reference>
+        <reference>Descola, P. (2005), Par-delà nature et culture, Bibliothèque des sciences humaines, Gallimard, Paris.</reference>
+        <reference>Eliade, M. (1965), Le sacré et le profane. Paris, Gallimard.</reference>
+        <reference>Enwezor, O. (2002), “The Black Box,” in Okwui Enwezor et al., eds., Documenta11_Platform 5: Exhibition catalogue, Hatje Cantz, Ostfildern-Ruit, pp. 42–55.</reference>
+        <reference>Enwezor, O. (2012), Intense proximité : une anthologie du proche et du lointain, CNAP, Paris. </reference>
+        <reference>Ex-Souza, F. (2020), "Du nous au je. Recherche artistique décoloniale", Tumultes n°54.</reference>
+        <reference>Foster, H. (1996), "The Artist as Ethnographer," in The Return of the Real, Cambridge, The MIT Press.</reference>
+        <reference>Gao, K. (2013), “Form and god of the cultural landscape on Hani terrace in Honghe”, Journal of Kunming University of Science and Technology, Social Science Edition, Vol. 6 n°13, pp. 91-97.</reference>
+        <reference>Geertz C. (1972), "Religious change and social order in Soeharto’s Indonesia", Asia (New-York/ N.Y./USA: Asia Society), Vol. 27 N°1, pp. 62-84.</reference>
+        <reference>Guo, W. (2019), Narrating Southern Chinese Minority Nationalities: Politics, Disciplines, and Public History. New Directions in East Asian History, Palgrave Macmillan, Singapore.</reference>
+        <reference>Jiao, Y., Liang, L., Okuro, T. and Takeuchi, K. (2011), “Indigenous ecological knowledge and natural resource management in the cultural landscape of China’s Hani Terraces”, Ecological Research, Vol. 27, pp. 247–263.</reference>
+        <reference>Jiao, Y., Liang, L., Okuro, T. and Takeuchi, K. (2014), “Ecosystem Services and Biodiversity of Traditional Agricultural Landscapes: A Case Study of the Hani Terraces in Southwest China”, in Hong SK., Bogaert J. and Min Q. (Eds) Biocultural Landscape, Springer, Dordrecht.</reference>
+        <reference>Jullien, F. (2014), Vivre de paysage ou L'impensé de la Raison, Gallimard, Paris.</reference>
+        <reference>Kimmel, C.E., Perlstein, A., Mortimer, M.J., Zhou, D. and Robertson, D.P. (2015), Sustainability of tourism as development strategy for cultural-Landscapes in China: case study of Ping'An village, Journal of Rural and Community Development, Vol. 10, pp. 121-135.</reference>
+        <reference>Kleinwechter, U. (2012), "Rural-urban migration in China: An analytical framework of migrants’ contributions to rural development", in Journal of Alternative Perspectives in the Social Sciences Vol. 4, No 4, pp. 757-789.</reference>
+        <reference>Lévi-Strauss, C. (2011), L’anthropologie face aux problèmes du monde moderne, Seuil, coll. La librairie du XXIe siècle, Paris.</reference>
+        <reference>Liu, Y. (2019), “Authenticity, Tourism and Residents: the Dilemma of Heritage Conservation in China”, in Modu Magazine: A Tale of Urban China, https://www.modumag.com/articles/authenticity-tourism-and-residents-the-dilemma-of-heritage-conservation-in-china/ (accessed March 2020)</reference>
+        <reference>McLaren, A. (2011), “Environment and Cultural Heritage in China: Introduction” in Asian Studies Review Vol. 4 n°35, pp. 429-437.</reference>
+        <reference>Milan, P. (2012), « Contournement et instrumentalisation de l’identité culturelle Mosuo dans la rencontre touristique », in Via Tourism Review n°2 (accessed March 2020)</reference>
+        <reference>Mullaney, T. (2001), Coming to Terms with the Nation, Ethnic Classification in Modern China, University of California Press, Berkeley.</reference>
+        <reference>Pola, A. (2019), When Heritage Is Rural: Environmental Conservation, Cultural Interpretation and Rural Renaissance in Chinese Listed Villages, https://www.academia.edu/39691605/When_Heritage_Is_Rural_Environmental_Conservation_Cultural_Interpretation_and_Rural_Renaissance_in_Chinese_Listed_Villages (accessed March 2020)</reference>
+        <reference>Quiroz L. (2019), "Le leurre de l’objectivité scientifique. Lieu d’énonciation et colonialité du savoir", Nouveaux Imaginaires, La production du savoir : formes, légitimations, enjeux et rapport au monde, accessed June 2020 : https://halshs.archives-ouvertes.fr/halshs-02422696.</reference>
+        <reference>Rancière, J. (2004), The Politics of Aesthetics. The Distribution for the Sensible, (trans Rockhill G.), York and New York, NY.</reference>
+        <reference>Roger, A. (1997), Court traité du paysage, Gallimard, Paris.</reference>
+        <reference>Rongxing, X. (2018), “The Pattern Language Construction of Landscape Space of Hani Traditional Settlement in Yuanyang, Yunnan Province”, https://www.atlantis-press.com/proceedings/ieesasm-17/25889611 (accessed March 2020)</reference>
+        <reference>Wang, Q. « Parcs naturels, valorisation des paysages, reconversion des territoires », conférence du 15 octobre 2019, en ligne sur le site de la Cité de l'architecture et du Patrimoine : https://www.citedelarchitecture.fr/fr/evenement/parcs-naturels-valorisation-des-paysages-reconversion-des-territoires (accessed June 2020)</reference>
+        <reference>Wang, Q. and Zhou, J. (2019), The Balance Between Environmental Protection and Regional Development: France's “Regional Natural Park” System and Practice/Yang Chen. Planners, n°17 pp. 36-43.</reference>
+        <reference>Wu, K. (2015), Reinventing Chinese Tradition: The Cultural Politics of Late Socialism, University of Illinois Press</reference>
+        <reference>Xin, L. (2000), In One’s Own Shadow: An Ethnographic Account of the Condition of Post-reform Rural China, University of California Press, Berkeley.</reference>
+        <reference>Yuen, S., (2014), "Une nouvelle réforme foncière chinoise ? Évaluation et perspectives", trad.in Perspectives Chinoises N°1, pp. 65-70.</reference>
+        <reference>Yu, L. (2018), “Alternative Indigeneity in China? The Paradox of the Buyi in the Age of Ethnic Branding” in Verge: Studies in Global Asias n°2, Vol. 4 pp. 107-134.</reference>
+        <reference>Zhu, Y. (2012), “Performing Heritage: Rethinking Authenticity in Global Tourism”, Annals of Tourism Research Vol. 3 n°39, pp. 1495-1513.</reference>
+        <reference>Zhu, Y. (2015), “Cultural Effects of Authenticity: Contested Heritage Practices in China”, International Journal of Heritage Studies, Vol. 6 n°21, pp. 594-608.</reference>
+    </bibliographie>
+    <notes>
+        <note id="1">文化侵占发生在一个占主导地位的群体借用或消费次要文化的元素时，例如，在最近的时装秀上，出现了佩戴美洲原住民头饰的情形；我想表明，这并不涉及双边文化交流。（丹妮丝·卡斯伯特 Denise Cuthbert，1998 年）</note>
+        <note id="2">奥奎∙恩维佐将第十一届卡塞尔文献展定义为 “一组学科模型，试图解释和质疑正在发生的历史进程和根本变化，空间和时间动态，行动和思想领域，以及诠释和制造系统”（Enwezor, 2002, p. 49 Platforms: Five Constellations, Domains of Knowledge and Artistic Productions, Circuits of Research）</note>
+        <note id="3">在本文的框架中，他们是属于中国人民共和国一个省份的少数民族，中国并不认可土著居民，却建立了中心学说比周边学说更为优越的观念和地位。</note>
+        <note id="4">法比亚娜·埃克斯-苏扎 （Fabiana Ex-Souza）对于“我”（je）的使用（2020年）</note>
+        <note id="5">标题《Riken no Ken》, 日本戏剧的表达，意思是“遥远的目光”，灵感来自于克洛德·列维-斯特劳斯对于民族学家的质疑（Lévi-Strauss C. , 2011, L’anthropologie face aux problèmes du monde moderne, Seuil, coll. La librairie du XXIe siècle, Paris.）。他提出了远观的技巧，建议民族学家将自己置身于所研究的群体中，以便分享并认同他们的存在。同时与自身保持距离，从外部来观看自己。哈尼族妇女为我穿上她们的服饰，肖像《Riken no ken》源于我们之间的合作。策展人奥奎∙恩维佐在捍卫 2012 年东京宫三年展“激烈的迫近”的概念同时赞许这种疏远。（奥奎∙恩维佐, 2012年）</note>
+        <note id="6">“显而易见的少数群体”意味着，虽然我生为法国人，但由于我的亚洲人外貌，而被赋予所谓的“民族”血统。</note>
+        <note id="7">与玛蒂娜·布齐耶（Martine Bouchier）围绕民族志的对话，发表于Afrikaddaa杂志，我引用了乔治·孔多米纳的话：“我们怎么可能是混血儿？”他写道，他计划对混血儿展开民族志研究，“我们每个人或多或少都是少数民族”。Afrikadaa 第九期于 2015 年出版，pp. 120-127，自2020 年 6 月起可在线阅读： https://issuu.com/afrikadaamagazine/docs/_9-anthropologismes</note>
+        <note id="8">在与玛蒂娜·布齐耶的对话中，我详细地阐述了这一进程以及绘画的功能，这种能够展开互动的媒介。（同上）</note>
+        <note id="9">帕斯卡·布舍里的翻译。</note>
+        <note id="10">帕斯卡·布舍里，2012 年，关于哈尼族的宇宙论：“其叙事结构与战国时期著名的楚国年鉴包含的宇宙起源论本质，具有相似性。”</note>
+        <note id="11">关于哈尼族宇宙论中国古代宇宙论的联系，参见帕斯卡·布舍里 (Bouchery P., 2010, “Terrace Cultivation and Mental Landscapes in Southern Yunnan”, in Lecomte-Tilouine (Ed) Nature, Culture and Religion at the Crossroads of Asia, Routledge, New Delhi.)</note>
+        <note id="12">引文出自画家宗炳，公元四世纪，里昂·赫里庵（Leon Hurvitz）, 1970, Tsung Ping's Comments on Landscape Painting, Artibus Asiae, Vol. 32, No. 2-3, pp. 146–156.</note>
+        <note id="13">在此，作者借用了居伊·德博（Guy Debord）的哲学著作《景观社会》，在书中，德博追溯了现代社会的发展过程，在其中真实的社会生活已被表象所取代。“景观”就是商品关系取代人的关系的社会的颠倒的表象。Guy Debord, La Société du spectacle, Buchet/Chastel, Paris, 1967.</note>
+        <note id="14">引文出自米尔恰·伊利亚德的《神圣与世俗》，1956 年著</note>
+        <note id="15">家族姓氏已被更改。我的东道主不是我关于民族志调查的“线人”。我不想利用他们的形象，也不想利用他们在私人场合发表的意见。如果那时他们表达了希望参与调查的愿望，那么情况会大不相同，我将希望他们成为共同作者。放弃我地理学的论文，离开大学，选择艺术家的身份，对于我来说是对学院立场的解构。我很清楚，艺术家有时处于类似于人类学家的悬空状态。但在我看来，这种悬空与“素材”收集、加工以及创作的生成密切相关：它们是否会被展览、出售，换句话说，“另一种”文化是否会遭遇文化侵占？我将继续探索这些复杂的问题。</note>
+        <note id="16">“马赛克”这个词的意思在这里与“补丁”相近。一个形象的比喻：不同事物的混合构成一个整体。</note>
+        <note id="17">这些知识，特别是帕斯卡·布舍里（1990 年）提到的哈尼族药典，尽管内容丰富，却受到某种形式的知识论压迫。</note>
+        <note id="18">北京的政策，其中前两个阶段——建立体制和管理框架，以便在 2020 年之前振兴农村，到2030年实现农村和农业现代化。https://www.scmp.com/news/china/politics/article/2189358/china-plans-law-make-reviving-rural-areas-priority-modernisation</note>
+        <note id="19">对于水稻田唯一的描述，来自 1637 年的《天工开物》，“对于自然资源的开发”，其中包括农业和手工业方面的插图。</note>
+        <note id="20">https://www.chinahighlights.com/kunming/photography-tips-at-yuanyang-terraces.htm</note>
+        <note id="21">同上</note>
+        <note id="22">马先生的家族已不再拥有这种庆典首饰，我在云南出版的一本书中发现了它的照片。(白永芳，2013，p. 91)</note>
+        <note id="23">56 个少数民族，56作为数字在 1953 年受到争议，1954 年被正式确定，尤其在云南省，曾经有200个不同的民族声称他们的存在。（墨磊宁 Thomas S. Mullaney, 2011年）</note>
+        <note id="24">罗钰，《Packaging Craftwork, Sharing Heritage: Collaborative Brand Promotion in Multiethnic Southwest China》, 第 11 届亚洲学者国际大会, ICAS 11, 2019, 荷兰莱顿。</note>
+        <note id="25">2016年 3 月 12 日，邱志杰受北京尤伦斯当代艺术中心馆长兼共同策展人田霏宇（Philip Tinari）的邀请，参加《本土》展览期间的研讨会。</note>
+        <note id="26">红河哈尼族水稻梯田文化景观：https://whc.unesco.org/fr/list/1111/</note>
+        <note id="27">法国开发署网站：https://www.afd.fr/sites/afd/files/2018-10-11-24-38/guide-methodologique-dispositif-analyse-avis-d%C3%A9veloppement-durable.pdf</note>
+        <note id="28">王茜，《 Parcs naturels, valorisation des paysages, reconversion des territoires 》，2019 年 10 月 15 日的讲座，建筑与遗产之城网站在线阅读：</note>
+        <note id="0">ttps://www.citedelarchitecture.fr/fr/evenement/parcs-naturels-valorisation-des-paysages-reconversion-des-territoires</note>
+        <note id="29">中国强迫移民的社会政治影响。以大型水利工程三峡大坝为例：</note>
+        <note id="0">ttps://www.sciencespo.fr/ceri/sites/sciencespo.fr.ceri/files/etude103.pdf</note>
+        <note id="30">法国开发署网站：https://www.afd.fr/sites/afd/files/2018-10-11-24-38/guide-methodologique-dispositif-analyse-avis-d%C3%A9veloppement-durable.pdf</note>
+        <note id="31">我借用迈克尔·塞尼（ Michael Cernea ）的这句话：https://journals.openedition.org/geocarrefour/504#ftn2 </note>
+        <note id="32">2005 年世界报上的文章，《水电站大坝，中国云南少数民族的现代祸患》 https://www.lemonde.fr/asie-pacifique/article/2005/07/02/les-barrages-hydroelectriques-fleau-moderne-des-minorites-du-yunnan-chinois_668681_3216.html</note>
+        <note id="33">凌旻华，《Consumption of Packaged Convenience Food among Left-behind Children in Rural China》, 第十一届国际亚洲研究学者大会（ICAS 11），2019年，荷兰莱顿。</note>
+        <note id="34">由于山地的陡坡，农业工作非常艰难，于是形成了并不适用于机械化的狭窄地块。</note>
+        <note id="35">人类学家于晓刚的例子就是很好的证明，他在非政府组织绿色流域（ONG Green Watershed）中成为少数民族环境的热忱捍卫者。https://www.chinadialogue.net/culture/8785-Yu-Xiaogang-wins-prize-for-community-conservation/en</note>
+        <note id="36">展览画册，由苏珊娜·佩奇（Suzanne Pagé ）、劳伦斯·博塞（Laurance Bossé ）和田霏宇（Philip Tinari）编著，2016 年，《本土：变革中的中国艺术家》，巴黎路易威登基金会</note>
+        <note id="37">米丽安∙陶（Myriam Dao），2016 年，《回到乡村：路易威登基金会的中国艺术家》 http://vernaculaire-adventice.com/retour-a-la-campagne-artistes-chinois-a-la-fondation-louis-vuitton/</note>
+        <note id="38">“我们应该寻找问题的根源，然后，试着找到解决的方法。”由胡向前译。</note>
+        <note id="39">然而应该指出的是，广西自治区赋予壮族比云南自治区赋予哈尼族更大的自治权。</note>
+    </notes>
+</article>

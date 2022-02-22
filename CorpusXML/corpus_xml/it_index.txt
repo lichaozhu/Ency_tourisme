@@ -1,0 +1,39 @@
+it_MGBNG_32-20_Ii_0;https://journals.openedition.org/viatourism/1188 ;Immaginari turistici
+it_HV_46-80_Lo_0;https://journals.openedition.org/viatourism/1237 ;L’infimo culturale e l’immaginario turistico - L’aneddoto nelle guide di viaggio
+it_TD_22-153_Li_0;https://journals.openedition.org/viatourism/1309 ;L’autenticità mediante la messa in scena. Analisi dialogica delle attività turistiche e culturali della piazza Jemaa El Fna e delle loro rappresentazioni
+it_SJ_7-60_Uo_0;https://journals.openedition.org/viatourism/1642 ;Un passo in più verso il tutto turismo e il tutto patrimonio
+it_SJ_6-25_Ao_0;https://journals.openedition.org/viatourism/1644 ;A cosa serve il turismo ?
+it_BDJFSOT_9-31_Te_0;https://journals.openedition.org/viatourism/1062 ;Turismo e dinamiche identitarie
+it_RK_6-52_Di_0;https://journals.openedition.org/viatourism/1603 ;Della diversa sorte dei “Grandi Hotels” dei Grigioni
+it_PN_27-71_So_0;https://journals.openedition.org/viatourism/1015 ;“Souvenirs” di Vukovar: Turismo e memoria nel territorio post-jugoslavo
+it_BR_23-142_Io_0;https://journals.openedition.org/viatourism/1033 ;Itinerari e luoghi visitati tra organizzazione e reinterpretazione: creazione di uno spazio-tempo turistico nei villaggi lobi di Burchina Faso
+it_MGBSJ_51-89_Pe_0;https://journals.openedition.org/viatourism/854 ;Patrimonio mondiale, turismo e sviluppo sostenibile in Africa: discorsi, approcci e sfide
+it_MB_39-155_Ae_0;https://journals.openedition.org/viatourism/928 ;Alla ricerca di radici nel mondo « per una vita migliore ». Incontrarsi tra residenti e turisti a Lalibela (Etiopia), piccola città del patrimonio mondiale
+it_EM_58-126_Co_1;https://journals.openedition.org/viatourism/974 ;Cultura e turismo? Limiti e potenzialità dello sviluppo turistico sostenibile a Gorée, Senegal e Ilha de Moçambique, Mozambico
+it_YS_51-106_Ce_1;https://journals.openedition.org/viatourism/759 ;Chi conserva l’immagine della “Vecchia Inghilterra”? - Turismo e fenomeni migratori nella campagna inglese
+it_HT_15-10_Ee_0;https://journals.openedition.org/viatourism/665 ;Editoriale
+it_DMCPFFA_53-86_De_1;https://journals.openedition.org/viatourism/654 ;Da bacino minerario a bacino della cachaça: sviluppo e cultura nelle regioni minerarie
+it_MJVWG_74-131_Pa_1;https://journals.openedition.org/viatourism/508 ;Paesaggi della memoria della Grande Guerra (1914-1918) Un cambiamento paradigmatico nella ricerca turistica sull’heritage di guerra
+it_JFS_5-35_To_0;https://journals.openedition.org/viatourism/1633 ;Tahiti: l´altro lato dello scenario
+it_ABM_51-50_Te_0;https://journals.openedition.org/viatourism/814 ;Turismo e dimore di scrittore, tra libri e lettere
+it_CR_21-35_Io_1;https://journals.openedition.org/viatourism/300 ;Il turismo partecipativo a Milano. 
+it_PBJMDRK_46-43_Ea_0;https://journals.openedition.org/viatourism/1341 ;Esperienze turistiche e traiettorie di vita
+it_FDAM_23-65_La_1;https://journals.openedition.org/viatourism/1398 ;Le pratiche turistiche dell’infanzia: una prospettiva rinnovata ?
+it_FP_45-68_Lo_0;https://journals.openedition.org/viatourism/1449 ;L’esperienza di un industriale del tessile agli inizi del XX secolo 
+it_MGBJFSNG_60-65_Li_0;https://journals.openedition.org/viatourism/1831 ;L’erotizzazione dei Iuoghi turistici. Spazi, attori e immaginari 
+it_LG_66-49_Fa_1;https://journals.openedition.org/viatourism/1733 ;Fumo proibito: la sigaretta erotica dell’Odalisca
+it_JMDAD_21-39_Li_0;https://journals.openedition.org/viatourism/2743 ;La fabbricazione dei concetti turistici
+it_KFG_48-72_Vo_1;https://journals.openedition.org/viatourism/2653 ;Valutazione e promozione della ricerca sulla gentrificazione del turismo
+it_JFS_12-10_Ee_0;https://journals.openedition.org/viatourism/2931 ;Editoriale
+it_HCCH_50-64_Dd_0;https://journals.openedition.org/viatourism/3126 ;“Dalla Russia con… ”: turismo e turisti nella saga di James Bond
+it_None_30-69_La_0;https://journals.openedition.org/viatourism/4087 ;Le sfide le turismo di fronte alla costruzione della pace in Colombia
+it_AAB_51-186_Ia_1;https://journals.openedition.org/viatourism/3768 ;Istituire il turismo, una questione di territorialità: logiche nazionali, modi e mezzi dell’azione locale. Uno studio dei comuni colombiani di La Mesa (Cundinamarca) e Villavieja (Huila)
+it_LBEP_20-55_Ii_0;https://journals.openedition.org/viatourism/4107 ;Il turismo alla prova dei paradigmi post- e decoloniali
+it_SC_35-175_Da_0;https://journals.openedition.org/viatourism/4412 ;Dalla crescita turistica di un villaggio alla delocalizzazione della sua popolazione: fenomenologia di una relazione gerarchica tra lo stato cinese e la minoranza nazionale wa
+it_RK_74-39_Se_1;https://journals.openedition.org/viatourism/4799 ;Stromboli ou le tourisme roulette russe
+it_RK_74-39_Sa_0;https://journals.openedition.org/viatourism/4856 ;Stromboli, una roulette russa turistica
+it_PDPBEG_9-54_Ii_0;https://journals.openedition.org/viatourism/5088 ;Il paesaggio come risorsa turistica degli spazi rurali
+it_TTLHPD_34-133_Lm_0;https://journals.openedition.org/viatourism/5186 ;L’importanza delle aree rurali periferiche nella costruzione da parte e per il turismo dell’identità della regione di Dalat (Vietnam)
+it_AF_29-131_Va_1;https://journals.openedition.org/viatourism/5892 ;Vivere in montagna: Mobilità, forme di residenzialità e identità locali dei nuovi abitanti di un comprensorio sciistico in Svizzera
+it_CCAS_39-165_Li_0;https://journals.openedition.org/viatourism/6132 ;L’arretramento dei ghiacciai e la comprensione del cambiamento climatico da parte degli attori del turismo locale. Il caso di Chamonix-Mont-Blanc nelle Alpi francesi
+it_EM_9-109_Ao_1;https://journals.openedition.org/viatourism/6351 ;Analisi della localizzazione culturale nella promozione online del turismo. Riassunto della tesi di dottorato

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="ca_MTFNJFRLCPALNS_59-61_Ls_0" source="https://journals.openedition.org/viatourism/6466" lang="ca">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <DOI>https://doi.org/10.4000/viatourism.6466</DOI>
+        <revue>Viatourism</revue>
+        <numero>18</numero>
+        <annee>2020</annee>
+    </meta>
+    <traductions>
+        <original lang="fr" source="6380">
+            <traducteur nom="Roig" prenom="Estela Mariné" />
+            Les sites patrimoniaux exceptionnels, une ressource pour les territoires
+        </original>
+        <traduction lang="en" source="6448">Outstanding heritage sites, a resource for the territories</traduction>
+    </traductions>
+    <auteurs>
+        <auteur nom="Talandier" prenom="Magali" email="magali.talandier@univ-grenoble-alpes.fr">
+            <oeuvres>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                Professora d’urbanisme i desenvolupament, Universitat Grenoble Alps, UMR PACTE, 
+            </description>
+        </auteur>
+        <auteur nom="Navarre" prenom="Françoise">
+            <oeuvres>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                Lectora de l'Escola d'Urbanisme de París, UMR Lab'Urba 
+            </description>
+        </auteur>
+        <auteur nom="Ruault" prenom="Jean-François">
+            <oeuvres>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                Investigador, INRAE 
+            </description>
+        </auteur>
+        <auteur nom="Cormier" prenom="Laure">
+            <oeuvres>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                Lectora de la Universitat de Tours, UMR CITERES 
+            </description>
+        </auteur>
+        <auteur nom="Landel" prenom="Pierre-Antoine">
+            <oeuvres>
+                <publication id="fr_LGPAL_31-88_Pe_1" source="https://journals.openedition.org/viatourism/1364" lang="fr">Psammotourisme. Le sable au désert comme expérience et ressource touristique spécifique </publication>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                Lector, Universitat Grenoble Alpes, UMR PACTE 
+            </description>
+        </auteur>
+        <auteur nom="Senil" prenom="Nicolas">
+            <oeuvres>
+                <publication id="fr_MTFNJFRLCPALNS_56-72_Ls_1" source="https://journals.openedition.org/viatourism/6380" lang="fr">Les sites patrimoniaux exceptionnels, une ressource pour les territoires</publication>
+            </oeuvres>
+            <description>
+                Enginyer investigador, Universitat de Grenoble Alpes, UMR PACTE 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>Llocs patrimonials excepcionals, un recurs per als territoris</titre>
+    <sousTitre>Article revisat per parells</sousTitre>
+    <resume>
+        Els llocs patrimonials excepcionals condensen en els territoris que els acullen reptes de desenvolupament econòmic, gestió financera, governança, apropiació i preservació del patrimoni. Fonts d’atractivitat, però també factors de tensions, quins impactes socioeconòmics locals podem esperar d’aquests llocs excepcionals, com ara els que formen part de la xarxa Grans Llocs de France o els classificats com a Patrimoni de la Humanitat per la UNESCO? Per respondre a aquesta qüestió, l’article mobilitza la noció de recurs territorial per tal d’entendre l’impacte del lloc pel que fa al context territorial i la coordinació dels actors locals. A partir d’un estudi quantitatiu i qualitatiu realitzat a França, els resultats posen de manifest l’existència d’almenys tres tipus d’impactes i processos. Els llocs excepcionals poden ser un recurs ordinari, que accentua dinàmiques o conflictes segons el cas; o bé un recurs latent, que no té activació; o, finalment, una poderosa palanca per a la transformació local. Lluny del miracle patrimonial esperat, aquestes anàlisis mostren fins a quin punt la coordinació entre actors públics i privats és essencial per fer del patrimoni un veritable recurs per als territoris.
+    </resume>
+    <corps>
+        <section niveau="h1">Introducció</section>
+        <paragraphe num="1">
+            La descentralització ha dotat l’àmbit local de més mitjans i competències per compensar l’increment de costos i responsabilitats. La naturalesa i la importància d’aquests costos són tanmateix desiguals, en funció del context i les problemàtiques trobades localment. Més enllà del ja clàssic dualisme entre el context urbà i el context rural, l’existència de llocs patrimonials excepcionals –en virtut del seu reconeixement internacional o dels seus problemes de gestió– introdueix càrregues addicionals a les comunitats que n’asseguren d’una manera aclaparadora la gestió<a class="footnotecall" href="#ftn1" id="bodyftn1">1</a> i l’obertura al públic. També, un dels arguments plantejats per justificar i acceptar una transferència de costos a nivell local és la suposada existència de compensació en termes de repercussions econòmiques. En aquest àmbit de discussió, el finançament i el manteniment dels llocs patrimonials són objecte de nombroses negociacions, de vegades conflictives, entre els estats i els diversos nivells de governança local. És en aquest context que el Pla Urbanisme Construcció i Arquitectura (PUCA), a França, va llançar el 2014 un programa de recerca sobre el tema dels llocs excepcionals i els seus impactes en el desenvolupament local. Aleshores es va entendre el caràcter excepcional, és a dir a la llum de les singulars dificultats de gestió i rehabilitació dels 41 membres de la Xarxa de Grans Llocs de França<a class="footnotecall" href="#ftn2" id="bodyftn2">2</a>, o pel que fa al reconeixement extraordinari que atorga el segell UNESCO (39 a França). Per a l'equip de recerca, l'objectiu era recolzar-se en aquestes dues xarxes constituïdes d’actors del patrimoni<a class="footnotecall" href="#ftn3" id="bodyftn3">3</a> i això, tant per seleccionar els llocs sobre la base de criteris de prestigi i qüestions de gestió, com també per facilitar futures enquestes i treballs de camp. Aquest mètode de selecció també va tenir el mèrit de no posar l’èmfasi directament en un criteri d’afluència turística. Aquest últim hauria tendit a prestar atenció només als llocs que de fet produeixen efectes econòmics relacionats amb el turisme. Els resultats d'aquesta recerca portada durant quatre anys qüestionen les conseqüències socioeconòmiques dels llocs patrimonials excepcionals en tant que recurs territorial (Talandier <em>et al.</em>, 2019; Ruault i Talandier, 2020)<a class="footnotecall" href="#ftn4" id="bodyftn4">4</a>.
+        </paragraphe>
+        <paragraphe num="2">
+            De fet, la teoria dels recursos territorials postula que hi ha coordinacions territorialitzades d’actors que treballen per activar i mobilitzar recursos locals útils per al desenvolupament (Gumuchian i Pecqueur, 2007). Es pot considerar que les comunitats locals són institucions que regulen i influeixen en el comportament dels actors dins dels límits del seu perímetre administratiu. En fer-ho, perquè el patrimoni sigui un recurs per a una comunitat local, encara hi ha d’haver una coordinació d’actors territorials per posar en valor el patrimoni i, per tant, s’han d’exposar les disparitats territorials.
+        </paragraphe>
+        <paragraphe num="3">
+            En la literatura, la qüestió de la participació dels actors territorials en la construcció del patrimoni com a recurs és generalment absent, encara que se li atribueix al patrimoni la qualitat de ser un factor d'activitat econòmica i una palanca de desenvolupament econòmic local (Keser, 2016; Dans i González, 2019; Cernea, 2001). Una literatura abundant, tant acadèmica com professional, informa dels impactes econòmics del patrimoni (Navrud <em>et al</em>., 2002; Mourato, 2002; Mason, 2005; Rudokas <em>et al.</em>, 2019); en particular a través dels efectes de la despesa turística en l'ocupació, els ingressos, la inversió i, fins i tot, els preus de la propietat (Lazrak <em>et al.</em>, 2014); i pel que fa als impactes tant directes, com indirectes o induïts (Bowitz i Ibenholt, 2009). En molts casos, el patrimoni és descrit com un recurs en tant que programa d'inversió (Tomaney <em>et al.</em>, 2010; Dalmas <em>et al.</em>, 2015), com un capital, tant cultural (Greffe, 2004; Rypkema <em>et al.</em>, 2011) com productiu –que implica el desenvolupament de nous serveis i ingressos (González, 2014; Throsby, 2003).
+        </paragraphe>
+        <paragraphe num="4">
+            Debaten plenament sobre la qualitat dels beneficis en termes de llocs de treball (Caffyn i Lutz, 1999), la realitat dels costos per a les comunitats locals (Bowitz i Ibenholt, 2009) i les molèsties –com ara el risc d’exclusió de les poblacions locals. (Horáková, 2013)– però, al mateix temps, queda la idea recurrent que el patrimoni local pot constituir un avantatge competitiu i qualitatiu en el joc de la competència territorial (Bole <em>et al</em>., 2013).
+        </paragraphe>
+        <paragraphe num="5">
+            La teoria dels recurs territorial ens permet pensar que el vincle entre patrimoni i desenvolupament està lligat a l’èxit del procés de coordinació dels actors territorials. Per aconseguir els efectes esperats en termes d’inversió i activitats, cal que hi hagi una certa estabilitat de l’economia local a llarg termini, una estabilitat de la comunitat, per oferir serveis turístics duradors. Requereixen igualment un enfocament consensuat i el desplegament d’un recurs patrimonial (Ashworth, 2003). Negussie (2006) insisteix en aquest sentit en el fet que la gestió patrimonial ha de tenir en compte les especificitats econòmiques i culturals dels contextos locals, però també nacionals (Nyseth i Sognnaes, 2013; Conway, 2014). A més, en aquests diferents punts, és difícil determinar si l'excepcionalitat d'un lloc patrimonial facilita o complica la promoció del patrimoni com a recurs. Fins i tot sembla que el vincle entre la inclusió a la llista del patrimoni mundial de la UNESCO i el desenvolupament econòmic local és força dèbil. Aquest enllaç apareix com una cadena amb diverses baules (Prud'homme <em>et al</em>., 2008). Una primera baula vincula el registre i l’atractiu patrimonial, una segona vincula l’atractiu patrimonial i el turisme, una tercera vincula el turisme i el desenvolupament local. Tanmateix, cadascuna d’aquestes baules fa que la cadena sigui fràgil i incerta. Els reptes econòmics, però també la identitat (Debarbieux, 2012) i les repercussions culturals dels llocs excepcionals depenen de la capacitat de mobilització i gestió dels actors públics i privats (Gravari-Barbas <em>et al</em>., 2014; 2016).
+        </paragraphe>
+        <paragraphe num="6">
+            Per tant, els treballs acadèmics suggereixen que el patrimoni, fins i tot quan es reconeix com excepcional, pot tenir un impacte positiu en els territoris, sempre que aquest recurs sigui objecte d’una construcció territorial (Gravari-Barbas, 2002 ). Així, sembla determinant tenir en compte el context local i el joc dels actors.
+        </paragraphe>
+        <paragraphe num="7">
+            La nostra hipòtesi central es construeix així al voltant d’aquests dos elements. En primer lloc, considerem que l’impacte territorial dependrà dels efectes estructurals locals. Un lloc patrimonial situat en un territori industrial, per exemple, no tindrà els mateixos avantatges locals que un lloc situat en un territori turístic i atractiu. Llavors, postulem que el paper dels actors locals és decisiu per activar o millorar realment el recurs patrimonial. Així, el patrimoni és un recurs latent que requereix una activació real o valorització local per convertir-se en un recurs territorial (Landel i Sénil, 2009). S'ha establert un enfocament espacial sobre la base d'una mobilització de mètodes mixtos (quantitatius i qualitatius). Aquesta metodologia ens permet capturar els impactes socioeconòmics dels llocs estudiats en relació amb les característiques dels territoris en els quals es situen, però igualment els processos de valorització i de coordinació dels actors que condicionen aquests impactes.
+        </paragraphe>
+        <paragraphe num="8">
+            L’article s’organitza en tres parts. Després de presentar la nostra metodologia, desenvolupem els nostres resultats, posant èmfasi en primer lloc en els contextos estructurals locals, després en els joc dels actors entorn de la noció de recurs territorial.
+        </paragraphe>
+        <section niveau="h1">I. Una metodologia mixta</section>
+        <paragraphe num="9">
+            L’ús de mètodes mixtos equival a afavorir una combinació de mètodes qualitatius i quantitatius en lloc de donar prioritat a un dels dos paradigmes de recerca. Aquest enfocament es presta bé al nostre doble objectiu: mesurar l’impacte del patrimoni en un context local específic d’una banda i, per altra banda, identificar les possibles tensions amb què s’enfronten els actors dels llocs, quina és la seva mobilització per superar-les. Analitzar l’impacte socioeconòmic del patrimoni sobre el territori suposa tant l’ús de dades quantificades (llocs de treball, ingressos, atractiu turístic, elements fiscal-financers, etc.), com també la consideració d’atributs socials i culturals (trajectòries històriques del territori, sistemes de governança, etc.). La qüestió de l’impacte turístic és un dels components estudiats. El mètode d’investigació es basa en tres grans fases de recollida i processament de materials: una anàlisi tipològica (basada en dades socioeconòmiques), una campanya d’entrevistes i la seva anàlisi per a set llocs d’estudi a França; una anàlisi quantitativa (evidenciant l'impacte dels llocs en el desenvolupament socioeconòmic local)<a class="footnotecall" href="#ftn5" id="bodyftn5">5</a>.
+        </paragraphe>
+        <paragraphe num="10">
+            D’entrada, es va construir una base de dades per als 70 llocs patrimonials excepcionals de França. Un primer treball tipològic va permetre caracteritzar els llocs en el seu context territorial. A continuació, es van triar set llocs d’estudi per la seva representativitat dels contextos identificats: Bassin minier du Nord-Pas-de-Calais, Marais Poitevin, Baie de Somme, Canal du Midi, Ocres du Roussillon, Grotte Chauvet-Gorges de l’Ardèche i el reconstruït centre de la ciutat de Le Havre<a class="footnotecall" href="#ftn6" id="bodyftn6">6</a>. Es va dur a terme una campanya d’entrevistes per informar sobre els reptes i problemàtiques als quals s’enfronten els actors locals públics i privats en els llocs patrimonials excepcionals (la llista de persones es troba a l’annex 1).
+        </paragraphe>
+        <paragraphe num="11">
+            Ara expliquem quines són les nostres escales d’anàlisi i els nostres principis de l’anàlisi quantitativa realitzada.
+        </paragraphe>
+        <section niveau="h2">A. Llocs i escales d'anàlisi</section>
+        <paragraphe num="12">
+            Vam considerar els 70 llocs patrimonials presents a la França metropolitana, reconeguts com a excepcionals per la seva fama i/o pels problemes de gestió que plantegen, donant lloc a una inscripció a la llista del patrimoni mundial UNESCO, o a un reconeixement per part de la Xarxa de Grans Llocs de França (documents 1 i 2). 
+        </paragraphe>
+        <paragraphe num="13">
+            L'anàlisi quantitativa dels impactes econòmics es duu a terme a diverses escales, per tal de caracteritzar el lloc en el seu context (document 3). L’escala més petita considerada és la del municipi –o fins i tot dels municipis– on es troba el lloc. Aquesta escala és extremadament precisa, ja que França compta amb més de 35.000 municipis, un 75% dels quals tenen menys de 1.000 habitants. Podem caracteritzar el lloc i observar-ne l’impacte el més a prop possible de la seva ubicació. A la resta del text, parlarem del lloc per qualificar aquesta escala d’observació. La nostra segona escala d’anàlisi és la del territori o territoris del lloc, definits per les inter-municipalitats o institucions públiques de cooperació municipal (EPCI) amb tributació pròpia en què es troba el lloc. Des del punt de vista socioeconòmic, es pot considerar que els principals impactes del lloc van molt més enllà dels límits –estrets– de la malla municipal i que apareixen en primer lloc als municipis circumdants. A més, el perímetre intercomunitari és, efectivament, aquell dins del qual s’exerceixen competències en matèria de desenvolupament econòmic, planificació del territori, construcció d’equipaments locals, posats a prova per les tensions causades per llocs excepcionals, sobretot pel que fa a la gestió de la (sobre)freqüentació i la necessitat de preservació. A més, el desenvolupament territorial posa en joc sistemes de fluxos i vincles que es desenvolupen a diferents escales. També, més enllà del lloc (municipis) i del territori o del context on es troba (EPCI), els efectes de propagació i de formació arriben als territoris veïns. Com a resultat, conservem, com a tercera escala d’anàlisi, els EPCIs limítrofes<a class="footnotecall" href="#ftn7" id="bodyftn7">7</a>. Per tal d’entendre les particularitats atribuïbles a llocs excepcionals, es posicionen els EPCIs dels llocs i els seus adjacents respecte a les mitjanes nacionals vàlides per a les inter-municipalitats<a class="footnotecall" href="#ftn8" id="bodyftn8">8</a>. 
+        </paragraphe>
+        <paragraphe num="14">
+            Nota: els llocs Unesco i Grands Sites de France es defineixen a nivell del municipi o municipis que els acullen; el territori del lloc està determinat per les EPCI (o EPCIs) que contenen els municipis del lloc; els territoris limítrofs estan definits pels EPCI contigus, limítrofs als EPCIs que contenen els llocs.
+        </paragraphe>
+        <section niveau="h2">B. Construcció d’una base de dades socioeconòmiques localitzades</section>
+        <paragraphe num="15">
+            L’enfocament quantitatiu es basa en la construcció d’una base de dades socioeconòmiques sense precedents a escala dels municipis i inter-municipalitats francesos per tenir en compte les tres escales d’anàlisi (municipis del lloc, EPCI del lloc i EPCI limítrofs, en comparació amb la mitjana d'altres EPCI francesos amb sistemes fiscals propis).
+        </paragraphe>
+        <paragraphe num="16">
+            Les variables utilitzades per a l’anàlisi quantitativa es presenten a l’annex 2. Són escollides per respondre a tres postulats sobre l’impacte dels llocs com a recurs territorial:
+        </paragraphe>
+        <paragraphe>
+            El lloc excepcional és un recurs turístic i la seva presència repercuteix en el nombre de visitants del territori (anàlisi del potencial d’allotjament turístic, llocs de treball i bases econòmiques turístiques);
+        </paragraphe>
+        <paragraphe>
+            El lloc excepcional és un recurs econòmic capaç d’impulsar diversos sectors d’activitat al territori (càlculs de bases econòmiques, i anàlisi sectorial de llocs de treball);
+        </paragraphe>
+        <paragraphe>
+            El lloc excepcional és un recurs per al desenvolupament local (anàlisi dels fonaments del desenvolupament a través de la demografia, els ingressos de les llars i el perfil de la població).
+        </paragraphe>
+        <paragraphe num="17">
+            L’anàlisi d’aquestes variables, en un moment determinat i en la dinàmica, ens permet definir una tipologia de llocs als seus territoris, per després analitzar la dinàmica territorial.
+        </paragraphe>
+        <section niveau="h1">II. Contextos territorials variats</section>
+        <paragraphe num="18">
+            Per tal de caracteritzar els llocs en el seu context territorial i orientar la selecció dels set casos d’estudi francesos<a class="footnotecall" href="#ftn9" id="bodyftn9">9</a>, hem realitzat una anàlisi de components principals sobre les variables definides anteriorment. Aquest mètode associat a l'ús de Rhô de Spearman fa possible, durant la construcció dels eixos, neutralitzar els valors extrems, especialment presents en l'anàlisi espacial. A continuació, es va dur a terme una classificació jeràrquica ascendent (CAH) sobre els tres primers components principals, que explica el 65% de la inèrcia total del núvol de punts (detalls a l'annex 3). Aquest mètode s'aplica a les diferents escales estudiades.
+        </paragraphe>
+        <paragraphe num="19">
+            A nivell dels EPCIs, l’eix 1 de l’anàlisi de components principals (ACP) oposa les zones residencials i turístiques a les zones productives i socialment afeblides. L’eix 2 diferencia EPCIs molt dinàmics pel que fa al desenvolupament (canvi positiu de població, llocs de treball, ingressos, atractiu migratori) als EPCIs menys eficients, o fins i tot en decadència econòmica i demogràfica. Finalment, l’eix 3 permet identificar els EPCIs caracteritzats per una població força rica (proporció de gestors i ingressos elevats amb una representació excessiva) i EPCIs socialment menys afavorits.
+        </paragraphe>
+        <paragraphe num="20">
+            Sobre la base dels tres primers components principals, els resultats de la CAH ens permeten distingir sis tipus de territoris:
+        </paragraphe>
+        <paragraphe>
+            Tipus 1: Els grans centres urbans i la seva perifèria propera que es distingeixen per una alta densitat de població, una gran proporció de gestors, alts nivells d’ingressos i una elevada base productiva.
+        </paragraphe>
+        <paragraphe>
+            Tipus 2: Els llocs turístics més alts es caracteritzen pel seu atractiu turístic però també residencial. Més d’un terç de la base econòmica està relacionada amb el turisme i la població jubilada que hi ha és més important que en altres llocs. La migració neta és positiva.
+        </paragraphe>
+        <paragraphe>
+            Tipus 3: Els EPCI residencials dinàmics es caracteritzen per una base residencial important, un fort creixement de la població, llocs de treball i ingressos. Poden ser turístics, però a diferència del tipus 2, aquesta no és mai la seva principal funció.
+        </paragraphe>
+        <paragraphe>
+            Tipus 4: Els territoris productius en declivi es caracteritzen per una base productiva important i canvis negatius o fluixos en la població, els llocs de treball i els ingressos.
+        </paragraphe>
+        <paragraphe>
+            Tipus 5: Els territoris productius dinàmics presenten, com els precedents, bases productives importants, però aquesta vegada combinades amb una evolució positiva de les variables de desenvolupament territorial. Alguns d’aquests espais poden ser turístics, però aquesta no és mai la seva primera vocació.
+        </paragraphe>
+        <paragraphe>
+            Tipus 6: Els territoris menys típics tenen bases productives, residencials i turístiques que s’ajusten més a la mitjana nacional. El seu dinamisme econòmic (tots els sectors combinats) i demogràfic és molt moderat.
+        </paragraphe>
+        <paragraphe num="21">
+            Menys de la meitat dels municipis amb un lloc excepcional són llocs turístics (32 casos), 8 són productius (2 dinàmics i 6 en declivi), 10 es troben en centres urbans, 11 són residencials i, finalment, 8 semblen menys típics ( document 4).
+        </paragraphe>
+        <paragraphe>
+            <img alt="Image 100000000000056500000395B4856FD069F981E9.tif" src="docannexe/image/6466/img-4.tif"/>
+        </paragraphe>
+        <paragraphe num="22">
+            La cartografia d’aquests tipus subratlla una concentració al nord d’EPCIs productius o industrials, el més sovint en declivi socioeconòmic i demogràfic. Aquest tipus de territori també és present en determinades zones rurals del centre de França. Aquests territoris han estat sovint penalitzats pels processos de desindustrialització que la crisi del 2008 només va accentuar. La Baie de Somme i la Bassin minera Nord-Pas-de-Calais han estat seleccionades com a camps d’estudi per il·lustrar aquest tipus de territori. La presència de llocs patrimonials excepcionals en aquests difícils contextos post-industrials permet canviar la trajectòria de desenvolupament?
+        </paragraphe>
+        <paragraphe num="23">
+            Els territoris productius dinàmics no responen pas a una distribució espacial particular i estan presents a tot el territori. Dins d’ells, hi ha llocs turístics o residencials (els Deux Caps i les Dunes de Flandres) que podrien dificultar el desenvolupament d’activitats d’exportació creadores de riquesa, però també permetrien a la regió diversificar la seva economia. El lloc Marais Poitevin va ser escollit com a terreny per aclarir millor aquestes qüestions.
+        </paragraphe>
+        <paragraphe num="24">
+            Les zones residencials i turístiques es concentren al sud del Loira. La seva situació sembla força favorable en termes de dinàmica de llocs de treball, ingressos i població. Tanmateix, aquí sorgeix la qüestió del grau de dependència del turisme i de les pressions que es poden exercir sobre el lloc. Emblemàtics d’aquest tipus de configuracions, el Canal du Midi que uneix Tolosa de Llenguadoc amb la Mediterrània i els Ocres del Rosselló a la Provença van ser escollits com a terrenys d’estudi per representar aquest tipus de configuració.
+        </paragraphe>
+        <paragraphe num="25">
+            Finalment, entre els EPCI menys típics, hi ha una forta presència de llocs patrimonials situats en una ciutat mitjana (Théâtre antic i Arc de Triomphe d’Orange, catedral de Bourges, per exemple).
+        </paragraphe>
+        <paragraphe num="26">
+            Aquesta tipologia ens va permetre caracteritzar els llocs (municipis) en el seu context territorial (EPCI de pertinença i EPCI limítrofes). L'anàlisi dels impactes dels llocs sobre el desenvolupament territorial ha de tenir en compte aquesta diversitat de situacions locals, però també introduir dinàmiques locals.
+        </paragraphe>
+        <section niveau="h1">III. Llocs excepcionals, un recurs complex i no sistemàtic</section>
+        <paragraphe num="27">
+            Hem calculat, per a cada parell “lloc-territoris” resultant de la tipologia (és a dir, 10 tipus) i de cada escala d’observació (3 escales + mitjana nacional), els indicadors de desenvolupament turístic, econòmic, sociodemogràfic i, a tall d’il·lustració, indicadors fiscals i financers (annex 2). A l’annex 4, es presenta un extracte de tots els resultats obtinguts (és a dir, 40 taules de 50 variables) a l’escala dels EPCIs dels llocs (xifres mostrades al llarg del text com a exemples). L'anàlisi estadística es va complementar amb entrevistes cara a cara. Les preguntes es van referir al context territorial, gestió del lloc, impactes del lloc, situacions de tensió, treball en xarxa, i projeccions a mitjà termini. Els resultats ens van portar a identificar tres processos principals de valorització del patrimoni en tant que recurs territorial.
+        </paragraphe>
+        <paragraphe num="28">
+            Proposem distingir en primer lloc els casos en què el lloc constitueix un recurs entre d'altres. Malgrat el seu valor patrimonial excepcional, el desenvolupament socioeconòmic no és específic de la presència del lloc. En aquestes zones, el lloc, en el millor dels casos, reforça una dinàmica econòmica existent, corrent el risc de reforçar així la híper-especialització turística. En altres contextos, el lloc apareix, al contrari, com una palanca per al desenvolupament equilibrat del territori que permet desencadenar una dinàmica diversificada. Permet crear llocs de treball en diferents sectors d’activitat i observem un augment de les variables de potencial d’acollida o d’activitats turístiques en contextos més aviat productius. Finalment, un tercer cas distingeix llocs i territoris poc dinàmics, per als quals la presència d’un patrimoni excepcional no condueix finalment al desenvolupament socioeconòmic o turístic. Aquí, els llocs semblen estar en estat de recursos latents, el patrimoni no hi està prou valorat.
+        </paragraphe>
+        <section niveau="h2">A. Llocs excepcionals, un recurs territorial entre d'altres</section>
+        <paragraphe num="29">
+            Aquí, els llocs patrimonials excepcionals reforcen la dinàmica global del territori i constitueixen un recurs entre d'altres. Aquesta categoria inclou els tipus següents: nucli urbà, lloc turístic o residencial en una zona turística o residencial, lloc residencial o productiu dinàmic en una zona productiva dinàmica (vegeu l’apèndix 5 per obtenir més informació sobre els llocs).
+        </paragraphe>
+        <paragraphe num="30">
+            Globalment, aquests llocs i territoris tenen en comú un creixement demogràfic, sovint lligat a un saldo natural i migratori positiu. La població augmenta, per exemple a escala de l’EPCI del lloc, del 2 al 5,7% entre el 2009 i el 2014 en funció del tipus de configuració (annex 4). La renda per càpita augmenta de mitjana un 19% i genera nous llocs de treball, sobretot al sector del consum, inclòs el turisme (del 4% al 14% durant el període observat a nivell EPCI). Per contra, les entrevistes van revelar que en aquests contextos socioeconòmics favorables, el lloc no té prioritat sobre les polítiques públiques locals. Tot i això, hem de distingir entre contextos molt turístics i aquells que ho són menys.
+        </paragraphe>
+        <paragraphe num="31">
+            <strong>Llocs que accentuen l'atracció turística</strong>
+        </paragraphe>
+        <paragraphe num="32">
+            En el cas dels llocs turístics ubicats en zones turístiques o residencials, sorgeixen diversos riscos a partir d’anàlisis estadístiques i entrevistes.
+        </paragraphe>
+        <paragraphe num="33">
+            En primer lloc, hi ha un risc d’híper-especialització econòmica i, per tant, de dependència del sector turístic. Les anàlisis quantitatives mostren que els llocs de treball en turisme augmenten, tant in situ com fora de lloc. El turisme és la principal palanca per al desenvolupament econòmic del territori. Depenent exclusivament d’aquestes activitats, s’exposa el territori als capricis de la demanda externa, com hem vist amb la pandèmia de coronavirus. Les destinacions estan en gran part sotmeses a la competència internacional, però també a xocs econòmics. A les Gorges de l'Ardèche o a les poblacions properes a la Grotte Chauvet, els riscos de fragilitat econòmica i fiscal són reals.
+        </paragraphe>
+        <paragraphe num="34">
+            Les pressions mediambientals exercides pels pics d’afluència de turistes també són fonts de conflicte. La freqüentació excessiva del Massif des Ocres (fins a 450.000 visitants anuals declarats pels gestors del lloc), concentrada durant els mesos de juliol i agost, provoca una forta degradació del medi ambient. El perill del lloc també ha portat als actors del territori a participar en una Opération Grand Site per gestionar el flux de visitants. Aquest problema de flux també testimonia l'existència de costos la gestió dels quals és necessària perquè el patrimoni sigui un recurs i no una càrrega.
+        </paragraphe>
+        <paragraphe num="35">
+            Davant d’aquests reptes, la normativa urbanística i paisatgística tendeix a multiplicar-se, en particular per regular diferents usos. Tot i que útils, aquests dispositius poden, en alguns casos, promoure el desenvolupament d’activitats lucratives (turístiques) en detriment d’altres. Aleshores hi ha el risc de veure reforçada aquesta híper-especialització, ja que ens trobem en una economia de recol·lecció més fàcil de mantenir que de flexionar. Aquesta lògica es pot reforçar amb dinàmiques fiscals i financeres i amb les inversions de les comunitats. Una situació econòmicament favorable pot afavorir un elevat nivell de despesa i afavorir les inversions realitzades. El que es va crear en el passat genera llavors rigideses i dificulta les possibilitats de futur.
+        </paragraphe>
+        <paragraphe num="36">
+            Aquest risc d’híper-especialització turística de vegades es veu compensat per l’atractiu residencial. A continuació, es pot desenvolupar una forma de competència entre el lloc, accessible per a les llars adinerades que s’hi instal·len permanentment, i els espais perifèrics que acullen famílies amb fills i llars més modestes. En aquest tipus de configuració, el desenvolupament turístic és principalment el resultat del propi lloc i, finalment, s’estén poc als territoris veïns. Aquesta observació (Canal du Midi, Massif des Ocres) o aquesta por (en el cas de la Grotte Chauvet) creen situacions de conflictes d’ús i funcions, entre un lloc turístic a preservar i un territori que ha d’afrontar un ràpid creixement de la seva població i activitats econòmiques. Això pot resultar en una fragmentació d’interessos i actors que no comparteixen la mateixa visió, la mateixa narrativa al voltant del lloc que lluita per unir-se. Per exemple, als territoris travessats pel Canal du Midi, el turisme no sempre està lligat a l’ús del Canal ni a la proximitat del seu entorn. Les zones rurals de l’interior mediterrani, o fins i tot ciutats com Carcassona o Tolosa, tenen altres recursos turístics que el Canal. Molts pobles travessats pel Canal també estan sotmesos a una forta pressió residencial, com la que preval en aquestes atractives regions del sud de França, independentment de la presència del lloc patrimonial. Com a resultat, es presta menys atenció i es gasta menys mitjans per al seu manteniment. Fins i tot el Canal apareix per a alguns alcaldes del poble qüestionats com a bloqueig del desenvolupament a causa dels requisits de preservació del patrimoni. La manca d’interès o fins i tot el deteriorament d’aquest recurs en determinats trams (edificis comercials, centre de recepció de residus, contaminació agrícola) ha provocat forts temors a nivell regional i nacional sobre la possible pèrdua de l’etiqueta UNESCO. Els avantatges turístics del Canal són, doncs, molt dispars d’una ciutat a una altra, en funció del desenvolupament de les ribes (i de la presència per exemple de restaurants), de l’existència o no de construccions notables (rescloses de Fonserane, per exemple) . A més, la pressió residencial pot resultar un fre a la dinàmica turística, la fiscalitat pot accentuar aquest procés ja que el valor del lloguer, o la base imposable, d’una segona residència s’acosta als 2.400 €, mentre que la d’una residència principal ascendeix a poc més de 3.000 €, reportant així més per a la comunitat local. Per tant, les fonts de tensió entre agents locals i nacionals relacionats amb la gestió del lloc són particularment freqüents en aquest tipus de configuració de lloc-territori.
+        </paragraphe>
+        <paragraphe num="37">
+            <strong>Llocs que diversifiquen les dinàmiques productives dels territoris</strong>
+        </paragraphe>
+        <paragraphe num="38">
+            En el cas dels llocs situats en territoris productius, els problemes i les fonts de conflicte són de naturalesa diferent. Els actors interrogats van explicar que havien d’arbitrar entre mantenir activitats econòmiques productives (industrials o agrícoles) i preservar les qualitats ambientals o paisatgístiques del lloc. La qüestió, per exemple, de l’agricultura extensiva versus la intensiva es planteja regularment. El Marais Poitevin és una bona il·lustració d’aquest escenari. El paisatge del pantà humit, heretat dels desenvolupaments del segle XIX, s’anomena Grand Site de France; mentre que al costat, el pantà dessecat acull una agricultura moderna i intensiva. La considerable davallada de la part humida del Marais es deu a la impossibilitat de dominar les contradiccions de les polítiques nacionals (cultiu intensiu de blat de moro versus protecció del medi ambient) que es retransmeten en les tensions locals (agricultors versus associacions ecologistes). Com a conseqüència d’aquestes tensions, el Marais Poitevin va perdre el nom de Parc Nacional durant una desena d’anys.
+        </paragraphe>
+        <paragraphe num="39">
+            Les regulacions destinades a protegir llocs patrimonials excepcionals ajuden a limitar l'establiment d'activitats que serien fiscalment lucratives<a class="footnotecall" href="#ftn10" id="bodyftn10">10</a>. Aquests troben llavors a la veïna EPCI, menys regulada, un espai favorable al seu desenvolupament. Per tant, vam poder observar una certa dinàmica de treballs d’intermediació, com ara la logística o altres serveis actuals a empreses en les inter-municipalitats veïnes del lloc. Les normes tributàries, però aquesta vegada sobre activitats econòmiques, poden accentuar aquests mecanismes de separació d’interessos. Així, els impostos sobre el valor afegit de les empreses són, en € / lloc de treball, gairebé indiferents al tipus d’ús i de territori. Per contra, això no és pas veritat per a les Contribucions Territorials de les Empreses que progressen segons els metres quadrats de terreny ocupat. Per tant, el model de producció intensiva tindrà un impacte en el model tributari a través de la influència sobre el terreny més que de la naturalesa de l’activitat (tipus d’usos) o de la seva dinàmica (valor afegit). La cooperació entre territoris per planificar i donar suport a aquest tipus de compartició de funcions econòmiques sembla essencial per superar els conflictes d’ús propers al lloc. Suposa llavors una assumpció interterritorial dels costos i beneficis del lloc.
+        </paragraphe>
+        <paragraphe num="40">
+            <strong>Un apaivagament de les tensions mitjançant la cooperació interterritorial i la diversificació econòmica</strong>
+        </paragraphe>
+        <paragraphe num="41">
+            Pel que fa a la diversificació econòmica, ens sembla especialment rellevant a desenvolupar per a llocs turístics situats en territoris que també ho són per tal d’apaivagar les tensions i els riscos induïts per aquesta híper-especialització. Diversos estudis de casos ens han demostrat l’avantatge que hi hauria de tornar a reprendre amb la funció productiva inicial del lloc. Per exemple, el llim del Canal du Midi es deu a la pèrdua de la seva funció fluvial per al transport de mercaderies. De fet, el pas de barcasses va permetre, en aquell moment, dragar el fons del Canal. Avui en dia, els creuers de fons pla ja no ofereixen aquest manteniment i, en plena temporada turística, creen autèntics embussos fluvials, excloent qualsevol altra forma d’explotació. A més, aquesta activitat de navegació de plaer està gestionada per un grapat d'empreses internacionals que venen creuers pel Canal, com a qualsevol altra part del món. Davant dels problemes de manteniment del Canal, es planteja l'amenaça de la pèrdua de l'etiqueta de la UNESCO. La restauració d'aquesta via fluvial amb finalitats de transport, a més, en un context de transició ecològica, podria contribuir al seu manteniment i aportar nous actors a la taula de negociacions. El retorn a la funció inicial del lloc, o fins i tot del territori, s'aplica per exemple al Massif des Ocres a Provença. L’empresa Okhra torna a explotar les mines d’ocre i, com a tal, les manté. L’arribada d’aquest nou actor va permetre iniciar un ambiciós projecte regional al voltant del color. Els manteniments i els retorns d'experiències indiquen així com els actors públics podrien ser força de proposició per detectar i després impulsar noves iniciatives, al voltant de comoditats i de serveis poc o gens presents que falten en un esperit de barreja funcional i social.
+        </paragraphe>
+        <paragraphe num="42">
+            A més, les cooperacions interterritorials i governances ampliades serien favorables a una sostenibilitat dels llocs i dels recursos locals, a un desenvolupament sostenible i transversal, combinant diversos interessos, públics i privats. En el cas del Canal du Midi, aquest tipus de cooperació entre comunitats riberenques (municipis, inter-municipalitats, departaments) promou el desenvolupament d’adaptacions coherents de les riberes amb finalitats, per exemple, de mobilitat sostenible (bicicleta).
+        </paragraphe>
+        <section niveau="h2">B. Els llocs, un recurs al servei de la transformació dels territoris</section>
+        <paragraphe num="43">
+            En contextos productius en decadència socioeconòmica, el problema és diferent: un retorn de situació suposa l’activació, per part dels actors locals, del conjunt de palanques possibles. Els llocs patrimonials són un d’aquests recursos mobilitzables i que poden suscitar un canvi d’imatge aprofitant al mateix temps la identitat local i els avantatges del territori. De fet, la noció de recurs territorial implica a la vegada l’existència d’una especificitat local (aquí un lloc patrimonial) i una mobilització real dels actors locals per implementar un projecte de desenvolupament al voltant d’aquest recurs. Així, un recurs pot estar en un estat latent, existir en un territori sense ser per tant un factor de desenvolupament local. És el procés d'activació del recurs pels actors locals que en determina la capacitat per generar efectes positius per al territori.
+        </paragraphe>
+        <paragraphe num="44">
+            La Baie de Somme i la conca minera del Nord-Pas-de-Calais il·lustren aquests processos. Tots aquests territoris tenen en comú que han patit una desindustrialització massiva de la seva economia i un empobriment de la seva població. Si la presència d’un lloc excepcional en aquests contextos difícils no pot resoldre per si mateixa tots els problemes econòmics i socials, es poden identificar senyals positius atribuïbles a l’activitat turística del lloc.
+        </paragraphe>
+        <paragraphe num="45">
+            Globalment, aquestes àrees segueixen marcades per un mal rendiment demogràfic. Hi ha un estancament o, fins i tot, una disminució de la població (entre +1% i -1% entre 2009 i 2014) a causa dels saldos migratoris estables o negatius (0 o -1%). Per contra, el municipi o municipis que acullen els llocs patrimonials van registrar un augment del potencial d’acollida turística, però també dels llocs de treball en sectors induïts per la presència de turistes. Aquests efectes semblen, a més, estendre's a la resta de municipis de la inter-municipalitat on es troben (del 0,5% a l'1,2% per al PAT en el conjunt de l'EPCI, o fins i tot +8,8% per exemple per a l’ús turístic en EPCIs de llocs productius). Es detecta doncs un augment dels llocs de treball turístics, però també més àmpliament en els llocs de consum de les llars, sobretot en l’àmbit cultural. Aquests elements identificables quantitativament són encoratjadors i deixen entreveure un possible reequilibri de les bases econòmiques en aquests espais post-industrials. Aquesta turbulència econòmica en les activitats dirigides a les llars s’acompanya d’un boom de les activitats de serveis a les empreses i altres funcions de suport, aquesta vegada a les inter-municipalitats limítrofes. Els impactes directes sobre les activitats relacionades amb el turisme i els impactes indirectes sobre proveïdors i subcontractistes s’acumulen i beneficien els municipis del lloc i zones circumdants. Les enquestes qualitatives subratllen la forta mobilització d'actors locals al voltant d'aquest recurs patrimonial excepcional. La promoció d’aquests llocs forma part d’una estratègia de desenvolupament territorial més àmplia. El lloc és considerat com vector d’una nova identitat, que alhora està unificant, potenciant i promovent l’atractiu econòmic. Així, la conca minera Nord-Pas-de-Calais ha estat catalogada com a Patrimoni de la Humanitat per la UNESCO com a "paisatge cultural en evolució viva" des del 2012. Aquesta llista en un context de crisi econòmica i social del territori es basava en dues ambicions:
+        </paragraphe>
+        <paragraphe>
+            la mobilització del patrimoni nacional al servei d’una dinàmica metropolitana impulsada per Lille (projectes museístics Louvre-Lens);
+        </paragraphe>
+        <paragraphe>
+            la trajectòria de transició ecològica local, a la imatge del municipi de Loos-en-Gohelle, molt actiu dins de la xarxa de ciutats en transició. Aquí, els enquestats perceben l’etiquetatge de la UNESCO com un factor que facilita el procés de transformació de l’“arxipèlag negre”, una imatge associada a les antigues mines de carbó, en un “arxipèlag verd” amb vocació ecològica i social.
+        </paragraphe>
+        <paragraphe num="46">
+            A Le Havre, ciutat portuària destruïda durant la Segona Guerra Mundial i parcialment reconstruïda per l'arquitecte Auguste Perret, el desenvolupament del patrimoni forma part d'un enfocament de projecte urbà. Le Havre va ser capaç de crear una bifurcació en la seva trajectòria urbana, passant d’una ciutat reconstruïda mal viscuda i denigrada a una ciutat arquitectònicament notable.
+        </paragraphe>
+        <paragraphe num="47">
+            La voluntat de formar part de les dinàmiques turístiques tradicionals es basa en el desenvolupament i la valorització de les especificitats locals. En aquests contextos antigament industrials, la freqüentació turística en efecte creixent, però tanmateix moderada, no provoca pressions ni conflictes destacats. Al contrari, pot orientar les expectatives de sortir de la crisi econòmica i social que viu el Nord-Pas-de-Calais.
+        </paragraphe>
+        <paragraphe num="48">
+            El cas de la Baie de Somme és en aquest sentit una mica diferent. En un context de regió productiva més aviat en declivi industrial, ha emergit com una zona turística atractiva. De zona de subsistència<a class="footnotecall" href="#ftn11" id="bodyftn11">11</a>, la badia ha esdevingut cultural i basada en esdeveniments. L’Operation Gran Site es va llançar el 2002 per rehabilitar sectors naturals sensibles, lluitar contra l’erosió d’ambients fràgils, treballar per la reobertura dels grans paisatges de la Baie, però igualment per trobar respostes en termes de control del flux de visitants. Contràriament als dos casos anteriors, els càrrecs electes enquestats ens van dir que una part dels habitants s’enfronten al desenvolupament de l’activitat turística: pertorbacions de gaudi, proliferació d’aparcaments de pagament, augment del preu de l’habitatge, pràctiques de caça limitades ... Tot i així, el turisme continua sent una palanca econòmica essencial en aquest context territorial poc dinàmic, tal com ho vam poder constatar en la construcció tipològica i anàlisis quantitatives. Pel que fa a la fiscalitat, aquest estremiment favorable es confirma per a la Baie de Somme, ja que el nivell de riquesa fiscal –modest o fins i tot molt modest– ha tendit a augmentar més clarament que la mitjana. 
+        </paragraphe>
+        <paragraphe num="49">
+            Els casos presentats semblen indicar que les dinàmiques territorials, en particular quan són negatives, no són pas irreversibles. Els llocs patrimonials excepcionals constitueixen llavors un actiu. A reserva de la mobilització de les forces vives presents localment i la seva inclusió en una estratègia de conjunt, participen llavors en la diversificació i renovació de recursos i en el desenvolupament econòmic local.
+        </paragraphe>
+        <section niveau="h2">C. Els llocs excepcionals, un recurs latent</section>
+        <paragraphe num="50">
+            Finalment, en determinats casos, la presència d’un patrimoni excepcional no permet pas impulsar l’economia del territori. Si ens referim al treball sobre recursos territorials, el patrimoni es pot considerar com un recurs latent, mancat d'activació per part dels actors locals (François et al., 2013). Aquesta situació s’observa en llocs que es diu que són força equilibrats d’acord amb la tipologia establerta i sense particularitats significatives pel que fa a les variables emprades.
+        </paragraphe>
+        <paragraphe num="51">
+            No són zones productives, ni residencials o turístiques, per exemple. No es caracteritzen ni per la seva densitat (nucli urbà), ni per un perfil específic de població resident. Aquesta manca d’especialització socioeconòmica genera una situació d’estancament demogràfic i de feble dinamisme econòmic. Aquestes configuracions territorials s’observen molt sovint a les ciutats petites o mitjanes i als seus respectius EPCIs, que actualment pateixen a França (i més àmpliament a Europa) una crisi socioeconòmica lligada al seu passat industrial i a un dèficit de posicionament estratègic, ja sigui en termes d’economia, imatge, cultura ... a la manera d’Amiens, Troyes, Orange ...
+        </paragraphe>
+        <paragraphe num="52">
+            En aquests municipis i els seus EPCIs, es constata un estancament de la població (del 0% al 2% segons el tipus a l’escala dels EPCI) a causa de saldos migratoris i naturals àtons. Es va notar un retrocés dels llocs de treball durant el període 2009-2014 (-1%), mentre que generalment van augmentar en altres llocs. La renda per càpita augmenta (del 18% al 20%), però aquest creixement continua sent més moderat que als altres territoris. Finalment, es nota que el potencial d'acollida turística (vegeu la llista de variables de l'apèndix 2) no augmenta, ni tan sols disminueix. Aquest resultat és el signe d’un desinterès pel turisme i d’una pèrdua d’atractiu dels llocs i dels seus territoris circumdants.
+        </paragraphe>
+        <paragraphe num="53">
+            A més, aquestes zones es veuen penalitzades pel descens de les activitats d’exportació (del -4% al -13%), no compensades aquesta vegada per l’auge dels serveis a empreses o llars (-5% i -3 %). En aquestes localitats menys dinàmiques, la presència d’un lloc, per excepcional que sigui, no genera cap atractiu turístic ni una dinàmica socioeconòmica. En aquest context, es planteja, aquesta vegada, la qüestió del territori recurs per al patrimoni. De fet, si podem observar en alguns casos un lleu efecte "lloc" en termes de taxa d'ocupació turística, la dinàmica, quan existeix, continua sent molt modesta (+2% en el creixement de l'ocupació turística a període observat per a l’EPCI) i no és suficient per generar desenvolupament territorial. Aquí, la connexió entre aquests llocs excepcionals i el desenvolupament del territori continua essent molt poc eficaç. La presència del lloc no genera dinàmiques econòmiques locals, ni a nivell del municipi o municipis que allotgen el lloc, ni, a fortiori, de l’escala més gran dels EPCIs del lloc.
+        </paragraphe>
+        <paragraphe num="54">
+            El patrimoni excepcional, com qualsevol altre patrimoni en última instància, serà un recurs territorial, si el territori és, al seu torn, un recurs per al lloc. Un vincle de reciprocitat uneix patrimoni i territori. Sense aquesta voluntat d’integrar plenament el patrimoni en un projecte territorial, el lloc s’experimenta com una restricció addicional, una bloqueig i un cost, més que com un recurs potencial, a la vegada econòmic, social i ecològic.
+        </paragraphe>
+        <section niveau="h1">Conclusió</section>
+        <paragraphe num="55">
+            Els resultats d’aquesta investigació realitzada combinant mètodes quantitatius i qualitatius subratllen el fet que les configuracions que enllacen un lloc patrimonial amb el seu territori són molt diferents d’una regió a l’altra. Això té implicacions per als modes de gestió i governança, que han de ser capaços d'admetre una certa mal·leabilitat per adaptar-se al context local. Segons factors estructurals, però també segons la capacitat de coordinació dels actors, l’impacte de llocs excepcionals als territoris pot ser molt variable. El patrimoni és capaç de constituir tant una palanca com un bloqueig per al desenvolupament. En tots els casos de figures observats i sigui quina sigui la naturalesa excepcional del patrimoni, perquè esdevingui un recurs, el patrimoni ha d’ésser activat i valorat pels actors locals. Els estremiments socioeconòmics favorables al voltant de llocs situats en territoris en forta dificultat deixen entreveure possibles revesses, en relació amb la presència dels elements patrimonials.
+        </paragraphe>
+        <paragraphe num="56">
+            Tot i que confirmen la possibilitat de construir una dinàmica de reconversió econòmica i cultural al voltant del patrimoni, també destaquen la fragilitat de certs equilibris a la imatge de la Baie de Somme. En territoris ja dinàmics, el lloc ve a completar una oferta turística, residencial o productiva existent. No constitueix pas una aportació excepcional, malgrat les seves qualitats patrimonials, i fins i tot pot amplificar tensions. Una de les solucions per apaivagar aquests conflictes rau en la diversificació de les funcions econòmiques, a les quals el patrimoni pot contribuir restablint en particular la seva història. Per totes aquestes raons, sens dubte seria útil provar, experimentar en alguns casos emblemàtics, una nova generació de plans de gestió i conservació del lloc, que integrin, des del principi, una autèntica estratègia de desenvolupament econòmic per al territori. Els casos estudiats i la retroalimentació de l'experiència suggereixen, per a la seva realització, la reunió de diverses condicions necessàries. Una d’elles es basa en la capacitat dels actors locals d’integrar la multi-territorialitat dels llocs, que en última instància es serveixin dels perímetres administratius, de les lògiques tant horitzontals com verticals. Per tant, demanen modes de govern que trenquin amb les pràctiques “rutinàries”, que estiguin oberts a la innovació. Una altra suposa integrar, en el disseny de les solucions adoptades, les lògiques tant dels transeünts com de les persones sedentàries: aquesta integració apareix resoltament com una de les claus per apaivagar els conflictes d’ús que no deixen de sorgir, amb diferents graus de nitidesa. Una altra consisteix a tenir en compte simultàniament els reptes, sovint antagònics, de preservació i valorització: la conciliació de les temporalitats (el curt temps de desenvolupament i el llarg temps del patrimoni) com a models econòmics de les parts interessades és, per tant, ineludible. En la mesura que l'interès dels llocs no és purament local, el paper de les autoritats estatals, així com el de les institucions encarregades de l'etiquetatge i de perpetuar els llocs, són essencials. Podria reunir-se aquestes diferents qüestions, interessos i grups d'interès anar més enllà de les preocupacions, encara que importants, relacionades amb el dinamisme socioeconòmic, incloent-les en perspectives transversals que serien en última instància les del desenvolupament sostenible? Un altre consisteix a tenir en compte simultàniament els problemes, sovint antagònics, de preservació i valorització: la conciliació de les temporalitats (el curt temps de desenvolupament i el llarg temps del patrimoni) com a models econòmics dels grups d'interès essencial. En la mesura que l'interès dels llocs no és purament local, el paper de les autoritats estatals, així com el de les institucions encarregades de l'etiquetatge i de perpetuar els llocs, són primordials. Aliar aquests diferents reptes, interessos i parts interessades, podria transcendir les preocupacions, encara que importants, relacionades amb el dinamisme socioeconòmic, inscrivint-les en perspectives transversals que serien en última instància les del desenvolupament sostenible?
+        </paragraphe>
+        <section niveau="h1">Annex</section>
+        <paragraphe num="57">
+            La taula presenta totes les variables utilitzades per a les anàlisis quantitatives dels 70 llocs francesos estudiats. Aquestes variables s’utilitzen per crear la tipologia de llocs i en el seu context territorial (<em>typo</em>) i / o per calcular la dinàmica del desenvolupament econòmic (<em>dyn</em>). Finalment, a tall d’il·lustració, també hem observat alguns indicadors fiscal-financers (<em>ill</em>).
+        </paragraphe>
+        <paragraphe>
+            <img alt="Image 100000000000069A000003F5CBE56FBB601264D6.tif" src="docannexe/image/6466/img-6.tif"/>
+        </paragraphe>
+        <paragraphe num="58">
+            Es presenten aquí els resultats obtinguts per als EPCIs dels 70 llocs excepcionals, desglossats per tipus. Els mateixos càlculs es van dur a terme a escala dels municipis dels llocs, dels EPCIs limítrofes.
+        </paragraphe>
+        <paragraphe num="59">
+            Com a indicació, situem els nostres estudis de casos europeus en la tipologia. El lector interessat en aquests casos pot consultar el llibre Talandier <em>et al</em>. 2019, op. cit.
+        </paragraphe>
+    </corps>
+    <bibliographie>
+        <reference>Ashworth, G. J. (2003), “Heritage, identity and places: For tourists and host communities”, Tourism in destination communities, pp. 79-97.</reference>
+        <reference>Bole, D., Pipan, P., and Komac, B. (2013), “Cultural values and sustainable rural development: A brief introduction”, Acta geographica Slovenica, 53(2), pp. 367-370.</reference>
+        <reference>Bowitz, E., and Ibenholt, K., (2009), “Economic impacts of cultural heritage–Research and perspectives”, Journal of cultural heritage, 10(1), pp. 1-8.</reference>
+        <reference>Caffyn, A., Lutz, J. (1999), “Developing the heritage tourism product in multi-ethnic cities”, Tourism management, 20(2), pp. 213-221.</reference>
+        <reference>Cernea, M. M., (2001), Cultural heritage and development: a framework for action in the Middle East and North Africa, The World Bank.</reference>
+        <reference>Conway, F. J. (2014), “Local and public heritage at a World Heritage site”, Annals of Tourism Research, 44, pp. 143-155.</reference>
+        <reference>Dalmas, L., Geronimi, V., Noël, J. F., and Sang, J. T. K. (2015), “Economic evaluation of urban heritage: An inclusive approach under a sustainability perspective”, Journal of Cultural Heritage, 16(5), pp. 681-687.</reference>
+        <reference>Dans, E. P., González, P. A. (2019), “Sustainable tourism and social value at World Heritage Sites: Towards a conservation plan for Altamira, Spain”, Annals of Tourism Research, 74, 68-80.</reference>
+        <reference>Debarbieux, B. (2012), “Tourisme, imaginaires et identités: inverser le point de vue”, Via. Tourism Review, 1.</reference>
+        <reference>François, H., Hirczak, M., et Senil, N. (2013), “De la ressource à la trajectoire: quelles stratégies de développement territorial? ”, Géographie, économie, société, 15(3), pp. 267-284.</reference>
+        <reference>González, P. A. (2014), “From a given to a construct: Heritage as a commons”, Cultural studies, 28(3), pp. 359-390.</reference>
+        <reference>Gravari-Barbas, M., Jacquot, S. (2014), Patrimoine mondial et développement: au défi du tourisme durable, PUQ, Paris.</reference>
+        <reference>Gravari-Barbas, M., Bourdeau, L., and Robinson, M. (2016), World Heritage and tourism: from opposition to co-production, in World Heritage, Tourism and Identity, Routledge, pp. 13-36.</reference>
+        <reference>Gravari-Barbas, M. (2002), “Le patrimoine territorial. Construction patrimoniale, construction territoriale : vers une gouvernance patrimoniale”, ESO, 18.</reference>
+        <reference>Greffe, X. (2004), “Is heritage an asset or a liability?”, Journal of cultural heritage, 5(3), pp. 301-309.</reference>
+        <reference>Gumuchian, H., Pecqueur, B. (2007), “La ressource territoriale”, (No. halshs-00265070).</reference>
+        <reference>Horáková, H. (2013), “Whose Countryside? Contested development in the new rural recreational localities in Czechia from the perspective of the countryside capital/Čí venkov? Problematika rozvoje v nových rekreačních lokalitách v Česku z perspektivy venkovského kapitálu”, European Countryside, 5(1), pp. 21-37.</reference>
+        <reference>Keser, H. Y. (2016), “Culture economy for economic development: assesments on cultural heritage in Turkey”, Eur. Sci. J., 12(28), pp. 38-50.</reference>
+        <reference>Landel, P. A., Senil, N., (2009), “Patrimoine et territoire, les nouvelles ressources du développement”, Développement durable et territoires. Économie, géographie, politique, droit, sociologie, Dossier 12.</reference>
+        <reference>Lazrak, F., Nijkamp, P., Rietveld, P., and Rouwendal, J. (2014), “The market value of cultural heritage in urban areas: an application of spatial hedonic pricing”, Journal of Geographical Systems, 16(1), pp. 89-114.</reference>
+        <reference>Mason, R. (2005), “Economics and historic preservation”, Washington, DC: The Brookings Institution, pp. 35-100.</reference>
+        <reference>Mourato, S., Mazzanti, M. (2002), “Economic valuation of cultural heritage: evidence and prospects”, in de la Torre M. (Ed.), Assessing the Values of Cultural Heritage, The Getty Conservation Institute, Los Angeles.</reference>
+        <reference>Navrud, S., and Ready, R. C. (Eds.), (2002), Valuing cultural heritage: Applying environmental valuation techniques to historic buildings, monuments and artifacts, Edward Elgar Publishing.</reference>
+        <reference>Negussie, E. (2006), “Implications of neo-liberalism for built heritage management: Institutional and ownership structures in Ireland and Sweden” Urban Studies, 43(10), pp. 1803-1824.</reference>
+        <reference>Nyseth, T., Sognnæs, J. (2013), “Preservation of old towns in Norway: Heritage discourses, community processes and the new cultural economy”, Cities, 31, pp. 69-75.</reference>
+        <reference>Prud’homme, R., Gravari-Barbas, M., Jacquot, S., Talandier, M., Nicot, B. H. et Odzirlik, B. (2008), “Les impacts socio-économiques de l’inscription d’un site sur la liste du patrimoine mondial: trois études”, Unpublished report prepared for the UNESCO World Heritage Committee. Available from the author of this study.</reference>
+        <reference>Ruault, J. F., Talandier, M. (2020), “Are outstanding cultural heritage sites useful territorial resources for community development?”, in Dissart, J.C. and Seigneuret, N. (Eds.), Local Resources, Territorial Development and Well-being, Edward Elgar Publishing.</reference>
+        <reference>Rudokas, K., Landauskas, M., Gražulevičiūtė-Vilneiškė, I., and Viliūnienė, O. (2019), “Valuing the socio-economic benefits of built heritage: Local context and mathematical modelling”, Journal of Cultural Heritage, 39, pp. 229-237.</reference>
+        <reference>Rypkema, D., Cheong, C., and Mason, R. (2011), “Measuring economic impacts of historic preservation”, Advisory Council on Historic Preservation.</reference>
+        <reference>Throsby, D. (2003), “Determining the value of cultural goods: How much,or how little) does contingent valuation tell us?”, Journal of cultural economics, 27(3-4), pp. 275-285.</reference>
+        <reference>Talandier, M., Navarre, F., Cormier, L., Landel, P. A., Ruault, J. F., and Senil, N. (2019), Outstanding heritage sites-A resource for territories, Ebook, PUCA, Paris, https://halshs.archives-ouvertes.fr/halshs-02298543/document</reference>
+        <reference>Talandier, M., Navarre, F., Cormier, L., Landel, P. A., Ruault, J. F., et Senil, N. (2019), Les sites patrimoniaux exceptionnels, une resource pour les territories, PUCA, Paris. </reference>
+        <reference>Tomaney, J., Pike, A., and Rodríguez-Pose, A. (2010), “Local and regional development in times of crisis”, Environment and Planning A, 42(4), pp. 771-779.</reference>
+    </bibliographie>
+</article>

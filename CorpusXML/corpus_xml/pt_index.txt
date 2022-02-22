@@ -1,0 +1,46 @@
+pt_MGBNG_29-22_Is_0;https://journals.openedition.org/viatourism/1189 ;Imaginários turísticos
+pt_PBFD_21-27_Eu_0;https://journals.openedition.org/viatourism/1176 ;Em memória de Rachid Amirou
+pt_RK_7-61_Bs_0;https://journals.openedition.org/viatourism/1544 ;Brigitte Bardot em Búzios (Brasil), as estátuas e os turistas
+pt_BDJFSOT_9-33_Ts_0;https://journals.openedition.org/viatourism/1064 ;Turismos e dinâmicas identitárias
+pt_CLPJMCP_66-140_Ue_1;https://journals.openedition.org/viatourism/1002 ;Utilização da metodologia DEA (Data Envelopment Analysis) para avaliar o impacto das TIC sobre a produtividade na indústria da hospitalidade
+pt_MGBSJ_54-101_Ps_0;https://journals.openedition.org/viatourism/855 ;Património mundial, turismo e desenvolvimento sustentável na África: discursos, abordagens e desafios
+pt_VVRMVM_45-33_Al_1;https://journals.openedition.org/viatourism/727 ;As raízes do Enoturismo no Brasil
+pt_GSHFCMCBJMG_69-89_Sl_1;https://journals.openedition.org/viatourism/738 ;Souvenirs Gastronômicos como Lembranças de Viagem: um estudo de caso em Curitiba – Brasil
+pt_HT_13-9_El_0;https://journals.openedition.org/viatourism/666 ;Editorial
+pt_HT_30-47_Lo_0;https://journals.openedition.org/viatourism/572 ;Lugares e fluxos do turismo nacional brasileiro
+pt_APPVASA_67-91_Oo_1;https://journals.openedition.org/viatourism/592 ;O crescimento da classe média interiorana do brasil e seus impactos sobre o turismo interno
+pt_CMPNAMT_56-88_Pl_1;https://journals.openedition.org/viatourism/610 ;Políticas públicas e experiências locais de turismo de paisagens : o exemplo do Pantanal
+pt_MATSABR_41-75_Ua_1;https://journals.openedition.org/viatourism/630 ;Urbanização turística no Brasil : um foco em Florianópolis – Santa Catarina
+pt_DMCPF_46-82_Ia_1;https://journals.openedition.org/viatourism/641 ;Investigação sobre o visitante de museus de arte : uma comparação Brasil e Espanha
+pt_DMCPFFA_53-82_Ds_1;https://journals.openedition.org/viatourism/647 ;Da bacia mineira à bacia da cachaça: desenvolvimento e cultura em regiões mineiras
+pt_HT_18-67_Po_0;https://journals.openedition.org/viatourism/670 ;Paraty, vantagens locacionais e valorização do património histórico
+pt_MHL_8-91_Os_1;https://journals.openedition.org/viatourism/675 ;Os usos políticos da paisagem na produçao discursiva do turismo na cidade de Florianópolis 
+pt_TL_6-67_Po_0;https://journals.openedition.org/viatourism/1540 ;Pardais na beira da cascata: políticas turísticas e desenvolvimento
+pt_JFS_5-25_To_0;https://journals.openedition.org/viatourism/1634 ;Taíti: o avesso do adorno
+pt_MB_8-43_Ao_1;https://journals.openedition.org/viatourism/1638 ;A alteridade no turismo – a arte da sedução
+pt_MDMGB_24-9_El_0;https://journals.openedition.org/viatourism/420 ;Editorial
+pt_JS_53-58_Ml_0;https://journals.openedition.org/viatourism/370 ;Mototurismo: geographias renovadas de um fenômeno marginal
+pt_PBJMDRK_46-45_Ea_0;https://journals.openedition.org/viatourism/1342 ;Experiências turísticas e trajetórias de vida
+pt_LGPAL_31-71_Po_0;https://journals.openedition.org/viatourism/1378 ;Psammoturismo. A areia do deserto como experiência e recurso turístico 
+pt_MGBJFSNG_62-66_As_0;https://journals.openedition.org/viatourism/1866 ;A erotização dos lugares turísticos. Espaços, atores e imaginários
+pt_LG_66-51_So_1;https://journals.openedition.org/viatourism/1746 ;Smoking Hot: a erotização da Odalisca pelo cigarro 
+pt_SV_35-21_Ol_1;https://journals.openedition.org/viatourism/1807 ;O Sagrado e o Sensual
+pt_JMDAD_20-37_As_0;https://journals.openedition.org/viatourism/2751 ;A fabricação dos conceitos turísticos
+pt_MADG_22-137_OO_1;https://journals.openedition.org/viatourism/2073 ;O Patrimônio - Paisagem: Origens, Intervenções Teóricas e Recepção Crítica para a Compreensão do Programa do Patrimônio Mundial da UNESCO
+pt_DD_32-56_Ro_1;https://journals.openedition.org/viatourism/2441 ;Resgatando a política na pesquisa sobre redes no turismo
+pt_BR_8-89_Aa_0;https://journals.openedition.org/viatourism/2369 ;A Produção Científica no campo do turismo (Tourism Studies) : uma abordagem bibliométrica
+pt_JFS_12-21_Ir_0;https://journals.openedition.org/viatourism/2910 ;Introdução do dossier
+pt_PA_29-94_Do_0;https://journals.openedition.org/viatourism/3251 ;Do road movie a "viagem selvagem": a busca de aventura na estrada e o mito do viajante heróico
+pt_MLGPN_30-60_Oa_0;https://journals.openedition.org/viatourism/3750 ;Os desafios do turismo frente a contrução da paz na Colômbia
+pt_MLVR_74-85_Co_1;https://journals.openedition.org/viatourism/3499 ;Comunidades indígenas do trapézio amazônico colombiano: imaginários sociais e turismo
+pt_LBEP_21-62_Os_0;https://journals.openedition.org/viatourism/4111 ;O Turismo frente aos desafios dos paradigmas pós e decoloniais
+pt_SPP_28-48_Oo_1;https://journals.openedition.org/viatourism/4179 ;O "Outro" pode retornar aos estudos do turismo? 
+pt_MOR_35-81_Mr_1;https://journals.openedition.org/viatourism/4542 ;Macau pós-colonial: esperança e desespero em um Centro Mundial de Turismo e Lazer
+pt_HS_33-79_Ss_1;https://journals.openedition.org/viatourism/4587 ;Sobre Bio-hospitalidade: os Hotéis como Quartéis ou os Três Corpos dos Garçons 
+pt_PDPBEG_9-49_As_0;https://journals.openedition.org/viatourism/5081 ;A paisagem como recurso turístico em áreas rurais
+pt_PDPUPBML_25-127_Du_0;https://journals.openedition.org/viatourism/5608 ;Desenvolvimento do turismo doméstico de montanha no entorno das principais cidades do Nepal: encosta Sul do Annapurna e Helambu
+pt_MLCCHF_11-80_Rs_0;https://journals.openedition.org/viatourism/5781 ;Reinvenção dos territórios turísticos: que transição para as estações dos Alpes?
+pt_MDLK_67-98_Os_0;https://journals.openedition.org/viatourism/6222 ;Os terminais móveis contribuem com a renovação das práticas dos turistas? O caso da Champs Élysees
+pt_HT_10-42_An_0;https://journals.openedition.org/viatourism/6307 ;A circulação de Via Tourism Review en 2019
+pt_HT_5-32_Cs_0;https://journals.openedition.org/viatourism/6315 ;Cobrar mais caro de estrangeiros
+pt_CAD_13-94_Ql_0;https://journals.openedition.org/viatourism/6327 ;Quando a estrada é mais que um caminho: territorialidades produzidas pela Estrada Real, Brasil

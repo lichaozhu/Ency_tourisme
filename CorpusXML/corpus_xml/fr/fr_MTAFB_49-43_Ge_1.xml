@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="fr_MTAFB_49-43_Ge_1" source="https://journals.openedition.org/teoros/2605" lang="fr">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <revue>Teoros</revue>
+        <numero>33, 1</numero>
+        <annee>2014</annee>
+    </meta>
+    <auteurs>
+        <auteur nom="Tranquard" prenom="Manu" email="manu_tranquard@uqac.ca">
+            <oeuvres>
+                <publication id="fr_MTCG_41-87_Os_1" source="https://journals.openedition.org/teoros/2343" lang="fr">Opérationnaliser le développement durable en contexte écotouristique : quels critères ?</publication>
+                <publication id="fr_MT_18-68_Lt_1" source="https://journals.openedition.org/teoros/2434" lang="fr">Le tourisme cynégétique et halieutique face au défi de la durabilité</publication>
+            </oeuvres>
+            <description>
+                Professeur, Laboratoire d’expertise et de recherche en plein air (LERPA), Université du Québec à Chicoutimi (UQAC); 
+            </description>
+        </auteur>
+        <auteur nom="Bourbeau" prenom="André-François" email="bourbeau@uqac.ca">
+            <description>
+                Professeur émérite, Laboratoire d’expertise et de recherche en plein air (LERPA), Université du Québec à Chicoutimi (UQAC) : 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>Gestion des risques en tourisme d’aventure </titre>
+    <sousTitre>Proposition d’un outil d’évaluation du potentiel de survie en forêt </sousTitre>
+    <resume>
+        Dans un contexte de pratique croissante des activités de tourisme d’aventure, notamment au Québec (KPMG, 2010; Tourisme Québec, 2007), la fréquence des confrontations des touristes avec des situations de précarité et d’engagement physique et psychologique parfois très avancé augmente. Le risque encouru de se retrouver un jour confronté à une situation critique en milieu naturel s’accroit proportionnellement. Pour favoriser la pratique sécuritaire de ces activités, des mesures de gestion des risques peuvent être mises en œuvre pour anticiper les situations d’urgence et planifier des interventions adaptées. 
+L’objet de cette contribution est de présenter un exemple concret de mesures préventives. Après avoir déterminé les facteurs qui caractérisent la capacité d’un individu à gérer au mieux une situation dans laquelle sa vie est en danger en forêt, un outil, soit le modèle AEPS (Auto-évaluation du potentiel de survie), permet de les quantifier. Le but est de favoriser l’identification des facteurs de risques et des facteurs de survie individuels pour mieux autonomiser les touristes d’aventure et autres adeptes de plein air en révélant les forces et faiblesses de chacun face aux dangers en milieu naturel. L’outil développé permet l’évaluation de la capacité d’un individu à surmonter les dangers hypothétiquement les plus fréquents. Son utilisation repose sur une auto-évaluation diagnostique sous forme d’un questionnaire à compléter. 
+    </resume>
+    <corps>
+        <paragraphe num="1">
+            Qu’il s’agisse de tourisme de nature, de tourisme d’aventure ou de tourisme de loisir, la pratique des activités de plein air tend actuellement à se développer (ATDI, 2010). Au Québec, par exemple, près de quatre millions de personnes pratiquent une activité qui les amène en forêt à un moment ou à un autre de l’année. Les adeptes valorisent par ailleurs de plus en plus l’arrière pays et la région isolée, en raison de la proximité recherchée avec toutes les formes d’aménités et d’attraits naturels (Tourisme Québec, 2007; AEQ, 2004). Or, ces territoires isolés se caractérisent par une certaine rusticité du milieu, une exposition accrue à des conditions météorologiques adverses, l’éloignement des secours et l’absence d’infrastructures permettant de prodiguer des soins médicaux de standards urbains (Mepham, 2013). Dans ce contexte, les risques ou les probabilités d’être confronté à des situations problématiques augmentent. Au Québec, le cas de Marco Lavoie en est un exemple récent. Cet homme a été retrouvé fort mal en point, mais vivant, après avoir passé trois mois dans une forêt de l’Abitibi-Témiscamingue et subit un accident de canot et l’attaque de son campement par un ours. Le constat précédent est d’autant plus évident lorsque les activités pratiquées impliquent un engagement physique, voire sportif, comme dans le cas du tourisme d’aventure, en raison de la confrontation des touristes à la difficulté des pratiques et/ou de leur vulnérabilité face aux conditions du milieu (Montalvo <em>et al</em>., 1998). À titre d’exemple, la Sûreté du Québec déclenche chaque année environ une centaine d’opérations de recherche et sauvetage à plus ou moins grand déploiement dans l’arrière pays, notamment en lien avec les conséquences de ces activités. Il en est de même dans la plupart des parcs en Amérique du Nord (Heggie et Heggie, 2009; Hung <em>et al.</em>, 2007; McIntosh <em>et al.</em>, 2008). 
+        </paragraphe>
+        <paragraphe num="2">
+            Selon Bourbeau (2007 a : 1), ces situations problématiques peuvent être : 
+        </paragraphe>
+        <paragraphe>
+            se perdre en forêt; 
+        </paragraphe>
+        <paragraphe>
+            être incapable de revenir par ses propres moyens ou d’atteindre des secours en raison du bris ou de la perte d’un équipement critique (carte, boussole, GPS, téléphone); 
+        </paragraphe>
+        <paragraphe>
+            être immobilisé en raison de mauvaises conditions météorologiques qui restreignent les déplacements; 
+        </paragraphe>
+        <paragraphe>
+            être immobilisé suite au développement ou à l’aggravation d’une maladie ou blessure; 
+        </paragraphe>
+        <paragraphe>
+            se retrouver trop loin en forêt pour revenir par ses propres moyens suite à un incident qui détruit ou rend inutilisable le moyen de transport (panne, enlisement); 
+        </paragraphe>
+        <paragraphe>
+            passer complètement ou partiellement à travers la glace et tomber en hypothermie avant de pouvoir atteindre la sécurité; 
+        </paragraphe>
+        <paragraphe>
+            être surpris par la noirceur et ne pas disposer de suffisamment de lumière pour pouvoir se déplacer jusqu’à son but; 
+        </paragraphe>
+        <paragraphe>
+            s’épuiser psychologiquement et physiquement suite à une crise de panique. 
+        </paragraphe>
+        <paragraphe num="3">
+            Dans un contexte de région isolée, les conséquences encourues sont potentiellement plus dramatiques qu’en zone urbaine. Cependant, être perdu ou retenu en forêt ne constitue pas systématiquement des situations de survie. Ces situations surviennent uniquement lorsque les conditions dans lesquelles l’individu se trouve sont dramatiquement dangereuses et si elles persistent, inévitablement mortelles. Dans les faits, c’est essentiellement la détérioration des cas qui conduit à faire face à une situation de vie ou de mort. La théorie de la dynamique des accidents (Curtis, 1995; Bourbeau, 2007 b) révèle que les situations de survie surviennent majoritairement (sauf condition médicale hypothéquée par la survenance d’un incident majeur) par la dégradation de la situation initiale, notamment en raison d’une mauvaise adaptation des victimes à la criticité du contexte. De manière générale, un élément central de la dynamique des accidents est le niveau de compétence des participants. En conséquence, cette capacité intrinsèque des participants à pouvoir surmonter les situations critiques avec le moins d’impact possible est cruciale dans une démarche de prévention. 
+        </paragraphe>
+        <paragraphe num="4">
+            C’est en partant du postulat que chaque individu possède des prédispositions naturelles, des habiletés acquises par l’apprentissage et des habitudes développées par l’expérience qui peuvent favoriser le succès d’une épreuve de survie en forêt, que la présente recherche a été initiée afin d’évaluer ces paramètres dans un but de prévention. 
+        </paragraphe>
+        <paragraphe num="5">
+            Le Laboratoire d’expertise et de recherche en plein air (LERPA) de l’Université du Québec à Chicoutimi (UQAC) fait de la problématique de la gestion des risques en région isolée l’un de ses champs d’expertise. La mission première du LERPA est de contribuer à la standardisation des pratiques professionnelles dans le domaine du plein air, du tourisme d’aventure et de l’écotourisme. C’est dans le cadre de ce laboratoire qu’un outil dénommé Auto-évaluation du potentiel de survie (AEPS) a été développé. Celui-ci permet, pour chaque individu, une évaluation diagnostique d’un certain nombre de caractéristiques personnelles susceptibles de nuire ou d’aider à la réaction à des situations critiques, notamment en milieu forestier. L’identification de ces caractéristiques permet par la suite d’envisager la manière de les accroître, par la pratique, l’apprentissage, etc. L’outil AEPS est donc envisagé comme un moyen de préparation et de planification individuelle. 
+        </paragraphe>
+        <paragraphe num="6">
+            Plus précisément, l’objet de la recherche ici est double. Dans un premier temps, nous avons cherché à établir quelles caractéristiques intrinsèques d’un individu sont les plus susceptibles d’avoir un impact positif sur sa capacité à survivre à une situation de détresse extrême en milieu forestier. Quelles capacités, entendues comme les dispositions naturelles – organiques et fonctionnelles – selon lesquelles un sujet réagit à son milieu et qui composent sa personnalité, ou quelles aptitudes acquises, favorisent la survie en forêt? Dans un premier temps, il s’agit de déterminer, dans le capital d’une personne, les composantes qui facilitent tout à la fois le maintien des fonctions vitales afin d’augmenter le temps de résistance, ainsi que l’organisation et l’optimisation des actions afin de diminuer le temps des secours. Ces caractéristiques sont ce que nous nommons les facteurs individuels de survie. Dans un second temps, nous proposons un outil pratique destiné à permettre de quantifier ces facteurs et de déterminer ainsi le potentiel de survie. 
+        </paragraphe>
+        <section niveau="h1">Méthodologie </section>
+        <paragraphe num="7">
+            La méthodologie de recherche retenue est composite. Elle se base sur deux étapes au cours desquelles quatre démarches spécifiques ont été mises en œuvre. La première étape est celle de la modélisation. C’est lors de cette étape que les facteurs individuels de survie ont été identifiés et l’outil qui les met en œuvre, élaboré. La seconde étape correspond à celle de la validation des résultats, là-aussi opérée selon deux modalités distinctes. 
+        </paragraphe>
+        <paragraphe num="8">
+            Pour déterminer les facteurs qui permettent d’assurer la survie en milieu forestier, une revue de littérature spécialisée a tout d’abord été conduite. Comme peu de littérature existe <em>a priori</em> sur ces questions, nous avons procédé à un inventaire systématique des écrits scientifiques disponibles en ligne grâce au moteur de recherche <em>Google Scholar</em>. Pour chaque requête, les 100 premiers articles ou ouvrages répertoriés ont été ana­lysés. En raison de l’objectif précis ciblé, les principaux mots-clés retenus ont été : 
+        </paragraphe>
+        <paragraphe>
+            <em>wilderness survival potential ; </em>
+        </paragraphe>
+        <paragraphe>
+            <em>reactions to a life threatening event ; </em>
+        </paragraphe>
+        <paragraphe>
+            <em>predicting behavior in face of a wilderness crisis ; </em>
+        </paragraphe>
+        <paragraphe>
+            <em>predicting crisis behavior ; </em>
+        </paragraphe>
+        <paragraphe>
+            <em>wilderness survival profiler. </em>
+        </paragraphe>
+        <paragraphe num="9">
+            Cet inventaire a rapidement démontré le peu de ressources scientifiques adaptées à l’objectif spécifique de la recherche et notamment à son contexte particulier, à savoir le milieu forestier nordique. Les rares conclusions et approches dignes de mentions n’étaient en effet que peu exploitables en raison des particularités du territoire québécois. En termes de vie en milieu naturel, ce territoire est, par exemple, caractérisé par un couvert forestier immense, une densité de population proportionnellement très faible, un climat nordique marqué et une saison végétative très brève, la présence d’espèces animales potentiellement problématiques dans certains contextes, mais aussi un réseau hydrographique très développé, des zones avalancheuses peu nombreuses, etc. 
+        </paragraphe>
+        <paragraphe num="10">
+            Devant un relatif déficit d’informations scientifiques issues de la revue de littérature, nous avons retenu l’observation directe, dans un cadre d’analyse expérientielle, comme seconde méthode de recherche. Nous nous sommes ainsi basés sur l’expérience des auteurs comme chercheurs, enseignants et praticiens depuis plusieurs années, et notamment sur les conclusions des recherches de Bourbeau (1988, 2003, 2007). Ces études de références compilent les observations et évaluations formelles et informelles faites sur une période de trente ans, à partir d’épreuves de survie simulées impliquant des étudiants universitaires en formation ainsi que des professionnels qui œuvrent en forêt (biologistes et techniciens du MRNF ou monteurs de ligne d’Hydro-Québec – société en charge notamment du développement des réseaux de transport d’énergie électrique à travers le territoire), lesquels ont été soumis à diverses situations de précarité en forêt. Une diversité des contextes de pratique (saisons, sites de simulation), de situations simulées, et un grand nombre des personnes impliquées (plus de 500), constituent la base de ces observations. 
+        </paragraphe>
+        <paragraphe num="11">
+            Ces deux premières méthodes ont permis d’identifier quatre méta-facteurs favorisant la capacité de survivre en forêt, mais également de préciser un certain nombre de sous-facteurs. Le nombre de ces sous-facteurs a été arbitrairement limité à huit, afin de permettre de traduire ces résultats en un outil exploitable par tout un chacun. Nos conclusions formalisent donc avant tout une approche expérientielle, et en ce sens, constituent plus une proposition d’analyse que le résultat objectif d’une démarche scientifique traditionnelle. Pour autant, et dans un souci de rigueur, les résultats obtenus et notamment l’outil modélisé ont été soumis à un processus de validation externe. 
+        </paragraphe>
+        <paragraphe num="12">
+            Au cours de la période 2010-2013, divers groupes de professionnels ont ainsi évalué de manière formelle, soit à partir d’un questionnaire ciblé, les facteurs favorisant la survie en forêt ainsi que l’outil d’auto-évaluation du potentiel de survie développé. L’outil AEPS a servi à la formation de plus de 200 agents de la faune du Ministère des ressources naturelles du Québec, biologistes et techniciens de Ressources Naturelles Canada et étudiants du baccalauréat en intervention plein air de l’Université du Québec à Chicoutimi (UQAC) qui ont pu proposer des ajustements dont il a été tenu compte. Cet outil a également fait l’objet d’une démarche de validation par un groupe d’experts canadiens, instructeurs professionnels de survie en régions isolées (LERPA, 2011), lesquels ont analysé, questionné et enrichi notre approche. Les experts sollicités sont francophones car l’outil a été élaboré en français. Aucun d’entre eux n’a apporté d’éléments qui contredisent ou invalident les conclusions retenues dans la version proposée ici. Dans sa forme actuelle, l’outil est désormais utilisé dans diverses institutions québécoises d’enseignement en lien avec le milieu naturel. 
+        </paragraphe>
+        <section niveau="h1">Les facteurs individuels de survie dans un contexte de détresse en milieu forestier </section>
+        <paragraphe num="13">
+            Une première analyse de l’application du principe de prévoyance aurait pu en faire naturellement un facteur de survie. Toutefois, la prévoyance se situe en amont des facteurs recherchés ici. Nous avons en effet initialement convenu qu’il est logique d’estimer que la capacité d’un individu à surmonter potentiellement un cas de détresse en forêt peut et doit surtout s’envisager en termes de prévoyance. Selon nous, tout effort de planification des sorties en milieu naturel s’accompagne d’une augmentation significative du potentiel de survie. 
+        </paragraphe>
+        <paragraphe num="14">
+            Par effort de planification, nous entendons : 
+        </paragraphe>
+        <paragraphe>
+            l’habitude d’apporter une trousse de survie en tout temps lors de sorties en milieu naturel (incluant premiers soins, matériel de réparation et moyens d’orientation); 
+        </paragraphe>
+        <paragraphe>
+            l’habitude systématique de valider et de déposer un plan d’urgence à des personnes de confiance; 
+        </paragraphe>
+        <paragraphe>
+            l’habitude de transporter des moyens de communication (et/ou de signalisation) en tout temps; 
+        </paragraphe>
+        <paragraphe>
+            l’habitude de porter sur soi de l’équipement de poche. L’équipement de poche (<em>pocket gear</em>) fait référence à la mini trousse de survie constituée d’équipements critiques qu’il est possible d’avoir systématiquement sur soi, indépendamment des activités réalisées, et qui sont polyvalents, régulièrement utiles et suffisamment compacts pour tenir dans une poche de pantalon (ex : canif, briquet) (Bourbeau, 2012 : 233). 
+        </paragraphe>
+        <paragraphe num="15">
+            À titre d’exemple, il se conçoit facilement que de disposer systématiquement d’un moyen de communication et d’un système de géolocalisation par satellite (GPS) facilite les secours et réduit d’autant plus les conséquences de se perdre ou de se blesser en forêt. Ainsi, le principal facteur pour éviter de se trouver confronter à une situation de détresse en milieu naturel et d’avoir à compter uniquement sur sa résistance, sa débrouillardise, voire la chance pour survivre, est de s’assurer de ne pas atteindre cette zone en mettant systématiquement en place des lignes de défense qui s’articulent autour des notions de planification et de prévoyance ou de gestion des risques. Un plan d’urgence en est un exemple concret. 
+        </paragraphe>
+        <paragraphe num="16">
+            Pourquoi dès lors ne pas intégrer ce paramètre à un modèle d’évaluation du potentiel de survie? La raison vient du fait que les facteurs que nous avons retenus contribuent directement à augmenter les chances de survie une fois que le danger se réalise, la prévoyance n’intervenant qu’en amont pour diminuer la probabilité que ce même danger (impliquant un risque vital) s’exprime. Nous estimons donc que les capacités physiques, psychologiques, techniques et d’analyse permettraient <em>in fine</em> d’optimiser les chances de succès d’une expérience de survie. 
+        </paragraphe>
+        <paragraphe num="17">
+            Parmi les facteurs qui contribuent au succès d’une épreuve de survie, le plus évident et immédiat semble être les capacités physiques de la victime. La capacité d’un individu à supporter une situation dramatique en forêt est proportionnelle à ses limites physiologiques en termes d’endurance et de résistance (seuil de tolérance aux douleurs, au sevrage, aux privations, par exemple) et à sa condition physique au moment de cette épreuve (cas de maladie ou de traumatisme, mais aussi, à l’inverse, capacité cardio-vasculaire supérieure à la moyenne). Il est facile d’établir le lien entre la faiblesse naturelle de la constitution d’un individu et sa difficulté à surmonter les impacts physiques résultants de la situation de détresse. 
+        </paragraphe>
+        <paragraphe num="18">
+            Le deuxième facteur correspond à l’état psychologique de la victime, qui inclut notamment la force de caractère et la stabilité émotionnelle ainsi que la résilience. Ce facteur intègre également l’aptitude à mettre en place des réponses pour faire face à un événement stressant, et la faculté à mobiliser facilement des ressources psychologiques pour y parvenir. Cette « façon de s’ajuster aux situations difficiles » (Ray <em>et al.</em>, 1982) est incluse dans la notion de « <em>coping </em>», ou capacité d’accommodation et d’adaptation. 
+        </paragraphe>
+        <paragraphe num="19">
+            Le <em>coping</em> (de l’anglais « to cope » : faire face) désigne l’ensemble des processus qu’un individu interpose entre lui et un événement éprouvant afin d’en maîtriser ou d’en diminuer l’impact sur son bien-être physique et psychique. Selon Lazarus et Folkman (1984 : 141), il s’agit de « l’ensemble des efforts cognitifs et comportementaux toujours changeants que déploie l’individu pour répondre à des demandes internes et/ou externes spécifiques, évaluées comme très fortes et dépassant ses ressources adaptatives ». Le processus est actif et conscient; il convient donc de le distinguer des simples mécanismes de défense. Cette adaptation peut se faire par différents moyens : prise en compte de ses ressources personnelles (cognitives et affectives), utilisation des aides extérieures possibles, etc. Le terme appartient essentiellement au domaine de la psychologie mais selon nous, il peut-être sollicité dans le contexte de la survie en forêt. Ainsi, l’annonce d’un diagnostic d’un cancer est parfois vécue comme un séisme qui pourrait détruire définitivement tout espoir. Cependant, après le choc, la nouvelle peut conduire à réaliser une viscérale et urgente nécessité de vivre pleinement et avec intensité tous les meilleurs moments offerts par l’existence. Tout dépend de sa capacité à faire face à la situation. Cette capacité de réaction se fonde essentiellement sur les mêmes principes lorsqu’il s’agit de s’ajuster à une situation d’extrême précarité en région isolée (Gonzales, 2003; Friedl et Penetar, 2008 ; Hill, 1998 ; Bonanno, 2004). 
+        </paragraphe>
+        <paragraphe num="20">
+            La plupart du temps, les individus ne subissent pas passivement les situations difficiles qui s’imposent à eux, mais interviennent constamment pour établir des conditions qui leur sont propices. Cette tentative de maîtrise poursuit deux buts essentiels : éliminer ou réduire les conditions environnementales stressantes, et diminuer le sentiment de détresse qu’elles induisent (Leach, 1994). Pour résumer, le <em>coping </em>définit les conditions et les processus de réaction à un stress majeur. Il insiste sur la composante psychologique de la gestion des problématiques. Le <em>coping</em> est donc un mécanisme qui peut contribuer à endurer et à surpasser une situation précaire, voire dramatique. 
+        </paragraphe>
+        <paragraphe num="21">
+            À ce principe qui relève de la dynamique psychologique de l’individu, Bourbeau (2007) ajoute que la confiance qui résulte des expériences de survie (réelles ou simulées) et de la confrontation antérieure aux difficultés optimise les chances de succès. Le savoir-faire accroît le gain de confiance. La maitrise technique née de l’apprentissage personnel garantit l’autonomie et augmente la capacité de survie : plus quelqu’un est naturellement à l’aise avec des techniques permettant d’accroître son niveau de confort, plus leur mise en œuvre sera aisée advenant le cas réel où leur succès devient vital, ce qui réduira d’autant plus le stress lié à la situation. Dit autrement, la réussite à surmonter une épreuve de survie en forêt est directement proportionnelle à la confiance de l’individu en ses habiletés à accomplir les tâches précises nécessaires pour résoudre le problème. Ces critères se cumulent, par ailleurs. La possibilité de réagir avec succès à une situation de survie repose sur la capacité à mobiliser des ressources psychologiques (ces dernières étant proportionnelles à l’accroissement de la confiance en soi résultant de la pratique de simulations). 
+        </paragraphe>
+        <paragraphe num="22">
+            Le troisième facteur pour favoriser la survie est celui du savoir-faire. En milieu forestier, il existe un certain nombre de compétences techniques qui augmentent de manière significative l’autonomie et la résistance aux aléas climatiques et de manière générale aux dangers environnementaux. La plupart des ouvrages traitant de la survie abordent cette question comme l’unique moyen d’augmenter son temps de résistance. C’est selon nous un facteur parmi d’autres. Il est néanmoins évident que la maîtrise de techniques essentielles (ex : savoir allumer un feu dans n’importe quelle condition) contribue très largement à accroître le temps de résistance (illustration 1). 
+        </paragraphe>
+        <paragraphe num="23">
+            Illustration 1
+        </paragraphe>
+        <paragraphe num="24">
+            À ces trois premiers facteurs qui favorisent la survie, nous en ajoutons un quatrième. Nous avançons l’hypothèse selon laquelle la capacité d’analyse, entendue comme le sens de l’anticipation des risques et la prédisposition à la résolution de problèmes, contribue également à paramétrer les conditions de survie. La capacité d’analyse permet d’identifier les éléments de base d’une situation ou d’un problème, d’établir les relations unissant ces éléments et de dégager les principes structuraux permettant de fournir une perception systémique de la situation (Kowalski-Trakofler <em>et al</em>., 2003; Keinan <em>et al</em>., 1987; Klein, 2008). Il s’agit de l’atout majeur du joueur d’échecs qui développe une vision globale de la partie, évalue les enjeux, anticipe les options et structure son action en conséquence. Il possède par ailleurs une réactivité certaine et une capacité d’adaptation efficace (Siebert, 1996). La capacité d’analyse telle que nous l’interprétons constitue un savoir-être générique qui relève de la capacité organisationnelle associée à une faculté d’anticipation et de lecture du danger. 
+        </paragraphe>
+        <paragraphe num="25">
+            Bien qu’ayant des répercussions sur l’avant situation de survie lorsqu’elle concerne spécifiquement les réflexes et automatismes de prévoyance (comme la mise en œuvre du principe de précaution par le biais de l’élaboration d’un plan d’urgence), la capacité d’analyse s’exprimera également une fois la situation établie. En ce sens, elle trouve sa place parmi les critères qui, selon nous, ont un impact direct sur les chances de succès. Elle fait naturellement partie des élé­ments contrôlables qui doivent être présents pour optimiser la survie. Cette compétence peut se développer et s’accroître de la même manière que la condition physique, la santé psychologique et le savoir-faire technique. 
+        </paragraphe>
+        <paragraphe num="26">
+            En rapprochant ces éléments, il est envisageable d’estimer que la réaction possible à une situation de survie dépend des divers facteurs que sont : le savoir-faire (compétences techniques, autonomie et débrouillardise), l’état psychologique de l’individu (équilibre psychique, stabilité et niveau de confiance en soi), les capacités physiologiques (condition physique et résistance à la douleur et aux privations) et la capacité d’analyse (sens d’anticipation des risques et de structuration des actions) (illustration 2). 
+        </paragraphe>
+        <paragraphe num="27">
+            Illustration 2
+        </paragraphe>
+        <section niveau="h1">Caractérisation des facteurs individuels de survie </section>
+        <paragraphe num="28">
+            Une fois établis les quatre facteurs généraux à considérer pour apprécier la capacité potentielle d’une personne à surmonter un cas de détresse en forêt, il convient de caractériser ces facteurs. Nous avons établi que chacun peut l’être selon huit critères spécifiques. Ces critères ne sont pas hiérarchisés. Leur poids est équivalent dans l’évaluation finale du potentiel de survie en forêt. En effet, puisqu’aucune situation de survie n’est strictement comparable à une autre, l’équipollence des critères est un moyen d’établir une moyenne. Le tableau 1 qui suit liste ces critères pour chaque facteur de survie. 
+        </paragraphe>
+        <paragraphe num="29">
+            Tableau 1
+        </paragraphe>
+        <section niveau="h1">Évaluation du potentiel de survie au moyen du modèle AEPS </section>
+        <paragraphe num="30">
+            Une fois relevés les facteurs principaux qui concourent à la survie, il est apparu utile de les décliner en un outil directement utilisable pour estimer leur valeur (ou niveau) pour un individu donné et à un moment précis. L’outil que nous proposons ici a été nommé modèle AEPS, pour auto-évaluation du potentiel de survie. Ce modèle permet l’évaluation de la capacité d’un individu à gérer les dangers potentiels les plus fréquents, en contexte québécois. Son utilisation repose sur une auto-évaluation diagnostique sous forme d’un questionnaire à compléter. Par ce biais est déterminée une mesure quantitative ponctuelle du potentiel de survie en forêt. 
+        </paragraphe>
+        <paragraphe num="31">
+            Il est à noter que l’outil AEPS ne prend pas en considération le contexte dans lequel se trouve l’individu en situation d’urgence vitale (ex : accident, personne perdue, etc.). Il n’intègre pas non plus la composante du hasard (ex : se perdre à proximité d’un cours d’eau), qui influence naturellement le succès ou l’échec de la tentative de survie. En ce sens, l’estimation fournie par ce modèle ne peut être considérée comme un jugement définitif sur la réussite de toute expérience éventuelle de survie. 
+        </paragraphe>
+        <section niveau="h1">Paramétrage de l’outil AEPS </section>
+        <paragraphe num="32">
+            Pour procéder à l’auto-évaluation du potentiel individuel de survie, il convient de coter chacun des trente-deux critères sur une échelle de 1 à 10. L’évaluation minimale (1) correspond à un individu catatonique au stress, doté d’une très faible constitution physiologique, ayant une ignorance technique totale, et dépourvu du sens de l’anticipation des risques. À l’opposé, l’évaluation maximale (10) serait applicable à une personne endurcie à la gestion du stress, d’ordinaire peu éprouvée d’un point de vue métabolique par la privation, maître dans les techniques d’organisation des priorités d’urgence et proactive dans sa gestion des risques en plein air. Plus précisément, la cote de chaque critère est expliquée selon un barème explicite et le plus objectif possible (tableaux 2, 3, 4 et 5). 
+        </paragraphe>
+        <paragraphe num="33">
+            Tableau 2
+        </paragraphe>
+        <paragraphe num="34">
+            Tableau 3
+        </paragraphe>
+        <paragraphe num="35">
+            Tableau 4
+        </paragraphe>
+        <paragraphe num="36">
+            Tableau 5
+        </paragraphe>
+        <section niveau="h1">Utilisation de l’outil </section>
+        <paragraphe num="37">
+            En se référant aux tableaux 2, 3, 4 et 5 qui constituent des grilles d’interprétation, il est possible d’apprécier, au mieux de ses connaissances et de son objectivité, la cote qui correspond à ses capacités du moment. Il est à noter que les exemples sont donnés à titre indicatif seulement; ils ne constituent pas des références absolues (par exemple, il n’est pas obligatoire d’être un mécanicien professionnel pour avoir des compétences en mécanique). 
+        </paragraphe>
+        <paragraphe num="38">
+            Par la suite et en reportant les cotes, le tableau complété est représenté sous la forme d’un diagramme radar qui offre une vision globale de la situation. L’illustration 3 donne un exemple d’auto-évaluation du potentiel de survie.
+        </paragraphe>
+        <paragraphe num="39">
+            Illustration 3
+        </paragraphe>
+        <paragraphe num="40">
+            Il est à noter que ces critères, bien que non hiérarchisés, sont organisés de manière à ce que le rendu de la représentation graphique finale (diagramme radar) favorise le regroupement et la lecture des points forts et des lacunes de l’individu évalué. Ainsi, en observant l’illustration 3, on constate que l’évaluation de l’absence de dépendance (24) se situe à mi-chemin entre les critères de capacités physiologiques et de santé psychologique, puisque l’addiction est invalidante à ces deux niveaux. Autre cas de figure, l’évaluation de l’existence d’une blessure permanente (23) est plus proche (dans sa représentation graphique) du critère de l’état psychologique que ne l’est la résistance au manque de sommeil (17). Le recours au modèle AEPS permet ainsi, grâce à sa traduction graphique, une compréhension rapide et efficace des lacunes à compenser et des compétences à acquérir. Dans notre exemple, ce sont les savoir-faire techniques qui devraient logiquement être approfondis, et un travail sur la composante psychologique de la survie serait profitable. 
+        </paragraphe>
+        <paragraphe num="41">
+            La dernière étape dans l’utilisation de l’outil AEPS consiste précisément à relever les critères ayant l’évaluation la plus faible et à les lister par écrit. Les chercheurs en psychologie cognitive qui s’intéressent au mécanisme de fixation des informations soulignent en effet que pour accrocher une information, la retenir et être en mesure de la retrouver et de l’utiliser, certaines démarches sont plus efficaces que d’autres. Ainsi, il est convenu que si l’on retient davantage ce qu’on écrit que ce qu’on lit. Partant de ce principe, les utilisateurs de l’outil AEPS sont conviés à écrire leurs lacunes. Ils ont également à envisager et à écrire un plan de perfectionnement visant à permettre de combler à court terme ces lacunes. 
+        </paragraphe>
+        <paragraphe num="42">
+            Si, par exemple, le facteur le plus faible présenté sur notre diagramme radar est un manque de dextérité (11– savoirfaire), s’investir dans une démarche personnelle d’utilisation d’outils manuels, comme suivre des formations spécialisées, pourrait être de nature à faciliter la gestion d’une situation de survie en forêt. La créativité et l’ingéniosité dans l’utilisation dérivée de certains équipements (ex : faire un cordage avec un chandail) pouvant parfois contribuer à augmenter le confort de l’individu. 
+        </paragraphe>
+        <section niveau="h1">Conclusion : potentialités d’accroissement de l’autonomie en milieu naturel </section>
+        <paragraphe num="43">
+            Lors de la planification d’activités d’aventure sécuritaire, la principale priorité est d’établir l’adéquation entre les compétences des participants et la difficulté des activités choisies (Bourbeau, 2007). L’outil AEPS contribue directement à cet objectif en permettant de faire la lumière sur les quatre secteurs de compétences de l’individu que sont la maîtrise d’un certain nombre de savoirs techniques de base associés à des prédispositions physiologiques naturelles, à des capacités physiques et psychologiques développées avec le temps, et à des habitudes d’anticipation des accidents et de planification des conséquences. 
+        </paragraphe>
+        <paragraphe num="44">
+            L’outil AEPS tel qu’il est modélisé ici permet d’établir une photographie précise de la capacité d’un individu à gérer au mieux une situation dans laquelle sa vie est en danger. En dressant un bilan du potentiel de survie, il permet surtout la prise de conscience des lacunes à combler pour optimiser les chances de succès, au mieux de ses capacités naturelles et de ses aptitudes actuelles. Il favorise un apprentissage ciblé sur les critères de succès qui présentent le plus de potentiel de bonification, c’est-à-dire les critères qu’il conviendrait d’accroître prioritairement. 
+        </paragraphe>
+        <paragraphe num="45">
+            Cet outil demeure cependant la traduction d’une proposition d’analyse expérientielle. Cette analyse ne repose pas sur une démarche scientifique standard en raison d’un déficit marqué d’études scientifiques portant sur cette question et intégrant les particularismes biogéophysiques du territoire québécois. Malgré les ressources importantes consacrées à son développement, incluant des démarches d’évaluation externe, l’outil final reste perfectible, le nombre de critères pour chacun des quatre facteurs pouvant, par exemple, être étendu. 
+        </paragraphe>
+        <paragraphe num="46">
+            À partir du cadre de référence qu’il propose, l’outil AEPS peut toutefois être d’ores et déjà utilisé dans le cadre d’un projet personnel et autodidacte d’accroissement de son autonomie en milieu naturel. Il peut également l’être dans le contexte de la formation spécifique des professionnels du tourisme ou lors de tout cours de survie. Ces formations pourraient ainsi intégrer le développement des compétences liées aux quatre facteurs du modèle, à savoir : 
+        </paragraphe>
+        <paragraphe>
+            optimiser et développer sa capacité d’analyse décisionnelle, notamment en prenant en considération les spécificités des situations d’urgence; 
+        </paragraphe>
+        <paragraphe>
+            acquérir les savoirs et connaissances reliés aux techniques essentielles et aux protocoles à mettre en œuvre pour faire face à une vraie situation d’urgence en forêt; 
+        </paragraphe>
+        <paragraphe>
+            parfaire sa connaissance de soi et être capable de porter un regard objectif sur ses capacités physiques de gestion d’une situation d’urgence majeure en milieu forestier; 
+        </paragraphe>
+        <paragraphe>
+            développer la capacité psychologique de dépasser ses peurs, de faire preuve de résilience et de hardiesse. 
+        </paragraphe>
+        <paragraphe num="47">
+            Adopter par ailleurs des habitudes de prévention, de planification et de prudence en tout temps est, tel que nous l’envisageons ici, une démarche transversale et prioritaire aux quatre autres. 
+        </paragraphe>
+        <paragraphe num="48">
+            Des méthodes spécifiques existent pour faciliter l’acquisition de ces compétences. La capacité psychologique de dépasser ses peurs en milieu naturel peut ainsi s’acquérir dans le cadre d’une approche échelonnée : une confrontation à diverses situations de précarité (simulations de survie) permet d’augmenter son niveau de confiance et son autonomie en milieu naturel. Le recours à des outils spécialisés, comme le protocole de prise de décision SERA (Bourbeau et Tranquard, 2010 dans Bourbeau, 2012), peut également contribuer significativement au développement de sa capacité d’analyse décisionnelle. 
+        </paragraphe>
+        <paragraphe num="49">
+            <strong>Information additionnelle :</strong> Une version utilisateur de l’outil AEPS est accessible sur le site du LERPA : http://lerpa.uqac.ca/​/documents.php 
+        </paragraphe>
+    </corps>
+    <bibliographie>
+        <reference>ATDI – Adventure Travel Development Index (2010) 2010 Report, Adventure Travel Trade Association, George Washington University, Vital Wave Consulting. </reference>
+        <reference>AEQ – Aventure écotourisme Québec (2004) Étude sur la valeur économique de l’écotourisme et du tourisme d’aventure, DBSF. </reference>
+        <reference>BONANNO, George A. (2004) « Loss, Trauma, and Human Resilience: Have We Underestimated the Human Capacity to Thrive After Extremely Aversive Events ? », American Psychologist, vol. 59, no 1, janvier, p. 20 à 28. </reference>
+        <reference>BOURBEAU, André-François (1988) Surviethon... Au gré de la nature, Chicoutimi : JCL Éditions. 408 p. </reference>
+        <reference>BOURBEAU, André-François (1995, 2003) Formation d’un guide d’aventure, Chicoutimi : UQAC. 4 p. </reference>
+        <reference>BOURBEAU, André-François (2007a) Classification des problèmes potentiels en forêt québécoise, Chicoutimi : UQAC. 2 p. </reference>
+        <reference>BOURBEAU, André-François (2006-2007b) Manuel de référence sur la gestion des risques et de la crise (Association des camps du Québec et Aventure Écotourisme Québec), Chicoutimi : ACQ. 246 p. </reference>
+        <reference>BOURBEAU, André-François (2012) Le Surviethon, 25 ans plus tard, Chicoutimi : JCL Éditions. 512 p. </reference>
+        <reference>BOURBEAU, André-François et Manu TRANQUARD (2010) « Modèle de prise de décision SERA », dans André-François BOURBEAU (sous la direction de), Le Surviethon, 25 ans plus tard, Chicoutimi : JCL Éditions, p. 291-292 et p. 501. </reference>
+        <reference>CURTIS, Rick (1995) « Guide to Outdoor Safety Management, Outdoor Action Program», Princeton University, &lt; http://www.princeton. edu/~oa/safety/safeman.html &gt;, consulté le 20 août 2013. </reference>
+        <reference>FRIEDL Karl E. et David M. PENETAR (2008) « Resilience and Survival in Extreme Environments », dans Brian J. LUKEY et Victoria TEPE (sous la direction de), Biobehavioral Resilience to Stress, Boca Raton (Floride) : CRC Press. p. 139–176. </reference>
+        <reference>GONZALES, Laurence (2003) Deep Survival : Who Lives, Who Dies, and Why, New York : W. W. Norton &amp; Company. 302 p. </reference>
+        <reference>HEGGIE, Travis W. et Tracey M. HEGGIE (2009) « Search and Rescue Trends Associated With Recreational Travel in US National Parks », Journal of Travel Medicine, vol. 16, no 1, janvier et février, p. 23–27. </reference>
+        <reference>HILL, Kenneth A. (1998) Lost Person Behavior, Ottawa : National SAR Secretariat. 90 p. </reference>
+        <reference>HUNG, Eric K et; David A. TOWNES (2007) « Search and Rescue in Yosemite National Park: A 10-Year Review », Wilderness and Environmental Medicine, vol. 18, p.111-116. </reference>
+        <reference>KEINAN, Giora; Nehemia FRIEDLAND et Yossef BEN-PORATH (1987) « Decision Making Under Stress: Scanning of Alternatives Under Physical Threat », Acta Psychologica, vol. 64, no 3, mars, p. 219–228. </reference>
+        <reference>KLEIN, Gary (2008) « Naturalistic Decision Making », Human Factors: The Journal of the Human Factors and Ergonomics Society, juin, vol. 50, p. 456-460. </reference>
+        <reference>KOWALSKI-TRAKOFLER, Kathleen M.; Charles VAUGHT et Ted SCHARF (2003) « Judgment and Decision Making Under Stress: an Overview for Emergency Managers », International Journal of Emergency Management, vol. 1, no 3, p. 278-289. </reference>
+        <reference>KPMG Services Conseils (2010) Diagnostic – Tourisme nature, KPMG Services Conseils, Toronto. 39 p. </reference>
+        <reference>LERPA – Laboratoire d’expertise et de recherche en plein air (2011) « Liste des instructeurs de survie ayant contribué à l’évaluation et à la bonification de l’outil d’évaluation du potentiel de survie en forêt (comité d’experts) », Projet de recherche Auto-évaluation du potentiel de survie (AEPS), UQAC – Université du Québec à Chicoutimi, &lt;http://lerpa. uqac.ca/wpcontent/uploads/2012/11/Comité-experts-AEPS.pdf&gt;, consulté le 1er août 2014. </reference>
+        <reference>LAZARUS, Richard S. et Susan FOLKAM (1984) Stress, Appraisal and Coping. New York : Springer. Cités par I. PAULHAN et M. BOURGEOIS (1995) Stress et coping, Les stratégies d’ajustement à l’adversité. Paris : Nodules PUF. 128 p. </reference>
+        <reference>LEACH, John (1994) Survival psychology, Basingstoke : Macmillan Press, 136 p. </reference>
+        <reference>MCINTOSH, Scott E.; Aaron BRILLHART; Jennifer DOW et Colin K. GRISSOM (2008) « Search and Rescue Activity on Denali, 1990 to 2008 », Wilderness and Environmental Medicine, vol. 21, p. 103–108. </reference>
+        <reference>MEPHAM, David (2013) « Intervenir en région isolée », conférence dans le cadre du colloque FORS – Formation en recherche et sauvetage des 23 et 24 mars 2013, Sainte-Anne des Monts, LERPA / MSP. </reference>
+        <reference>MONTALVO, Raul; Deborah L. WINGARD; Mark BRACKER et Terence M. DAVIDSON (1998) « Morbidity and mortality in the wilderness » West J Med, vol. 168, p. 248-254. </reference>
+        <reference>PAULHAN, Isabelle et Marc BOURGEOIS (1995) Stress et coping. Les stratégies d’ajustement à l’adversité, Paris : Nodules PUF. 128 p. </reference>
+        <reference>RAY, David C.; Jackie LINDOP et Peter Gerard GIBSON (1982) « The concept of coping », Psychological Medecine, vol. 12, p. 385-395. Cités par </reference>
+        <reference>SIEBERT, Al (1996) Survivor Personality : Why Some People Are Stronger, Smarter, and More Skillful at Handling Life’s Difficulties... and How You Can Be, Too, New York: Perigee Books, 256 p. </reference>
+        <reference>Tourisme Québec (2007) Le Québec de la grande nature – Plan intégré de l’expérience : Diagnostic et orientations. Québec : Tourisme Québec. 24 p</reference>
+    </bibliographie>
+</article>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="fr_GDMFAK_20-47_Df_1" source="https://journals.openedition.org/teoros/2347" lang="fr">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <revue>Teoros</revue>
+        <numero>31-2</numero>
+        <annee>2012</annee>
+    </meta>
+    <auteurs>
+        <auteur nom="Dussault" prenom="Geneviève" email="genevieve.dussault@tourisme.gouv.qc.ca">
+            <description>
+                Direction des connaissances stratégiques en tourisme, Tourisme Québec, Ministère des Finances et de l’Économie (Québec) 
+            </description>
+        </auteur>
+        <auteur nom="Freedman" prenom="Martine" email="martine.freedman@tourisme.gouv.qc.ca">
+            <oeuvres>
+                <publication id="fr_MFTAJPG_3-59_De_1" source="https://journals.openedition.org/teoros/1947" lang="fr">De la mise en valeur du patrimoine au développement durable</publication>
+                <publication id="fr_PDRMF_14-90_Le_1" source="https://journals.openedition.org/teoros/2142" lang="fr">La participation des communautés locales dans les parcs nationaux au nord du 49e parallèle</publication>
+            </oeuvres>
+            <description>
+                Ph.D. Direction des stratégies et des politiques touristiques, Tourisme Québec, Ministère des Finances et de l’Économie (Québec) 
+            </description>
+        </auteur>
+        <auteur nom="Konseiga" prenom="Adama" email="adama.konseiga@tourisme.gouv.qc.ca">
+            <description>
+                Ph.D. Direction des connaissances stratégiques en tourisme, Tourisme Québec, Ministère des Finances et de l’Économie (Québec) 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>D’un modèle prévisionnel à un modèle explicatif</titre>
+    <corps>
+        <paragraphe num="1">
+            Il arrive fréquemment que la Direction des connaissances stratégiques en tourisme de Tourisme Québec doive répondre à des demandes d’estimation et de prévisions concernant la performance touristique du Québec. Des modèles prévisionnels touristiques ont donc été élaborés pour être en mesure d’anticiper l’évolution du nombre de touristes provenant des principaux marchés et des dépenses qu’ils effectueront au Québec. Cet exercice de modélisation entrepris en 2005 est le résultat d’une fructueuse collaboration avec l’Institut de la Statistique du Québec (ISQ) qui en a assuré la supervision méthodologique. Ce modèle prévisionnel permet l’anticipation et la compréhension des phénomènes relatifs au secteur touristique et permet d’établir des cibles de performance, des stratégies et des politiques spécifiques sur le plan du développement économique du tourisme au Québec. Tout ce qui se réfère à la description du modèle prévisionnel provient du texte Ministère du Tourisme et Institut de la statistique (2008). Aussi les détails méthodologiques ne sont pas présentés dans cette chronique.
+        </paragraphe>
+        <paragraphe num="2">
+            Pour mieux comprendre la demande touristique, la Direction des connaissances stratégiques de Tourisme Québec a décidé de compléter son modèle prévisionnel avec un modèle explicatif de la demande qui permettra d’éclairer les effets des chocs (tels qu’une épidémie, une catastrophe naturelle ou une crise économique) sur la demande touristique. Dans cette chronique, nous vous présenterons les grandes lignes du modèle prévisionnel (Québec, 2008), son utilisation et les bases du modèle explicatif de la demande touristique québécoise. 
+        </paragraphe>
+        <section niveau="h1">Le modèle prévisionnel</section>
+        <paragraphe num="3">
+            Les méthodes retenues pour le modèle proviennent de deux types, soit les méthodes extrapolatives et les méthodes causales. Les premières permettent de prévoir une variable touristique à partir de son comportement ou de ses mouvements historiques. Ces méthodes sont également appelées méthodes d’analyse et de prévision des séries chronologiques univariées et non causales (Witt et Witt, 1992). Relevons que ces méthodes partent de l’hypothèse que le passé conditionne l’avenir. Les secondes utilisent les techniques de régression multiple. « Elles permettent d’identifier les relations fonctionnelles entre la variable qui fait l’objet de la prévision, dite dépendante, et un certain nombre de variables explicatives, dites indépendantes, qui dans la perspective présente, s’imposeront comme autant de déterminants du volume et des dépenses touristiques. On considère aussi que ces méthodes offrent la possibilité de développer un modèle explicatif du comportement de la variable dépendante » (Québec, 2008 : 8).
+        </paragraphe>
+        <paragraphe num="4">
+            Les modèles retenus amènent à identifier quelles variables seront nécessaires pour prévoir la demande touristique. Celle-ci se mesure généralement en nombre de touristes, en nuitées et en dépenses (Crouch, 1994). À partir d’un inventaire des variables pouvant servir à l’analyse et d’une segmentation des marchés selon les origines des touristes, la Direction des connaissances stratégiques de Tourisme Québec a retenu certaines variables. Afin de calculer la performance touristique du Québec, les huit variables dépendantes suivantes ont été retenues :
+        </paragraphe>
+        <paragraphe>
+            Volume de touristes québécois au Québec;
+        </paragraphe>
+        <paragraphe>
+            Volume de touristes des autres provinces canadiennes au Québec;
+        </paragraphe>
+        <paragraphe>
+            Volume de touristes américains au Québec;
+        </paragraphe>
+        <paragraphe>
+            Volume de touristes des pays autres que le Canada et les États-Unis au Québec;
+        </paragraphe>
+        <paragraphe>
+            Dépenses des touristes québécois au Québec;
+        </paragraphe>
+        <paragraphe>
+            Dépenses des touristes des autres provinces canadiennes au Québec;
+        </paragraphe>
+        <paragraphe>
+            Dépenses des touristes américains au Québec;
+        </paragraphe>
+        <paragraphe>
+            Dépenses des touristes des pays autres que le Canada et les États-Unis au Québec.
+        </paragraphe>
+        <paragraphe num="5">
+            Les variables indépendantes retenues incluent la croissance économique, le revenu, le prix des voyages au Québec et au Canada, des variables permettant de vérifier le niveau de consommation au Québec et l’évolution du climat général de consommation, des indices de confiance des consommateurs et des données économiques relatives à l’emploi ou encore les revenus des entreprises de certains secteurs touristiques.
+        </paragraphe>
+        <paragraphe num="6">
+            Comme les données statistiques d’une année particulière ne sont disponibles qu’environ quatorze mois après la fin de cette année, des données estimées sont particulièrement utiles dans certaines situations. Par exemple, le modèle prévisionnel est utilisé par Tourisme Québec pour anticiper les revenus découlant de la taxe d’hébergement par trimestre. Il peut également être utile pour calculer les impacts sur le revenu en cas de modification du montant de cette taxe d’hébergement. De surcroît, le montant à disposition dans le fonds de partenariat touristique peut être estimé par le modèle prévisionnel.
+        </paragraphe>
+        <paragraphe num="7">
+            À ce propos, le fonds de partenariat touristique est constitué, entre autres, « des sommes virées par le ministre du Revenu au titre de la taxe sur l’hébergement » (Loi sur le ministère du Tourisme, 2005). Ce fonds sert à soutenir et renforcer l’industrie touristique québécoise. La taxe d’hébergement quant à elle est un montant fixe ou un pourcentage du prix de la nuitée facturé aux personnes qui acquièrent une unité d’hébergement touristique.
+        </paragraphe>
+        <paragraphe num="8">
+            De plus, le modèle prévisionnel a été particulièrement utile dans la réflexion qui a guidé la rédaction du Plan de développement de l’industrie touristique (Québec, 2012) notamment pour établir les cibles de performances à l’horizon 2020. Les données estimées à ce jour se sont avérées très proches des données réelles.
+        </paragraphe>
+        <paragraphe num="9">
+            Cependant, le modèle prévisionnel comporte certaines limites qui ne diminuent toutefois pas la qualité des résultats. Certains des modèles envisagés n’ont pas pu être expérimentés, car les séries chronologiques des variables à estimer étaient trop courtes ou comportaient trop de données manquantes. Par ailleurs, certaines perturbations auxquelles l’industrie touristique est confrontée entraînent des cassures dans les séries, ce qui rend la modélisation difficile. La conception d’un modèle explicatif, qui permettrait de comprendre les motivations de la demande touristique pour nous éclairer sur les effets des perturbations sur la demande, est donc apparue évidente. 
+        </paragraphe>
+        <section niveau="h1">Le modèle explicatif</section>
+        <paragraphe num="10">
+            L’objectif de ce modèle explicatif est de donner des outils pour mieux comprendre les motivations des touristes. Comme la motivation se situe dans la phase d’anticipation et de planification d’un voyage qui aboutira ou non à la décision de faire un voyage et de choisir une destination particulière pour faire ce voyage, il convient de définir les éléments qui la constituent. En d’autres termes, la motivation au voyage est formée de l’ensemble des besoins qui prédisposent un individu à vivre une expérience touristique (Yuan et McDonald, 1990).
+        </paragraphe>
+        <paragraphe num="11">
+            Lorsque l’on parle de la motivation des touristes quant au choix d’une destination, on distingue cinq formes de tourisme, soit le tourisme d’agrément, pour visiter des amis et parents, les voyages d’affaires, les congrès et celui que l’on fait pour des raisons personnelles. L’analyse de la demande est plus pertinente pour les raisons personnelles et l’agrément qui englobe les activités de temps libre pour le seul plaisir de voyager (loisir). Les motivations pour les voyages d’affaires et les congrès proviennent souvent de l’obligation de faire ceux-ci alors que la visite de parents ou d’amis est une motivation en soi.
+        </paragraphe>
+        <paragraphe num="12">
+            Les raisons du choix d’une destination peuvent être, par exemple, culturelles, éducationnelles, de prestige ou familiales. Elles se traduisent en matière de demande touristique. Les professionnels de l’industrie touristique peuvent alors utiliser ces raisons ou motivations pour analyser les grandes tendances de la demande de voyage à un niveau global. Elles servent également à établir l’offre touristique en matière d’infrastructures, de produits et de services touristiques. 
+        </paragraphe>
+        <paragraphe num="13">
+            Par ailleurs, deux types de mesures incitatives peuvent générer la motivation à voyager chez quelqu’un qui ne l’a jamais fait, et ce dans le but de combler un nouveau besoin :
+        </paragraphe>
+        <paragraphe>
+            les facteurs d’attraction : les bénéfices qu’un pays offre à ses visiteurs et qui les amènent à le préférer à d’autres destinations;
+        </paragraphe>
+        <paragraphe>
+            les facteurs internes : les besoins de l’individu qui peuvent être comblés par le voyage (éloignement de la routine, loisir et relaxation, raisons sociales, besoin social de reconnaissance, culture, aventure, spiritualité, soins de santé).
+        </paragraphe>
+        <paragraphe num="14">
+            Selon Kotler (1978), le processus de décision d’achat ou de choix d’un bien touristique compte cinq étapes (voir illustration 1). 
+        </paragraphe>
+        <paragraphe num="15">
+            En regard des principales études sur le même sujet à travers le monde, Tourisme Québec a décidé de retenir sept catégories, qui englobent les motivations au voyage, pour son modèle explicatif :
+        </paragraphe>
+        <paragraphe>
+            s’éloigner de sa routine en explorant de nouveaux endroits ou en changeant plusieurs de ses habitudes (alimentaires, habillement);
+        </paragraphe>
+        <paragraphe>
+            se reposer et effectuer des loisirs, tels que des loisirs non disponibles dans la région où le touriste vit;
+        </paragraphe>
+        <paragraphe>
+            rendre visite à des proches, socialiser avec des personnes différentes, voyager avec ses proches;
+        </paragraphe>
+        <paragraphe>
+            répondre au besoin de reconnaissance d’un individu en effectuant, par exemple, un voyage unique (car très coûteux, dangereux, difficile d’accès ou inhabituel), en ressentant de nouvelles sensations ou en se rendant dans un endroit prestigieux;
+        </paragraphe>
+        <paragraphe>
+            répondre au besoin culturel par un enrichissement intellectuel ou spirituel;
+        </paragraphe>
+        <paragraphe>
+            répondre au besoin d’activités physiques;
+        </paragraphe>
+        <paragraphe>
+            répondre à d’autres besoins tels que des soins de santé, la réalisation d’un pèlerinage ou la participation à un événement particulier.
+        </paragraphe>
+        <paragraphe num="16">
+            Un touriste qui a les motivations nécessaires pour partir en voyage peut cependant voir des facteurs contraignants l’en empêcher. Le facteur contraignant le plus important est le manque de revenu. Des éléments tels que la langue du pays de destination, le sentiment d’insécurité par rapport à la destination, la criminalité, les guerres, la peur de l’inconnu, la peur des voyages en avion, le manque de temps disponible ou la longueur d’un trajet peuvent également contrecarrer des projets de voyage. 
+        </paragraphe>
+        <paragraphe num="17">
+            Toutefois, selon Abou Abbas (2004) l’image que projettent les destinations influence largement le choix du touriste. Cette image est formée, entre autres, de la promotion faite par des agences gouvernementales ou de voyage et du bouche à oreille. 
+        </paragraphe>
+        <section niveau="h1">Conclusion</section>
+        <paragraphe num="18">
+            L’utilisation de modèles prévisionnel ou explicatif n’est bien sûr pas propre au Québec. Des recherches analogues se font ailleurs. Elles sont toujours fort utiles, car la prévision de la demande touristique aide les gouvernements dans la préparation de stratégies de développement touristique (Vo Thanh, 2010). 
+        </paragraphe>
+        <paragraphe num="19">
+            Néanmoins, la connaissance des motivations va aider à la modélisation de la demande touristique et à enrichir l’interprétation des résultats des régressions.
+        </paragraphe>
+        <paragraphe num="20">
+            La demande touristique qui se définit par les dépenses réalisées par des visiteurs inclut une part extérieure ou internationale, assimilée à des exportations, puisqu’elle est effectuée par les visiteurs non résidents. Aussi le modèle explicatif de demande touristique permettra entre autres au Québec d’affiner sa stratégie d’attraction des touristes afin d’améliorer la performance économique du secteur touristique. 
+        </paragraphe>
+    </corps>
+    <bibliographie>
+        <reference>ABOU ABBAS, Khaldoun (2004) Analyse des motivations du choix de la destination touristique visant à segmenter ce marché (cas Liban), Mémoire présenté comme exigence partielle de la maîtrise en administration des affaires (profil recherche), Université du Québec à Montréal, 234 p.</reference>
+        <reference>CROUCH, Geoffrey I. (1994) « The Study of International Tourism Demand: A Review of Findings », Journal of Travel Research, 33, July, p. 12-23.</reference>
+        <reference>KOTLER, Philip (1978) « Harvesting strategies for weak products », Business Horizons, 21 (4), p. 15-22.</reference>
+        <reference>QUÉBEC, Ministère du Tourisme et Institut de la statistique (2008) Modèle prévisionnel touristique : la démarche d’élaboration. Rapport final. Québec : Ministère du Tourisme. 50 p.</reference>
+        <reference>QUÉBEC, Ministère du Tourisme et Institut de la statistique (2008) Plan de développement de l’industrie touristique 2012-2020. Un itinéraire vers la croissance. Québec : Ministère du Tourisme. 114 p.</reference>
+        <reference>VO THANH, Tan (2010) « Prévision de la demande touristique par méthodes Delphi et Box-Jenkins. Application à la destination du Vietnam », Téoros, 29 (1). p. 100-108.</reference>
+        <reference>WITT, Stephen F. et Christine A. WITT (1992) Modeling and forecasting demand in tourism, London : Academic Press. 192 p.</reference>
+        <reference>Yuan Sue et Cary MCDONALD (1990) « Motivational Determinates of International Pleasure Time », Journal of Travel Research, 39 (1), p.42-44.</reference>
+        <reference>Loi sur le ministère du Tourisme, L.R.Q. M-31.2, (2005).</reference>
+    </bibliographie>
+</article>

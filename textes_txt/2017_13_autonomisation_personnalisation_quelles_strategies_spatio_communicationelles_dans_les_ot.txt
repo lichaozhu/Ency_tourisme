@@ -1,0 +1,710 @@
+Mondes du Tourisme 
+13 | 2017
+
+Tourisme et innovations
+
+Autonomisation, personnalisation : quelles
+stratégies spatio-communicationnelles dans les
+offices de tourisme ?
+Empowerment, personalization: what spatial-communication strategies in
+tourist offices?
+Camille Bernetière
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/1405
+DOI : 10.4000/tourisme.1405
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+ 
+Référence électronique
+Camille Bernetière, « Autonomisation, personnalisation : quelles stratégies spatiocommunicationnelles dans les offices de tourisme ? », Mondes du Tourisme [En ligne], 13 | 2017, mis en
+ligne le 30 décembre 2017, consulté le 19 mars 2020. URL : http://journals.openedition.org/tourisme/
+1405  ; DOI : https://doi.org/10.4000/tourisme.1405
+
+Ce document a été généré automatiquement le 19 mars 2020.
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modification 4.0 International.
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+Autonomisation, personnalisation :
+quelles stratégies spatiocommunicationnelles dans les
+offices de tourisme ?
+Empowerment, personalization: what spatial-communication strategies in
+tourist offices?
+Camille Bernetière
+
+ 
+
+Introduction
+1
+
+Des bouleversements dus à la présence numérique peuvent être observés au sein du
+secteur touristique, qui fait sa révolution avec l’invention d’applications et de services
+innovants dédiés aussi bien aux individus qu’aux professionnels. En 2014, le cabinet
+d’études McKinsey publiait un rapport, intitulé Améliorer la mutation numérique des
+entreprises : un gisement de croissance et de compétitivité pour la France 1, sur l’impact du
+numérique et les attentes qui en découlent. Ce rapport soulignait la maturité du secteur
+du tourisme en termes d’innovations numériques. Des concepts spécifiques à ce secteur
+voient le jour, tels que le e-tourisme, qui désigne l’ensemble des activités touristiques
+développées sur internet, le m-tourisme, qui constitue la déclinaison de cette activité
+sur des terminaux mobiles, ou encore le tourisme social, qui correspond à l’utilisation
+des réseaux sociaux dans un but touristique. L’évolution du secteur du tourisme se
+résume en un seul terme abondamment repris sur la toile : « SO-LO-MO » qui signifie
+social, local et mobile.
+
+2
+
+Les offices de tourisme, dans la mesure où ils constituent la porte d’entrée de
+l’information touristique physique sur un territoire, se voient eux aussi contraints de
+répondre à ces attentes nouvelles, en adaptant leur offre et en formant leurs équipes.
+Dans les faits, via la mise en place de dispositifs numériques au sein de leur structure,
+
+Mondes du Tourisme, 13 | 2017
+
+1
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+ils semblent conjuguer un double aspect : l’amélioration de service par la gestion de
+flux et la médiation du territoire.
+3
+
+Philippe Viallon (2014) rappelle que le monde du tourisme a été l’un des premiers
+touchés par la culture télématique. Ces technologies assurent la mise à disposition
+d’une masse d’informations beaucoup plus conséquente et amènent les individus à
+organiser en amont et de manière autonome leur voyage touristique. Elles permettent
+ainsi une imprégnation du lieu touristique par la consultation de photographies et par
+l’acquisition d’informations quant au lieu. Elles favorisent également la médiation
+touristique (Filloz, 2010).
+
+4
+
+Dans ce contexte de concurrence avec l’information numérique de masse, quelle place
+reste-t-il pour les espaces physiques de distribution d’informations et de conseils tels
+que les offices de tourisme ? Comment s’adaptent-ils au virage numérique pour pouvoir
+continuer d’exister en communiquant sur le territoire d’accueil ? L’une des solutions
+trouvées par les offices de tourisme pour répondre aux nouvelles demandes et attirer
+un plus grand nombre de touristes est l’intégration d’outils numériques au sein de
+l’espace physique.
+
+5
+
+Émergent alors plusieurs questionnements qui sont à la base cet article : de quelle
+manière ces dispositifs influencent-ils les pratiques et l’espace dans lequel ils
+s’insèrent ? Ces innovations numériques engendrent-elles des réajustements de la part
+des professionnels qui travaillent au sein de ces structures ?
+
+6
+
+Cet article se propose, à partir de l’étude sémio-pragmatique de deux offices de
+tourisme, de décortiquer les stratégies managériales et les intentions des producteurs
+en matière de mise en place de dispositifs innovants afin d’analyser la manière dont ces
+intentions s’adaptent aux attentes supposées des usagers et influencent concrètement
+le métier des conseillers en séjour. Dans le fond, l’objectif est d’analyser les stratégies
+spatio-communicationnelles mises en œuvre par les dirigeants des offices de tourisme
+suite à l’intégration des outils numériques et aux répercussions que cela a eu sur les
+pratiques des conseillers en séjour.
+
+7
+
+Les deux terrains sélectionnés pour cette étude sont l’office de tourisme de la ville de
+New York aux États-Unis et l’office de tourisme de Mulhouse dans le Haut-Rhin (68).
+Avant d’amorcer l’analyse, peut-être faut-il revenir sur cette étrange idée d’étudier de
+manière concomitante l’office de New York et l’office de Mulhouse. Il est évident que
+ces deux villes ne jouissent pas de la même touristicité, n’ont pas les mêmes ambitions
+économiques, ni les mêmes organisations politiques ou encore démographiques. Aussi,
+n’est-il pas question de les comparer. Cependant, leur étude permettra d’apporter des
+éclairages sur leurs stratégies spatio-communicationnelles respectives et sur les
+intentions de leurs producteurs, mais également d’aider le chercheur à proposer des
+interprétations et des résultats quant aux volontés d’adaptation de ces structures face
+aux nouvelles attentes supposées des usagers.
+ 
+
+L’innovation technologique au service de
+l’autonomisation des usagers : l’exemple de l’office de
+tourisme de la ville de New York
+8
+
+L’apparition du numérique fait naître une compétition entre les sources d’information.
+En effet, avec la mondialisation des pratiques touristiques, les professionnels du
+
+Mondes du Tourisme, 13 | 2017
+
+2
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+tourisme sont soumis à une concurrence accrue : « le consommateur d’aujourd’hui est de
+plus en plus habitué à partir en vacances et à voyager, et il a de plus en plus de possibilités
+techniques (via Internet) pour construire lui-même son voyage » (Petr, 2010, p. 5).
+9
+
+Selon Atout France (2011), 90 % des recherches sur un lieu touristique se font en amont,
+grâce aux sites internet. Ce chiffre montre bien que l’usager est autonome, ou en tout
+cas qu’il tend vers une autonomisation dans sa pratique. Pour répondre à ces attentes,
+certains offices de tourisme ont fait le choix de mettre en place une stratégie web,
+visant à mettre en page de manière différente les contenus proposés sur le site
+internet, en fonction de si l’usager est encore chez lui (site internet de séduction) ou s’il
+est déjà sur le territoire (site internet de séjour). Nous pouvons citer par exemple les
+offices de tourisme de Vaison-Ventoux (84) ou encore de Mulhouse (68). Mais cette idée
+de rendre l’usager autonome dans sa démarche de recherche constitue également une
+stratégie managériale d’adaptation, qui se retrouve parfois au sein même de l’office de
+tourisme. Celui de la ville de New York en est un exemple frappant.
+ 
+
+L’office de tourisme du futur de New York City
+10
+
+New York est la plus grande ville des États-Unis et fait partie des plus importantes du
+continent américain. Elle se situe dans le nord-est des États-Unis et compte cinq
+arrondissements : le Bronx, Manhattan, Brooklyn, le Queens et Staten Island. Son
+territoire s’étend sur plus de 1 000 km2 et compte plus de 8 millions d’habitants (voir
+figure 1).
+
+11
+
+En 2013, Tourmag2 indiquait que la ville américaine avait accueilli près de 55 millions de
+visiteurs. L’offre touristique y est foisonnante grâce notamment à l’architecture (les
+gratte-ciels et la skyline, la Statue de la Liberté), le patrimoine artistique (le
+Metropolitan, le Guggenheim, le MoMa ; les spectacles de Broadway) ainsi que le sport
+(l’équipe de football américain des Yankees).
+
+12
+
+L’office de tourisme de New York, ouvert en 2009, est géré par un organisme officiel
+chargé du marketing, de la promotion et du développement touristique de la ville de
+New York, appelé NYC & Company. Son ouverture a suscité de vastes retombées
+médiatiques dans le secteur de la veille touristique en France. Karine Miron, conseillère
+en stratégie interactive et blogueuse, a écrit un billet3 en février 2009 intitulé « NYC :
+l’office de tourisme du futur ! ». Elle y décrit ce nouvel espace, situé sur la 7 e avenue à
+deux pas de Central Park, et inaugure l’expression « office de tourisme du futur », qui sera
+reprise par de nombreux sites internet, colloques et études.
+
+13
+
+Louis Marin (1994) explique que l’observation de dispositifs communicationnels permet
+d’en faire ressortir l’« intentionnalité ». Autrement dit, il défend l’idée selon laquelle il
+n’est pas forcément nécessaire de revenir sur les intentions des concepteurs (qu’ils
+soient architectes, développeurs ou directeurs) lors de la production d’un dispositif
+communicationnel, car le dispositif en soi, dans sa matérialité et son fonctionnement,
+révèle les intentions. L’étude proposée ici repose donc sur une méthodologie
+d’observation et de collecte de traces, issue des sciences de l’information et de la
+communication, servant l’interprétation des stratégies des concepteurs.
+
+14
+
+L’office de tourisme de New York est très petit : sa surface fait 50 m² tout au plus.
+Pourtant, il accueille, dans ce petit espace, 24 écrans. L’usager, en y entrant, pourrait se
+croire dans un premier temps dans un Apple Store. L’office, organisé tout en longueur,
+accueille sur son mur gauche quatre écrans tactiles, de type tablettes géantes,
+
+Mondes du Tourisme, 13 | 2017
+
+3
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+permettant à l’usager de glaner de l’information sur les principales attractions à faire à
+New York et des renseignements de base dont un touriste peut avoir besoin (questions
+financières et déplacements par exemple). Au centre de l’espace, en longueur
+également, trois îlots centraux accueillent chacun deux ordinateurs Mac et un
+quatrième en accueille quatre. Ce dernier est destiné à être utilisé à la fois par les
+conseillers en séjour, afin de faire fonctionner le lieu, et par les usagers. Au-dessus de
+cet îlot, un écran dynamique propose des images et des vidéos du territoire. Enfin, un
+dispositif original, qui n’a jusqu’à présent été observé que dans cet office, combine neuf
+écrans disposés trois par trois pour constituer un mur d’écrans ainsi qu’une borne
+permettant de lire les QRcodes ou autres dispositifs numériques spécifiques (ce que
+l’office de tourisme dénomme les « smart discs »). Ainsi, l’usager, en plaçant sa brochure
+sur la liseuse, active une vidéo qui apparaît sur le mur d’écrans. L’ensemble des
+personnes au sein de l’espace peut ainsi voir la vidéo enclenchée par l’usager de
+passage.
+15
+
+Au sein de cet office, les brochures papier ne sont pas cachées à la vue des usagers mais
+sont au contraire mises en évidence le long des murs. Dans cet espace blanc et gris –
+couleurs renforcées par le matériel informatique –, ces brochures apportent de la
+couleur et une dynamique au lieu. L’office de New York City étant très petit, et la
+présence du numérique très importante, les brochures prennent place en masse sur les
+deux pans de murs à gauche et à droite de l’entrée. Ces brochures sont organisées par
+thèmes, avec une signalétique, par exemple : guides, plans, billetterie, Broadway, carte
+de métro, wifi, etc.
+
+16
+
+Cinq unités spatiales composent donc cet office : l’unité extérieure, l’unité d’exposition
+des brochures (voir figure 2), l’unité de consultation numérique (voir figure 3), le
+comptoir d’accueil (voir figure 4) et enfin l’unité du système RFID avec le mur d’écrans
+(voir figure 5).
+
+17
+
+Ce qui est particulièrement intéressant, c’est qu’au sein de cette structure
+d’information touristique ne se trouve qu’un seul conseiller à la fois. Tout le savoir sur
+le territoire new-yorkais est exposé sur les murs de l’office et dans les dispositifs
+numériques, en particulier à travers le dispositif innovant de système RFID. Ce dernier
+joue un rôle important dans la mise en scène du territoire au sein de l’office de
+tourisme : il est révélateur d’un processus plus large de mise en signification du
+territoire (Flon, 2014).
+ 
+
+L’autonomisation de l’usager au cœur des intentions
+18
+
+Afin de procéder à l’interprétation des intentions, notre choix s’est porté sur
+l’application de la méthodologie développée par Nicole Pignier et Benoit Drouillat
+(2004). Ensemble, ils adoptent une position d’expertise sur le webdesign : ils analysent
+l’énonciation des sites internet et proposent le concept d’éthos, qui définit selon eux les
+valeurs d’une identité ou d’une marque. Il s’agit d’un espace où l’énonciateur et son
+énoncé se mettent en scène, invitant l’usager à adhérer à la manière de communiquer À
+la lumière des méthodes du webdesign, nous nous intéresserons, dans un premier temps,
+à ce que les auteurs appellent la « promesse d’interface ». Trois types de sites internet
+peuvent être distinguer : les sites persuasifs, dont l’ambition est de se faire connaître en
+tant que système de valeurs – ce sont par exemple les sites institutionnels ; les sites
+incitatifs, qui promeuvent des produits ou des services – il s’agit par exemple de sites
+
+Mondes du Tourisme, 13 | 2017
+
+4
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+de ventes ; et enfin les sites de réalisation, qui proposent à l’internaute de vivre des
+expériences à travers un design symbolique ou polysensoriel.
+19
+
+Ces trois types de sites peuvent être mis en parallèle avec la catégorisation des
+stratégies spatiales proposées par Charles Perraton (1984). De ce point de vue, les sites
+persuasifs correspondraient à des stratégies de prescription – faire faire en
+contraignant ; les sites incitatifs correspondraient aux stratégies de séduction et de
+suggestion – faire faire en incitant et en sous-entendant ; et enfin les sites de réalisation
+correspondraient à la stratégie de la permission – donner les moyens de faire ou laisser
+faire.
+
+20
+
+Les « stratégies énonciatives » associées aux différents types de sites sont de quatre
+ordres : la stratégie de « représentation mimétique, démonstrative », qui vise à faire voir et
+faire lire du vraisemblable ; la stratégie de « présentation figurative ou imagée », qui cible
+une expérience ludique, où les mots deviennent des images, dans un design interactif
+imagé ; la stratégie d’« évocation mythique, symbolique », qui renvoie à une tonalité
+poétique, de rêves et de contemplation ; enfin, la stratégie « d’implication dépaysante
+exploratoire », qui vise moins la contemplation que l’exploration et l’implication.
+
+21
+
+Il semble ainsi, à l’aune de ces théories, que les intentions communicationnelles
+envisagent l’espace de l’office de tourisme comme un lieu permissif, livrant des
+informations pratiques et divulguant des savoirs sur le territoire, au travers
+notamment des brochures et des dispositifs numériques. Il donne des compétences aux
+usagers afin qu’ils trouvent ce qu’ils peuvent faire pendant leur séjour. La stratégie
+énonciative associée est « figurative ou imagée » et propose à l’usager une découverte
+autonome du territoire.
+
+22
+
+Les directeurs d’office de tourisme mettent ainsi en place une stratégie de promotion
+du territoire. L’espace est fonctionnel : il vise à délivrer une information à l’usager par
+une stratégie « figurative ou imagée ». Le lieu est pensé comme un lieu-ressource en
+termes d’informations touristiques, avec un découpage en unités thématiques claires,
+renforcé par une signalétique déictique (Jacobi et Le Roy, 2013) pour les brochures :
+l’objectif est que l’usager puisse trouver l’information qu’il recherche en toute
+autonomie.
+ 
+
+L’évolution du métier de conseiller : vers une médiation numérique ?
+23
+
+Le fait que l’usager puisse effectuer ses recherches en autonomie quasi complète a
+plusieurs avantages : tout d’abord, cela permet à la structure de gérer les flux (Lamizet,
+1992). Dans des lieux particulièrement touristiques, il importe de rentabiliser l’espace
+afin de mieux gérer les flux. Les dispositifs numériques sont dès lors une façon de
+gagner du temps, en permettant de chercher l’information rapidement sans attendre
+les conseils du personnel d’accueil : un usager qui trouve l’information directement sur
+les outils mis à sa disposition ne vient pas au comptoir. Cela permet également à la
+structure de mieux gérer ses ressources humaines : ce constat est flagrant à l’office de
+tourisme de la ville de New York, où un seul conseiller est présent. Enfin, cela permet
+aux conseillers de revaloriser leur travail, qui devient plus qualitatif.
+
+24
+
+Au sein de cet office, l’espace est restreint et le comptoir d’accueil peu marqué : ce sont
+deux éléments qui favorisent un échange rapproché avec les usagers. Ces derniers sont
+contraints, par la disposition des éléments dans l’espace et l’architecture même du
+
+Mondes du Tourisme, 13 | 2017
+
+5
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+bâtiment, de traverser la quasi-totalité de l’offre de l’office avant de pouvoir accéder
+aux conseillers en séjour installés au comptoir.
+25
+
+Ceux-ci, peu contraints par l’ergonomie du comptoir, se déplacent facilement dans
+l’espace. Il faut toutefois qu’ils soient sollicités par les usagers pour aller à leur
+rencontre. Le conseiller est ainsi rarement amené à renseigner les usagers sur l’offre
+touristique facilement accessible au sein de l’espace et joue plutôt un rôle
+d’accompagnement dans l’utilisation des dispositifs numériques : il ne donne pas
+toujours directement l’information à l’usager, mais les moyens de la trouver par luimême, en fonction de ses critères de choix. Il devient alors un médiateur numérique.
+
+26
+
+En suivant la même logique méthodologique, il est proposé d’observer un second cas,
+dans lequel les stratégies spatio-communicationnelles visent plutôt la personnalisation
+de l’offre. Il s’agit de l’office de tourisme de Mulhouse.
+ 
+
+Personnaliser l’offre grâce aux innovations
+technologiques et scénographiques : l’exemple de
+l’office de tourisme de Mulhouse (68)
+27
+
+Encore une fois, il s’agit de combiner l’étude des dispositifs numériques innovants et la
+scénographie du lieu afin de rendre compte des stratégies spatio-communicationnelles
+et de les interpréter dans le but de comprendre les influences sur les métiers des
+conseillers en séjour. Commençons par une brève présentation du territoire
+mulhousien et de son office de tourisme.
+ 
+
+Le territoire mulhousien et de son office de tourisme, en bref
+28
+
+Mulhouse Alsace Agglomération (M2A) est une communauté d’agglomération située
+dans le département du Haut-Rhin (68), dans la région Grand Est. Elle est née le 1 er
+ janvier 2010 de l’association de 32 communes, puis s’est agrandie en 2013 et en 2014
+lorsque deux autres communes l’ont rejointe. Elle est donc composée d’un total de
+34 communes et présidée depuis sa création par Jean-Marie Bockel, ancien ministre et
+député, actuel sénateur de l’Union des démocrates et indépendants (voir figure 6).
+
+29
+
+M2A propose une stratégie touristique plaçant Mulhouse et sa région sur le segment du
+« tourisme urbain de court séjour » (Rapport d’activités, 2015). Pour ce faire, elle rend la
+destination accessible grâce aux aménagements urbains, elle diversifie l’offre
+touristique en investissant dans les musées et postule à l’obtention de différents labels
+(cyclo-touristique, Famille+, Art&Histoire, Tourisme&Handicap). Elle développe
+également des outils marketing numériques, comme des applications mobiles ou
+encore les sites internet www.jaienvie.de et www.tourisme-mulhouse.com.
+
+30
+
+L’offre touristique de M2A repose principalement sur le patrimoine industriel (textile
+et automobile) avec la Cité de l’automobile, la Cité du train ou encore le Musée de
+l’impression sur étoffes, ainsi que les écomusées. L’ouverture du Parc du Petit Prince en
+2014 illustre également la volonté de s’ouvrir toujours plus au public familial.
+
+31
+
+Le nouvel office de tourisme de Mulhouse a ouvert ses portes en janvier 2013. Il s’agit
+d’une relocalisation. La structure actuelle dispose de quinze salariés, dont cinq
+conseillères en séjour. De 2009 à février 2015, Guillaume Colombo, ancien développeur
+commercial et touristique du Château de Chambord, en était le directeur. L’office de
+
+Mondes du Tourisme, 13 | 2017
+
+6
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+tourisme est également palais des congrès et se nomme de ce fait « Office de tourisme et
+des congrès de Mulhouse et sa région ». Il accueille environ 45 000 visiteurs par an sur
+300 m² dédiés.
+32
+
+Huit unités composent cet office : l’unité extérieure ; le sas, qui n’apporte que peu
+d’information mais qui peut parfois être décoré en fonction des événements
+saisonniers ; l’unité d’accueil et de conseil (voir figure 7) ; l’unité de consultation
+autonome avec la mise à disposition d’iPads (voir figure 8) ; l’unité conviviale ; l’unité
+du back-office, dont la porte est toujours ouverte bien qu’elle soit séparée du reste de
+l’espace par une vitre opacifiée ; l’unité dédiée aux enfants ; et enfin la boutique, qui
+occupe la surface la plus importante.
+
+33
+
+Ce qu’il faut retenir de cet espace, c’est qu’il n’y a pas de comptoir d’accueil. En effet,
+l’espace d’accueil est en fait l’espace de circulation des conseillers en séjour, qui
+cheminent d’un module d’accueil à l’autre. Ces modules, conçus sur mesure pour
+l’office, peuvent être comparés à des petits bureaux, sur lesquels trône un ordinateur.
+C’est cet agencement spatial particulier, combiné à la mise à disposition de
+technologies innovantes, qui indiquent les intentions communicationnelles de la
+direction.
+ 
+
+Personnaliser l’offre touristique : une stratégie de revendication de
+valeurs
+34
+
+Le directeur de l’office de tourisme de Mulhouse a choisi d’associer, le plus en amont
+possible, l’ensemble des personnels, y compris l’équipe d’accueil, au processus de
+décision sur l’agencement de l’espace d’accueil notamment et sur la présence de
+dispositifs numériques. Il a mis en place des séminaires d’équipe, centrés sur trois
+thématiques : l’animation numérique, l’animation avec les professionnels du territoire
+et l’aménagement des locaux. Ces séminaires hebdomadaires avaient pour but de
+proposer à l’architecte un cahier des charges axé sur des valeurs. Ce sont ces
+séminaires qui ont orienté les stratégies spatio-communicationnelles fondées sur la
+personnalisation de l’offre touristique. Cette personnalisation repose sur trois piliers :
+la mise en avant de l’information papier ; un nombre réduit de dispositifs numériques,
+en adoptant ainsi une stratégie du numérique discret ; et enfin la suppression du
+comptoir d’accueil, qui paramètre fortement la répartition de l’information touristique
+au sein de l’espace.
+
+35
+
+L’office de tourisme de Mulhouse a en effet décidé de mettre en avant le papier : les
+brochures sont omniprésentes et s’exposent sur des présentoirs amovibles, réalisés sur
+mesure par des architectes et pensés par l’équipe. Le directeur de l’office de tourisme
+explique que l’ancien office de tourisme ne permettait d’exposer qu’une petite dizaine
+de brochures. Se rendant compte que les usagers de l’office n’avaient pas accès à toute
+l’offre que la structure avait en réserve, l’équipe a imaginé des présentoirs qui puissent
+accueillir plus de brochures. Les présentoirs actuels comptent ainsi plus de
+150 brochures différentes. Leur design a été pensé pour communiquer une identité et
+des valeurs que l’office défend : la créativité et la convivialité.
+
+36
+
+Par ailleurs, l’équipe a fait le choix d’adopter une stratégie numérique discrète, dans le
+sens où les outils de recherche numérique de l’information mis à la disposition des
+usagers sont peu visibles, volontairement cachés. Lorsque l’usager entre dans l’office, il
+se trouve face à un écran dynamique, situé sur un poteau central, qui l’accueille avec un
+
+Mondes du Tourisme, 13 | 2017
+
+7
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+mot de bienvenue, la météo, les événements à l’affiche ou encore les bons plans du
+territoire. Une fois cette première série d’informations donnée par l’outil numérique,
+l’usager trouve un écran au fond de l’espace d’accueil, sur la droite, qui diffuse des films
+des principales manifestations du territoire ainsi que des photos. Immédiatement sur la
+gauche, dans l’espace dédié aux enfants, l’usager trouve également un écran, qui diffuse
+des informations et des visuels ciblés pour ce public. Enfin, derrière le poteau central,
+de l’autre côté de l’écran d’accueil, des iPads sont mis à sa disposition afin qu’il puisse
+consulter le site de séjour. Le fait que les outils numériques soient cachés à la vue des
+usagers participe à la politique d’accueil de la structure. En effet, le directeur ne
+souhaitait pas que les usagers rencontrent des outils numériques avant de rencontrer
+les conseillers en séjour.
+37
+
+Le site internet de séjour www.jaienvie.de, disponible sur iPad, participe à cette idée de
+la personnalisation de l’offre. L’avantage de cette application est qu’elle sélectionne en
+temps réel les activités à faire, en fonction de la météo et des heures d’ouverture. Elle
+permet également de prendre en compte les transports en commun et la période à
+laquelle l’usager souhaite réaliser l’activité et elle localise l’activité retenue sur une
+carte de la ville ou de la région. Ce site internet apporte donc une réelle plus-value : il
+ne s’agit pas seulement d’une brochure numérique, répertoriant par exemple
+l’ensemble des restaurants ; il rend véritablement service à l’usager en lui indiquant si
+le restaurant qu’il cherche est ouvert ou non, et soulage ainsi les conseillers en séjour
+d’une demande peu qualitative.
+
+38
+
+Enfin, l’espace tout entier contribue à la personnalisation de l’offre touristique,
+essentiellement grâce à l’abandon du comptoir au profit de trois petits îlots dispersés
+au sein de l’unité d’accueil. L’organisation spatiale générale invite le conseiller à se
+déplacer dans l’espace puisque l’information touristique ne repose pas sur les modules.
+Ils sont ainsi contraints, par la disposition spatiale, d’accompagner l’usager afin de lui
+montrer les différentes brochures. Les conseillers en séjour demeurent des personnels
+indispensables pour l’usager recherchant une information : ils le prennent en charge
+pour le guider dans son exploration. Cette volonté de personnalisation contribue à
+mettre en avant des valeurs promues par cet office de tourisme, qui sont censées être le
+miroir des valeurs de la destination : la convivialité et l’accueil.
+
+39
+
+La stratégie associée cherche à promouvoir le territoire de Mulhouse comme une
+région de tourisme de court séjour, créative, familiale et conviviale. Si l’on reprend la
+typologie de Nicole Pignier et Benoit Drouillat (2004), l’office de Mulhouse semble
+développer une stratégie hybride, construisant l’espace comme un lieu incitatif mais
+également de réalisation. Il donne des compétences aux usagers afin qu’ils trouvent
+eux-mêmes ce qu’ils peuvent faire pendant leur séjour, sur les présentoirs à brochures
+ou sur les iPads, tout en les invitant à vivre des expériences, notamment au sein de
+l’espace de détente, dans lequel l’usager trouvera une machine à café, des assises
+confortables, des journaux et un écran pour découvrir des informations sur la
+destination, selon une stratégie « figurative et imagée ».
+
+40
+
+La direction et son équipe ont ainsi adopté une stratégie de revendication de valeurs,
+ou de revendication d’identité. Ils ont misé sur la présence discrète du numérique dans
+le but de favoriser l’échange humain. Ce parti pris indique de prime abord à l’usager le
+type d’engagement de l’office de tourisme : il propose un point de vue à l’usager, non
+pas sur la destination qu’il visite mais sur la manière dont l’équipe conçoit la relation
+de service et d’accueil : l’objectif est d’affirmer un positionnement.
+
+Mondes du Tourisme, 13 | 2017
+
+8
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+ 
+
+Évolution des métiers : le conseiller-ambassadeur
+41
+
+Au sein de l’office de tourisme de Mulhouse, il a été établi que la stratégie spatiocommunicationnelle associée était une stratégie de revendication d’identité, qui passe à
+la fois par l’organisation spatiale et par des dispositifs numériques. Ainsi, en
+accompagnant l’usager dans sa démarche, en prenant parfois le temps d’un café dans
+l’espace convivial afin d’aller plus loin dans l’échange et la discussion, le conseiller en
+séjour prend le rôle d’ami, d’ambassadeur de son territoire : il recommande, propose,
+invite à la découverte.
+ 
+
+Conclusion : deux stratégies spatiocommunicationnelles d’adaptation managériales
+différentes et non exclusives
+42
+
+L’étude de ces deux cas a permis d’illustrer deux stratégies différentes – l’une de
+promotion, l’autre de revendication de valeurs – et nous a ainsi conduit à proposer des
+évolutions possibles des métiers des conseillers en séjour. Ces stratégies, bien que
+différentes, ne sont pas exclusives l’une de l’autre. S’il on observe par exemple une
+volonté d’autonomisation des usagers dans leur recherche à l’office de tourisme de
+Mulhouse, cette stratégie de promotion entre au service de l’usager, certes, mais
+surtout au service de la structure, qui gère ainsi mieux ses flux et ses ressources
+humaines, tandis que la stratégie de revendication de valeurs entre principalement au
+service de l’usager. Dans les deux cas toutefois, le métier des conseillers en séjour est
+revalorisé, il devient plus qualitatif : par ces évolutions, le conseiller devient soit
+médiateur numérique, soit ambassadeur. Une autre stratégie aurait pu être analysée : la
+stratégie de séduction. Celle-ci, centrée sur la mise en place d’une expérience sensible
+pour l’usager, met en avant le territoire et ses atouts. L’usager pénètre dans un espace
+dont l’offre touristique n’est pas répartie selon des unités thématiques claires, mais qui
+invite plutôt à une découverte sensible, en passant d’un dispositif communicationnel à
+un autre et en s’immergeant dans une ambiance. Dans ce contexte, observable à l’office
+de tourisme d’Aix et du Pays d’Aix par exemple (13), le conseiller devient alors expert
+du séjour et de l’offre touristique.
+
+BIBLIOGRAPHIE
+ATOUT FRANCE, Le numérique et les offices de tourisme : les technologies de l’information et de la
+
+communication au service de l’accueil, « Marketing touristique », Atout France, 2011.
+CABINET MCKINSEY, Améliorer la mutation numérique des entreprises : un gisement de croissance et de
+
+compétitivité pour la France, 2014 [http://www.mckinsey.com/global-locations/europe-andmiddleeast/france/fr/latest-thinking/accelerer-la-mutation-des-entreprises-en-france].
+
+Mondes du Tourisme, 13 | 2017
+
+9
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+Valia FILLOZ, « La médiation touristique : au cœur et aux lisières des SIC », Revue électronique de la
+Société française des sciences de l’information et de la communication, 17 ème congrès annuel des SIC,
+Dijon, 23, 24, 25, 26 juin 2010.
+Émilie FLON, « Introduction », Revue culture et musées, n° 23 : Tourisme et médiations des
+patrimoines, 2014.
+Daniel JACOBI et Maryline LE ROY, La signalétique patrimoniale : principes et mise en œuvre, « Hors
+collection », Errance, 2013.
+Bernard LAMIZET, Les lieux de la communication, « Philosophie et Langage », Mardaga, 1992.
+Louis MARIN, De la représentation, « Hautes études », Le Seuil, 1994.
+Charles PERRATON, « Énonciation spatiale et logique de l’expression », Protée, n° 2, 1984.
+Christine PETR, Le marketing du tourisme, « Les Topos », Dunod, 2010.
+Nicole PIGNIER et Benoit DROUILLAT, Penser le webdesign. Modèles sémiotiques pour les projets
+multimédias, L’Harmattan, 2004.
+Philippe VIALLON, « Le monde à portée de clic : la communication touristique en question »,
+Colloque Communication touristique : acteurs, stratégies, territoires, 2014.
+
+ANNEXES
+ 
+
+Figure 1. Carte de New York City et de ses cinq arrondissements (en gris opaque), représentée dans
+l’État de New York (en gris foncé)
+
+ 
+
+Mondes du Tourisme, 13 | 2017
+
+10
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+Figure 2. Unité d’exposition des brochures
+
+ 
+
+Figure 3. Unité de consultation numérique
+
+ 
+
+Mondes du Tourisme, 13 | 2017
+
+11
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+Figure 4. Comptoir
+
+ 
+
+Figure 5. Unité de lecture RFID et mur d’écrans
+
+ 
+
+Mondes du Tourisme, 13 | 2017
+
+12
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+Figure 6. Carte de M2A (en gris opaque) représentée sur le département du Haut-Rhin (en gris
+foncé)
+
+ 
+
+Figure 7. Unité d’accueil et d’information
+
+ 
+
+Figure 8. Unité de consultation numérique
+
+Mondes du Tourisme, 13 | 2017
+
+13
+
+Autonomisation, personnalisation : quelles stratégies spatio-communicationnel...
+
+NOTES
+1. Le rapport d’études est téléchargeable en français sur le site internet du cabinet McKinsey :
+http://www.mckinsey.com/global-locations/europe-and-middleeast/france/fr/latest-thinking/
+accelerer-la-mutation-des-entreprises-en-france (consulté le 18 décembre 2016).
+2.
+Voir :
+http://www.tourmag.com/New-York-543-millions-de-visiteurs-accueillisen-2013_a63693.html
+3. Voir : http://www.karinemiron.com/nyc-loffice-de-tourisme-du-futur
+
+RÉSUMÉS
+Dans une approche ancrée en sciences de l’information et de la communication, cet article
+propose d’analyser deux stratégies managériales d’adaptation aux attentes supposées des usagers
+des offices de tourisme, à travers l’étude de deux cas. Dans le premier, l’office de tourisme de la
+ville de New York, aux États-Unis, a adopté une stratégie de promotion de l’information
+touristique dans une démarche reposant sur l’autonomisation des usagers. Dans le second,
+l’office de tourisme de Mulhouse, en Alsace, a adopté une stratégie de revendication de valeurs
+dans une démarche de personnalisation de l’offre touristique reposant sur la relation entre
+l’usager et le conseiller. Ces deux stratégies mènent à des évolutions dans le métier de conseiller
+en séjour, qui se trouve revalorisé : dans le premier cas, le conseiller tend à devenir médiateur
+numérique, alors qu’il devient ambassadeur de son territoire dans le second.
+Through an approach based on information and communication sciences, this article offers an
+analysis of two managerial strategies of adaptation to the supposed expectations of tourist office
+with the study of two cases. In the first case, the tourist office of New York City, in the United
+States, chose to promote tourist information through a strategy of user empowerment. In the
+second case, the tourist office of Mulhouse, in Alsace, sought to promote values through the
+personalization of the tourist offer based on the interaction between the user and the advisor.
+These two strategies bring changes to the profession of advisor, which is upgraded: in the first
+case, advisors become digital mediators, while they become ambassadors for their territory in
+the second case.
+
+AUTEUR
+CAMILLE BERNETIÈRE
+Chercheure en contrat postdoctoral, Sciences Po Lyon
+Docteure en sciences de l’information et de la communication
+bernetiere.camille@gmail.com ; camille.bernetiere@sciencespo-lyon.fr
+
+Mondes du Tourisme, 13 | 2017
+
+14
+
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="ca_TFHJW_3-37_Fn_1" source="https://journals.openedition.org/viatourism/1630" lang="ca">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <DOI>https://doi.org/10.4000/viatourism.1630</DOI>
+        <revue>Viatourism</revue>
+        <numero>1</numero>
+        <annee>2012</annee>
+    </meta>
+    <traductions>
+        <traduction lang="en" source="1627">Flows of tourist mobility in Berlin </traduction>
+        <traduction lang="es" source="1628">Flujos de movilidad turística en Berlín</traduction>
+    </traductions>
+    <auteurs>
+        <auteur nom="Freytag" prenom="Tim">
+            <oeuvres>
+                <publication id="de_TFHJW_3-40_Sn_1" source="https://journals.openedition.org/viatourism/1623" lang="de">Ströme touristischer Mobilität in Berlin</publication>
+                <publication id="fr_TFHJW_3-38_Fn_1" source="https://journals.openedition.org/viatourism/1626" lang="fr">Flux de mobilité touristique à Berlin </publication>
+                <publication id="en_TFHJW_3-36_Fn_1" source="https://journals.openedition.org/viatourism/1627" lang="en">Flows of tourist mobility in Berlin </publication>
+                <publication id="es_TFHJW_3-39_Fn_1" source="https://journals.openedition.org/viatourism/1628" lang="es">Flujos de movilidad turística en Berlín</publication>
+                <publication id="fr_TFMG_44-80_He_1" source="https://journals.openedition.org/tourisme/234" lang="fr">Heidelberg, ou comment une ville historique est devenue un haut lieu touristique</publication>
+            </oeuvres>
+            <description>
+                Universitat de Friburg 
+            </description>
+        </auteur>
+        <auteur nom="Weber" prenom="Hans-Jörg">
+            <oeuvres>
+                <publication id="de_TFHJW_3-40_Sn_1" source="https://journals.openedition.org/viatourism/1623" lang="de">Ströme touristischer Mobilität in Berlin</publication>
+                <publication id="fr_TFHJW_3-38_Fn_1" source="https://journals.openedition.org/viatourism/1626" lang="fr">Flux de mobilité touristique à Berlin </publication>
+                <publication id="en_TFHJW_3-36_Fn_1" source="https://journals.openedition.org/viatourism/1627" lang="en">Flows of tourist mobility in Berlin </publication>
+                <publication id="es_TFHJW_3-39_Fn_1" source="https://journals.openedition.org/viatourism/1628" lang="es">Flujos de movilidad turística en Berlín</publication>
+            </oeuvres>
+            <description>
+                Universitat de Friburg 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>Flux de mobilitat touristica a Berlín</titre>
+    <corps>
+        <paragraphe num="1">
+            Després de París i Londres, Berlín es troba en tercera posició entre les grans destinacions europees de turisme en grans ciutats. L’any 2010, més de 20 milions de pernoctacions van ser enregistrades a l’hoteleria local. En conseqüència, la capital alemanya pot servir de laboratori per tal d’estudiar la configuració i els canvis del turisme urbà.
+        </paragraphe>
+        <paragraphe num="2">
+            El mapa mostra la mobilitat de 300 visitants a Berlín. Els colors representen els individus que han identificats en cada una de les malles d’una retícula de 25 metres durant la seva estada. El color vermell destaca els llocs més freqüentats, com el Reichstag, la porta de Brandebourg i la PotsdamerPlatz. S’identiquen també les grans avingudes Unter den Linden, Friedrichstraße i Kurfürstendamm així com els traçats de la xarxa de metro. Combinat amb les dades recollides amb qüestionaris, els fluxos turístics poden ser analitzats segons característiques socioeconòmiques, demogràfiques, etc.
+        </paragraphe>
+        <paragraphe num="3">
+            Les dades han estat recollides el setembre de 2010 utilitzant dispositius GPS i qüestionaris en el marc d’un projecte de recerca a Berlín. L’anàlisi de les dades ha estat realitzat pels autors d’aquest article amb la col.laboració de Michael Bauder pel que fa al programa ArcGIS a l’institut de geografia cultural de la Universitat de Friburg a Alemanya.
+        </paragraphe>
+    </corps>
+</article>

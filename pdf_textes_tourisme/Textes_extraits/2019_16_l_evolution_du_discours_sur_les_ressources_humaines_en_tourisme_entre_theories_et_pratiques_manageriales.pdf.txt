@@ -1,0 +1,1850 @@
+Mondes du Tourisme 
+16 | 2019
+
+Tourisme et emplois : singularités, permanences,
+transformations
+
+L’évolution du discours sur les ressources
+humaines en tourisme : entre théories et pratiques
+managériales
+The evolution of the discourse on human resources in tourism: between
+managerial theories and practices
+Boualem Kadri, Mohamed Reda Khomsi et Cyril Martin
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/2429
+DOI : 10.4000/tourisme.2429
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+ 
+Référence électronique
+Boualem Kadri, Mohamed Reda Khomsi et Cyril Martin, « L’évolution du discours sur les ressources
+humaines en tourisme : entre théories et pratiques managériales », Mondes du Tourisme [En ligne], 16 |
+ 2019, mis en ligne le 01 décembre 2019, consulté le 09 avril 2020. URL : http://
+journals.openedition.org/tourisme/2429  ; DOI : https://doi.org/10.4000/tourisme.2429
+
+Ce document a été généré automatiquement le 9 avril 2020.
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modification 4.0 International.
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+L’évolution du discours sur les
+ressources humaines en tourisme :
+entre théories et pratiques
+managériales
+The evolution of the discourse on human resources in tourism: between
+managerial theories and practices
+Boualem Kadri, Mohamed Reda Khomsi et Cyril Martin
+
+Introduction
+1
+
+L’entreprise, acteur majeur dans la société aujourd’hui, fait de plus en plus l’objet d’une
+attention particulière de la part des chercheurs et des acteurs politiques et sociaux :
+elle s’organise, s’adapte, apprend et marque son implication par une responsabilité
+sociale. Ce processus évolutif et adaptatif de l’organisation à la société montre un
+management postindustriel qui donne avantage non à la rationalité (technologie,
+organisation rationalisée) mais à la dimension de la ressource humaine de l’entreprise
+(Crozier, 1989). Peretti (2013, p. 6) résume ainsi l’évolution de cette dimension :
+La fonction personnelle a émergé lentement dès la première moitié du XX e, s’est
+professionnalisée dans la seconde moitié, est devenue fonction des ressources
+humaines et est reconnue comme une fonction stratégique aujourd’hui.
+
+2
+
+Depuis les années 2000, la pratique des ressources humaines devient « partenaire »,
+s’adapte au contexte et aux défis (contingence de l’environnement) et s’ancre, pour
+l’horizon 2020, dans la société (responsabilité sociale, développement durable,
+humanitaire) (Peretti, 2013, p. 17).
+
+3
+
+S’agissant du tourisme, on note aussi que cette activité a évolué depuis les années 1970,
+d’une situation qualifiée d’éphémère (animations réalisées en fonction de la présence
+temporaire des touristes, pratiques économiques peu planifiées) à celle où l’activité
+
+Mondes du Tourisme, 16 | 2019
+
+1
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+devient une fonction stratégique, notamment pour l’économie urbaine et le
+développement territorial, ainsi qu’un « genre commun » pour la société (Lussault et
+Stock, 2007). Mais cette évolution est-elle aussi constatée en matière de gestion des
+ressources humaines de l’entreprise touristique ?
+4
+
+L’irruption de nouvelles activités, dans l’économie traditionnelle des années 1970, tels
+les services et notamment ceux liés au tourisme (loisirs, divertissement, événements),
+résulte en une réalité économique et managériale confrontée à divers aspects :
+l’importance des relations humaines dans la confection du produit, la dimension
+d’intangibilité du produit, une gestion des ressources humaines différente, dans
+laquelle la prestation du personnel est une partie intégrante de la qualité du produit et
+de l’expérience humaine. Par ailleurs, une autre réalité vient marquer l’évolution du
+tourisme, notamment en ce qui concerne la construction de son identité scientifique,
+qui s’édifie peu à peu par la confrontation interdisciplinaire nécessaire à la
+compréhension de la complexité du phénomène touristique. Nous nous intéressons ici
+au discours en gestion des ressources humaines en tourisme, et plus particulièrement à
+son évolution dans le développement du tourisme et de l’entreprise. Si le discours
+scientifique sur cette complexité touristique se développe, en est-il de même du
+discours concernant la gestion des ressources humaines ? Ce dernier évolue-t-il de la
+même manière que celui observé dans le management de l’organisation en général ?
+Comment se présente le discours en gestion des ressources humaines dans la recherche
+en tourisme, notamment dans les ouvrages et les revues ? Pour répondre à ces
+interrogations, le présent article propose une analyse de type épistémologique du
+discours sur la gestion des ressources humaines en tourisme, constituée à partir
+d’articles issus de la revue Espaces tourisme & loisirs. En sus d’être francophone, le choix
+de cette revue est motivé, d’une part, par le fait qu’elle est considérée par plusieurs
+acteurs du tourisme comme un espace privilégié pour exprimer leurs regards sur
+différents sujets qui touchent leur secteur et, d’autre part, par la possibilité offerte par
+la revue de mener une analyse diachronique sur les articles qui traitent de la gestion
+des ressources humaines en tourisme depuis les années 1990.
+
+1. Revue de littérature
+5
+
+Pour saisir l’évolution du discours sur la gestion des ressources humaines en tourisme,
+nous avons lancé une recherche dans les principales bases de données scientifiques
+francophones (Cairn.info, OpenEdition, Persée, Tel [thèses en ligne] et Emerald Insight),
+indexées par le moteur de recherche Google Scholar, en utilisant des mots clés assez
+génériques comme : gestion des ressources humaines, GRH, tourisme, entreprise
+touristique. À ce titre, les résultats des différentes requêtes recensent un total de
+3 550 références publiées entre 2000 et 2019, réparties sur 99 pages. Au-delà de la
+dimension quantitative, deux constats importants peuvent être tirés des résultats de
+cette recherche :
+• Même si notre objectif n’était pas de recenser des livres ou des manuels scolaires qui traitent
+de la gestion des ressources humaines en tourisme, il est intéressant de souligner qu’il
+n’existe aucun livre dédié exclusivement au sujet et référencé sur le moteur de recherche.
+Cette dimension se retrouve cependant dans plusieurs ouvrages qui traitent de la gestion
+des entreprises touristiques et elle occupe souvent un chapitre à part entière. Nonobstant
+cette existence, les problématiques abordées traitent dans la grande majorité de cas
+
+Mondes du Tourisme, 16 | 2019
+
+2
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+d’adaptation des techniques de gestion des ressources humaines au contexte touristique eu
+égard aux caractéristiques spécifiques de ce secteur.
+• Pour ce qui est des articles scientifiques, sur les 3 550 références répertoriées sur Google
+Scholar, uniquement trois articles abordent la question de l’évolution de la gestion de
+ressources humaines en tourisme. Pour les autres articles, la dimension touristique est soit
+absente, soit marginale, dans la mesure où le tourisme est cité uniquement pour illustrer des
+problèmes reliés souvent aux questions d’employabilité (recrutement, formation, adaptation
+culturelle, etc.).
+6
+
+Tenant compte de la faiblesse du corpus scientifique dédié à l’étude de l’évolution de la
+gestion des ressources humaines en tourisme, nous avons jugé important de retracer
+l’évolution de cette pensée GRH dans les manuels et les ouvrages généraux, dans la
+perspective de dégager une trame historique qui pourrait guider notre lecture des
+textes analysés dans la revue Espaces tourisme & losirs.
+
+1.1. De la gestion de la force de travail à la gestion des talents
+7
+
+L’observation de la littérature en management de l’organisation fait ressortir des
+efforts importants sur le plan scientifique : rapprochement entre sciences humaines de
+gestion, prise en compte des problématiques engendrées par les divers
+environnements, rupture avec la vision organiciste de l’entreprise et importance
+d’asseoir un discours managérial où la fonction stratégique des ressources humaines
+est présente. Dès 1987, Juan et Jacob observaient un effort d’intégration des sciences de
+la gestion et des sciences humaines dans les nouvelles conceptions managériales,
+soulignant par ailleurs que la transmission des connaissances portant sur la dimension
+humaine n’était pas unanimement reconnue, mais que la tentation de son contrôle et
+de son encadrement était toujours présente. Aujourd’hui, cette dimension occupe une
+place importante dans les théories du comportement organisationnel et constitue un
+pilier de la réflexion théorique dans le domaine du management. Ce postulat est aussi
+observable à la consultation de la table des matières d’ouvrages de management
+organisationnel où la question des ressources humaines est omniprésente. L’analyse
+des thématiques traitées sous ce volet au cours des quarante dernières années permet
+de conclure à un changement radical du paradigme qui soutient la pensée scientifique
+dans ce domaine de recherche. À titre d’illustration, déjà en 1994, Côté, Bélanger et
+Jacques constataient qu’en à peine quelques décennies, on est passé d’une vision
+« mercantiste », où l’individu est considéré comme une force de travail, à une vision
+bureaucratique, où le comportement des individus devra être uniformisé dans un souci
+de productivité, puis finalement à une vision organiciste où l’entreprise s’adapte aux
+besoins de l’individu.
+
+8
+
+Dans un contexte de mobilité internationale de la main-d’œuvre, de nouveaux défis
+apparaissent pour les entreprises, dont celles en tourisme et hôtellerie, nous faisant
+observer deux problématiques : d’une part, celle de l’adaptation de l’individu à
+l’organisation et au travail (culturelle) et, d’autre part, l’intégration des nouvelles
+technologies dans toutes les sphères de l’organisation. Selon Robbins et Judge (2011),
+dans un contexte où les entreprises opèrent sur plusieurs continents, les équipes de
+gestion sont appelées à collaborer sur certains dossiers de façon permanente, voire
+instantanée. Les nouvelles technologies permettent de dépasser les barrières
+spatiotemporelles en mettant en lien des équipes situées un peu partout à travers la
+
+Mondes du Tourisme, 16 | 2019
+
+3
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+planète, mais amènent en même temps de nouvelles problématiques en matière
+d’organisation du travail (travail en réseau, travail à distance, etc.).
+9
+
+La nécessité d’une adaptation aux contextes local et international conduit à
+l’émergence de nouveaux rôles et fonctions des ressources humaines dans l’entreprise,
+mis en évidence dans la littérature académique. Ainsi, selon Dupont (2013), la fonction
+qui doit être attribuée aux ressources humaines (RH) fait l’objet de nombreux discours
+quant au rôle qu’elles pourraient exercer au sein des entreprises et aux défis qu’elles
+devraient pouvoir relever. Dans les années 1990, des recherches effectuées en Europe
+montrent la valorisation de la fonction du DRH (développement organisationnel) et
+l’importance accordée à la fonction de DRH (position stratégique) au sein de
+l’entreprise (Bournois, Rojot et Scaringella, 2003).
+
+10
+
+En embrassant ce développement stratégique, un DRH doit faire preuve d’une grande
+polyvalence s’agissant du fonctionnement de l’entreprise, de façon à se positionner en
+tant que réel acteur stratégique de son organisation. Ses fonctions pourraient être
+« hyper-partagées » (Guérin et Pigeyre, 2007) par le transfert de certaines activités
+aussi bien vers l’extérieur que vers l’intérieur de l’entreprise.
+
+1.2. En tourisme, la GRH est en mode d’adaptation continue
+11
+
+Le tourisme est présenté par les organismes internationaux comme une des activités les
+plus performantes dans le monde (plus de 9 % du PIB mondial), qui comporte aussi
+divers aspects la distinguant des autres activités économiques, ce que font aussi les
+ouvrages en tourisme (généraux et spécialisés). Dans les ouvrages généraux, on
+remarque que l’entreprise et la gestion des ressources humaines sont présentées à
+travers notamment les problèmes rencontrés par l’activité et les pratiques développées.
+Mesplier et Bloc-Duraffour (2014) donnent quelques informations sur le lien entre
+tourisme et emploi, en montrant son importance économique tout en précisant la
+difficulté à l’évaluer (emplois directs-indirects, consommation trans-sectorielle, etc.).
+Stock et ses collègues (2003), abordent aussi le tourisme et ses retombées économiques
+pour la société (revenus, investissements) et les marchés (alliances, types d’emplois) ;
+ils montrent la complexité et la diversité de l’activité seulement au niveau de la société,
+sans évoquer l’entreprise. Copper et Hall, dont le livre sur le tourisme international
+(Contemporary Tourism : an International Approach) a été traduit en français, présentent
+cette activité suivant une approche davantage managériale, tout en apportant une
+critique du discours scientifique en tourisme (problème de définition des notions). Ces
+auteurs font en effet observer la difficulté de mesure dans l’industrie touristique, qui
+serait due à la méconnaissance de l’offre et donc à la complexité de l’industrie : taille
+diverse des entreprises, secteurs disparates, cultures en compétition (public, privé) pas
+de produit unique mais des biens et services aux aspects tangibles et intangibles
+(Copper et Hall, 2008). Ils écrivent que la ressource humaine est importante pour la
+qualité du produit, mais recèle un problème : « le tourisme de ce début de XXI e est
+marqué par une crise des ressources humaines », caractérisée par la mobilité de la
+main-d’œuvre, la nécessité de pratiques managériales interculturelles, la démographie
+en baisse dans les pays développés, une fonction des ressources humaines faible dans
+les petites entreprises, etc. (ibid. : 177).
+
+12
+
+Dans l’objectif de retracer l’évolution du discours sur la gestion stratégique des
+ressources humaines en tourisme, restauration et hôtellerie dans la littérature, Madera
+
+Mondes du Tourisme, 16 | 2019
+
+4
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+et ses collègues (2017) ont analysé 300 articles publiés au cours des vingt dernières
+années dans neuf revues scientifiques classées dans le premier tiers des revues en
+tourisme et hôtellerie. Leurs analyses, du contenu et des thématiques, les amènent à
+conclure, entre autres, qu’il existe une corrélation significative entre la performance
+des ressources humaines et celle des organisations. En d’autres termes, ces auteurs
+constatent que dans la grande majorité des articles analysés, les chercheurs ont
+tendance à établir un lien entre l’amélioration des conditions de travail des employés et
+les gains de performance organisationnelle. En effet, les caractéristiques spécifiques du
+secteur touristique (pénurie de main-d’œuvre, saisonnalité, mobilité internationale et
+servuction) conduisent les chercheurs et les professionnels à s’intéresser davantage à
+ce type de problématique afin de proposer des pratiques bénéfiques pour l’ensemble
+des acteurs du secteur.
+13
+
+Le constat de Madera et ses collègues (2017) est confirmé aussi par d’autres auteurs qui
+se sont intéressés aux problématiques de la gestion des ressources humaines en
+tourisme. C’est le cas notamment de Monereau (2008), Lozato-Giotart, Leroux et Balfet
+(2012), Leroux et Pupion (2014) et Clergeau et al. (2014). Ces auteurs francophones, qui
+ont consacré des livres ou des chapitres de livre à la question de la GRH en tourisme,
+retracent l’évolution de la culture d’entreprise vis-à-vis des ressources humaines au
+cours du XXe siècle. À ce titre, Monereau (2008) présente ces dernières comme un
+gisement de compétences qu’il faudra bien utiliser pour améliorer la performance de
+l’entreprise, alors que Leroux et Pupion (2014) expliquent que la modification de
+l’environnement externe et interne des entreprises touristiques les a forcées à
+s’adapter en matière de gestion de ressources humaines afin de rester compétitives.
+Nous retrouvons le souci d’adaptation à un environnement en perpétuelle mutation
+chez des auteurs anglo-saxons comme Goeldner et Ritchie (2009), Lee-Ross et Pryce
+(2010) et Cook, Hsu et Marqua (2014). De façon presque unanime, ces auteurs
+soutiennent que l’accessibilité grandissante des destinations et des attractions
+touristiques a poussé les entreprises qui œuvrent dans ce domaine à revoir leurs façons
+de faire, plus particulièrement au niveau de la gestion des ressources humaines. À titre
+d’illustration, Lee-Ross et Pryce (2010) identifient le management interculturel comme
+un enjeu important du XXIe siècle. Pour eux, la diversité des employés et des touristes
+exige une prise en considération de la dimension culturelle pour que les deux parties
+soient satisfaites de la prestation de service.
+
+14
+
+Finalement, comme on peut le constater dans la figure ci-dessous, l’évolution du
+discours en gestion des ressources humaines, que ce soit en tourisme ou de façon
+générale, a suivi pratiquement le même cheminement. Autrement dit, la perspective
+pratique et professionnelle a dominé l’appréhension scientifique du discours et cela
+s’explique par divers facteurs : le développement récent du tourisme et de son
+industrie, une activité dépeinte comme complexe et difficile à appréhender, un
+tourisme perçu à travers des retombées économiques rapides en termes de revenus
+nécessitant le recours à des pratiques professionnelles. L’importance accordée à la
+gestion des ressources humaines est donc tardive ; par exemple, on remarque dans un
+ouvrage des années 1990, Économie et management (Tinard, 1992), que l’auteur met
+l’accent sur les métiers du tourisme et leurs problèmes, ainsi que sur les aspects
+économiques (offre, demande, produit) ; l’hôtel y est ainsi perçu à partir des
+perceptions des touristes et des marchés, non à partir de la gestion de la ressource
+humaine.
+
+Mondes du Tourisme, 16 | 2019
+
+5
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+Figure 1. Évolution de la fonction RH (1960-2010) dans le discours scientifique et son déploiement
+dans l’entreprise touristique
+
+Source : les auteurs 
+
+2. Méthodologie
+15
+
+La perspective que nous proposons est une interrogation de type épistémologique
+concernant la construction du discours sur la gestion des ressources humaines par les
+spécialistes du tourisme. Nous privilégions une approche de type constructiviste pour
+l’analyse du discours des chercheurs. Nous appréhendons cette analyse de la gestion
+des ressources humaines en tourisme à travers les écrits parus dans la revue
+francophone Espaces tourisme & loisirs. Non seulement celle-ci est une importante revue
+sur le plan du discours professionnel, mais elle permet d’apporter un regard
+diachronique sur l’évolution du discours en gestion des ressources humaines et ce,
+depuis les années 1990.
+
+16
+
+Nous faisons plus spécifiquement appel à deux types d’analyse :
+• D’une part, l’analyse thématique afin de faire émerger des « thèmes représentatifs du
+contenu analysé, et ce, en rapport avec l’orientation de recherche (problématique) ». Cette
+méthode a deux fonctions : faire émerger des thèmes pertinents d’un corpus et ensuite
+rechercher des récurrences et des regroupements (Paillé et Muchielli, 2008). Notre grille
+d’analyse a été constituée en privilégiant le mode de « thématisation séquenciée » : tirer un
+échantillon de textes au hasard, les analyser pour en constituer une fiche thématique. Si la
+fiche est retenue, elle est utilisée pour les autres textes. Cette démarche est appliquée quand
+le corpus est dense et qu’il est possible de travailler en équipe. Un exemple de cette grille,
+confectionnée pour les besoins de notre analyse thématique, est présenté dans la partie 3 (cf.
+tableau 1). Nous avons utilisé cette grille pour l’analyse des 63 textes retenus.
+
+Mondes du Tourisme, 16 | 2019
+
+6
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+• D’autre part, l’analyse des « catégories conceptualisantes », qui permet, selon Paillé et
+Muchielli (2008, p. 233), de dépasser la simple analyse thématique du discours et d’apporter
+les premiers éléments de théorisation d’un phénomène. Nous appliquons cette méthode (que
+ces deux auteurs ont utilisée dans le cadre d’expériences et d’entreprises en psychologie) à
+notre matériau, constitué par les observations et les pratiques liées à la gestion des
+ressources humaines en tourisme et relevées dans les écrits publiés dans la revue Espaces
+tourisme & loisirs. Le travail d’analyse consiste, selon Paillé et Muchielli, à construire une
+catégorie qui mènera vers la théorisation. La catégorie est constituée au fur et à mesure de
+l’analyse d’une interview. Pour notre travail d’analyse, il s’agissait des thèmes et des sousthèmes d’analyse en ressources humaines, issus des écrits de la revue Espaces tourisme &
+loisirs. La catégorie est définie par ces deux mêmes auteurs (2012, p. 234) comme désignant
+« directement un phénomène. Elle représente la pratique par excellence à travers laquelle se
+déploie l’analyse en acte. À la différence de la “rubrique” ou du “thème”, elle va bien au-delà
+de la désignation de contenu pour incarner l’attribution même de la signification ».
+En soulignant la relation avec la théorisation ancrée, Paillé et Muchielli estiment nécessaire
+de soulever des questions d’ordre épistémologique : « la catégorie est-elle une variable ?
+Quelle relation avec le concept ? » Pour eux, la catégorie désigne un phénomène, le décrit et
+lui donne sens, montrant ainsi une perspective de construction conceptuelle et de
+théorisation : « elle [la catégorie] a les propriétés synthétique, dénominative et explicative
+d’un concept. », ajoutant que « […] tout construit théorique tentant de mieux cerner
+l’expérience humaine est d’abord, à l’origine, une catégorie » (Paillé et Muchielli, 2008,
+p. 236-237). Aussi, suivant cette méthode, la catégorie est construite selon deux conditions :
+elle doit répondre, d’une part, à un travail de description analytique et, d’autre part, à un travail
+d’interprétation.
+17
+
+Notre corpus d’analyse est constitué des articles recensés dans la revue à partir de
+l’identifiant « ressources humaines » qui nous renvoie à 76 articles, dont certains
+n’étaient plus disponibles sur le site. À noter que nous n’avons pas retenu les articles
+constitués essentiellement d’entretiens, car non pertinents pour une analyse
+thématique. Ainsi, nous avons retenu 63 articles aux fins de l’analyse du discours.
+
+3. Analyse thématique du discours de la GRH : la revue
+Espaces tourisme & loisirs
+18
+
+Parmi les différentes techniques d’analyse de contenu, nous avons privilégié l’analyse
+thématique. Cette dernière consiste à déterminer à partir d’un corpus donné un certain
+nombre de thèmes représentatifs du contenu analysé, en rapport avec l’orientation de
+la recherche (la problématique). Pour effectuer cette recherche, rappelons que nous
+avons principalement utilisé un corpus de textes provenant de la revue francophone
+Espaces tourisme & loisirs, corpus composé de 63 textes, parus sur trois périodes :
+années 1990, années 2000 et années 2010.
+
+19
+
+L’analyse thématique du discours de la GRH à partir du corpus de textes a nécessité
+deux étapes :
+• La création d’un tableau de 5 colonnes : 1) textes ; 2) thèmes ; 3) mots et expressions
+significatifs relevés ; 4) relations du discours avec l’entreprise, la société, les institutions ;
+5) relations du discours avec des théories (management, sociologie, etc.). En outre, les textes
+sont séparés selon les décennies : années 1990-1999 (3 textes) ; années 2000-2009 (43 textes) ;
+
+Mondes du Tourisme, 16 | 2019
+
+7
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+années 2010-2015 (17 textes) ; cela permet de construire l’information en vue de son
+utilisation pour les différentes analyses qui suivront tout au long du texte.
+• L’identification des thèmes et des axes thématiques des 63 textes, qui sont rassemblés
+respectivement dans les tableaux 2 et 3.
+Tableau 1. Exemple de grille d’analyse devant servir à l’analyse thématique et à l’analyse par
+catégories « conceptualisantes »
+
+Décennie 1990
+Mots
+Textes
+
+Thèmes
+
+et
+
+expressions
+significatifs
+relevés
+
+Relations
+
+du Relations
+
+discours avec discours
+l’entreprise,
+
+des
+
+du
+avec Expression
+
+théories pré-
+
+la société, les (management,
+institutions
+
+catégorielle
+
+sociologie, etc.)
+
+« Qualité :
+L’expérience
+du groupe L’interdépendance
+Accor »
+Chantal
+Haas
+1994
+Revue
+Espaces
+tourisme
+loisirs,
+
+Les relations
+employeur/
+entre la satisfaction employé
+client
+et
+la
+Les exigences
+satisfaction
+des
+des clients
+employés
+Les attentes
+Les attentes de la
+des clients
+clientèle dans le
+La formation
+& milieu hôtelier
+des employés
+no
+
+Culture
+d’entreprise
+internationale
+Accor
+
+Gestion
+ressources
+humaines
+
+des
+
+Adaptation
+contrainte
+
+125
+Source : les auteurs
+20
+
+L’analyse thématique a été réalisée en trois phases : une analyse à partir du logiciel
+NVivo, une analyse des axes thématiques et une analyse des caractéristiques du
+discours en rapport avec le processus scientifique.
+
+3.1. L’analyse à partir du logiciel NVivo
+21
+
+Cette première analyse de contenu, très sommaire, se fonde sur deux aspects : la
+récurrence des mots et un regroupement selon un diagramme. Dans cette analyse, deux
+principaux regroupements d’occurrences ressortent très nettement parmi les thèmes
+analysés et présentent une interrelation très étroite. Le premier regroupement
+rassemble les mots « communication », « web », sociaux, « réseaux », « recrutement »,
+« travail » et « employeur ». L’utilisation des réseaux sociaux et d’Internet transforme
+les pratiques du recrutement mais aussi les stratégies managériales relatives aux modes
+de visibilité et de recherche de compétences. Le deuxième regroupement est constitué
+de plusieurs termes très liés : « mobilité », « professionnelle », « emplois »,
+« compétences », « formation », « ressource », « gestion », « culture », « tourisme »,
+« touristique », « jeunes », « entreprise », « GRH », « développer ». L’emploi dans les
+secteurs touristique et hôtelier ayant pour caractéristiques d’être saisonnier, précaire
+
+Mondes du Tourisme, 16 | 2019
+
+8
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+et soumis à une mobilité importante, il impose des défis en termes de recrutement et
+d’attractivité de main-d’œuvre, particulièrement pour les jeunes, et l’entreprise tente
+de s’y adapter à travers l’utilisation des réseaux sociaux et des nouvelles technologies,
+une meilleure identification de sa culture d’entreprise, la valorisation des qualifications
+par la formation, tout en édifiant la mobilité dans le milieu touristique et hôtelier
+comme un moyen d’acquisition des compétences. De ce fait, tendre vers une gestion des
+ressources humaines qui évolue en permanence et s’adapte en conséquence devient
+une exigence constante pour l’entreprise.
+Tableau 2. Fréquence des mots (généré par le logiciel Nvivo, 2019)
+
+Mot
+
+Récurrence Mot
+
+Récurrence
+
+recrutement 19
+
+professionnelle 9
+
+tourisme
+
+18
+
+sociaux
+
+9
+
+entreprise
+
+15
+
+culture
+
+8
+
+mobilité
+
+13
+
+développer
+
+8
+
+touristique
+
+13
+
+emploi
+
+8
+
+travail
+
+13
+
+jeunes
+
+8
+
+compétences 12
+
+ressources
+
+8
+
+gestion
+
+12
+
+web
+
+8
+
+GRH
+
+12
+
+réseaux
+
+7
+
+formation
+
+10
+
+communication 6
+employeur
+
+Mondes du Tourisme, 16 | 2019
+
+6
+
+9
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+Figure 2. Diagramme des fréquences et regroupements des mots
+
+Source : généré par le logiciel NVivo, 2019
+
+3.2. L’analyse des regroupements et des axes thématiques
+22
+
+Pour l’analyse thématique, nous avons d’abord procédé à l’identification du
+regroupement des thèmes des 63 textes (cf. tableau 3), permettant d’engager la
+procédure de récurrence (thèmes répétitifs) à partir de cinq axes thématiques. Le
+tableau 4 montre l’organisation des cinq axes thématiques, auxquels se rattachent les
+thèmes identifiés dans le tableau 3 en fonction de la décennie et de leur ordre
+numérique.
+Tableau 3. Identification des thèmes par décennie
+
+24-Conditions
+
+1990-1999
+
+difficiles
+
+1-Interdépendance
+de
+satisfaction client-employé
+2-Recherche
+fonctionnement
+adapté
+
+de
+
+travail
+
+2010-2015
+
+la 25-Pratiques de recrutement 47-Assurer la réputation
+difficiles
+l’entreprise par le web
+
+de
+
+d’un 26-Inadaptation
+des
+48-Importance du web et de sa
+managérial organismes territoriaux en
+gestion
+tourisme
+
+3-Harmonisation du dialogue 27-Redécouverte des valeurs 49-Réseaux sociaux comme outil
+entre acteurs de l’entreprise
+et de la culture d’entreprise
+de communication
+
+Mondes du Tourisme, 16 | 2019
+
+10
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+28-Précarité
+de
+l’emploi 50-Visibilité de l’entreprise par
+comme
+obstacle
+au les réseaux sociaux comme
+fonctionnement
+Facebook
+
+2000-2009
+
+4-Diversité d’emploi et culture 29-Reconnaissnce des acquis 51-Transformation des pratiques
+d’entreprise
+professionnels
+de gestion par le web
+5-Réalités
+touristiques
+adaptation des organismes
+
+et 30-Considérer la culture 52-Usage limité du web par les
+d’entreprise internationale
+organismes
+
+6-Utilisation de la fanfare pour 31-Importance de la GRH 53-Usage limité du web par les
+construire la relation humaine
+comme fonction vitale
+organismes
+7- Précarité de l’emploi chez les 32- Facteur humain comme 54-Recrutement
+par
+jeunes
+fondamental en tourisme
+organismes-conseils
+8-Formation comme vecteur de 33-Nécessité
+formation de la RH
+9- GRE pour
+saisonnalité
+
+des
+
+profils 55-Jeunes face au changement
+
+diversifiés
+contrer
+
+les
+
+dans l’organisation du travail
+
+la 34-Importance des tests et 56-Perception du travail par les
+mise en situation
+jeunes salariés
+
+10-Inégalité homme-femme dans 35-Ressource humaine
+l’emploi
+évolution constante
+11-Repenser le modèle de la DRH
+
+en 57-Contrainte
+atypique
+
+de
+
+l’emploi
+
+36-Assurer le développement 58-Contrainte
+de
+situation
+personnel par le coaching
+saisonnalité-fidélisation
+
+12-Repenser les compétences du 37-Mobilité
+internationale 59-Groupement employeur (GE)
+manager
+comme atout de la GRH
+comme outil de la GRH
+13-Difficultés de recrutement
+
+14-Prestation de service
+hôtellerie-restauration
+
+38-Communauté de salariés 60- Groupement employeur (GE)
+comme valeur
+comme outil de la GRH
+61- Groupement employeur (GE)
+en 39-Identification du potentiel
+comme outil de management de
+à la mobilité
+la RH
+
+15-Nouvelles
+technologies
+40-Formation de la ressource 62-Conception de la mobilité
+comme lien entre tradition et
+humaine
+comme atout
+modernité
+16-Transformation du métier 41-Le saisonnier face à la 63-Concevoir la mobilité comme
+par les nouvelles technologies
+règlementation
+atout
+17-Transformations
+management et de la GRH
+18-Les jeunes face à l’emploi
+
+Mondes du Tourisme, 16 | 2019
+
+du 42-Reconnaissance
+des
+communautés salariés-clients
+43-Importance
+l’interculturel en GRH
+
+de
+
+11
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+19-Innovation dans l’emploi
+44-Identification des besoins
+comme moyen d’insertion des
+internes par l’audit externe
+jeunes
+20-Attentes du salarié comme 45 Évolution constante des
+facteur de recrutement
+métiers
+21-Adaptation de la ressource 46-Soutien à l’analyse des
+humaine en hôtellerie-tourisme compétences
+22-Difficultés de recrutement
+des
+jeunes
+en
+tourismehôtellerie
+23-Difficultés du management
+en situation de crise économique
+
+23
+
+Parmi les thèmes regroupés autour des cinq axes thématiques (cf. tableau 4), on peut
+observer que les axes thématiques 2, 3, 4 et 5 représentent 93,5 % de la réalité
+thématique organisée à partir des 63 textes analysés. Toutefois, cette réalité est formée
+d’une situation double exprimant deux pôles du discours professionnel sur la GRH, se
+présentant en forme de « double contrainte » :
+• une réalité interne, formée de contraintes, organisée autour de « la problématique de
+l’emploi » (axe 4), regroupant 26,9 % des thématiques du discours professionnel ;
+• une réalité externe (l’environnement), représentée par l’axe 2 (Nouvelles technologies) et
+l’axe 3 (Repenser les modèles et pratiques) ; cette réalité exprime l’exigence d’adaptation
+(insertion des technologies, modèles managériaux repensés) à une situation de contraintes
+représentée par la réalité interne (Problématique de l’emploi).
+Tableau 4. Axes thématiques et récurrences des thèmes relatifs aux 63 textes
+
+Périodes
+
+1990-1999 2000-2009 2010-2015 Total
+
+Axes thématiques
+1-La recherche d’une culture d’entreprise
+
+2-Nouvelles technologies et transformation de la
+gestion
+3-Repenser
+
+les
+
+modèles
+
+et
+
+pratiques
+
+(management, GRH, DRH)
+4-Problématique
+
+de
+
+l’emploi
+
+(précarité,
+
+formation, saisonnalité, inégalité, recrutement)
+5-Adaptation aux réalités et contraintes de
+l’entreprise
+
+Mondes du Tourisme, 16 | 2019
+
+-
+
+4
+
+-
+
+-
+
+2
+
+7
+
+-
+
+6
+
+7
+
+-
+
+14
+
+3
+
+3
+
+17
+
+-
+
+4
+(6,3 %)
+9
+(14.3 %)
+13
+(20,6 %)
+17
+(26,9 %)
+20
+(31,7 %)
+
+12
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+Total textes
+
+3 textes
+
+43 textes
+
+17 textes
+
+63
+textes
+
+Source : les auteurs
+24
+
+La nécessité d’une adaptation (cf. figure 3), qui représente également une contrainte et
+une exigence (axe 5 : « Adaptation aux réalités et contraintes de l’entreprise »), relie les
+deux réalités (interne et externe) observées plus haut (cf. tableau 4) et montre aussi
+qu’il y a une difficulté à la mettre en œuvre : par exemple, la « Recherche d’une culture
+d’entreprise » (axe 1) ne représente que 6,3 % de l’analyse thématique.
+Figure 3
+
+25
+
+Ainsi, cette première identification de la réalité thématique (63 textes) montre bien une
+situation en forme de « double contrainte » : d’une part, les conditions d’emploi et
+d’organisation du travail ont un poids important et, d’autre part, la nécessité
+d’adaptation à cette réalité (condition interne) et aux exigences des environnements
+(condition externe). S’agissant de ce dernier aspect, il s’agit aussi de la nécessité de
+repenser le travail et l’organisation imposée par le renouvellement du management,
+l’évolution de la société et l’impact des TI (technologies de l’information), qui imposent
+à leur tour des changements et deviennent ainsi une exigence d’adaptation. Enfin, en
+regroupant les axes 2, 3 et 5, l’importance de la contrainte d’adaptation de l’entreprise
+et des salariés s’accroît davantage, totalisant plus des deux tiers (66,6 %) des thèmes
+retenus dans les 63 textes.
+
+26
+
+L’image proposée à travers ces deux pôles – une « réalité interne » (contraintes de la
+situation d’emploi) et une « réalité externe » (exigences d’adaptation) – nous montre
+deux caractéristiques : une grande part (2/3) est accordée à la contrainte d’adaptation
+(axes 2, 3, 5 et 1) et une faible part (1/3) revient à la problématique de l’emploi – sans
+que cela ne l’amoindrisse pour autant. En effet, nous faisons face à une situation
+complexe : comment concilier les deux aspects de cette dernière, organisée autour
+d’une situation contradictoire qui nécessite d’évoluer avec les conditions diverses de
+l’activité d’emploi en tourisme ? Faut-il reconsidérer le modèle de management du
+tourisme davantage pris dans un processus de recherche de solutions à des problèmes,
+d’où l’importance plus grande accordée aux pratiques et moins à l’analyse de type
+conceptuel ?
+
+Mondes du Tourisme, 16 | 2019
+
+13
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+3.3. Les caractéristiques du discours en rapport avec le processus
+scientifique
+27
+
+Nous avons par ailleurs recherché certains aspects spécifiques dans le but d’observer le
+lien du discours sur la GRH avec la perspective scientifique. Nous avons privilégié pour
+cette analyse les années 2009 (17 textes), 2013 (8 textes) et 2015 (9 textes), le tout
+rassemblant 34 textes, soit 54 % de l’ensemble des textes analysés (cf. tableau 5).
+Tableau 5. Le discours sur la GRH en tourisme, à travers quelques indicateurs
+
+Années
+Indicateurs
+
+Pratiques/
+expériences
+
+2009
+
+10 entreprises
+4 grandes
+
+2013
+
+dont 7 entreprises
+3 grandes
+
+2015
+
+dont
+
+6 entreprises
+3 organismes publics
+
+2 grands hôtels
+
+1 organisme
+
+Méthodes
+
+5
+
+8
+
+6
+
+Approches/
+théories
+
+2
+
+-
+
+3
+
+Entreprise : 6
+Acteurs
+(analystes)
+
+Banque : 1
+Université : 1
+Cabinet : 8
+
+Entreprise : 1
+Entreprise : 3
+
+Université : 2
+
+Cabinet : 5
+
+Cabinet : 5
+Organisme public : 1
+
+Organisme public : 1
+Total textes
+
+17 textes
+
+et
+
+8 textes
+
+9 textes
+
+Source : les auteurs
+28
+
+Cette analyse de la relation entre le discours et sa base théorique ou pratique portait
+sur l’identification de certains indicateurs :
+• pratiques et expériences : la réalité du discours en lien avec la pratique et l’expérience
+d’entreprise ;
+• méthodes : le recours aux outils relevant du management d’entreprise ;
+• approches : les analyses relevant des sciences humaines et sociales ;
+• acteurs (DRH, consultant, universitaire) : statut des acteurs analysant la situation de la
+gestion des ressources humaines dans les entreprises.
+
+29
+
+L’analyse de la réalité du discours, pour la période 2009-2015, nous permet de relever
+les aspects suivants :
+• L’intérêt des pratiques et expériences associées à l’entreprise sont reconnues (recrutement,
+formation, mobilité, etc.) durant cette période. Cette observation des pratiques et des
+expériences se voit aussi dans les grands hôtels (2) et les grandes entreprises, en moins
+grand nombre (7 cas), qui se présentent comme des acteurs importants dans la diffusion des
+
+Mondes du Tourisme, 16 | 2019
+
+14
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+procédés managériaux liés à la gestion des ressources humaines en période de changement
+continu.
+• L’indicateur « outil, méthodes » (25/34) nous permet également d’observer un intérêt pour
+le développement d’instruments d’organisation en matière de GRH, d’’analyse de l’emploi et
+de fonctionnement organisationnel, renforçant ainsi la nécessité d’adaptation à la
+contrainte, ainsi qu’une garantie de rationalisation.
+• L’indicateur « approches, théories » (5/34) montre que la dimension scientifique d’une
+analyse de GRH reste encore peu développée. Toutefois, on note également une orientation
+vers la remise en question de certaines problématiques internes à l’activité touristique (les
+contraintes), telles la mobilité des salariés, l’analyse et l’organisation du travail, analysées
+par une sociologie industrielle et du travail jadis en vigueur dans un contexte de stabilité
+(années 1950-1980) et aujourd’hui bousculée dans ses concepts (Mercure et Vultur, 2019).
+Par ailleurs, la référence à des approches et des théories n’est pas seulement le fait de
+l’université, mais aussi de chercheurs autonomes ou dans des cabinets de conseil.
+• L’analyse du discours sur la gestion des ressources humaines est engagée surtout par deux
+acteurs clés : les cabinets de conseil et les entreprises, représentant respectivement 53 % et
+29,5 % de l’ensemble des 34 textes analysés. On retiendra ici que parmi les entreprises
+engagées, on retrouve des responsables de GRH ou DRH de grandes entreprises, telles que
+Disney, Accor, Club Med, ainsi que des hôtels de luxe.
+
+4. Analyse du discours de la GRH selon les catégories
+conceptualisantes
+30
+
+Suite à l’analyse thématique, qui nous a permis de développer une première réflexion
+sur le discours en GRH à travers les articles de la revue Espaces tourisme & loisirs, nous
+poursuivons par une analyse des catégories conceptualisantes. Cette dernière nous
+rapproche davantage du cœur conceptuel du discours et, par là même, nous permet
+d’affiner la construction des connaissances en ce sens. L’analyse des catégories
+conceptualisantes est effectuée selon les étapes suivantes :
+1. l’élaboration d’expressions catégorielles primaires, à partir des thèmes et sous-thèmes : il
+s’agit ici de réduire les thèmes et sous-thèmes ainsi que les expressions utilisées en
+expressions que nous identifions comme catégorielles pour chaque texte ;
+2. une catégorisation dite « catégories conceptualisantes secondaires » réalisée à partir des
+expressions catégorielles primaires ;
+3. la construction de catégories conceptualisantes principales.
+
+31
+
+D’après un premier regroupement des thèmes et sous-thèmes relevés dans chaque
+article, par décennie, on dénombrait 63 catégorisations primaires (les 63 articles
+retenus pour l’analyse), que nous avons regroupées en catégories conceptualisantes
+secondaires (cf. tableau 6).
+
+32
+
+Ainsi, durant la décennie 1990, seuls trois textes ont été identifiés, dont les expressions
+primaires ont été regroupées autour de la catégorie conceptualisante secondaire de
+« contexte managérial contraignant ». Cela désigne une adaptation visée et souhaitée,
+mais l’objectif d’adaptation est contraint du fait d’une situation difficile et complexe de
+l’activité touristique, une situation souvent rappelée dans les écrits de type
+professionnel autant que conceptuel.
+
+Mondes du Tourisme, 16 | 2019
+
+15
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+Tableau 6. Regroupement des expressions catégorielles primaires et des catégories
+conceptualisantes secondaires, élaborées à partir des 63 textes considérés comme matériau
+d’analyse du discours en ressources humaines, extraits de la revue Espaces tourisme & loisirs
+(période 1999-2015)
+
+Catégories
+
+conceptualisantes
+
+secondaires
+
+Expressions catégorielles primaires
+DÉCENNIE 1990-1999 – 3 TEXTES
+
+Contexte managérial contraignant
+
+Contrainte d’exigence des clients / satisfaction des
+employés
+Nécessité d’une adaptation permanente
+Contrainte de mobilité / nécessité de concertation
+
+DÉCENNIE 2000-2009 – 43 TEXTES
+Construire sa culture d’entreprise
+L’adaptation par la concertation
+Découvrir sa culture d’entreprise
+Adaptation de l’organisation
+
+Connaître la
+internationaux
+
+culture
+
+d’entreprise
+
+des
+
+Hôtellerie entre tradition et innovation
+Développer la compétence interculturelle
+Adapter les RH à l’organisation touristique
+Repenser le rôle du DRH
+Reconstruire la GRH
+Revoir la GRH face au changement
+Repenser la fonction GRH
+Repenser la perception vis-à-vis du travail
+La problématique du recrutement
+Le recrutement à l’étude
+La fonction GRH intégrée à l’activité
+Adaptation des ressources humaines
+
+L’importance du facteur humain
+L’importance des profils diversifiés
+Reconnaître davantage les tests psychométriques
+Adapter la GRH aux clients
+La gestion du service en hôtellerie
+Le projet de mobilité comme moteur de la GRH
+Assurer l’intégration permanents–saisonniers
+La connaissance des besoins réels par l’audit
+La nécessité de l’analyse de l’emploi
+La mobilité internationale comme opportunité
+La construction personnelle par le coaching
+
+Mondes du Tourisme, 16 | 2019
+
+groupes
+
+16
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+La contrainte de la précarité de l’emploi
+La contrainte de la saisonnalité professionnelle
+Le problème de la discrimination hommes-femmes
+L’équilibre difficile entre pénurie et fidélisation de la
+main-d’œuvre
+Conditions de travail difficiles
+
+Les conditions d’emploi difficiles
+Les conditions sociales difficiles des saisonniers
+Le management inadapté des organisations territoriales
+Penser les conditions sociales du travail
+La reconnaissance des acquis professionnels
+La communauté des salariés
+L’inégalité des saisonniers face à la règlementation
+La formation des personnes
+Le passage du métier au service
+
+Nécessité de la formation
+reconnaissance des qualifications
+
+et L’emploi et les jeunes
+La professionnalisation des jeunes
+La garantie de la diplomation des salariés
+La valorisation des métiers
+
+DÉCENNIE 2010 (JUSQU’À 2015) – 17 TEXTES
+Renforcer la visibilité de l’entreprise par le web (2)
+Adaptation par le web
+
+La perception nouvelle du travail
+
+Renforcer le recrutement et la recherche de compétences
+par l’utilisation des réseaux sociaux (3)
+Nouvelles générations et perceptions nouvelles face au
+temps de travail (2)
+La mobilité comme opportunité (2)
+Adaptation lente d’organismes et agences au recrutement
+par le web (2)
+Recrutement par les cabinets de conseil
+
+La contrainte
+l’activité
+
+situationnelle
+
+de La double contrainte d’adaptation flexibilité-sécurité
+La double contrainte saisonnalité-fidélisation de la maind’œuvre
+Difficile
+adaptation
+de
+l’outil
+« groupement
+d’employeurs » à la situation touristique (3)
+
+33
+
+La décennie 2000-2009 est la plus fournie en textes (43) et l’on dénombre autant
+d’expressions catégorielles primaires reflétant le discours des auteurs. À la suite des
+43 expressions catégorielles, quatre catégories conceptualisantes secondaires ont été
+identifiées, à partir de la problématique de l’adaptation (entreprise, organisation
+territoriale, individus) : 1) adaptation de l’organisation (6) (culture d’entreprise,
+management organisationnel, etc.) ; 2) adaptation des RH à l’organisation (20)
+(perception de la mobilité, nécessité de repenser les RH et le DRH, etc.) ; 3) conditions
+
+Mondes du Tourisme, 16 | 2019
+
+17
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+de travail difficiles (11) (nouvelles perceptions du travail, conditions d’emploi, etc.) ; et
+4) nécessité de la formation et reconnaissance des qualifications (6) (adaptation des
+métiers et des personnes). Les catégories 2 et 3 sont les plus fournies (20, 11), soit plus
+de 72,1 % des catégories de la décennie et 49,2 % de l’ensemble des catégories
+analysées (63). Dans la catégorie 2, « la mobilité professionnelle » est considérée comme
+une opportunité (mobilité internationale comme projet) ou selon une perspective de
+nouvelle perception du travail, alors qu’elle était perçue comme une contrainte dans
+les années 1990.
+34
+
+Ce qui ressort des quatre catégories de la décennie 2000-2009, c’est la nécessite de
+passer d’une situation qui génère une contrainte inhérente à l’activité touristique à une
+perspective consistant à développer une nouvelle perception du travail, des conditions
+de mobilité, et à adapter les outils d’organisation à la situation particulière des RH en
+tourisme.
+
+35
+
+Le discours de la GRH en tourisme évolue donc selon une constante forte et contrainte,
+celle de la situation touristique : dans la décennie 1990 (réduite toutefois à trois
+articles), on s’oriente vers l’observation de l’existence d’une situation complexe, alors
+que la décennie 2000-2009 voit la nécessité d’une perception nouvelle de l’adaptation
+face à une situation touristique encore alourdie de contraintes diverses (précarité,
+inégalité dans l’emploi, notamment des saisonniers face à la règlementation sociale,
+mobilité, etc.).
+
+36
+
+Dans la décennie 2010 (jusqu’en 2015), le discours évolue dans le même sens que la
+décennie précédente, avec en plus la nécessité d’une adaptation aux technologies
+numériques.
+
+37
+
+En effet, au cours des années 2010-2015, on retrouve le même noyau central du
+discours, à savoir la situation complexe dans laquelle évolue l’activité touristique, avec
+toutefois l’intégration d’une nouvelle perception à travers, notamment, deux aspects :
+d’une part, l’opportunité offerte par le web (réseaux professionnels), permettant
+d’ouvrir de nouvelles possibilités à l’entreprise touristique (marque, visibilité,
+élargissement du bassin des compétences) et, d’autre part, l’appréhension d’une
+nouvelle situation (perception renouvelée du travail). Néanmoins, la situation
+complexe et permanente dans laquelle évolue l’activité touristique (précarité,
+saisonnalité, mobilité, etc.) demeure vivace.
+
+38
+
+Au cours de la période 2010-2015, on observe 17 expressions catégorielles primaires,
+que nous regroupons en trois catégories conceptualisantes secondaires : 1) l’adaptation
+par le web (5) ; 2) la perception nouvelle du travail (4) ; et 3) la contrainte situationnelle
+de l’activité (8). Les regroupements 1 et 2, qui représentent 53 % des expressions
+catégorielles primaires, peuvent être identifiés comme les deux catégories principales
+d’un premier noyau, celui de la perspective d’une adaptation aux changements divers
+(mondialisation, mobilité, travail, etc.). Le regroupement 3, autour de la catégorie
+« contrainte situationnelle de l’activité », représentant 47 % des expressions
+catégorielles, constitue le second noyau irréductible de l’activité (précarité, double
+contrainte, flexibilité, saisonnalité, etc.).
+
+39
+
+Finalement, cette analyse nous permet d’observer que le discours sur la gestion des
+ressources humaines en tourisme, à partir des écrits parus dans la revue Espaces
+tourisme & loisirs, peut être compris comme étant formé d’une catégorie
+conceptualisante principale, formée de deux catégories conceptualisantes et identifiées
+
+Mondes du Tourisme, 16 | 2019
+
+18
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+comme étant ses deux noyaux opposés mais complémentaires. La catégorie
+conceptualisante principale est identifiée par « la double contrainte adaptative » et les
+deux noyaux qui la composent sont « la perception adaptative renouvelée » et « la
+contrainte situationnelle fonctionnelle » (cf. tableau 7).
+40
+
+Selon Paillé et Mucchielli (2012), la catégorie conceptualisante est caractérisée selon
+trois moments : la définition (ce qui désigne le phénomène comme arguments) ; les
+propriétés (ce qui distingue et caractérise le phénomène) ; et les conditions d’existence
+(les situations et les événements qui donnent vie au phénomène).
+Tableau 7. Les catégories conceptualisantes issues du discours de la GRH en tourisme, à partir
+d’articles de la revue Espaces tourisme & loisirs (1999-2015)
+
+CATÉGORIES
+CONCEPTUALISANTES
+
+DÉFINITION
+
+CONDITIONS
+
+PROPRIÉTÉS
+
+D’EXISTENCE
+
+Mobilité
+professionnelle
+inhérente /
+programme
+de Contexte marqué par
+mobilité proposée
+divers
+aspects
+« La double contrainte* »
+(traditions/
+Saisonnalité
+se réfère à une situation
+innovations)
+permanente /
+aux
+aspects
+meilleure
+Activités de plus en
+La double contrainte contradictoires, rendant
+intégration
+plus
+mondialisées /
+adaptative
+difficiles
+le
+saisonniersperception
+négative
+fonctionnement
+et
+permanents
+localement
+l’adaptation
+au
+Flexibilité /
+Sensibilité de l’activité
+changement.
+sécurité
+dans à tout incident, mais
+l’emploi
+grande résilience
+Saisonnalité /
+fidélisation de la
+main-d’œuvre
+
+Il s’agit ici des différents
+aspects qui constituent la
+La
+contrainte situation fonctionnelle du
+situationnelle
+tourisme, à laquelle font
+fonctionnelle
+référence de nombreux
+ouvrages et qui est
+reconnue comme centrale.
+
+Précarité
+l’emploi
+
+Situation de précarité,
+mais
+nécessité
+d’adaptation aux aléas
+de et aux clients
+
+Recrutement
+difficile
+
+Inégalité
+socioprofessionnelle
+entre travailleurs
+
+Mobilité
+professionnelle
+
+Adaptation lente
+l’organisation
+
+de
+
+Mondialisation
+économique et sociale
+plus prégnante
+
+Mondes du Tourisme, 16 | 2019
+
+19
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+Accroissement de
+Besoins chez l’individu
+l’utilisation
+des
+et
+l’entreprise
+de
+réseaux
+sociaux
+s’adapter
+au
+professionnels
+changement interne et
+Nouvelle vision de la façon Utilisation du web
+international
+La
+perception d’entrevoir les modes pour la visibilité
+Besoins de développer
+adaptative renouvelée d’organisation
+et
+la entrepreneuriale
+des
+compétences
+situation de l’activité
+Adaptation
+des
+nouvelles
+nouvelles
+(interculturelles
+générations
+aux
+internationales,
+réalités
+de
+la
+internes)
+mondialisation
+* en référence à la théorie de la double contrainte (double bind) de Gregory BATESON et al. (1956, 1980)
+41
+
+La théorie de la « double contrainte » (double bind) de Bateson (1956, 1980) mobilisée
+dans notre recherche peut nous aider à comprendre en grande partie la réalité de
+l’activité touristique (entreprise, organisme) qui émerge à travers les discours des
+praticiens (entreprise, organisme, cabinet-conseil, consultant). Cette théorie, élaborée
+par Gregory Bateson, Don D. Jackson, Jay Haley et John Weakland en 1956, est basée sur
+l’observation de la communication du sujet avec sa famille. Cette relation s’engage à
+partir d’« injonctions paradoxales », dans lesquelles le sujet qui reçoit le message se
+trouve devant des énoncés logiques mais contradictoires et s’il réagit ou n’agit pas
+correctement, il risque d’être mal perçu (Watlzlawick et al., 1972).
+
+42
+
+Pour Watzlawick, Helmick et Jackson (1972), la situation de la double contrainte, dans
+la relation de communication, se présente en trois phases, selon lesquelles le message
+est ainsi structuré :
+a) il [le message] affirme quelque chose ; b) il affirme quelque chose sur sa propre
+affirmation ; c) ces deux affirmations s’excluent. Ainsi, si le message est une
+injonction, il faut lui désobéir pour lui obéir… Le sens du message est donc
+indécidable…
+
+43
+
+Cette théorisation de la relation de communication développée dans le contexte de la
+psychiatrie-psychanalyse trouve aussi un intérêt dans le domaine des sciences
+humaines et sociales, notamment au niveau de l’entreprise (coaching, développement
+personnel, analyses des enjeux, etc.). Des auteurs y ont recours également pour
+observer la relation de l’organisation et le modèle de management (relations des
+individus avec les structures), comme Duterme (2008) et Casteigts (2017), ce dernier
+évoquant le « management sous injonctions paradoxales » pour des institutions
+transnationales. Cette approche théorique sert aussi d’appui pour analyser la relation
+des individus avec différentes cultures, dans le cas du management interculturel
+(Gauthey, 2002). Les points de focalisation de ces différents travaux sont les relations
+individu-organisation et le modèle organisationnel-modèle interculturel, où les
+injonctions paradoxales sont aussi observées. Comme le souligne Gauthey (2002),
+l’interculturel, développé dans les organisations économiques et internationales à
+travers un message centré sur un style d’organisation ouvert aux « contextes
+culturels », ne masquerait-il pas l’intérêt stratégique de l’organisation face à la
+compétition ? Il écrit à ce propos : « Curieux d’observer combien certains discours sur
+les cultures et l’interculturel véhiculent en fait, le discours du “même” ! Un paradoxe
+
+Mondes du Tourisme, 16 | 2019
+
+20
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+qui serait à interroger » (2002, p. 4). Le modèle de l’interculturel, tel que décrit, est
+porteur de contradictions car il cherche « à plus ou moins unifier, plaquer. Cette
+multiplicité de strates organisationnelles, de logiques identitaires peut être violente et
+s’apparenter pour les acteurs à des situations de doubles contraintes… Le problème,
+c’est que déjà sans les dimensions interculturelles, les pratiques des ressources
+humaines dans les organisations aujourd’hui sont porteuses d’injonctions
+contradictoires » (ibid., p. 5)
+44
+
+Comment se situe le monde du tourisme-hôtellerie-loisirs dans ce contexte ? Le
+tourisme comme produit et expression des transformations sociétales se présente avec
+un double visage : un phénomène social et culturel (expériences), mais aussi une
+activité économique (services et mise en tourisme des territoires). On peut reconnaître
+certains ingrédients de la double contrainte au sein du tourisme, notamment : la
+perception binaire (le touriste–le voyageur), un objet en partage (réel–imaginaire), un
+statut scientifique controversé (discipline–champ d’études) (Kadri, 2008, 2011).
+
+45
+
+On retrouve aussi certains de ces aspects dans le management de l’organisation
+touristique, notamment s’agissant de la gestion des ressources humaines soumise à des
+enjeux et des contraintes : précarité et conditions de l’emploi, mobilité des salariés,
+culture d’identité non identifiée, interculturel, problème de reconnaissance des acquis,
+etc. Ces contraintes liées à la gestion de la ressource humaine peuvent aussi devenir des
+injonctions paradoxales : par exemple, la mobilité est une contrainte mais elle est aussi
+perçue comme une compétence qu’il s’agit de cultiver ; cela renforce l’idée que si l’on
+veut progresser dans le monde professionnel, il faudrait accepter la mobilité
+professionnelle comme un projet individuel et de management, et ainsi organiser sa vie
+professionnelle en termes de flexibilité, cela pour satisfaire le management qui
+s’organise à travers les TI et répond à ses enjeux stratégiques, alors que l’individu
+continuera à faire face à des enjeux professionnels contraignants. Comme le montrait
+Gauthey (2002), alors que l’entreprise recherche l’efficacité stratégique, elle met aussi
+en place des méthodes (management participatif, coaching, développement personnel,
+audit organisationnel, analyse des conflits, etc.). Ce sont ces modes de management qui
+sont questionnés (adaptation au mode participatif) pour tenter de sortir de la double
+contrainte. À ce propos, Gauthey (ibid., p. 7), écrit : « De nombreuses entreprises ont
+attendu de leurs salariés une ouverture, une adaptation aux contraintes mais bien peu
+de choses qui se fassent de manière cadrée, régulée ». En fait, il s’agirait de développer
+un mode d’adaptation nécessaire à l’exigence d’adaptation à une pratique managériale
+(par exemple, le mode participatif, ou celui lié à l’interculturel).
+
+Conclusion
+46
+
+L’analyse du discours de la GRH en tourisme, à travers des écrits publiés dans la revue
+Espaces tourisme & loisirs, est une opération sensible, nécessitant d’aller au-delà d’une
+simple analyse thématique et de compléter cette dernière par un second processus plus
+proche de la conceptualisation et de la construction scientifique. En effet, la
+catégorisation va plus loin que la simple analyse de discours, puisqu’elle permet de
+déconstruire mais aussi de viser l’émergence de la signification et donc d’opérer des
+interprétations (Paillé et Muchielli, 2012).
+
+47
+
+Ce processus de construction sociale des concepts scientifiques, indispensable pour les
+sciences sociales et notamment les études touristiques, est pourtant critiqué du fait de
+
+Mondes du Tourisme, 16 | 2019
+
+21
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+sa relation et de sa proximité avec le « relativisme ». Hacking (2017 : 9), qui pose déjà la
+question dans le titre sans équivoque de son ouvrage Entre science et réalité. La
+construction sociale de quoi ?, évoque d’emblée l’importante querelle qui anime la
+communauté scientifique :
+L’idée de construction sociale est, parmi beaucoup d’autres, une idée farouchement
+combattue dans le cadre des guerres culturelles américaines […]. L’expression est
+devenue code. Si vous l’utilisez positivement, vous vous taxez vous-même d’un
+certain radicalisme. Si vous la dénigrez, vous vous déclarez rationnel, raisonnable
+et respectable.
+48
+
+Au fil de ce travail de construction scientifique en études touristiques, notre intérêt
+portait sur une interrogation : comment appréhender le discours en ressources
+humaines dans le monde du tourisme ? Nous supposions que la situation complexe de
+cette activité professionnelle et économique, souvent mise en avant dans les écrits,
+représenterait un facteur important dans la compréhension dudit discours. Aussi
+l’utilisation de deux types d’analyse de discours, à travers les 63 textes analysés extraits
+de la revue Espaces tourisme & loisirs, nous a permis de tirer quelques conclusions :
+• L’analyse NVivo, grâce à deux importants regroupements des mots, a montré que la gestion
+des ressources humaines en tourisme est une fonction qui devra s’adapter continuellement à
+une situation particulière, marquée à la fois par les contraintes (précarité, saisonnalité,
+mobilité), par une exigence d’adaptation constante pour répondre aux stratégies de
+l’organisation (visibilité de la marque, nouvelles valeurs, nouvelles technologies, mobilité
+interculturelle) ainsi que par la valorisation des qualifications et des métiers, notamment
+chez les jeunes.
+• L’analyse des axes thématiques a permis de venir renforcer ces premières observations, en
+délimitant une situation double : une partie dominée par des conditions d’emploi
+difficiles (1/3) et l’autre partie (2/3) faite d’exigences d’adaptation (mobilité internationale,
+réseaux professionnels, repenser l’organisation du travail, penser la mobilité non comme un
+frein mais plutôt comme une opportunité). Si la première représente seulement un tiers du
+noyau, elle comporte néanmoins une contrainte majeure handicapant la situation générale,
+où prédomine le recours à la pratique professionnelle pour répondre aux exigences
+d’adaptation. Aussi, nous observons qu’une part importante des pratiques professionnelles
+managériales est réalisée par des cabinets-conseil (52 %) et des grandes entreprises.
+Toutefois, ces grandes entreprises peuvent jouer un rôle indéniable dans la diffusion de
+pratiques managériales novatrices pour l’entreprise. Enfin, signalons que très peu d’études
+ou d’observations par les milieux universitaires et de recherche sont engagées.
+
+49
+
+Mais cette analyse thématique reste trop partielle pour parvenir à une déconstruction
+du discours, d’où la nécessité d’appliquer une autre analyse, celle des catégories
+conceptualisantes, qui nous permet d’appréhender une réalité sociale complexe et donc
+de relever une signification et une interprétation du processus lié à cette réalité. Il
+s’agit conséquemment d’une construction sociale de cette réalité, qui fait émerger non
+seulement des catégories conceptuelles (cf. tableau 7), mais montre aussi que la réalité
+touristique est composée d’un noyau double ; il s’agit de la double contrainte
+adaptative, formée de deux éléments exprimant une réalité contraignante : une
+contrainte situationnelle permanente vécue à la fois par les employés et la hiérarchie
+managériale et une vision liée à l’adaptation au changement.
+
+50
+
+Le monde de l’activité touristique (tourisme-hôtellerie-loisirs), observé à travers le
+discours sur la gestion des ressources humaines, serait-il plus soumis à la double
+contrainte que d’autres secteurs d’activité économique ? Si des études sur
+
+Mondes du Tourisme, 16 | 2019
+
+22
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+l’organisation ont été réalisées (management interculturel, développement
+organisationnel, etc.) depuis plus de quatre décennies, nous n’avons pas connaissance
+de telles observations dans le secteur en tourisme ; toutefois des interventions relatives
+au coaching et à l’audit organisationnel sont indentifiables dans le discours de la GRH
+pour ce même secteur Ces dernières interventions en tourisme peuvent représenter un
+matériau important dans l’évaluation de l’importance de la double contrainte, en les
+complétant d’autres interventions de recherche.
+51
+
+Il serait très utile de s’intéresser aux textes sur la gestion des ressources humaines en
+tourisme parus dans les revues classées, tant francophones qu’anglophones. Dans le
+contexte francophone, on trouve peu de textes. Par exemple, la revue Gestion des
+ressources humaines propose peu de titres consacrés au tourisme (deux articles sur deux
+décennies), alors que la revue Human Resource Management, classée huitième par le
+Centre national de la recherche scientifique (CNRS), fait référence à plus de
+1 300 articles portant sur ce secteur, dont près de 1 000 en hôtellerie.
+
+52
+
+Les textes de la revue Espaces tourisme & loisirs sur la gestion des ressources humaines,
+loin de présenter une vision de l’organisation réduite à la réalité professionnelle
+(pratiques) de l’activité touristique, constituent un matériau incontournable pour
+l’identification de deux aspects au plan épistémologique. D’une part, à travers l’analyse
+du discours et la théorisation du contenu, ce matériau nous convie à percevoir une
+autre réalité professionnelle, moins visible. Comme l’exprime Wittezaele (2008 : 18) à
+propos de l’intervention de Bateson sur la relation de communication par la théorie de
+la double contrainte, ce dernier met à jour une autre réalité de la communication et
+« nous invite à voir l’invisible, en quelque sorte, c’est-à-dire les règles implicites qui
+régissent les rapports entre les différentes personnes […] ». D’autre part, certains
+éléments conceptuels de la sociologie du travail ne semblent plus adaptés au contexte
+de la réorganisation actuelle du travail. Par exemple, le concept de précarité,
+caractérisant notamment les conditions d’emploi en tourisme, est aujourd’hui
+réinterrogé, à la faveur d’un concept plus opératoire et moins normatif, comme celui de
+vulnérabilité (Vultur, 2019). Le monde du tourisme-hôtellerie-loisirs apparaît donc
+comme un milieu spécifique, particulièrement favorable à l’observation de la
+redéfinition des concepts en sciences sociales.
+
+BIBLIOGRAPHIE
+Gregory BATESON, Vers une écologie de l’esprit, tome 2, Seuil, 1980.
+Gregory BATESON, Don D. JACKSON, Jay HALEY et John WEAKLAND, « Toward a theory of
+schizophrenia », Behavioral Science, 1(4), 1956.
+Franck BOURNOIS et C. Brooklyn DERR, « Les directeurs des ressources humaines ont-ils un
+avenir ? ». Revue française de gestion, n° 98, 1994.
+Franck BOURNOIS, Jacques ROJOT et Jean-Louis SCARINGELLA, RH, les meilleures pratiques des entreprises
+du CAC 40, Éditions d’Organisation, 2003.
+
+Mondes du Tourisme, 16 | 2019
+
+23
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+Michel CASTEIGTS, « Le pilotage des politiques européennes : un management sous injonctions
+paradoxales. Ou pourquoi l’Europe est de plus en plus schizophrène. », dans Joachim BECK et
+Fabrice LARAT (dir.), Transnationale Verwaltungskulturen in Europa – Les cultures administratives
+transnationales en Europe, Dike Verlag & Nomos Verlag, 2015 [https://halshs.archives-ouvertes.fr/
+halshs-01585711/document].
+Cécile CLERGEAU, Olivier GLASBERG et Philippe VIOLIER, Management des entreprises du tourisme, Dunod,
+2014.
+Roy A. COOK, Cathy H.C. HSU et Joseph J. MARQUA, Tourism. The business of hospitality and travel,
+Pearson, 2014.
+Chris COOPER et C. Michael HALL, Le tourisme aujourd’hui : une approche internationale, De Boeck, 2008.
+Nicole CÔTÉ, Laurent BÉLANGER et Jocelyn JACQUES, La dimension humaine des organisations, Édition G.
+Morin, 1994.
+Michel CROZIER, L’entreprise à l’écoute, InterÉditions, 1989.
+Claude DUTERME, « Double contrainte et entreprise : contexte global, paradoxes locaux,
+souffrances individuelles », dans Jean-Jacques WITTEZAELE (dir.), La double contrainte : l’influence des
+paradoxes de Bateson en sciences humaines, De Boeck, 2008.
+Claire DUPONT, « Du discours stratégique à la construction de la fonction RH par les praticiens »,
+XXII Conférence internationale de management stratégique, 2013.
+Franck GAUTHEY, « Management interculturel : représentations et pratiques en questions »,
+Communication et organisation, n° 22, 2002 [http://communicationorganisation.revues.org/2721].
+Charles R. GOELDNER et J.R. Brent RITCHIE, Tourism. Principles, practices, philosophies, John Wiley &
+Sons, 2009.
+Francis GUÉRIN et Frédérique PIGEYRE, « Peut-on encore parler de "la" professionnalisation de la
+GRH ? », Actes du 18e congrès de l’AGRH, 2007.
+Salvador JUAN et A. JACOB, Organisation et management en question, coll. « Logiques sociales »,
+L’Harmattan, 1987.
+Darren LEE-ROSS et Jospehine PRYCE, Human resources and tourism. Skills, culture and industry, Channel
+View Publications, 2010.
+Erick LEROUX et Pierre-Charles PUPION, Management du tourisme et des loisirs, Vuibert, 2014.
+Jean-Pierre LOZATO-GIOTART, Erick LEROUX et Michel BALFET, Management du tourisme. Territoires, offres
+et stratégies, Pearson, 2012.
+Boualem KADRI, « Réflexion sur l’épistémologie du tourisme. La perspective constructiviste », dans
+Lucie K. MORISSET, Bruno SARRASIN et Guillaume ÉTHIER (dir.), Épistémologie des études touristiques,
+Presses de l’Université du Québec, 2011.
+Boualem KADRI, « L’identité scientifique du tourisme : un mythe ou une réalité en construction »,
+Téoros. Revue de recherche en tourisme, vol. 27, n° 1, 2008.
+Juan MADERA, Mary DAWSON, Priyanko GUCHAIT et Amanda BELARMINO, « Strategic human resources
+management research in hospitality and tourism : a review of current literature and suggestions
+for the future », International journal of contemporary hospitality management, vol. 29, n° 1, 2017.
+Daniel MERCURE et Mircea VULTUR, Dix concepts pour penser le nouveau monde du travail, Presses de
+l’Université Laval, 2019.
+
+Mondes du Tourisme, 16 | 2019
+
+24
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+Alain MESPLIER et Pierre BLOC-DURAFFOUR, Le tourisme dans le monde, Bréal, 2014.
+Michel MONEREAU, Management des organisations touristiques, Bréal, 2008.
+Pierre PAILLÉ et Alex MUCCHIELLI, L’analyse qualitative en sciences humaines et sociales, Armand Colin,
+2008.
+Jean-Marie PERETTI, Ressources Humaines, Vuibert, 2013.
+Michel LUSSAULT et Mathis STOCK, « Tourisme et urbanité », dans Philippe DUHAMEL et Rémi KNAFOU
+(dir.), Les mondes urbains du tourisme, Belin, 2007.
+Stephen ROBBINS et Timothy JUDGE, Les comportements organisationnels, 14e éditions, Pearson
+Education, 2011.
+Mathis STOCK, Olivier DEHOORNE, Philippe DUHAMEL, Jean-Christophe GUAY, Rémy KNAFOU, Olivier
+LAZZAROTI, Isabelle SACAREAU et Philippe VIOLIER, Le tourisme : acteurs, lieux et enjeux, Belin, 2003.
+
+Yves TINARD, Le tourisme économie et management, McGraw-Hill, 1992.
+Mircea VULTUR, « Le concept de précarité : quelle adéquation aux transformations actuelles du
+monde du travail », dans Daniel MERCURE et Mircea VULTUR (dir.), Dix concepts pour penser le nouveau
+monde du travail, Presses de l’Université Laval, 2019.
+Paul WATZLAWICK, Janet HELMICK et Don de Avila JACKSON, Une logique de la communication, Points
+Essais, 1972.
+Jean-Jacques WITTEZAELE, « La double contrainte ; un concept fondateur », dans Jean-Jacques
+WITTEZAELE (dir.), La double contrainte : l’influence des paradoxes de Bateson en sciences humaines, De
+
+Boeck, 2008.
+
+RÉSUMÉS
+L’entreprise, acteur majeur dans la société aujourd’hui, fait de plus en plus l’objet d’une attention
+particulière des chercheurs et managers d’entreprises, à travers notamment l’analyse de la
+fonction des ressources humaines. L’industrie du tourisme et des loisirs, qui montre une grande
+particularité de sa ressource humaine (importante mobilité, partie intégrante de l’expérience),
+fait observer une perspective pratique et professionnelle plus développée que l’appréhension
+scientifique. Si le discours scientifique sur cette complexité touristique est bien constaté, en est-il
+de même du discours concernant la gestion des ressources humaines ? Dans cet article, nous
+analysons le discours en gestion des ressources humaines dans la recherche en tourisme,
+notamment dans les ouvrages et les revues. La perspective proposée est une interrogation de
+type épistémologique privilégiant une approche de type constructiviste pour l’analyse du
+discours des chercheurs. Deux analyses sont développées : d’une part, l’analyse thématique pour
+faire faire émerger les thèmes pertinents d’un corpus ; d’autre part, l’analyse des « catégories
+conceptualisantes », afin d’apporter les premiers éléments de théorisation d’un phénomène.
+Cette analyse de la gestion des ressources humaines en tourisme est réalisée à travers les écrits
+parus dans la revue francophone Espaces tourisme & loisirs, qui permet d’apporter un regard
+diachronique sur l’évolution du discours en gestion des ressources humaines, et ce, depuis les
+années 1990.
+The company, a major player in society today, is increasingly the subject of particular attention
+from researchers and business managers, notably through the analysis of the human resources
+function. The tourism and leisure industry, which shows a great particularity of its human
+
+Mondes du Tourisme, 16 | 2019
+
+25
+
+L’évolution du discours sur les ressources humaines en tourisme : entre théor...
+
+resources (significant mobility, an integral part of the experience), points out a practical and
+professional perspective more developed than scientific apprehension. As such, this paper
+attempts to understand how the discourse in human resources management in tourism research
+looks like, especially in books and journals. In order to answer this question, the proposed
+perspective is an epistemological type of questioning favoring a constructivist approach to the
+analysis of the researchers’ discourse. Two analyzes are developed : first, a thematic analysis to
+bring out the relevant themes from a corpus ; second, the analysis of “conceptualizing
+categories”, in order to provide the first elements of theorizing a phenomenon. This analysis of
+human resource management in tourism is carried out through the writings published in the
+French-language journal Espace tourisme & loisirs, which provides a diachronic view of the
+evolution of the discourse on human resource management since the 1990s.
+
+INDEX
+Mots-clés : tourisme, ressources humaines, emploi, théorie du management
+Keywords : human resources, employment, tourism, management theory
+
+AUTEURS
+BOUALEM KADRI
+PhD
+kadri.boualem@uqam.ca
+MOHAMED REDA KHOMSI
+PhD
+khomsi.mohamed_reda@uqam.ca
+CYRIL MARTIN
+martin.cyril@uqam.ca
+
+Mondes du Tourisme, 16 | 2019
+
+26
+
+

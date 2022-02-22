@@ -1,0 +1,3018 @@
+Mondes du Tourisme
+10 | 2014
+
+Tourisme créatif
+
+L’appropriation des nouvelles technologies de la
+mobilité par le tourisme : nouveaux enjeux
+créatifs
+Johan Vincent
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/380
+DOI : 10.4000/tourisme.380
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+Édition imprimée
+Date de publication : 1 décembre 2014
+Pagination : 62-74
+ISSN : 2109-5671
+Référence électronique
+Johan Vincent, « L’appropriation des nouvelles technologies de la mobilité par le tourisme : nouveaux
+enjeux créatifs », Mondes du Tourisme [En ligne], 10 | 2014, mis en ligne le 30 septembre 2015,
+consulté le 01 mai 2019. URL : http://journals.openedition.org/tourisme/380 ; DOI : 10.4000/
+tourisme.380
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modiﬁcation 4.0 International.
+
+JOHAN VINCENT
+
+L’appropriation des nouvelles
+technologies de la mobilité
+par le tourisme :
+nouveaux enjeux créatifs
+JOHAN VINCENT
+Chercheur associé au Cerhio (UMR 6258)
+[johan.vincent@gmail.com]
+
+Résumé. La créativité n’est pas le seul fait des technologies et des technophiles : les acteurs veulent s’adapter à
+ce/ceux qu’ils considèrent comme de “nouveaux tourismes” ou de “nouveaux touristes”, liés à l’innovation
+numérique. Pour l’instant, l’offre reste verticale : les professionnels sont maîtres des processus qu’ils mettent à la
+disposition des publics, perçus essentiellement comme des consommateurs. La culture de création par des
+touristes sur des produits tiers paraît encore trop balbutiante pour s’épanouir. Associer le public au processus
+créatif, c’est prendre des risques vis-à-vis du message de confiance, c’est aussi des investissements parfois
+conséquents, des retombées mal cernées. A contrario, c’est acquérir des avantages pour la diffusion du tourisme
+et de l’innovation sur l’ensemble d’un territoire, et c’est être réellement partie prenante de l’inévitable jeu
+concurrentiel avec les infomédiaires. Nouvelles technologies et tourisme créatif sont une nouvelle porte d’accès
+au territoire qu’il n’est pas facile psychologiquement de franchir.
+Abstract. Creativity is not reserved to technology and technophiles: the actors of tourism want to adapt their practices
+to a “new tourism” or to “new tourists”, in connection with technological innovation. For the moment, the offer is
+vertical: the professionals still control the processes they make available to the tourists (regarded as consumers). The
+culture of creation from tourists on third party products still seems too stammering to bloom. Involving the public into
+the creative process means taking risks (message of confidence, investments, results). But it also means taking
+advantages in matter of tourism diffusion and of innovation, and being a stakeholder of the inevitable competition
+with the infomediaries. New technology and creative tourism are a new step which is not, psychologically, easy to take.
+62
+
+MONDES DU TOURISME N° 10 • DÉCEMBRE 2014
+
+DOSSIER • TOURISME CRÉATIF
+
+L
+
+e tourisme est confronté
+
+valeur et les expériences touristiques,
+
+business) et que le contentement du
+
+depuis quelques années à un
+
+par l’intermédiaire des professionnels
+
+consumer, le touriste, reste pour
+
+champ neuf qui s’ouvre à lui :
+
+et/ou des touristes, pour générer un
+
+ainsi dire inconnu, faute d’études
+
+le m-tourisme (ou tourisme de la
+
+phénomène immersif : une nouvelle
+
+scientifiques qualitatives. Le propos
+
+mobilité), peu de temps après avoir
+
+façon de vivre, dans sa création ou
+
+de cet article se fixera, lui aussi, du
+
+dû répondre aux enjeux de l’e-tou-
+
+à travers sa création.
+
+côté de l’offre.
+
+risme (ou tourisme lié à internet).
+
+Lors de la deuxième conférence
+
+L’article propose de faire un état
+
+Le rapport Prospective du m-tou-
+
+internationale sur le tourisme créatif :
+
+des lieux des nouveaux outils (QR
+
+risme, paru en novembre 2011, parle
+
+“Le tourisme à l’heure du touriste
+
+codes, guides touristiques dématé-
+
+d’ailleurs d’une double révolution
+
+créatif”, les 6 et 7 décembre 2012,
+
+rialisés, applications muséales, appli-
+
+à ce sujet (Idate et Kanopée, 2011).
+
+les professionnels ont démontré que
+
+cations ludiques…) et de leurs conte-
+
+Les smartphones et les tablettes,
+
+la créativité n’est pas le seul fait des
+
+nus, afin de cerner comment les com-
+
+dont le volume de ventes a dépassé
+
+technologies et des technophiles ;
+
+manditaires et les concepteurs créent
+
+celui des PC en 2011, sont devenus
+
+les usages ont également une grande
+
+de l’intérêt à partir d’une ressource
+
+les nouveaux outils pour promouvoir
+
+importance. Éric Seulliet (2012), pré-
+
+dématérialisée. Le choix d’une forme
+
+les territoires, créer de l’intérêt et
+
+sident du think tank La Fabrique
+
+de communication n’implique pas
+
+renouveler la curiosité. L’innovation
+
+du futur et intervenant à ce colloque,
+
+les mêmes réponses. Avec certaines
+
+numérique s’inscrit dans le redé-
+
+associe trois mots-clés pour parvenir
+
+applications, le touriste dispose d’un
+
+ploiement de l’offre touristique :
+
+à une réussite des projets : co-créa-
+
+outil pour préparer (avant), profiter
+
+nouvelles politiques d’accueil des
+
+tion, lead users (qu’on peut rappro-
+
+(pendant) et promouvoir son voyage
+
+publics, de médiation, de commu-
+
+cher des gate-keepers) et commu-
+
+(après). Avec la réalité augmentée,
+
+nication, d’expositions, de docu-
+
+nauté d’usagers. Les acteurs doivent
+
+il bénéficie dans sa poche d’une table
+
+mentation, d’édition, de diffusion
+
+innover parce qu’ils sont confrontés
+
+panoramique d’où il peut accéder à
+
+culturelle et artistique, de partenariat
+
+à ce qu’ils considèrent comme de
+
+des contenus. Avec le QR code (code
+
+et de recherche de mécénat. Le m-
+
+“nouveaux” touristes. Comme les
+
+barres bidimensionnel), il jouit d’un
+
+tourisme oblige à réfléchir aux usages
+
+nouvelles technologies sont facteurs
+
+accès à des contenus mais à partir
+
+qui émergent, et implique, souvent
+
+de créativité, ils explorent des pos-
+
+d’un affichage à un endroit précis
+
+localement, une créativité pour les
+
+sibilités jusqu’alors inconnues : l’ex-
+
+ou sur un prospectus. Les acteurs
+
+exploiter, les développer, voire les
+
+ploitation de la géolocalisation est
+
+du tourisme doivent donc adapter
+
+inventer. Il s’inscrit aussi dans un
+
+évidemment caractéristique. Ils cher-
+
+leurs discours et innover : le font-
+
+mouvement général dont il est le
+
+chent aussi à valoriser les savoir-
+
+ils ? D’un autre côté, le touriste est-
+
+contemporain : le tourisme créatif,
+
+faire des visiteurs – visiteurs déjà
+
+il si différent avec l’arrivée de la tech-
+
+expression inventée en 1993, surtout
+
+protéiformes, comme les a analysés
+
+nologie ? Une réflexion sur l’envi-
+
+depuis les années 2000, et le pullu-
+
+Jean-Didier Urbain dans L’Idiot du
+
+ronnement général dans lequel les
+
+lement des initiatives à ce sujet
+
+voyage (2002) et Le voyage était
+
+créations peuvent se fixer est néces-
+
+(Richards, 2011, pp. 1237-1238). L’idée
+
+presque parfait (2008). Cette belle
+
+saire, même si elle sera modeste faute
+
+des industries créatives, dont le tou-
+
+volonté ne cache-t-elle pas des
+
+d’études réellement fournies sur ces
+relations.
+
+risme est l’un des pans, est de rompre
+
+enjeux sous-jacents, qui confinent
+
+avec l’état secondarisé de la culture
+
+tourisme créatif et nouvelles tech-
+
+Finalement, à la lumière de ces
+
+et du patrimoine pour s’en servir
+
+nologies à un état de superficialité ?
+
+dynamiques qui peuvent apparaître
+
+afin de stimuler l’initiative créatrice
+
+Il convient de reconnaître que, pour
+
+contradictoires, l’article pose la ques-
+
+et l’investissement privés (Toussaint,
+
+l’instant, les études se cantonnent
+
+tion d’une créativité exacerbée néces-
+
+2012, p. 63) : réinventer les mises en
+
+aux relations B to B (business to
+
+saire chez les acteurs du tourisme.
+
+DÉCEMBRE 2014 • MONDES DU TOURISME N°10
+
+63
+
+JOHAN VINCENT
+
+Elle est pour l’instant balbutiante :
+
+Un tourisme de circuit : QR codes
+
+qui raconte la remise en état du lavoir
+
+chacun reconnaît que nous sommes,
+
+Sans facilitation d’accès à l’infor-
+
+et les pratiques qui s’y déroulaient
+
+potentiellement, à l’orée d’une nou-
+
+mation, il était impossible qu’un cir-
+
+il y a un peu plus d’un demi-siècle
+
+velle vision touristique, ce que confir-
+
+cuit touristique puisse être créé à
+
+(images et reconstitutions actuelles)(1).
+
+ment tous les intervenants de la
+
+partir de la seule technologie. Or le
+
+Dans la station balnéaire de Barbâtre
+
+conférence du 2 décembre 2011 sur
+
+code barres bidimensionnel, qu’il
+
+(Vendée), le circuit Balis’Âges a été
+
+les nouveaux usages des technologies
+
+suffit de “flasher” (certains parlent
+
+spécifiquement élaboré en 2010 pour
+
+de l’information et de la communi-
+
+de “flashcode” pour désigner ce type
+
+associer contenu touristique patri-
+
+cation. Il faut aussi avoir conscience
+
+de code barres) pour lancer l’ouver-
+
+monial à partir de témoignages et
+
+qu’en 2012 moins de 4 % des offices
+
+ture d’un texte, d’un sonore ou d’une
+
+technologie des QR codes. Sont dis-
+
+de tourisme en France ont une appli-
+
+vidéo, facilite cet accès. Le code
+
+ponibles un petit texte de présenta-
+
+cation Iphone dédiée (Guidéapolis,
+
+barres QR a été créé par l’entreprise
+
+tion de l’endroit, des vidéos, des
+
+2012). Le rôle d’animateur et d’ac-
+
+japonaise Denso Wave, en 1994,
+
+images et des informations complé-
+
+compagnateur (conseil) se trouve
+
+qui l’a diffusé sous licence libre en
+
+mentaires(2). La philosophie du pro-
+
+renforcé, à plusieurs échelles, pour
+
+1999. À la fin des années 2000, il
+
+gramme ne repose pas sur une éru-
+
+faire connaître et faire vivre les créa-
+
+est devenu l’un des codes barres bidi-
+
+dition mais sur les sentiments de la
+
+tions – l’aspect relatif aux réseaux,
+
+mensionnels les plus populaires dans
+
+population envers son territoire :
+
+toujours sous forme de solutions
+
+le monde.
+
+filiation, attachement, fierté. Dans
+
+liées au tourisme de mobilité, voire
+
+Si les premiers usages des codes
+
+les deux cas, l’opération s’appuie
+
+éventuellement aux marques (mar-
+
+barres bidimensionnels ont d’abord
+
+sur le potentiel local : le touriste est
+
+keting territorial), entre en ligne de
+
+été rares, à cause du faible équipe-
+
+accueilli par l’habitant, qui partage
+
+compte, comme on peut le voir pour
+
+ment des touristes et surtout d’une
+
+ses connaissances et ses passions.
+
+d’autres structures (musées, par
+
+grande méconnaissance de cet outil,
+
+Dans le même temps, des circuits
+
+exemple). Plus largement émerge la
+
+ils sont désormais une des entrées
+
+patrimoniaux dématérialisés plus
+
+limite à la créativité, que nous inter-
+
+préférées pour un circuit d’interpré-
+
+standardisés, avec texte, images et
+
+rogerons dans cette partie plus pros-
+
+tation du patrimoine. La première
+
+parfois vidéos scénarisées, ont été
+
+pectiviste. Le secteur touristique dis-
+
+commune à avoir commencé à véri-
+
+mis en place en France : Blaye,
+
+pose de beaucoup d’atouts, mais il
+
+tablement exploiter les capacités du
+
+Bordeaux,
+
+est régi par de nombreuses craintes.
+
+smartphone semble être Savins
+
+Tournan-en-Brie… 8 000 QR codes
+
+L’article repose essentiellement sur
+
+(Seine-et-Marne) : elle a associé à
+
+sont annoncés en Seine-et-Marne.
+
+des exemples français.
+
+des codes barres bidimensionnels
+
+Les touristes sont donc invités à bou-
+
+un service exploitant la vidéo. Faute
+
+ger sur tout le territoire, y compris
+
+de financements suffisants pour
+
+dans les communes rurales jus-
+
+embaucher un guide permanent, la
+
+qu’alors délaissées faute de budget
+
+NOUVELLES TECHNOLOGIES,
+NOUVEAUX TOURISMES ?
+
+64
+
+Houplin-Ancoisne,
+
+commune a opté en avril 2009 pour
+
+à consacrer à la mise en valeur du
+
+Au-delà des pratiques, il faut ana-
+
+ce procédé technologique qui permet
+
+patrimoine.
+
+lyser comment la technologie se
+
+de visiter l’église, fermée au public
+
+matérialise sur le terrain. Trois
+
+en dehors des offices religieux, et le
+
+tation classiques, les circuits fonc-
+
+formes se distinguent aujourd’hui
+
+lavoir de l’Étain. Si la vidéo sur
+
+tionnant avec des QR codes ont
+
+À l’instar des circuits d’interpré-
+
+en matière de tourisme : le circuit
+
+l’église est un récit érudit sur fond
+
+l’avantage de fonctionner à tout
+
+touristique ou patrimonial dématé-
+
+musical, la vidéo sur le lavoir de
+
+moment de l’année et à tout moment
+
+rialisé ; la réalité augmentée ; l’ap-
+
+l’Étain s’appuie sur le témoignage
+
+de la journée, dès que le réseau télé-
+
+plication smartphone.
+
+de l’ancien maire, Martial Goutte,
+
+phonique fonctionne. Le visiteur n’a
+
+MONDES DU TOURISME N° 10 • DÉCEMBRE 2014
+
+DOSSIER • TOURISME CRÉATIF
+
+pas besoin d’aller chercher le matériel
+
+dépassé les limites du circuit d’in-
+
+désormais révéler la face cachée des
+
+puisqu’il dispose déjà de son smart-
+
+terprétation “en dur”, qu’on ne peut
+
+choses, voire les faire réapparaître.
+
+phone (pas de limitation liée à l’ou-
+
+changer après sa pose, au contraire
+
+Le château fort de Cherbourg, pour-
+
+verture d’un organisme comme l’of-
+
+des circuits fonctionnant avec des
+
+tant disparu, est aujourd’hui visible.
+
+fice du tourisme ou la mairie). Il
+
+QR codes. Le touriste est cantonné
+
+Le parcours pédestre en réalité aug-
+
+n’est pas restreint par la disponibilité
+
+dans un rôle de consommateur, sans
+
+mentée “Imayana”, mis en place
+
+des témoins, puisque ceux-ci sont
+
+qu’il puisse proposer du contenu ou
+
+depuis le 15 septembre 2012 par
+
+enregistrés et racontent leurs histoires
+
+ne serait-ce qu’interagir.
+
+l’office de tourisme de Bordeaux,
+
+sans usure. Il peut donc s’organiser
+
+propose une découverte du cœur
+
+pour suivre les différentes étapes du
+
+Un tourisme de vision :
+
+historique au
+
+circuit ou pratiquer un tourisme
+
+réalité augmentée
+
+matériel dédié. Les formes narratives
+
+opportuniste, au hasard de ses pro-
+
+La réalité augmentée permet d’ap-
+
+tiennent compte des actions du visi-
+
+menades. Ce tourisme se veut sans
+
+procher une dimension importante
+
+teur autour de neuf “points d’expé-
+
+contraintes et, bien que le visiteur
+
+pour le touriste : l’immersion. Afin
+
+rience” (Plantier et Barbier, 2013,
+
+soit invité, par une communication
+
+de ne plus ressembler à “l’idiot du
+
+p. 30). Le processus de création d’un
+
+dédiée, à réaliser un parcours, c’est
+
+voyage”, le touriste se sert de la tech-
+
+parcours en réalité augmentée est
+
+un “tourisme de cueillette”. Ainsi,
+
+nologie, malgré un aspect encore
+
+relativement lourd : il faut maîtriser
+
+les statistiques révèlent que, malgré
+
+expérimental. Pour l’instant, les pro-
+
+le contenu de ce qui va être montré,
+
+la basse saison hivernale, le circuit
+
+duits sont essentiellement fixés au
+
+concevoir un logiciel adapté à la
+
+Balis’Âges est fréquenté. Sur les six
+
+smartphone : se superpose en temps
+
+modélisation de ce contenu, anticiper
+
+premiers mois d’exploitation (du
+
+réel, grâce à la fonction de l’appareil
+
+la mise en scène de l’ensemble, ce
+
+2 octobre 2010 au 11 avril 2011),
+
+photo, une image virtuelle sur les
+
+qui implique des va-et-vient entre
+
+les différentes étapes ont été consul-
+
+éléments de la réalité. Ils permettent
+
+les différentes étapes du projet
+
+tées par une cinquantaine de per-
+
+une hypertextualisation de la réalité.
+
+(Cieutat, 2013, p. 52 et p. 54-55).
+
+sonnes individuelles (entre 34 et 91,
+
+Cet aspect technologique, plus com-
+
+L’un des avantages de la techno-
+
+selon les étapes), avec un nombre
+
+plexe à réaliser, est l’un des derniers
+
+logie repose sur l’accompagnement
+
+de visites compris entre 50 et 121.
+
+à avoir été adoptés par les offices
+
+toujours possible de la mise en valeur
+
+Trois ans plus tard, la fréquentation
+
+de tourisme.
+
+du site. Le marché technologique
+
+XVIII
+
+e
+
+siècle avec du
+
+reste importante, malgré une petite
+
+Dans un premier temps, la média-
+
+s’ingénue maintenant à développer
+
+érosion . Les statistiques révèlent
+
+tion a été essentiellement documen-
+
+des éléments plus discrets que le port
+
+notamment le croisement des circuits
+
+taire. L’application Cultureclic est
+
+du smartphone : les lunettes connec-
+
+touristiques puisque les points de
+
+l’une des plus anciennes : elle délivre
+
+tées, les montres connectées…, selon
+
+Balis’Âges les plus fréquentés sont
+
+une somme d’informations sur les
+
+le processus de miniaturisation que
+
+ceux qui sont situés sur le circuit
+
+lieux culturels se situant dans un
+
+le téléphone portable a connu dans
+
+pédestre et cyclable faisant le tour
+
+périmètre proche. Puis la dimension
+
+les années 1990. La réalité augmen-
+
+de l’île de Noirmoutier. C’est un
+
+ludique a été promue. Jessica Fèvres-
+
+tée risque d’être durablement la porte
+
+usage à la carte, désormais plus facile,
+
+de Bideran (2013, p. 16) remarque
+
+d’accès à une multitude d’informa-
+
+que le touriste commence à privilé-
+
+d’ailleurs que ces applications,
+
+tions, remplaçant progressivement
+
+gier : un tourisme de l’entre-soi, qui
+
+comme Cluny-vision ou Jumièges
+
+la carte ou la liste, les deux modes
+
+se développe autour du lien entre
+
+3D, sont classées dans la catégorie
+
+préférentiels actuels. Après l’infor-
+
+les hôtes (les habitants et leurs
+
+“voyage” d’Itunes, quand Cultureclic
+
+matique ubiquitaire, nous aurions
+
+“secrets”) et les visiteurs. Pour l’ins-
+
+apparaît dans la catégorie “ensei-
+
+l’information ubiquitaire, dans sa
+
+tant, ces circuits innovants n’ont pas
+
+gnement”. La réalité augmentée doit
+
+vision totale. Ce n’est pas sans poser
+
+(3)
+
+DÉCEMBRE 2014 • MONDES DU TOURISME N°10
+
+65
+
+JOHAN VINCENT
+
+66
+
+quelques défis, telles l’absence de
+
+spécialistes du tourisme, alors qu’il
+
+Guidéapolis dénombre 130 appli-
+
+gêne du regard ou l’exploration des
+
+est occasionnel pour les géants du
+
+cations pour Iphone et 7 applications
+
+lieux sans surcharge mentale, comme
+
+net (Idate et Kanopée, 2011, p. 98).
+
+pour Ipad. Le retour de satisfaction
+
+le relèvent Nehla Ghouaiel, Jean-
+
+Pour les acteurs institutionnels du
+
+des touristes paraît correct. Le guide
+
+Marc Cieutat et Jean-Pierre Jessel
+
+tourisme, l’application permet la
+
+touristique Mobil’iti de la Vallée de
+
+(2011). De plus, jusque dans quel
+
+création d’une attraction spécifique,
+
+Clisson, inaugurée en juillet 2009
+
+degré de réalité ou d’irréel le touriste
+
+tout en conservant une maîtrise forte,
+
+sur Iphone, téléchargé par un peu
+
+veut-il se mouvoir ? La réalité aug-
+
+et d’ailleurs bien souvent totale, des
+
+plus de 5 000 personnes en six mois,
+
+mentée ne doit pas se confondre
+
+contenus. Certaines structures sont
+
+a globalement satisfait le public, qui
+
+avec la réalité virtuelle. Pour l’instant,
+
+d’ailleurs explicitement éditrices de
+
+l’a perçu comme une innovation
+
+la distinction entre les deux univers
+
+leur application. Le comité régional
+
+enrichissant la visite effectuée à son
+
+: exister dans le monde réel pour la
+
+du tourisme du Limousin lance ainsi
+
+rythme (Arbey et al., 2010, pp. 42-46).
+
+première, exister dans un monde
+
+son application Tèrra Aventura, pro-
+
+L’application n’est pas nécessai-
+
+autre que celui où le corps se trouve
+
+posant près d’une centaine d’aven-
+
+rement l’étape la plus complexe à
+
+pour la seconde (Cieutat, 2013, pp. 11-
+
+tures, des décryptages d’énigmes
+
+réaliser pour une structure touris-
+
+12), n’est pas clairement établie dans
+
+et un univers numérique peuplé
+
+tique. Les auteurs du mémoire sur
+
+les produits créatifs touristiques. Le
+
+de Poï’z et de BadPoï’z, qui fonc-
+
+la stratégie future de l’office de tou-
+
+processus créatif en matière de réalité
+
+tionne après inscription. L’agence
+
+risme Médoc-Océan rappellent que
+
+augmentée, du fait de sa complexité,
+
+de développement et de réservation
+
+le plus difficile, c’est inciter le visiteur
+
+restera durablement aux mains des
+
+touristique de l’Aisne a lancé Saint-
+
+à télécharger l’application (Arbey et
+
+professionnels.
+
+Quentin Tourisme, Laon Tourisme
+
+al., 2010, p. 42). Ensuite, la structure
+
+et Soissons Tourisme. Le comité
+
+touristique peut engager avec le
+
+Un tourisme de participation :
+
+départemental du Tarn propose deux
+
+mobinaute une relation plus proche,
+
+applications smartphone
+
+applications : l’une sur les circuits
+
+grâce à une actualisation automa-
+
+L’application smartphone limite
+
+touristiques, l’autre sur un jeu d’en-
+
+tique. Elle peut également l’avertir
+
+l’information à son objet. La plupart
+
+quête interactif sous forme de quiz,
+
+d’une nouveauté ou d’un évènement
+
+des guides touristiques (Routard,
+
+à chaque fois sur le Tarn.
+
+par des notifications dites en mode
+
+Gallimard, Hachette, Petit Futé,
+
+Les premières applications pour
+
+push, qui sont des messages d’alerte
+
+Lonely Planet, Michelin…) ont une
+
+les organismes locaux d’information
+
+prenant la forme d’un petit message
+
+présence par des sites ou applica-
+
+et de promotion datent de 2010. Un
+
+en haut de l’écran d’accueil du télé-
+
+tions mobiles, qui ne couvrent
+
+recensement effectué mi-2011 fait
+
+phone. La communication de masse
+
+cependant pas l’ensemble de leurs
+
+état de 180 applications pour smart-
+
+n’est toutefois pas sans risque, en
+
+collections. Il s’agit souvent, pour
+
+phones et 65 sites web mobiles, dont
+
+particulier celui d’importuner son
+
+ces
+
+29 ont été développés conjointement
+
+interlocuteur, ce qui implique une
+
+“vitrines” aiguillant vers un service
+
+avec les applications. Cet inventaire
+
+réflexion dans la mise en place d’une
+
+payant. Les comparateurs et sites
+
+est loin d’être exhaustif concernant
+
+telle stratégie. Cette interrogation
+
+d’avis spécialisés sur le tourisme
+
+ces derniers, car il n’existe pas d’an-
+
+est révélatrice du problème du posi-
+
+sont en revanche peu présents sur
+
+nuaires de sites mobiles (Idate et
+
+tionnement des applications : alors
+
+ces médias, si l’on excepte les majors
+
+Kanopée, 2011, p. 110). Lors de son
+
+qu’elles pourraient être un lieu de
+
+tels que TripAdvisor, Holidaycheck,
+
+étude du marché des applications
+
+création collective, entre les institu-
+
+Easyvoyage ou Jetcost. Le dévelop-
+
+des offices de tourisme en 2012, limi-
+
+tionnels et les visiteurs, elles tendent
+
+pement de sites internet mobiles
+
+tée aux produits disponibles sur la
+
+pour l’instant à se substituer aux
+
+optimisés est systématique chez les
+
+plate-forme d’applications d’Apple,
+
+objectifs d’un site internet mobile,
+
+éditeurs,
+
+d’applications
+
+MONDES DU TOURISME N° 10 • DÉCEMBRE 2014
+
+DOSSIER • TOURISME CRÉATIF
+
+où la communication est essentiel-
+
+d’initiative de Villedieu-les-Poêles
+
+5 mètres. Deux sociétés françaises
+
+lement verticale.
+
+loue ainsi des GPS depuis 2012 : il
+
+sont d’ailleurs citées comme des
+
+propose aux touristes la visite de
+
+entreprises en pointe en la matière
+
+lieux insolites après la résolution
+
+(Insiteo et Pole Star). Depuis février
+
+d’une énigme. Deux temps forts au
+
+2012, ces systèmes fonctionnent
+
+printemps (geocaching jeune public
+
+dans les centres commerciaux La
+
+Les nouvelles technologies de la
+
+“Mais où se cache Clochette” et ral-
+
+Maquinista à Barcelone et Les
+
+mobilité n’interviennent pas sur des
+
+lye GPS expert) ont été proposés
+
+Quatre Temps à la Défense, unique-
+
+populations sans savoir-faire. Elles
+
+afin d’éveiller la curiosité du public.
+
+ment sur les téléphones Android car
+
+répondent à certaines de leurs
+
+D’autres territoires créent des appli-
+
+la société Apple n’ouvre pas, actuel-
+
+attentes ou accompagnent des évo-
+
+cations smartphone ad hoc pour
+
+lement, sa puce aux développeurs.
+
+lutions sociales touristiques.
+
+renouveler l’intérêt des populations
+
+Insiteo souhaite combiner wi-fi et
+
+NOUVELLES TECHNOLOGIES,
+NOUVEAUX TOURISTES ?
+
+pour le territoire, en lui permettant
+
+signaux GPS pour atteindre une pré-
+
+La géolocalisation potentielle-
+
+de le redécouvrir sous un autre angle,
+
+cision d’un mètre (Amiot, 2012).
+
+ment partout
+
+plus ou moins fictionnel. Grâce à
+
+Cette technologie implique un inves-
+
+L’un des atouts des technologies
+
+l’application “Portées disparues”,
+
+tissement dans un équipement sup-
+
+de la mobilité repose évidemment
+
+l’office de tourisme de Poitiers pro-
+
+plémentaire, là où l’utilisation du
+
+sur la géolocalisation. Elle permet
+
+pose ainsi de partir à la recherche
+
+signal satellitaire s’apparente plutôt
+
+un renseignement immédiat du tou-
+
+de personnages féminins disparus à
+
+à la position du passager clandestin.
+
+riste, sans qu’il ait à annoncer sa
+
+Poitiers au cours des siècles.
+
+Néanmoins, les plus grosses struc-
+
+position. Ce gain de temps peut être
+
+Employée de cette manière, la tech-
+
+tures trouveront intérêt à s’équiper,
+
+consacré à d’autres occupations,
+
+nologie est le nouveau relais de crois-
+
+surtout si elles parviennent à fédérer
+
+trouvées dans une application smart-
+
+sance touristique, après les chemins
+
+plusieurs usages autour de cette pos-
+
+phone ou sur un site internet. La
+
+de randonnée des années 1990 et
+
+sibilité : usage marchand (promo-
+
+technologie doit permettre de com-
+
+les pistes cyclables des années 2000.
+
+tions), usage pratique ou informatif
+
+battre un mal que l’on connaît sou-
+
+Grâce à une diffusion plus large
+
+(contenus des audio- et vidéo-guides
+
+vent dans les files d’attente des parcs
+
+des technologies mobiles, la distinc-
+
+en cloud), usage ludique (geoca-
+
+d’attraction et des musées, que les
+
+tion entre espace de plein air et
+
+ching), sans surcoûts pour les popu-
+
+professionnels, quand ils le font, ten-
+
+espace fermé tend à s’estomper. Le
+
+lations étrangères si c’est le wi-fi qui
+
+tent de combattre pour l’instant en
+
+touriste comme cible est dorénavant
+
+est exploité. Le m-tourisme peut ren-
+
+adoptant un affichage mural infor-
+
+atteignable presque partout, à l’ex-
+
+forcer les collaborations entre des
+
+matif complémentaire à l’attraction.
+
+ception des zones blanches du réseau
+
+acteurs aux objectifs différents.
+
+La contrepartie de cette facilité, c’est
+
+téléphonique. En effet, la géoloca-
+
+l’impatience du touriste face à des
+
+lisation n’a été longtemps possible
+
+moments d’attente qu’il ne peut
+
+que dans les espaces où le smart-
+
+À partir des années 1990, d’autres
+
+occuper ou un sentiment de fasti-
+
+phone pouvait recevoir le signal
+
+agents que les acteurs institutionnels
+
+diosité quand il doit remplir un docu-
+
+satellitaire : les murs épais stoppent
+
+commencent à être reconnus comme
+
+ment pour accéder à des données.
+
+ce signal. La technologie permet
+
+interlocuteurs officiels par les tou-
+
+La géolocalisation s’inscrit également
+
+dorénavant une géolocalisation dans
+
+ristes, au-delà de la communication
+
+dans une perspective originale de
+
+les bâtiments, à partir d’un réseau
+
+informelle que le visiteur peut obtenir
+
+découverte : le geocaching, dont le
+
+de bornes wi-fi disposées tous les
+
+de ses hôtes ou des autres visiteurs.
+
+but est de rechercher un objet ou
+
+20 à 30 mètres. La précision de la
+
+Cette évolution se traduit, par
+
+un lieu sur un territoire. Le syndicat
+
+position de l’utilisateur est de 3 à
+
+exemple, par le phénomène des gree-
+
+L’indépendance des pratiques
+
+DÉCEMBRE 2014 • MONDES DU TOURISME N°10
+
+67
+
+JOHAN VINCENT
+
+ters. Signifiant en anglais “hôtes”
+
+le cheminement des visiteurs dans
+
+produits tiers de la part des touristes
+
+ou “comité d’accueil”, les greeters
+
+les musées, qui peuvent les parcourir
+
+paraît encore trop balbutiante pour
+
+sont présentés comme des clés
+
+de façon totalement autonome
+
+s’y épanouir. Lors d’une discussion
+
+ouvrant chacune une porte donnant
+
+(Deshayes, 2002, pp. 25-26). Ils sont
+
+impromptue avec Didier Simon,
+
+sur un aspect différent du territoire.
+
+perçus comme une alternative à la
+
+directeur de l’office de tourisme de
+
+Ils se développent dans le monde à
+
+visite guidée, parfois vécue comme
+
+la baie de Saint-Brieuc, celui-ci révèle
+
+l’échelle des villes. Lynn Brooks, à
+
+disqualifiante car positionnant le
+
+que le public interagit peu. Le touriste
+
+l’initiative du mouvement en 1992,
+
+visiteur dans une logique d’assisté.
+
+créatif n’est pas la figure principale
+
+constatant que New York intimidait
+
+À l’usage, c’est le rapport à l’espace
+
+du touriste pour l’instant.
+
+les gens, a imaginé une forme d’ac-
+
+qui induit un parcours de visite. Les
+
+cueil touristique basée sur la ren-
+
+outils technologiques sont promus
+
+L’assimilation des informations
+
+contre avec des habitants, pour per-
+
+comme une manière d’accéder à cette
+
+et leur réutilisation
+
+mettre aux visiteurs de comprendre
+
+indépendance, même si, dans les
+
+En théorie, les populations tou-
+
+la ville et ses occupants. Le mouve-
+
+faits, elle est limitée. La transposition
+
+ristiques sont appelées à s’approprier
+
+ment est en forte progression : en
+
+sans adaptation, dans les premières
+
+les outils de cette indépendance.
+
+octobre 2010, 27 greeters sont recen-
+
+applications, du contenu de guides
+
+L’analyse des comportements tou-
+
+sés dans le monde, dont 9 en France ;
+
+papier ou de sites internet a été un
+
+ristiques des digital natives, ceux qui
+
+en septembre 2013, 52 dans le
+
+échec patent. Les éditeurs de guides
+
+sont nés avec la technologie, sera
+
+monde et 20 en France(4). En France,
+
+se sont rendu compte que la formule
+
+particulièrement intéressante à mener.
+
+ils sont gérés par des comités dépar-
+
+papier et la formule électronique
+
+Les services mobiles distribués par
+
+tementaux du tourisme, des offices
+
+sont en fait complémentaires : tant
+
+le smartphone ou la tablette sont
+
+de tourisme ou des associations loi
+
+que le wi-fi gratuit n’est pas plus
+
+pour l’instant vécus sous un aspect
+
+1901. Le tourisme devient partici-
+
+répandu, le numérique est un com-
+
+pratique : ils permettent la planifi-
+
+patif. Dans leur dossier de presse,
+
+plément de voyage en amont, pour
+
+cation du voyage et sont choisis parce
+
+les Greeters de Nantes, association
+
+la préparation (Bostnavaron, 2012).
+
+qu’ils facilitent les prises de décision
+
+regroupant une trentaine de per-
+
+Néanmoins, certains produits, essen-
+
+sans être confronté à une saturation
+
+sonnes-ressources, font témoigner
+
+tiellement des applications smart-
+
+d’informations. Leurs usages n’ont
+
+Hervé, 38 ans : “C’est comme si on
+
+phone, sont déjà partiellement mode-
+
+pas provoqué encore de rupture par
+
+faisait la visite avec un copain que
+
+lables. Ils encouragent la participa-
+
+rapport aux pratiques habituelles
+
+l’on n’a pas vu depuis un moment.
+
+tion du public, via les réseaux
+
+du touriste. Or le mélange des moti-
+
+C’est une belle aventure humaine à
+
+sociaux ou, plus timidement, en
+
+vations dans la découverte des des-
+
+vivre .” Les visites sont proposées
+
+modifiant des aspects de l’outil. Des
+
+tinations est une caractéristique forte
+
+sur mesure, même s’il se dégage des
+
+guides touristiques dématérialisés,
+
+chez la génération Y (Pendergast,
+
+thématiques, pour découvrir les
+
+comme, dans ses dernières versions,
+
+2010, p. 13-14). Pour s’en convaincre,
+
+(5)
+
+68
+
+adresses typiques ou atypiques, les
+
+l’application Mobitour développée
+
+il suffit de prendre conscience du
+
+trésors cachés, les rendez-vous, les
+
+par l’entreprise Phonlabs, proposent
+
+succès des visas vacances-travail dans
+
+petites habitudes et les grandes his-
+
+de donner son avis sur les sites visités,
+
+plusieurs pays, comme l’Australie
+
+toires de la région. C’est une autre
+
+de prendre des photos destinées à
+
+ou le Canada. Le touriste n’est donc
+
+forme du tourisme de l’entre-soi.
+
+compléter ou à remplacer les pre-
+
+plus aujourd’hui systématiquement
+
+Sans que cela soit une règle intan-
+
+miers visuels, après vérification. Ces
+
+seulement un touriste. La personna-
+
+gible, les touristes prennent donc
+
+fonctions, rares pour l’instant, sont
+
+lisation du service, progressivement
+
+progressivement l’habitude de gérer
+
+loin d’être la norme. Et, de toute
+
+proposée, est particulièrement appré-
+
+leur visite. Les audioguides ont libéré
+
+façon, la culture de création sur des
+
+ciée. Wang, Park et Fesenmaier (2011,
+
+MONDES DU TOURISME N° 10 • DÉCEMBRE 2014
+
+DOSSIER • TOURISME CRÉATIF
+
+p. 9) qualifient les applications per-
+
+pierre angulaire d’un musée, donne
+
+sition des produits. En prenant le
+
+sonnalisables de “perfect concierge”
+
+à la journée une forme événemen-
+
+cas de l’île Maurice, Julie Peghini
+
+(“concierge parfait”). Après la mise
+
+tielle. Pour Claude Origet du Cluzeau
+
+(2012, p. 239) se soucie de constater
+
+à disposition de l’information, encou-
+
+et Patrick Vicériat (2009, p. 155),
+
+que les acteurs du développement
+
+ragée par internet, débute donc la
+
+“par leur caractère éphémère, [ces
+
+touristique sont étrangers au monde
+
+domestication de cette information.
+
+types d’évènement] parviennent sou-
+
+de la culture et elle pense que les
+
+C’est une réflexion appliquée depuis
+
+vent à suivre, précéder et, apparem-
+
+profits engendrés ne sont pas réin-
+
+le printemps 2012 par plusieurs
+
+ment, orchestrer la frénésie de chan-
+
+jectés au bénéfice des industries créa-
+
+moteurs de recherche pour internet.
+
+gement et la demande de convivialité
+
+tives. Pour le moment, en Europe,
+
+Dorénavant, l’information doit être
+
+du public”. Là où la participation
+
+la technologie est surtout considérée
+
+directement utile à l’usager, qui ne
+
+reste le fait d’initiés, l’utilisation des
+
+localement comme un mode de
+
+doit pas avoir à la chercher et à la
+
+nouvelles technologies peut rompre
+
+déchargement de tâches pour le per-
+
+manipuler. Le choix de l’application
+
+les barrières – même si elles peuvent
+
+sonnel : elle met à disposition du
+
+a plus d’importance pour le mobi-
+
+aussi apparaître comme des barrières.
+
+client de l’information brute, pour
+
+naute que la portée quantitative du
+
+D’un autre côté, la nouveauté des
+
+laquelle l’agent d’accueil n’apporte
+
+marché d’applications lui-même,
+
+comportements créatifs permet de
+
+pas de réelle plus-value. Dans ce cas,
+
+quand celui-ci a atteint une taille cri-
+
+comprendre la prudence des acteurs
+
+l’agent est un intermédiaire remplacé
+
+tique.
+
+institutionnels en la matière. Sans y
+
+par des écrans (que, de toute façon,
+
+Cette évolution implique une
+
+être hostiles, les structures touris-
+
+il lit au client quand celui-ci vient
+
+appropriation anticipée de l’intérêt
+
+tiques optent pour une position
+
+le voir). Il peut dès lors se consacrer
+
+touristique : le touriste ne doit plus
+
+ambivalente face à ces innovations
+
+plus longuement à son rôle de conseil
+
+seulement être informé, il doit être
+
+sociales aux conséquences multiples.
+
+et aider les visiteurs à trouver le pro-
+
+mis en situation, un peu comme un
+acteur qui lit une pièce théâtrale ou
+
+duit qu’ils désirent. Il est invité à
+
+UNE CRÉATIVITÉ EXACERBÉE ?
+
+un scénario cinématographique. Il
+
+réinventer son métier, en acquérant
+une nouvelle dimension du territoire
+
+doit pouvoir dépasser le stade de
+
+L’ensemble des acteurs du secteur
+
+en développement, qui s’ajoute aux
+
+l’observateur, dans lequel il est géné-
+
+touristique a un rôle à jouer pour
+
+précédents atouts. Le monde du tou-
+
+ralement cantonné, par le biais des
+
+encourager et bonifier le tourisme
+
+risme ne peut toutefois se poser uni-
+
+commentaires comme seul mode
+
+créatif, car la technologie seule ne
+
+quement comme facilitateur de cette
+
+d’expression. Les nouvelles techno-
+
+suffit pas.
+
+révolution, au risque de voir – Jean
+
+logies ont donc aussi pour objectif
+
+Mochon le rappelle – sa légitimité
+Le renouvellement
+
+remise en cause. L’ensemble du ter-
+
+n’empêche pas que d’autres touristes
+
+de la confiance
+
+ritoire doit donc être rendu réceptif
+
+restent spectateurs de ces manifes-
+
+Créer ne suffit pas. Il faut accom-
+
+aux nouveautés et à l’innovation
+
+de permettre la projection. Cela
+
+tations : ils sont touristes de la mise
+
+pagner l’assimilation de la création,
+
+en tourisme d’un territoire. Cette
+
+pour qu’elle soit reconnue comme
+
+Le comportement des e-consom-
+
+double présence apparaît déjà dans
+
+telle. Le conseil des professionnels
+
+mateurs est révélateur des mutations
+
+(Mochon, 2012, p. 18).
+
+les reconstitutions grandeur nature
+
+du tourisme est une pierre angulaire
+
+actuelles. En Chine, se défiant des
+
+où, au cours d’une ou plusieurs jour-
+
+sur laquelle repose l’essor de l’acti-
+
+vendeurs et des publicités, ils s’ap-
+
+nées, certains jouent une vie quoti-
+
+vité. Les produits créatifs ne peuvent
+
+puient sur la recommandation des
+
+dienne médiévale ou la reconstitution
+
+pas durablement s’épanouir s’ils ne
+
+amis, devant les moteurs de
+
+de batailles. La rencontre de per-
+
+sont pas enracinés. La créativité doit
+
+recherche, le push mail et les com-
+
+sonnages charismatiques, devenus
+
+donc aussi infuser la mise à dispo-
+
+parateurs. 90 % des pratiquants
+JUIN 2014 • MONDES DU TOURISME N°9
+
+69
+
+JOHAN VINCENT
+
+70
+
+assidus s’informent sur les marques
+
+ne se distingue pas suffisamment.
+
+dardisation que Greg Richards (2010,
+
+via les réseaux sociaux ; 10 %
+
+Le produit gratuit a l’avantage d’un
+
+p. 11) regrette d’ailleurs chez un tou-
+
+(contre 5 % en France, selon l’étude
+
+coût nul pour lui (à l’extrême, son
+
+risme culturel victime de son succès,
+
+de PricewaterhouseCoopers réalisée
+
+téléchargement consomme du data)
+
+d’où l’importance d’une bonne coor-
+
+par sondage en 2011) déclarent avoir
+
+mais le contenu est de qualité
+
+dination des initiatives.
+
+acheté via ces mêmes réseaux.
+
+variable. Avant de lancer l’applica-
+
+Claude Vincent (2012) explique aussi
+
+tion, le touriste ne sait pas sur quoi
+
+ce phénomène par la faiblesse de la
+
+il va tomber. L’absence de coût
+
+structuration des réseaux commer-
+
+monétaire va être compensée par du
+
+Les réseaux sociaux connaissent
+
+ciaux, beaucoup plus éclatés qu’en
+
+temps consacré au jugement. La
+
+actuellement une rationalisation de
+
+Europe. Les structures françaises
+
+marque – à l’instar des éditions
+
+leur usage. De nouveaux acteurs
+
+disposent donc d’un atout essentiel
+
+papier des guides – rassure, mais
+
+encouragent la conciliation des mul-
+
+pour porter la valeur touristique de
+
+l’application n’est pas gratuite. La
+
+tiples canaux, afin de réduire une
+
+leur territoire. La valorisation du
+
+marque pure player (modèle gratuit
+
+occupation chronophage suite à l’ex-
+
+capital “confiance historique” repré-
+
+ou payant) convient à celui qui aura
+
+plosion de leur popularité. Une
+
+sente pour les enseignes de distribu-
+
+téléchargé une première application
+
+réflexion de ce type est également
+
+tion, voire les fabricants de marque,
+
+de ce type et n’en aura pas été déçu.
+
+nécessaire pour les produits touris-
+
+un enjeu fort pour progresser face
+
+Pour pallier ces difficultés, la ville
+
+tiques. Il n’existe pour l’instant
+
+aux pure players, car la distribution
+
+de Paris a adoubé en juin 2011 une
+
+aucune réelle organisation de l’offre
+
+en ligne n’a pas, à quelques excep-
+
+plate-forme web : les applications
+
+dans le m-tourisme. À l’instar des
+
+tions et pour l’instant, cassé les fron-
+
+sont critiquées par la rédaction de
+
+agences de voyage ou des agences
+
+tières (PricewaterhouseCoopers,
+
+Paris.fr et un jury doit attribuer un
+
+hôtelières en ligne, une réflexion sur
+
+Une offre en réseau ?
+
+2011). Les seuls produits aisément
+
+label aux meilleures d’entre elles.
+
+un (ou plusieurs) hub numérique
+
+étiquetés sont issus de la continuité
+
+L’initiative porte surtout sur les appli-
+
+doit être engagée, permettant d’agré-
+
+du e-tourisme : site internet visible
+
+cations Iphone (118 testées en février
+
+ger l’offre globale des acteurs tou-
+
+depuis son smartphone, codes barres
+
+2011), et débute pour les applications
+
+ristiques, disponible depuis son
+
+bidimensionnels estampillés sur la
+
+Android (21), Blackberry (10) et
+
+smartphone (applications mais aussi
+
+communication ou sur des monu-
+
+Symbian (10). Alors qu’une desti-
+
+Web-applications, sites internet…).
+
+ments. Le nombre d’applications
+
+nation comme Paris a moins de
+
+La créativité passe donc aussi par
+
+n’est limité que par les magasins
+
+chances de décourager l’impétrant
+
+un réseau, qui peut n’être qu’un
+
+Android, Apple, Blackberry ou
+
+de trouver une application intéres-
+
+simple référencement mais qui doit
+
+Windows, qui ont tout intérêt à
+
+sante, ailleurs la nécessité d’organiser
+
+surtout donner envie de découvrir.
+
+montrer une taille critique imposante.
+
+l’intérêt s’est fait sentir. Le décou-
+
+À l’instar de l’accueil local, un renou-
+
+Cette frénésie ne doit pas conduire
+
+ragement sera plus rapide pour
+
+vellement du mode de proposition
+
+à la boulimie. Parmi la centaine de
+
+d’autres sites, même si le nombre
+
+d’outils numériques, jusqu’alors
+
+milliers d’applications disponibles,
+
+d’applications a tendance à décroître
+
+essentiellement chaotique et caco-
+
+et malgré l’existence du moteur de
+
+avec la moindre affluence touristique.
+
+phonique, est indispensable. Pour
+
+recherche, retrouver une application
+
+Le tourisme créatif a vocation à être
+
+l’instant, afin de pallier le manque,
+
+peut s’avérer une gageure. Paris et
+
+agréable à vivre, en permettant l’épa-
+
+les acteurs les plus actifs, exploitant
+
+sa région compte ainsi des milliers
+
+nouissement. Cet objectif doit être
+
+leur marque, proposent une page
+
+d’applications. Confronté au choix
+
+atteint avant même de prendre en
+
+sur les réseaux sociaux. Les offices
+
+ou, plus précisément, à la multitude,
+
+main les outils technologiques, mais
+
+du tourisme sont conscients que les
+
+le visiteur est noyé par l’offre, qui
+
+sans tomber dans un excès de stan-
+
+stratégies digitales les plus efficaces
+
+MONDES DU TOURISME N° 10 • DÉCEMBRE 2014
+
+DOSSIER • TOURISME CRÉATIF
+
+passent par une page Facebook
+
+usagers continuent à les utiliser un
+
+part du payant dans les télécharge-
+
+(96 %), un compte Twitter (89 %),
+
+mois après l’installation (Quignon,
+
+ments effectués sur Iphone représente
+
+l’e-mailing (85 %), une application
+
+2011). Wipolo, grâce à une appli-
+
+25 % et seulement 10 % pour les
+
+mobile (83 %) (Metz, 2011, p. 27), mais
+
+cation Facebook, propose d’agréger
+
+possesseurs d’Ipod Touch (Arbey et
+
+ces outils doivent être associés et s’ins-
+
+les informations collectées par le
+
+al., 2010, p. 42). Selon le Journal du
+
+crire dans une stratégie globale. Les
+
+voyageur pour qu’il puisse partager
+
+Geek du 30 septembre 2013, seu-
+
+rôles respectifs du ministère chargé du
+
+son aventure avec ses amis. Pour le
+
+lement 2 % des applications Iphone
+
+Tourisme, du Conseil national du tou-
+
+fondateur de cette entreprise, faire
+
+payantes portent sur le voyage(7). Le
+
+risme, des comités régionaux et dépar-
+
+connaître son voyage entraîne une
+
+financement de l’innovation risque
+
+tementaux du tourisme sont sans doute
+
+émulation collective à voyager. Des
+
+donc de se produire par l’intermé-
+
+à distribuer rapidement en la matière.
+
+applications pour smartphones,
+
+diaire des crédits territoriaux. Marc
+
+Les auteurs du rapport sur le m-tou-
+
+comme l’application Touristic’Tour,
+
+Casteignau (2012, p. 32) craint jus-
+
+risme (Idate et Kanopée, 2011, pp. 114-
+
+cherchent aussi à “inviter à partager
+
+tement que, dans ce domaine, on
+
+116) préconisent la création d’un
+
+ses points de visites favoris avec ses
+
+assiste à un écart croissant entre les
+
+minisite mobile local, formule éco-
+
+amis et sa famille ”. Néanmoins,
+
+sites principaux et les territoires
+
+nomique et adaptée, pour capter le
+
+nous abordons là un point discu-
+
+désertés par ces investissements,
+
+trafic naturel généré par les moteurs
+
+table, à rapprocher du vieux débat
+
+petites collectivités ou territoires
+
+de recherche avec les mobinautes,
+
+sur les chemins de fer inventeurs
+
+ruraux où le patrimoine et la culture
+
+une coordination avec les infomé-
+
+d’intérêt touristique : la majorité ne
+
+ne sont pas des enjeux économiques
+
+diaires (Booking.com, Hotels.com,
+
+voyage pas pour voyager, mais pour
+
+et sociaux majeurs. Pour Guidéapolis
+
+Tripadvisor…), et une anticipation
+
+aller quelque part. La destination
+
+(2012), l’année 2011 représente une
+
+sur le mobile sans contact. Selon
+
+reste pour l’instant plus importante
+
+maigre récolte de nouveautés dans
+
+eux, d’ici quelques années, une
+
+que le mode de transport. Mais les
+
+les fonctionnalités, du fait des bud-
+
+dizaine d’applications téléchargées
+
+acteurs doivent être conscients d’une
+
+gets mobile plus serrés, notamment
+
+à des millions d’exemplaires serviront
+
+chose : la technologie ne remplace
+
+quand deux applications (Iphone et
+
+de référence à la quasi-totalité des
+
+pas la destination, elle la sublime,
+
+Android) sont à développer : cela
+
+touristes mobinautes ; les offices de
+
+un point sur lequel le tourisme créatif
+
+se traduit par une exigence moindre.
+
+tourisme et autres organismes ins-
+
+a beaucoup à apporter. Le m-tou-
+
+Lorsque le marché public a été passé
+
+titutionnels sont donc, qu’ils le
+
+risme est sans doute pour l’instant
+
+par le syndicat intercommunal, en
+
+veuillent ou non, partie prenante
+
+trop récent pour que l’on en com-
+
+2010, pour l’application du Bassin
+
+d’un jeu concurrentiel avec les info-
+
+prenne réellement les impacts, et
+
+d’Arcachon, les documents spéci-
+
+médiaires dont l’enjeu est la captation
+
+c’est pourquoi les auteurs du rapport
+
+fiaient que les propositions attendues
+
+d’audience à partir de la diffusion
+
+sur le m-tourisme (Idate et Kanopée,
+
+devaient justifier une dépense proche
+
+gratuite d’informations.
+
+2011, p. 119) préconisent de réfléchir
+
+de 20 000 euros, une somme que
+
+(6)
+
+L’attrait touristique peut aussi
+
+d’abord sur le tourisme dans sa glo-
+
+toutes les structures ne peuvent pas
+
+être renouvelé par de nouvelles
+
+balité plutôt que sur le “mobinaute”
+
+consacrer à de tels outils. Un projet
+
+façons de présenter le tourisme, et
+
+ou, selon l’univers du marketing
+
+de création et d’installation de borne
+
+non plus seulement la destination.
+
+(Metz, 2011, p. 3), “touristonaute”.
+
+interactive de visualisation en réalité
+augmentée Ray-On (dispositif équipé
+
+Actuellement, les applications sont
+surtout d’un abord jetable : elles se
+
+Quelles limites à la créativité ?
+
+d’un écran et d’une caméra permet-
+
+limitent à leur côté pratique. La
+
+En règle générale, les propriétaires
+
+tant de visionner un décor réel dans
+
+société américaine Flurry constate
+
+de smartphones n’achètent jamais
+
+lequel ont été implantés un ou plu-
+
+en 2011 que seulement 15 % des
+
+d’applications, ou très rarement. La
+
+sieurs modèles numériques), déve-
+
+DÉCEMBRE 2014 • MONDES DU TOURISME N°10
+
+71
+
+JOHAN VINCENT
+
+72
+
+loppée par la société On-situ, se
+
+naute inclut dans sa question, ce qui
+
+par QR codes pourraient permettre
+
+serait élevé aux alentours de 60 000
+
+permet à la destination de visualiser
+
+le visionnage, après vérification, de
+
+euros en 2012 (Eck, 2012, p. 5).
+
+tous les tweets la concernant et d’y
+
+vidéos réalisées par les habitants ou
+
+Certains investissements sont clai-
+
+répondre dès que possible (Arbey et
+
+les touristes eux-mêmes ; et les appli-
+
+rement réservés aux très grandes
+
+al., 2010, Pp. 48-50). Il existe deux
+
+cations pour smartphone pourraient
+
+structures : le coût du projet du par-
+
+comptes Twitter pour Travel
+
+grossir grâce à la multitude d’infor-
+
+cours pédestre en réalité augmentée
+
+Portland : le compte Travel Portland
+
+mations glanées par les curieux. Ces
+
+“Imayana” s’est élevé à 3,8 millions
+
+(@TravelPortland), pour des infor-
+
+enjeux risquent de bousculer bien
+
+d’euros (Plantier et Barbier, 2013,
+
+mations génériques et des renseigne-
+
+des structures touristiques, mais aussi
+
+p. 35). Pour rentabiliser de telles opé-
+
+ments, est actif (6 995 tweets et 39
+
+les professionnels du secteur.
+
+rations, il faut absolument trouver
+
+598 abonnés, le 5 octobre 2013),
+
+une interopérabilité.
+
+tandis que le compte de Travel
+
+CONCLUSION
+
+Or, ce qui apporte le plus d’in-
+
+Portland PR (@PRinPDX), ouvert
+
+Plusieurs freins conditionnent
+
+novations dans le tourisme, c’est
+
+le 3 septembre 2009 et plus axé sur
+
+l’appropriation des nouvelles tech-
+
+souvent l’action collaborative entre
+
+des histoires autour de Portland,
+
+nologies par les agents touristiques
+
+employés, consommateurs, organi-
+
+fonctionne modestement (271 tweets
+
+et, en partie, par les touristes : le
+
+sations, et non une réduction à des
+
+et 352 abonnés, le 5 octobre 2013),
+
+contrôle de l’image reste la préro-
+
+actes individuels (Huijbens et al., 2009).
+
+avec une mise en sommeil entre juillet
+
+gative des structures, qui craignent,
+
+Les structures touristiques peuvent
+
+2010 et avril 2012. Depuis, l’entre-
+
+telles des tâches indélébiles, les débor-
+
+ainsi détourner des outils technolo-
+
+prise GoSeeTell Network Inc., à l’ori-
+
+dements à ce sujet ; les investisse-
+
+giques existants pour leur propre
+
+gine avec Travel Portland du premier
+
+ments restent lourds car il ne suffit
+
+usage. De part son instantanéité et
+
+centre, a créé le site Twisitor Center
+
+pas de s’équiper, il faut aussi pro-
+
+la clarté possible de l’information
+
+[www.twisitorcenter.com], recensant
+
+mouvoir et accompagner ; consé-
+
+délivrée, Twitter représente un moyen
+
+toutes les structures touristiques dans
+
+quence d’une innovation récente,
+
+d’information intéressant pour le
+
+le monde ayant un compte Twitter,
+
+les retombées effectives demeurent
+
+touriste qui, une fois sur place, sou-
+
+soit 860 comptes le 5 octobre 2013.
+
+mal connues. Finalement, que ce
+
+haiterait savoir où manger, que faire
+
+Pour faire vivre la communauté,
+
+soit en matière de technologie ou
+
+le soir ou encore où pratiquer telle
+
+répondre promptement à toute ques-
+
+de tourisme créatif, les mêmes
+
+activité sportive. L’outil devient d’au-
+
+tion, relayer les idées, il importe
+
+craintes subsistent. Dans ces condi-
+
+tant plus pertinent lorsque la desti-
+
+néanmoins qu’une personne s’y
+
+tions, le tourisme créatif risque de
+
+nation crée une communauté de fol-
+
+consacre spécifiquement. En suivant
+
+peiner à s’épanouir dans les nouvelles
+
+lowers qui peuvent eux aussi
+
+cette stratégie, les structures touris-
+
+technologies. Greg Richards (2010,
+
+répondre aux questions des visiteurs,
+
+tiques doivent se comporter, en par-
+
+p. 15) est d’ailleurs bien conscient
+
+se substituant ainsi à l’office de tou-
+
+tie, comme des entreprises de gestion
+
+du manque de recul concernant les
+
+risme, par exemple pendant ses
+
+de risques très réactives, mélangeant
+
+pratiques, pour lesquelles il faut
+
+heures de fermeture. L’expérience
+
+communication verticale et commu-
+
+encore déterminer les différents
+
+de Travel Portland sur Twitter a
+
+nication horizontale. Il faut choyer
+
+modèles de développement selon les
+
+débuté au cours de l’année 2009.
+
+le touriste, non pas comme un être
+
+caractéristiques de la destination et
+
+Un “twisitor centre” (expression
+
+sans responsabilité mais comme une
+
+des co-créations entre agents tou-
+
+venant de la contraction de visitor
+
+personne au potentiel à affirmer
+
+ristiques et consommateurs. Le rap-
+
+centre et de twitter) a été conçu : la
+
+(Richards, 2011, p. 1243 ; Gravari-Barbas,
+
+port Nogué (2013, pp. 27-28) pro-
+
+destination définit un hashtag, en
+
+2013, pp. 74-76). Les circuits d’inter-
+
+meut un marketing territorial plus
+
+l’occurrence #inPDX, que le mobi-
+
+prétation patrimoniaux fonctionnant
+
+développé, des contrats de destina-
+
+MONDES DU TOURISME N° 10 • DÉCEMBRE 2014
+
+DOSSIER • TOURISME CRÉATIF
+
+tion pour fédérer les structures et
+
+précise que j’ai été chargé de mission lors
+
+les-applications-payantes-de-lapp-store].
+
+une ingénierie touristique à organiser
+
+de cette opération.
+
+Les informations de cet article proviennent
+
+sous l’égide d’Atout France.
+
+(4) [www.globalgreeternetwork.info].
+
+de l’article d’Eric Monti, “Million dollar
+
+Actuellement, comme le pensent
+
+(5) Consultation du dossier de presse sur
+
+expense: buying out the App Store”
+
+certains observateurs du secteur, tel
+
+le site des greeters de Nantes [www.gree-
+
+[http://gigaom.com/2013/09/29/million-dol-
+
+Guidéapolis (2012), la production
+
+ters-nantes.com/presse.pdf]
+
+lar-expense-buying-out-the-app-store], paru
+
+technologique touristique entre dans
+
+(6) Dépliant promotionnel de l’application
+
+le 29 septembre 2013. Je remercie le jour-
+
+une phase de maturité. Le secteur
+
+Touristic’Tour, 2012. Je précise que j’ai été
+
+naliste Gregori Pujol pour cette précision.
+
+se trouve à la croisée des chemins :
+
+consulté pour l’architecture de cette appli-
+
+(8) L’équipe de rédaction d’Espaces tou-
+
+continue-t-il d’être majoritairement
+
+cation par la société Mobile
+
+risme et loisirs, “Open data et tourisme”,
+
+soutenu par la puissance publique,
+
+Développement.
+
+note de synthèse, août 2013 ; Sabine Blanc,
+
+en tout cas pour la France, quitte à
+
+(7) “Pour 1,13 million de dollars, offrez-
+
+“Open data et tourisme : un potentiel qui
+
+rester dans ce giron sans exploiter
+
+vous toutes les applications payantes de
+
+reste à transformer”, lagazette.fr, 23 sep-
+
+les connaissances des touristes ? ;
+
+l’App Store”
+
+tembre 2012 [www.lagazettedescommunes.
+
+cherche-t-il à agréger les contenus
+
+[www.journaldugeek.com/2013/09/30/pour
+
+com/195963/open-data-et-tourisme-un-
+
+épars développés par les visiteurs,
+
+-113-millions-de-dollars-offrez-vous-toutes-
+
+potentiel-qui-reste-a-transformer].
+
+quitte à parasiter son message et à
+mettre en danger la confiance qu’on
+lui accorde ? ; doit-il coordonner
+mission publique et création privée,
+quitte à apparaître un acteur de dossiers qui progressivement s’éloigne
+du terrain ? Le champ des possibles
+reste ouvert. Encore faut-il qu’il soit
+
+Références bibliographiques
+
+investi. Le mouvement de l’open
+data, timoré dans le secteur touris-
+
+Maxime AMIOT, “La géolocalisation veut entrer dans les centres
+
+tique, pourrait à nouveau le bous-
+
+commerciaux”, Les Échos, 21 février 2012.
+
+culer . Nouvelles technologies et
+
+Emeline ARBEY, Cécile AUSTIN, Loïc COISSIN, Charline FERAL, Carolyn
+
+tourisme créatif, parfois associés,
+
+GILLESPIE et Marie LANGUILLE, Un enjeu pour l’OT de demain : comment
+
+sont une nouvelle porte d’accès au
+
+adapter les services accueil et information aux nouvelles attentes des
+
+territoire qu’il n’est décidément pas
+
+touristes ?, mémoire de master 2, Institut d’aménagement, de tourisme
+
+facile psychologiquement de fran-
+
+et d’urbanisme-Bordeaux III, 2010.
+
+chir.
+
+François BOSTNAVARON, “Le guide touristique papier fait de la résis-
+
+(8)
+
+n
+
+tance”, Lemonde.fr, 23 juillet 2012.
+Marc CASTEIGNAU, “Nouvelles technologies, nouvelle médiation
+Notes
+
+patrimoniale”, Espaces tourisme et loisirs, no 300, février 2012.
+Jean-Marc CIEUTAT, Quelques applications de la réalité augmentée :
+
+(2) [www.barbatre.fr/tourisme/animations/b
+
+nouveaux modes de traitement de l’information et de la communica-
+
+alisages].
+
+tion. Effets sur la perception, la cognition et l’action, mémoire pour
+
+(3) Je remercie Christophe Renaudineau et
+
+l’obtention du titre d’habilitation à diriger des recherches en infor-
+
+Francky Trichet, d’Iréalité, entité coréalisa-
+
+matique, Université Toulouse III-Paul Sabatier, 2013.
+
+trice de l’opération Balis’Âges, pour l’ensemble de ces informations statistiques. Je
+
+DÉCEMBRE 2014 • MONDES DU TOURISME N°10
+
+73
+
+JOHAN VINCENT
+
+Sophie DESHAYES, “Audioguides et musées”,
+
+Julie PEGHINI, “Les industries créatives à l’île Maurice : vers un
+
+La Lettre de l’Ocim, no 79, 2002.
+
+renouvellement des initiatives publiques et privées ?”, dans Philippe
+
+Nicolas ECK, Conception et réalisation d'un prototype de borne inter-
+
+BOUQUILLION (dir.), Creative Economy, Creative Industries : des notions
+
+active destinée à la visualisation en réalité augmentée de deux
+
+à traduire, Presses universitaires de Vincennes, 2012.
+
+modèles numériques des fortifications de Nancy Renaissance, projet
+
+Donna PENDERGAST, “Getting to know the Y generation”, dans
+
+de fin d’études de 5 année à l’Insa de Strasbourg, 2012.
+
+Pierre BENCKENDORFF, Gianna MOSCARDO et Donna PENDERGAST
+
+Jessica FÈVRES-DE BIDERAN, “La réalité augmentée, une nouvelle
+
+(dir.), Tourism and Generation Y, CAB International, 2010.
+
+e
+
+vision du patrimoine”, Espaces, tourisme et loisirs, n° 314,
+
+Bruno PLANTIER et Thierry BARBIER, “‘Imayana’ fait vivre
+
+septembre-octobre 2013.
+
+Bordeaux au
+
+Nehla GHOUAIEL, Jean-Marc CIEUTAT et Jean-Pierre JESSEL,
+
+n 314, septembre-octobre 2013.
+
+siècle”, Espaces tourisme et loisirs,
+
+“MARTS : un système mobile de réalité augmentée dédié au tou-
+
+PRICEWATERHOUSECOOPERS, Web-acheteurs : comportement et moti-
+
+risme”, Mobilité et Ubiquité 2011, Actes des 7e Journées
+
+vations, France et international, rapport d’étude, décembre 2011.
+
+francophones, Ubimob’11, Toulouse, 6-8 juin, 2011.
+
+Catherine QUIGNON, “Applications smartphones – Gare à l’effet
+
+Maria GRAVARI-BARBAS, Aménager la ville par la culture et le tourisme,
+
+‘Kleenex’”, LenouvelEconomiste.fr, 23 mars 2011.
+
+coll. “Ville-Aménagement”, Le Moniteur, 2013.
+
+Greg RICHARDS, “Tourism development trajectories – from culture
+
+GUIDÉAPOLIS, “Classement des applications iPhone des offices de
+
+to creativity?”, Revista Encontros Cientificos – Tourism & Management
+
+tourisme 2012”, juin 2012 [http://www.guideapolis.com/fr/blog/clas-
+
+Studies, no 6, 2010.
+
+sement-des-applications-iphone-des-offices-de-tourisme-2012/].
+
+Greg RICHARDS, “Creativity and tourism. The state of the art”,
+
+Edward HÁKON HUIJBENS, Anne-Mette HJALANGER, PETER BJÖRK,
+
+Annals of Tourism Research, vol. 38, n° 4, 2011.
+
+Sara NORDIN et Arvid FLAGESTAD, “The role of innovations
+
+Éric SEULLIET, “Comment la technologie nous rend plus créatifs”,
+
+systems”, dans Jovo Ateljevic et Stephen J. Page (dir.),
+
+communication à la 2e conférence internationale organisée
+
+Tourism and Entrepreneurship: International Perspectives, Butterworth-
+
+par l’Adcep : Le Tourisme à l’heure du touriste créatif, Paris,
+
+Heinemann, 2009.
+
+6-7 décembre, 2012 [www.tourisme-creatif.org/?page_id=508].
+
+IDATE ET KANOPÉE, Prospective du m-tourisme,
+
+Florence TOUSSAINT, “Approche des industries créatives : origine et
+
+rapport du Pipame, novembre 2011.
+
+définition de la notion”, dans Philippe BOUQUILLION (dir.), Creative
+
+Géraldine METZ, Tourisme et réseaux sociaux, dossier technique n 5,
+
+Economy, Creative Industries : des notions à traduire, Presses universi-
+
+master 2 Gestion et droit de l’économie numérique, Université de
+
+taires de Vincennes, 2012.
+
+o
+
+74
+
+XVIIIe
+
+o
+
+Strasbourg, 2011.
+
+Jean-Didier URBAIN, L’Idiot du voyage : histoires de touristes, Payot,
+
+Jean MOCHON, “L’innovation, moteur du renouvellement de l’infor-
+
+2002 (1re éd. 1991).
+
+mation et de la médiation”, Espaces tourisme et loisirs, no 300,
+
+Jean-Didier URBAIN, Le voyage était presque parfait : essai sur les
+
+février 2012.
+
+voyages ratés, Payot, 2008.
+
+François NOGUÉ, Le Tourisme, “filière d’avenir” : développer l’emploi
+
+Claude VINCENT, “Les Chinois accros au e-shopping”, Enjeux Les
+
+dans le tourisme, rapport du ministère de l’Artisanat, du Commerce
+
+Échos, no 287, février 2012.
+
+et du Tourisme et du ministère du Travail, de l’Emploi, de la
+
+Dan WANG, Sangwon PARK et Daniel R. FESENMAIER, “An examina-
+
+Formation professionnelle et du Dialogue social, novembre 2013.
+
+tion of information services and smartphone applications”,
+
+Claude ORIGET DU CLUZEAU et PATRICK VICÉRIAT, Le Tourisme des
+
+16th Graduate Students Research Conference in Hospitality and
+
+années 2020 : des clés pour agir, La Documentation française, 2009.
+
+Tourism, UMassAmherst, 2011.
+
+MONDES DU TOURISME N° 10 • DÉCEMBRE 2014
+
+

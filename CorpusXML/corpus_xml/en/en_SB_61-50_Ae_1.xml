@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article id="en_SB_61-50_Ae_1" source="https://journals.openedition.org/tourisme/3366" lang="en">
+    <meta>
+        <extraction>2021-05-26</extraction>
+        <DOI>https://doi.org/10.4000/tourisme.3366</DOI>
+        <revue>MondesDuTourisme</revue>
+        <numero>18</numero>
+        <annee>2020</annee>
+    </meta>
+    <auteurs>
+        <auteur nom="Bates" prenom="Samuel" email="samuel.bates[at]univ-angers.fr">
+            <oeuvres>
+                <publication id="fr_SB_5-98_Fs_1" source="https://journals.openedition.org/tourisme/2248" lang="fr">Florent Cholat, Luc Gwiazdzinski, Céline Tritz et John Tuppen (dir.), Tourisme(s) et adaptation(s)</publication>
+                <publication id="fr_SB_6-117_Ot_1" source="https://journals.openedition.org/tourisme/2260" lang="fr">Olivier Dehoorne et Christelle Murat (dir.), Le tourisme en Amérique latine : enjeux et perspectives de développement</publication>
+            </oeuvres>
+            <description>
+                Professeur des universités Sciences économiques Université d’Angers (UFR ESTHUA Tourisme et culture), GRANEM 
+            </description>
+        </auteur>
+    </auteurs>
+    <titre>A Glance at Tourism Economics over the last decade</titre>
+    <resume>
+        The objective is to carry out a freeze frame of the English-written literature in tourism economics from 2008 to 2019. This period is not trivial since the two crises at both ends of the spectrum are breakpoints in the continuous growth of the tourism industry. Using a disciplinary classification of reference journals and focusing on the most influential contributions for this literature, a synoptic table of the diversity of research fields in economics identifies: the main issues; the scales of analysis; the disciplinary interactions; and the methodological progress. From there, future research perspectives are outlined for the coming decade.
+    </resume>
+    <corps>
+        <section niveau="h1">Introduction</section>
+        <paragraphe num="1">
+            <span lang="en" xml:lang="en">Tourism economics remains relatively young as an integral part of economic analysis. This status within economic research has emerged since the turn of the 1980s-1990s through three journals dedicated to tourism: </span><em><span lang="en" xml:lang="en">Tourism Management</span></em><span lang="en" xml:lang="en"> in 1982, </span><em><span lang="en" xml:lang="en">International Journal of Contemporary Hospitality Management</span></em><span lang="en" xml:lang="en"> in 1989 and </span><em><span lang="en" xml:lang="en">Tourism Economics</span></em><span lang="en" xml:lang="en"> in 1995. These contribute to the visibility of tourism issues in economic research, issues which were previously published by historical channels such as: </span><em><span lang="en" xml:lang="en">Journal of Travel Research</span></em><span lang="en" xml:lang="en"> since 1968 or </span><em><span lang="en" xml:lang="en">Annals of Tourism Research</span></em><span lang="en" xml:lang="en"> since 1973. Thereafter, interest in economics in the tourism phenomenon has been continuous.</span>
+        </paragraphe>
+        <paragraphe num="2">
+            <span lang="en" xml:lang="en">The objective here is to give an insight into the trends in contemporary research conveyed through English-language journals. The literature review goes beyond the aforementioned journals, while remaining within reference resources that are influential in economics. To do this, a freeze frame is taken over a decade of publications between the last two global upheavals (</span><em><span lang="en" xml:lang="en">i.e., </span></em><span lang="en" xml:lang="en">the subprime crisis in 2007 and the Covid-19 crisis since 2020) that have affected tourism in various ways.</span>
+        </paragraphe>
+        <paragraphe num="3">
+            <span lang="en" xml:lang="en">A synoptic picture of this research area is thus drawn up to synthesise the elements that remain consensual, to isolate the roots of the debate from an economic point of view, and to suggest some research perspectives.</span>
+        </paragraphe>
+        <section niveau="h1">Research in tourism economics between the two crises</section>
+        <paragraphe num="4">
+            <span lang="en" xml:lang="en">The analysis here exclusively considers journals that are listed in the French National Centre for Scientific Research’s (CNRS) classification of reference journals for economics and management. For the most part, these journals publish papers in English. This ranking of a French research institution is largely based on the </span><em><span lang="en" xml:lang="en">Journal of Economic Literature</span></em><span lang="en" xml:lang="en"> classifications.</span>
+        </paragraphe>
+        <paragraphe num="5">
+            Therefore, the analysis excludes the 13 journals (out of 800) of the CNRS ranking that publish, more or less frequently, French-written papers on tourism issues: <em>Développement durable et territoires; Économie et statistique; Économie rurale; Entreprises et histoire; Histoire, économie et société; Innovations : Revue d'économie et de management de l'innovation; Mondes en développement; Natures, sciences, sociétés; Région et développement; Revue d’économie du développement; Revue d'économie industrielle; Revue d'économie régionale et urbaine; Revue internationale PME; Travail et emploi.</em> <span lang="en" xml:lang="en">Journals that exclusively concern management sciences without economics are also excluded regardless of the main language of publication.</span>
+        </paragraphe>
+        <paragraphe num="6">
+            <span lang="en" xml:lang="en">Papers of interest deal explicitly with tourism in the body text and are published between 2008 and 2019. A minimal frequency of 15 occurrences for the word “touris*” (</span><em><span lang="en" xml:lang="en">i.e.</span></em><span lang="en" xml:lang="en">, tourism and its derivatives) in the body text is a prerequisite to build a short list of papers. To focus on the most influential contributions in tourism economics, an additional double selection is implemented:</span>
+        </paragraphe>
+        <paragraphe num="7">
+            <span lang="en" xml:lang="en">(i) Journals that provide a forum for tourism are selected by applying the minimum threshold of 15 publications over the period from 2008 to 2019.</span>
+        </paragraphe>
+        <paragraphe num="8">
+            <span lang="en" xml:lang="en">Two types of journals are distinguished:</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">First type: 5 journals that are exclusively dedicated to tourism. They are listed as follows, from a decreasing total number of papers: </span><em><span lang="en" xml:lang="en">Tourism Management, Tourism Economics, Annals of Tourism Research, Journal of Travel Research, International Journal of Contemporary Hospitality Management</span></em><span lang="en" xml:lang="en">.</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">Second type: 19 journals that publish contributions beyond tourism. They are listed according to the same criterion: </span><em><span lang="en" xml:lang="en">Journal of Environmental Management, Ecological Economics, Applied Economics, Journal of Environmental Planning &amp;amp; Management, Climatic Change, Energy Policy, Urban Studies, Environment &amp;amp; Planning A, Economy &amp;amp; Space, Applied Economics Letters, Economic Modelling, International Journal of Urban &amp;amp; Regional Research, Environmental Pollution, Ecological Modelling, Third World Quarterly, Transportation Research Part A Policy &amp;amp; Practice, Journal of Cultural Economics, Natural Resources Forum, Regional Studies, Technological Forecasting &amp;amp; Social Change</span></em><span lang="en" xml:lang="en">.</span>
+        </paragraphe>
+        <paragraphe num="9">
+            <span lang="en" xml:lang="en">(ii) To balance papers visibility in tourism between both types of journals, influential papers are identified from a minimal threshold of 150 citations when they are published in 1</span><sup><span lang="en" xml:lang="en">st</span></sup><span lang="en" xml:lang="en"> type journals, against 15 citations when they are published in 2</span><sup><span lang="en" xml:lang="en">nd</span></sup><span lang="en" xml:lang="en"> type journals.</span>
+        </paragraphe>
+        <paragraphe num="10">
+            <span lang="en" xml:lang="en">These selection criteria help to extract publications in journals of reference with minimal popularity among researchers, while reflecting the diversity within the contemporary English language economic research. Consequently, 596 papers are identified, including 290 publications in 2</span><sup><span lang="en" xml:lang="en">nd</span></sup><span lang="en" xml:lang="en"> type journals. Table 1 and Figure 1 summarise the bibliometric information according to CNRS research fields.</span>
+        </paragraphe>
+        <paragraphe num="11">
+            <span lang="en" xml:lang="en">Given the distribution of these journals in the CNRS classification, the literature of interest distinguishes three groups of research fields:</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">The pilot group entitled “Urban, spatial and regional economics, transportation and tourism”. This is the historical research channel in tourism economics. Publications originating from:<br/>1) Journals that are exclusively dedicated to tourism;<br/>2) Journals that focus on tourism among other topics.</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">The motor group entitled: “Environment, Agriculture, Natural resources, Energy”.</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">The follower group which gathers the remaining research fields: “General economics”, “Macroeconomics, international &amp;amp; monetary economics”, “Development &amp;amp; transition economics”, “Industrial organization” and “Innovation &amp;amp; entrepreneurship”.</span>
+        </paragraphe>
+        <paragraphe num="12">
+            <span lang="en" xml:lang="en">The following synoptic table summarises this literature using the salient topics and analysis grids that are mobilised during the past decade.</span>
+        </paragraphe>
+        <paragraphe num="13">
+            <span lang="en" xml:lang="en">Studies in the pilot fields emphasise the various ways to transform the tourism industry with the use of Information Communication Technologies (ICT). Some implications for the management practices of tourism providers are studied in particular (Stephen </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2008; Xiang and Gretzel, 2010; Filieri and Mc Leay, 2013; Law </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2014; Liu and Park, 2015). Specifically, changes in the behaviour of tourists when choosing their destination, and also evolutions in their </span><em><span lang="en" xml:lang="en">ex-post</span></em><span lang="en" xml:lang="en"> attitudes are studied. Consequently, authors scrutinise the causal chain that associates both internal and external relevant determinants of consumers’ choices (Geng-Qing Chi and Qu, 2008; Chen and Chen, 2010; Yuksel </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2010; Qu </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2011; Sparks and Browning, 2011; Wing Sun Tung and Ritchie, 2011; Prayag and Ryan, 2012; Zhang </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2014). This detailed knowledge about consumers’ behaviour should help the diversity of providers to adapt their sales and promotion strategies to survive the competition. The analysis of residents’ tolerance for tourism is also studied, mainly to identify strategies that protect the physical, social, and cultural capital of the destination and avoid local reluctance to tourism (Nunkoo and Gursoy, 2011; Deery </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2012; Kim </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2013; Lee, 2013). The ambition here comes down to thinking about commercial strategies that merge residents’ expectations on tourism at a local, as well as national, scale with heterogeneous needs of tourism consumers.</span>
+        </paragraphe>
+        <paragraphe num="14">
+            <span lang="en" xml:lang="en">The sharing economy is emphasised as an exemplary illustration. On the one hand, the sharing economy is a conspicuous example of the squeezing process of traditional tourism intermediation between touristic supply and demand (Munar and Jacobsen, 2014; Ert </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2016; Tussyadiah and Pesonen, 2016). On the other hand, the sharing economy serves as a holistic illustration of the impacts of tourism on host cities and their periphery.</span>
+        </paragraphe>
+        <paragraphe num="15">
+            <span lang="en" xml:lang="en">This last topic is still on the top edge of journals that are not exclusively dedicated to tourism in the field, “Urban, spatial and regional economics, transportation and tourism” (González, 2011; Campa </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2016; Füller and Michel, 2014 for references). Here, the dynamics of host areas is analysed through institutionalist perspectives of space and industrial changes along the value chain of tourism. Within this literature, the study of destination governance has progressed considering the societal impacts of research. Nevertheless, transport issues largely dominate the debate on tourism accessibility. This is even more conspicuous than through real estate with its implications for regional planning and for cities’ identities. The authenticity of locations comes up against the cultural standardisation of cities that embrace economic, social, and cultural codes of international tourism. To identify opportunities for expanding tourism in new territories or for transforming destinations, a higher issue emerges: the (re)location of tourist services and the identification of sites or even touristic destinations for the future on a macroeconomic scale.</span>
+        </paragraphe>
+        <paragraphe num="16">
+            <span lang="en" xml:lang="en">This last issue is central for the motor research field (Perch-Nielsen </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2010; Bury </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2011). Issues around strong sustainability of the tourism industry hide behind worries about economic opportunities and the geographical location for future activities. These issues cover economic, social, environmental, and cultural dimensions, as soon as the destinations are the focus (Baral </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2008; Beharry-Borg and Scarpa, 2010; Liu </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2010; Deyà Tortella and Tirado, 2011; Coria and Calfucura, 2012; Mendoza-González </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2012; Gössling, 2013; Iniesta-Arandia </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2014; Xiong </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2018). The scientific challenge relates to the complexity of the human-nature systems to be understood around climate issues, negative environmental externalities of tourism, and the protection of natural and cultural capital that host territories support.</span>
+        </paragraphe>
+        <paragraphe num="17">
+            <span lang="en" xml:lang="en">The follower research fields also share the issue of negative tourism externalities, insofar as the objective is to specify the way in which these externalities impact the macroeconomic causality between tourism - international trade - economic growth (Neves Sequeira and Maças Nunes, 2008; Katircioglu, 2009; León </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2014).</span>
+        </paragraphe>
+        <paragraphe num="18">
+            <span lang="en" xml:lang="en">More broadly, endogenous (for example, corruption, Poprawe, 2015) or exogenous (for example, terrorism, Feridun, 2011) disturbances also discriminate between country effects in the previous causal chain. All in all, the capacity of tourism to initiate development and to reduce poverty, particularly in southern countries, is still debatable, since the robustness of macroeconomic causal chains to global risks should be reassessed.</span>
+        </paragraphe>
+        <section niveau="h1">Methodological trends</section>
+        <paragraphe num="19">
+            <span lang="en" xml:lang="en">Since the 1980s, computer progress and dedicated software have enhanced advances in tourism economics. They help to renew experimentation based on quantitative or qualitative assessment. A consensus has emerged on the interdependencies between key macroeconomic variables relating to growth, international trade, and tourism, notably through the price competitiveness of destinations (exchange rate and inflation to a lesser extent). At a microeconomic level, the determining factors of tourism access cost are hardly debatable.</span>
+        </paragraphe>
+        <paragraphe num="20">
+            <span lang="en" xml:lang="en">Over the past decade, regardless of the (micro </span><em><span lang="en" xml:lang="en">vs.</span></em><span lang="en" xml:lang="en"> macro) scale of analysis, progress has mainly been based on four methods:</span>
+        </paragraphe>
+        <paragraphe>
+            Composite indexes to synthesise multidimensional information and ease multicriteria interpretations;
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">Data analysis from traditional surveys, or to an increasing extent, from online surveys;</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">Time series econometrics and increasingly panel data to solve the limited sample sizes through the time dimension;</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">Calibration and simulation to capture future evolutions instead of econometric forecasting;</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">Heuristic models to depict causality networks, correlation or more generally interdependences, whether they are empirically tested or deduced from a thematic literature review.</span>
+        </paragraphe>
+        <paragraphe num="21">
+            <span lang="en" xml:lang="en">The mainstream generalises quantitative methods, including for processing qualitative data. Additionally, a combination of two or even three methods are used to establish sequential protocols for testing hypotheses. Although less frequently used, meta-analyses are emerging to establish the robustness of interpretations to a variety of empirical testing tools.</span>
+        </paragraphe>
+        <paragraphe num="22">
+            <span lang="en" xml:lang="en">The complexity in macro-models, through computable general equilibrium models for instance, is no longer increasing. But this diversity of methods should not erase cost-benefit analyses at the micro or meso levels, nor satellite accounts at a macro level.</span>
+        </paragraphe>
+        <paragraphe num="23">
+            <span lang="en" xml:lang="en">However, all these advances do not resolve some analytical limitations. With no exhaustivity, one can cite for instance:</span>
+        </paragraphe>
+        <paragraphe num="24">
+            <span lang="en" xml:lang="en">(i) The debate on tourism definition. This issue only makes sense today for interdisciplinary dialogue because, from an economic viewpoint, the tourism definition is no longer a debate.</span>
+        </paragraphe>
+        <paragraphe num="25">
+            <span lang="en" xml:lang="en">The UNWTO (World Tourism Organization) definition remains the benchmark in economics for comparing destinations’ performance using a harmonised computation basis. Being a tourist means traveling outside of your usual residence for a period of less than one year and for a reason that is unrelated to paid work for an organisation located in the host destination. If this definition is perfectly suited to the original economic interest of tourism</span><a class="footnotecall" href="#ftn1" id="bodyftn1">1</a><span lang="en" xml:lang="en">, domestic tourism (not considered by the UNWTO) is recognised in the economic analysis. This serves as a defensive tourism strategy that helps stabilise the volatility and seasonality of the liquidity flows earned from international tourism.</span>
+        </paragraphe>
+        <paragraphe num="26">
+            <span lang="en" xml:lang="en">However, a harmonised tourism accounting between States is still expected to refine the economic assessment of the performance of destinations, by cumulating domestic and international tourism.</span>
+        </paragraphe>
+        <paragraphe num="27">
+            <span lang="en" xml:lang="en">Several pitfalls stand against this objective. They are related to the quality and blurred sense of some available statistics (Volo and Giambalvo, 2008; Stock </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2017; Pratt </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2018).</span>
+        </paragraphe>
+        <paragraphe num="28">
+            <span lang="en" xml:lang="en">Firstly, considering the issue of pure measurement, statistical institutions practice the WTO definition differently. Measurement quality does not always meet the following criteria: relevance and helpfulness, comprehensiveness, simplicity, ease of interpretation, accuracy, methodological soundness, and computational robustness.</span>
+        </paragraphe>
+        <paragraphe num="29">
+            <span lang="en" xml:lang="en">Secondly, unequal financial support to national statistical institutions creates a discrepancy between developed and developing countries. However, even in developed states, the political use of statistical measurement hinders a continuous assessment of quality.</span>
+        </paragraphe>
+        <paragraphe num="30">
+            <span lang="en" xml:lang="en">While hoping for an institutional overhaul of statistics, some mathematical tricks remain unexplored to check and correct some approximations. Among others, filtering methods and/or unobserved component modelling could reveal hidden tourism and mitigate over/underestimations of tourism performance.</span>
+        </paragraphe>
+        <paragraphe num="31">
+            <span lang="en" xml:lang="en">Nevertheless, we should keep in mind that accounting artefacts are unavoidable when any social phenomenon is assessed from discrete time computations. However, this does not go so far as to disqualify measurement in tourism studies.</span>
+        </paragraphe>
+        <paragraphe num="32">
+            <span lang="en" xml:lang="en">(ii) The value assessment along the tourism supply chain remains a challenge, especially if strong sustainability of tourism is at stake.</span>
+        </paragraphe>
+        <paragraphe num="33">
+            <span lang="en" xml:lang="en">Specifically, the money valuation of produced or destroyed values through the social, environmental, and cultural dimensions remains a crucial challenge beyond the economic dimension. This assessment is adorned with time complexity, coupled with a destination's life cycle, long run transmission of the tourism support (</span><em><span lang="en" xml:lang="en">i.e.</span></em><span lang="en" xml:lang="en">, the destination) to future residents and short run anticipation of irreversibility.</span>
+        </paragraphe>
+        <section niveau="h1">Future prospect</section>
+        <paragraphe num="34">
+            <span lang="en" xml:lang="en">To make progress in the economic analysis of tourism, a reading grid is here suggested, starting from one of the salient features of the past decade: the confirmed reconfiguration of tourism intermediation. This reading grid adapts the analysis of financial intermediation-disintermediation-(re)intermediation of monetary and financial economics to the tourism industry. Figure 3 summarises this reading grid based on an accounting approach.</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">Agents with surplus funds live in tourism departure territories. These are households with a great saving capacity. They are mainly located in northern countries, and more recently in China for international tourism. Considering domestic tourism, they are mainly located in national territories with a relative high purchasing power. These agents can relax their budget constraints and benefit from a large share of leisure. They aggregate the tourist demand.<br/>These agents wish to benefit from recreational activities (short-term projection) without losing too much money but with a memorable experience of the destination promised. The destination is considered as a less risky “consumption product”, which results in a very convincing money value for payment consent.</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">Agents who are structurally in need of supplementary income, either improved economic situation or guaranteed economic existence. These are the private residents of touristic destinations: (i) households that envision tourism as an opportunity to relax their very restrictive budget constraints; (ii) companies that constantly renew their investment locally for competition in the tourism sector. These are also host States which expect to cumulate foreign currencies and increase the circulating volume of liquidity inside the national circuit, which a capitalist monetary economy requires.<br/>For this group of agents, the risk to invest time and money in the tourism industry is high, due to potential sunk costs and negative social, environmental, and cultural externalities. However, the game is worth the candle so long as liquidity is at least collected. Tourism expansion is then a very risky, but potentially very profitable, </span><span lang="en" xml:lang="en">activity for community residents</span><span lang="en" xml:lang="en">. </span>Tourism here participates in a long-term projection.
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">Tourism (online </span><em><span lang="en" xml:lang="en">vs.</span></em><span lang="en" xml:lang="en"> traditional) intermediaries carry out a tourism transformation in the sense that they make compatible expectations that are not compatible between residents and visitors. On the one hand, residents have long term rationale with very risky expectations of profitability when exploiting their territory. On the other hand, the benefit of tourists seems selfishly short-term without real risk-taking but with the urge to live a short but unforgettable experience. This tourism transformation structures the assets and liabilities of tourism intermediaries. On the asset side, the pooled contracts of service supply are signed with resident players in touristic destinations. These contracts build the demand for exploiting the (primary) destination image or promised experience. Residents supply this service in exchange for a monetary counterpart. On the liabilities side, the pooled (secondary) service contracts are dedicated to tourists in exchange for a payments counterpart of the tourism transformation. The activity of tourism transformation alters the customers’ perceived value of tourism services and influences their payment consent.</span>
+        </paragraphe>
+        <paragraphe num="35">
+            <span lang="en" xml:lang="en">From this point, the issue of location exchanges can be reinterpreted as follows:</span>
+        </paragraphe>
+        <paragraphe num="36">
+            <span lang="en" xml:lang="en">Markets generally structure exchanges in economics by precisely answering the question: where does money go? In tourism economics, however, ‘destination’ is a substitute for ‘market’. Thus, any destination comes to life through the decisions of the dominant players (not only the supplier of relevant tourist services in relation to demand but also the institutional process for tourism development). Institutions are established through the principal means of financing tourism (either direct, or traditional intermediary or online intermediary).</span>
+        </paragraphe>
+        <paragraphe num="37">
+            <span lang="en" xml:lang="en">Direct tourism has drawbacks: transaction costs, asymmetry in the idiosyncratic information on destinations. These elements impact the destination choice. This legitimises the existence of tourism intermediation, even though accessing information is no longer the issue, thanks to the volume of resources conveyed simultaneously through ICTs. Sustainability of tourism intermediation depends on the ability to pool and manage identified risks, to acquire expertise on collecting and processing information, to respond efficiently to customers.</span>
+        </paragraphe>
+        <paragraphe num="38">
+            <span lang="en" xml:lang="en">From this point of view, a universal provider is no longer illusory alongside online providers, knowing the certain death of specialists in traditional intermediation. Indeed, traditional and online intermediation convey fundamental but complementary information on destinations differently. Going on the extreme viewpoint, a universal intermediary would be able to supply traditional and online intermediation but would also be able to position itself on direct tourism. As a result, a new cycle of tourism (re-)intermediation could occur with a partial control recovery of digital communication. This would redistribute power over the destination ("market power") between the various tourism intermediaries and would change the institutional process within the tourism industry.</span>
+        </paragraphe>
+        <paragraphe num="39">
+            <span lang="en" xml:lang="en">Beyond this conjecture and considering the accounting vision of figure 3, customers’ payment consent is obtained if the perceived value of the destination image or the promised experience, will be greater than the effective price. Reciprocally, the residents’ consent to host tourists, or even the consent of the state, is obtained if the lost value is lower than the price to be received from tourism. An issue arises: value perception, which assumes two sub-issues: agents’ perception and the accounting system of money valuation.</span>
+        </paragraphe>
+        <paragraphe num="40">
+            <span lang="en" xml:lang="en">The first sub-issue is a lively research topic that mixes economics and management. The objective is to clarify our knowledge of cognitive and affective determinants that trigger the spending behaviours of both providers and customers. These determinants interact with exogenous factors that state the informational context for decision-making. On this point, new developments in experimental economics, based on new computer progress, should lead at a micro scale to the frontier of psychology, in addition to the more aggregated level of sociology.</span>
+        </paragraphe>
+        <paragraphe num="41">
+            <span lang="en" xml:lang="en">The second sub-issue requires more connections between economics and environmental sciences to tackle the feasibility of strong sustainability through the tourism industry. An immediate issue is to harmonise the computation of touristic values, which goes beyond a money valuation of the natural capital that is exploited or sacrificed through tourism practices. Attempts, such as Remme </span><em><span lang="en" xml:lang="en">et al</span></em><span lang="en" xml:lang="en">. (2015), require further analyses. The harmonising issue is essential to maintain the ability to compare tourism performance and consequently to identify operational tourism strategies conditionally to contexts. A holistic system of tourism accounting that also integrates social and cultural values would be ideal in the long run but combining environmental and economic values could be a first step.</span>
+        </paragraphe>
+        <paragraphe num="42">
+            <span lang="en" xml:lang="en">These perspectives should renew the current dialogue between economics and other social sciences. This should lead to revisiting the disciplinary intersections between multidisciplinarity, interdisciplinarity and transdisciplinarity (Darbellay and Stock, 2011; Okumus </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2018).</span>
+        </paragraphe>
+        <paragraphe num="43">
+            <span lang="en" xml:lang="en">It is still true that a whole series of determinants and characteristics around the concept of destination escape the basic microeconomic and macroeconomic analysis. To solve this inadequacy, the main solution in economics is to internalise contributions from other social sciences such as history, geography, sociology, law etc. Nevertheless, the very recent methods of analysis tend to allow this trend of internalising other sciences in tourism economics differently. Beyond opportunities conceivable in tourism from experimental economics, the new age of big data will ease the pooling of individual, temporal, and geolocation data, such that the economic analysis will cover more and more historical and geographic complexity. From this point of view, an extension towards exact sciences (mathematics and computer science) becomes an additional horizon for interdisciplinarity in tourism studies.</span>
+        </paragraphe>
+        <section niveau="h1">Concluding discussion</section>
+        <paragraphe num="44">
+            <span lang="en" xml:lang="en">After this literature review from English-language papers that are published between 2008-2019, and after the suggested prospects, the assertion of Candela and Figini (2012, p.9) still applies: “Tourism economics is to economics what applied economics is to pure economics”. Pure economics abstracts the essential assumptions that ease understanding of the foundations of economic evolutions independently from specific contexts. On the contrary, applied economics grasps each specific reality through field observations. Hence, tourism economics develops analysis grids that are specific to studied contexts, which keeps a margin for deviating from some general or basic hypotheses in economics.</span>
+        </paragraphe>
+        <paragraphe num="45">
+            <span lang="en" xml:lang="en">Besides, wealth surplus that is extracted from the tourism supply chain still particularly matters in the current capitalist economy. Nevertheless, beyond the wealth creation and the corresponding liquidity circulation inside destinations, the transcendental issue is now the capacity of tourism to preserve a scarce resource: the multidimensional value of destination.</span>
+        </paragraphe>
+        <paragraphe num="46">
+            <span lang="en" xml:lang="en">The time has undoubtedly come to initiate a fourth phase in tourism research. This consists of back to renewed basics after the first three historical phases mentioned in (Dallerbay and Stock, 2011): (1) holistic vision of tourism systems, (2) multidisciplinarity and (3) interdisciplinarity.</span>
+        </paragraphe>
+        <paragraphe num="47">
+            <span lang="en" xml:lang="en">The research agenda is now to keep a systemic view of tourism. “Tourism is currently a complex and globalized phenomenon with demonstrated socio-economic importance” (Darbellay and Stock, 2011, p.441). This is a network of actors with divergent interests in differentiated practices and which is driven by heterogeneous rationality. The ecosystem of actors acts through different dimensions (economic, social, environmental, political, and cultural), from various scales (micro, meso, macro), and from distinct spaces.</span>
+        </paragraphe>
+        <paragraphe num="48">
+            <span lang="en" xml:lang="en">However, while the resulting complexity is often mentioned, suitable tools are rarely mobilised to study complexity in tourism systems. This is the reason why network sciences (Baggio </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2010) and/or complexity sciences must now be seized to constitute a common base for interdisciplinary dialogues.</span>
+        </paragraphe>
+        <paragraphe num="49">
+            <span lang="en" xml:lang="en">However, scientific innovations are needed to enforce a renewal in the fourth phase of tourism research. The last decade invites us to do so, insofar as tourism systems are subject to all global risks:</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">systemic financial risks like the subprime crisis;</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">pandemic contagion such as Covid-19 (Richard </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2020; Sigala, 2020; Zenker and Kock, 2020; Zheng </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2020);</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">technological risks that involve adopting the right technical turns on time;</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">cybercrime driven by digitalised tourism practices;</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">political risks ranging from civil insecurity to political instability passing through disruptions in institutional frameworks of economic activity;</span>
+        </paragraphe>
+        <paragraphe>
+            <span lang="en" xml:lang="en">climate change with the uncertain local impact of a global but certain phenomenon (Ruhanen, 2015; Gössling and Highman, 2020).</span>
+        </paragraphe>
+        <paragraphe num="50">
+            <span lang="en" xml:lang="en">These events may be external to tourism systems but share our low capacity to predict their location, frequency, and impact on the value of destinations. Our own limited knowledge of tourism systems adds to these uncertainties. The key limitation of our knowledge relates to the ability to assess the objective and perceived values that are driven through tourist flows: a context of high uncertainty. </span>
+        </paragraphe>
+        <paragraphe num="51">
+            <span lang="en" xml:lang="en">Therefore, ensuring appropriate governance of tourism systems requires progressing in our ability to assess their current state, as well as the state of sub-systems. Two alternatives are conceivable. On the one hand, a specific tourism accounting that endogenizes economic, social, environmental, and even cultural values. On the other hand, composite indexes that build a grid of multi-criteria decision support. The second alternative is more explored than the first (Mendola and Volo, 2017, for instance). However, analyses mostly remain at the stage of a static description of the state of systems, whereas external and internal risks and uncertainties call for a dynamic assessment to serve anticipatory governance.</span>
+        </paragraphe>
+        <paragraphe num="52">
+            <span lang="en" xml:lang="en">The knowledge of the evolutionary drivers of tourism systems state becomes a key issue to be grasped from a holistic vision in order to schedule transitions, or even transformations, that renew destinations and tourist practices on time. These transitions can be financial, numerical, ecological, or cultural and are required to sustain destination values where they are either economic, social, environmental, or cultural dimensions, and despite the aforementioned uncertainties.</span>
+        </paragraphe>
+        <paragraphe num="53">
+            <span lang="en" xml:lang="en">All in all, the scientific issue consists in generalising integrated models of the different components of tourism systems on which each science provides specific knowledge. In this context, economics, through its faculty to encompass other disciplines, is a legitimate way to help stakeholders’ decision-making in tourism systems. Solutions are provided to manage scarce and constrained resources.</span>
+        </paragraphe>
+        <paragraphe num="54">
+            <span lang="en" xml:lang="en">Consequently, some paradigmatic evolutions are necessary:</span>
+        </paragraphe>
+        <paragraphe num="55">
+            <span lang="en" xml:lang="en">A reversed interpretation such that tourism values of destinations is no longer conceived as an output but as the transcendent input to be preserved and such that the identity of destinations is no longer conceived as a resource but as an output to be renewed.</span>
+        </paragraphe>
+        <paragraphe num="56">
+            <span lang="en" xml:lang="en">Managing identity under value constraints should be based on a convenient structuring between the ecological system of nature and the economic system. This gives relevance to study tourism systems as ecological and social systems. By doing so, the implied rebalancing between top-down and bottom-up research approaches is a call for collaborations between researchers who are involved in tourism management and tourism studies and for extending the number of disciplines that are involved in tourism research beyond social sciences.</span>
+        </paragraphe>
+        <paragraphe num="57">
+            <span lang="en" xml:lang="en">These paradigm shifts are feasible but only possible if tourism institutionalism is revisited in the current capitalism. The political stake here is to extricate from the resistance of national and international regulatory bodies that push to assess tourism only through the objectives of growth in the flow of travellers and / or liquidity. The time has come to gaze towards indicators and evaluation methods that intend to promote flow stability at a minimal cost in terms of vulnerability for tourism systems. Following this direction, economics could serve to promote governance of viability and resilience of tourism systems, in a context of both the scarcity of resources and the scarcity of output growth. Subjugating political and institutional mechanics of tourism to these paradigm shifts should turn away from overtourism (Oklevik </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2019; Séraphin </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2019).</span>
+        </paragraphe>
+        <paragraphe num="58">
+            <span lang="en" xml:lang="en">Overtourism is not so much studied in the English-speaking reference literature in economics. The predominant orthodox vision matters here despite the contradiction with real life. Tourism can no longer be considered with certainty as an infinite source of growth or as a trump card to absorb crises. Indeed, the Covid-19 episode invites the (economic) purpose of tourism in a capitalist economy to be reshaped. Without calling for an inescapable objective, tourism degrowth should no longer be interpreted as anti-tourism (Fletcher </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2019). Another model of sustainable tourism is required.</span>
+        </paragraphe>
+        <paragraphe num="59">
+            <span lang="en" xml:lang="en">These paradigm shifts also cover social issues since they call for rebalancing the resource allocation between residents and tourists through the supply of ethical practices that better respect residents’ heterogenous aspirations. For instance, the issue of (economic, numeric, mobility) tourist transitions must not ignore residents’ interests, such as an employment constraint being imposed along any tourism evolution.</span>
+        </paragraphe>
+        <paragraphe num="60">
+            <span lang="en" xml:lang="en">At the end, the depicted decade for tourism research is in line with the “hopeful tourism perspective” (Pritchard </span><em><span lang="en" xml:lang="en">et al.</span></em><span lang="en" xml:lang="en">, 2011) and the ambition of coupling holism with realism. Economics here will help to stress the correct constraints to identify the right set of decision rules that can sustain the preservation of destination values that are perceived by tourism stakeholders.</span>
+        </paragraphe>
+        <paragraphe num="61">
+            <span lang="en" xml:lang="en">The prism of English-language research in economics is here adopted. But the same exercise with French-language research should also be considered to complete the research agenda by filling the hiatus of English-speaking productions that ignore French-language research.</span>
+        </paragraphe>
+    </corps>
+    <bibliographie>
+        <reference>Rodolfo Baggio., Noël Scott and Chris Cooper, “Network science: A review focused on tourism”, Annals of Tourism Research, 37, 2010.</reference>
+        <reference>Nabin Baral, Marc J. Stern and Ranju Bhattarai, “Contingent valuation of ecotourism in Annapurna conservation area, Nepal: Implications for sustainable park finance and local development”, Ecological Economics, 66, 2008.</reference>
+        <reference>Nesha Beharry-Borg and Ricardo Scarpa, “Valuing quality changes in Caribbean coastal waters for heterogeneous beach visitors”, Ecological Economics, 69, 2010.</reference>
+        <reference>Jeffrey T. Bury, Bryan G. Mark, Jeffrey M. Mckenzie,·Adam French, Michel Baraer, Kyung In Huh, Marco Alfonso Zapata Luyo and Ricardo Jesús Gómez López, “Glacier recession and human vulnerability in the Yanamarey watershed of the Cordillera Blanca, Peru”, Climatic Change, 105, 2011.</reference>
+        <reference>Juan L. Campa, María E. López-Lambas and Begoña Guirao, “High speed rail effects on tourism: Spanish empirical evidence derived from China's modelling experience”, Journal of Transport Geography, 57, 2016.</reference>
+        <reference>Guido Candela and Paolo Figini, The Economics of tourism destinations, Springer, 2012.</reference>
+        <reference>Ching-Fu Chen and Fu-Shian Chen, “Experience quality, perceived value, satisfaction, and behavioral intentions for heritage tourists”. Tourism Management, 31, 2010.</reference>
+        <reference>Classement des revues de référence en économie-gestion du CNRS (2020) : https://sites.google.com/site/section37cnrs/Home/revues37 </reference>
+        <reference>Jessica Coria and Enrique Calfucura, “Ecotourism and the development of indigenous communities: The good, the bad, and the ugly”, Ecological Economics, 73, 2012.</reference>
+        <reference>Frédéric Darbellay and Mathis Stock, “Tourism as complex interdisciplinary research object”, Annals of Tourism Research, 39, 2011.</reference>
+        <reference>Margaret Deery, Leo Jago and Liz Fredline, “Rethinking social impacts of tourism research: A new research agenda”, Tourism Management, 33, 2012.</reference>
+        <reference>Eyal Ert, Aliza Fleischer and Nathan Magen, “Trust and reputation in the sharing economy: The role of personal photos in Airbnb”, Tourism Management, 55, 2016.</reference>
+        <reference>Mete Feridun, “Impact of terrorism on tourism in Turkey: Empirical evidence from Turkey”, Applied Economics, 43, 2011.</reference>
+        <reference>Robert Fletcher, Ivan M. Mas, Asunción Blanco-Romero and Macià Blázquez-Salom, “Tourism and degrowth: An emerging agenda for research and praxis”, Journal of Sustainable Tourism, 27, 2019.</reference>
+        <reference>Raffaele Filieri and Fraser Mcleay, “E-WOM and accommodation: An analysis of the factors that influence travelers’ adoption of information from online reviews”, Journal of Travel Research, 53, 2013.</reference>
+        <reference>Henning Füller and Boris Michel, “‘Stop being a tourist!’ New dynamics of urban tourism in Berlin-Kreuzberg”, International Journal of Urban and Regional Research, 38, 2014.</reference>
+        <reference>Christina Geng-Qing Chi and Hailin Qu, “Examining the structural relationships of destination image, tourist satisfaction and destination loyalty: An integrated approach”, Tourism Management, 29, 2008.</reference>
+        <reference>Sara González, “Bilbao and Barcelona ‘in motion’. How urban regeneration ‘models’ travel and mutate in the global flows of policy tourism” Urban Studies, 48, 2011.</reference>
+        <reference>Stefan Gössling and James Higham, “The Low-Carbon Imperative: Destination Management under Urgent Climate Change”, Journal of Travel Research, I–13, 2020.</reference>
+        <reference>Irene Iniesta-Arandia, Marina García-Llorente, Pedro A. Aguilera, Carlos Montes and Berta Martín-López, “Socio-cultural valuation of ecosystem services: Uncovering the links between values, drivers of change, and human well-being”, Ecological Economics, 108, 2014.</reference>
+        <reference>Salih Katircioglu, “Tourism, trade, and growth: the case of Cyprus”, Applied Economics, 41, 2009.</reference>
+        <reference>Kyungmi Kim, Muzaffer Uysal and Joseph Sirgy, “How does tourism in a community impact the quality of life of community residents?”, Tourism Management, 36, 2013.</reference>
+        <reference>Rob Law, Dimitrios Buhalis and Cihan Cobanoglu, “Progress on information and communication technologies in hospitality and tourism”, International Journal of Contemporary Hospitality Management, 26, 2014.</reference>
+        <reference>Carmelo J. León, Jorge E. Arana and Anastasia Hernández Alemán, “CO2 Emissions and tourism in developed and less developed countries”, Applied Economics Letters, 21, 2014.</reference>
+        <reference>Jing Liu, Zhiyun Ouyang and Hong Miao, “Environmental attitudes of stakeholders and their perceptions regarding protected area-community conflicts: A case study in China”, Journal of Environmental Management, 91, 2010.</reference>
+        <reference>Zhiwei Liu and Sangwon Park, “What makes a useful online review? Implication for travel product websites”, Tourism Management, 47, 2015.</reference>
+        <reference>Daria Mendola and Serena Volo, “Building composite indicators in tourism studies: Measurements and applications in tourism destination competitiveness”, Tourism Management, 59, 2017.</reference>
+        <reference>Ana María Munar and Jens Kr. Steen Jacobsen, “Motivations for sharing tourism experiences through social media”, Tourism Management, 43, 2014.</reference>
+        <reference>Tiago Neves Sequeira and Paulo Maças Nunes, “Does tourism influence economic growth? A dynamic panel data approach”, Applied Economics, 40, 2008.</reference>
+        <reference>Helga Nowotny, “The potential of transdisciplinarity”, Paris: Rethinking interdisciplinarity, 2003. </reference>
+        <reference>Robin Nunkoo and Dogan Gursoy, “Residents’ support for tourism an identity perspective”, Annals of Tourism Research, 39, 2012.</reference>
+        <reference>Ove Oklevik, Stefan Gössling, Michael C. Hall, Jens Kristian, Steen Jacobsen, Ivar Petter Grøtte and Scott Mccabe, “Overtourism, optimisation, and destination performance indicators: A case study of activities in Fjord Norway”, Journal of Sustainable Tourism, 27, 2019.</reference>
+        <reference>Fevzi Okumus, Mathilda Van Niekerk, Mehmet Ali Koseoglu and Anil Bilgihan, “Interdisciplinary research in tourism”, Tourism Management, 69, 2018.</reference>
+        <reference>Sabine L. Perch-Nielsen, Bas Amelung and Reto Knutti, “Future climate resources for tourism in Europe based on the daily tourism climatic index”, Climatic Change, 103, 2010.</reference>
+        <reference>Marie Poprawe, “A panel data analysis of the effect of corruption on tourism”, Applied Economics, 47, 2015.</reference>
+        <reference>Girish Prayag and Chris Ryan, “Antecedents of tourists’ loyalty to Mauritius: The role and influence of destination image, place attachment, personal involvement, and satisfaction”, Journal of Travel Research, 51, 2012.</reference>
+        <reference>Stephen Pratt and Denis Tolkach, “The politics of tourism statistics”, International Journal of Tourism Research, 20, 2018.</reference>
+        <reference>Annette Pritchard, Nigel Morgan and Irena Ateljevic, “Hopeful tourism: A new transformative perspective”, Annals of Tourism Research, 38, 2011.</reference>
+        <reference>Halin Qu, Lisa Hyunjung Kim and Holly Hyunjung Im, “A model of destination branding: Integrating the concepts of the branding and destination image”, Tourism Management, 32, 2011.</reference>
+        <reference>Roy P. Remme, Bram Edens, Matthias Schröter and Lars Hein, “Monetary accounting of ecosystem services: A test case for Limburg province, the Netherlands”, Ecological Economics, 112, 2015.</reference>
+        <reference>Hugues Séraphin, Mustafeed Zaman, Sharon Olver, Stéphane Bourliataux-Lajoinie and Frederic Dosquet, “Destination branding and overtourism”, Journal of Hospitality and Tourism Management, 38, 2019.</reference>
+        <reference>Marianna Sigala, “Tourism and Covid-19: Impacts and implications for advancing and resetting industry and research”, Journal of Business Research, 117, 2020.</reference>
+        <reference>Beverley A. Sparks and Victoria Browning, “The impact of online reviews on hotel booking intentions and perception of trust”, Tourism Management, 32, 2011.</reference>
+        <reference>Mathis Stock, Vincent Coëffe and Philippe Violier, Les enjeux contemporains du tourisme : une approche géographique. Presses universitaires de Rennes, 2017.</reference>
+        <reference>Bartolomé Deyà Tortella and Dolores Tirado, “Hotel water consumption at a seasonal mass tourist destination. The case of the island of Mallorca”, Journal of Environmental Management, 92, 2011.</reference>
+        <reference>Lee Tsung Hung, “Influence analysis of community resident support for sustainable tourism development”, Tourism Management, 34, 2013.</reference>
+        <reference>Iis P. Tussyadiah and Juho Pesonen, “Impacts of peer-to-peer accommodation use on travel patterns”, Journal of Travel Research, 55, 2016.</reference>
+        <reference>Serena Volo and Ornella Giambalvo, “Tourism Statistics: Methodological Imperatives and Difficulties: The Case of Residential Tourism in Island Communities”, Current Issues in Tourism, 11, 2008.</reference>
+        <reference>Vincent Wing Sun Tung and Brent J.R. Ritchie, “Exploring the essence of memorable tourism experiences”, Annals of Tourism Research, 38, 2011.</reference>
+        <reference>Zheng Xiang and Ulrike Gretzel, “Role of social media in online travel information search”, Tourism Management, 31, 2010.</reference>
+        <reference>Xiong Xiong, Kai Zhang, Xianchuan Chen, Huahong Shi, Ze Luo and Chenxi Wu, “Sources and distribution of microplastics in China's largest inland lake - Qinghai Lake”, Environmental Pollution, 235, 2018.</reference>
+        <reference>Atila YUKSEL, Fisun YUKSEL and Yasin BILIM, “Destination attachment: Effects on customer satisfaction and cognitive, affective, and conative loyalty”, Tourism Management, 31, 2010.</reference>
+        <reference>Sebastian Zenker and Florian Kock, “The coronavirus pandemic – A critical discussion of a tourism research agenda”, Tourism Management, 81, 2020.</reference>
+        <reference>Hongmei Zhang, Xiaoxiao Fu, Liping A. Cai and Lin Lu, “Destination image and tourist loyalty: A meta-analysis”, Tourism Management, 40, 2014.</reference>
+        <reference>Dani Zheng, Qiuju Luo and Brent W. Ritchie, “Afraid to travel after Covid-19? Self-protection, coping and resilience against pandemic ‘travel fear’”, Tourism Management, 83, 2021.</reference>
+    </bibliographie>
+    <notes>
+        <note id="1">An increase in the speed of liquidity circulating inside a territory so long as external funds come in.</note>
+    </notes>
+</article>

@@ -1,0 +1,999 @@
+Mondes du Tourisme
+14 | 2018
+
+Habiter le Monde en touriste
+
+Marketing expérientiel et hyperréalité dans le
+domaine du tourisme culturel
+Experiential marketing and hyperreality in the field of cultural tourism
+Dominique Bourgeon-Renault et Elodie Jarrier
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/1623
+DOI : 10.4000/tourisme.1623
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+Référence électronique
+Dominique Bourgeon-Renault et Elodie Jarrier, « Marketing expérientiel et hyperréalité dans le
+domaine du tourisme culturel », Mondes du Tourisme [En ligne], 14 | 2018, mis en ligne le 30 juin 2018,
+consulté le 19 avril 2019. URL : http://journals.openedition.org/tourisme/1623 ; DOI : 10.4000/
+tourisme.1623
+
+Ce document a été généré automatiquement le 19 avril 2019.
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modiﬁcation 4.0 International.
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+Marketing expérientiel et
+hyperréalité dans le domaine du
+tourisme culturel
+Experiential marketing and hyperreality in the field of cultural tourism
+Dominique Bourgeon-Renault et Elodie Jarrier
+
+Introduction
+L’intérêt croissant pour le « patrimoine » coïncide
+avec le virage postmoderne. Il peut lui aussi être
+considéré comme une « institution postmoderne »
+car il reflète l’aspect le plus étudié et le plus
+débattu du postmodernisme, le concept
+d’hyperréalité.
+(Mac Lean, 1997, p. 16)
+1
+
+Le caractère hyperréel du patrimoine s’exprime fortement à travers la diversité des
+formes muséales postmodernes. Après une période de désenchantement du monde, la fête
+est devenue primordiale dans l’existence des individus (Maffesoli, 1988, 1990). Désormais,
+les lieux touristiques et culturels proposent une mise en scène « théâtralisée » qui suscite
+des réactions émotionnelles, ludiques et esthétiques de la part des visiteurs, et implique
+une appropriation ou une participation de leur part. Dans cette course au
+« réenchantement » du monde (Ritzer, 1999), le musée n’échappe pas à la règle. Il
+constitue, au contraire, par l’accent mis sur ses dimensions architecturales,
+spectaculaires et événementielles, l’un des premiers vecteurs de la « mise en désir d’une
+ville » (Lefort, 2015, p. 35).
+Croiser ville, musée et tourisme renvoie à des enjeux multiples, en particulier
+d’attractivité, de renouvellement urbain, d’intégration urbaine et d’identité,
+d’espace public, d’architecture, d’image, et invite à questionner la fonctionnalité du
+musée dans la ville. […] Or, si le musée « produit » du tourisme, il n’en est pas moins
+
+Mondes du Tourisme, 14 | 2018
+
+1
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+vrai que le tourisme « produit » du musée. […] De même, si la ville « produit » des
+musées et du tourisme, réciproquement, le musée et le tourisme « produisent » la
+ville. (Fagnoni et Gravari-Barbas, 2015, p. 4)
+2
+
+Prenant appui sur ces liens entre tourisme culturel, musées et hyperréalité, cet article
+mobilise l’approche expérientielle pour décrire et mettre en perspective les trois phases
+de l’expérience de consommation touristique et culturelle (l’avant expérience, le cœur de
+l’expérience et l’après expérience). Puis, il explore les stratégies de production d’une
+expérience touristique et culturelle hyperréelle, décrit ce processus co-créatif et situe la
+place des dispositifs numériques de médiation dans celui-ci. Enfin, il identifie différentes
+formes d’immersions hyperréelles spécifiques selon la nature du lieu touristique et
+culturel appartenant au champ muséal. Ces résultats positionnent le concept
+d’hyperréalité comme élément de différenciation dans les stratégies élaborées par les
+structures muséales.
+
+1. L’expérience touristique et culturelle : un cadre
+théorique
+3
+
+La consommation touristique et culturelle est une expérience hédonique, multisensorielle, émotionnelle et imaginaire (Holbrook et Hirschman, 1982). L’approche
+expérientielle analyse la consommation comme un état subjectif primaire provoqué par le
+symbolisme, l'hédonisme et l'esthétisme du produit. Le tourisme culturel présente tous
+ces aspects et constitue un terrain particulièrement attirant pour la recherche. Les
+expériences touristiques et culturelles ont reçu une attention croissante des chercheurs
+en comportement du consommateur, intéressés par les activités de loisirs en général
+(Holbrook et Hirschman, 1982), les séjours touristiques (Bonnefoy-Claudet, 2011 ;
+Minivielle et Minivielle, 2014), les visites de sites culturels (Petr-Le Huérou, 1998) et/ou
+les expositions de musées des beaux-arts (Dufresne-Tassé, 1993 ; Dierking, 1994 ;
+Passebois, 2010 ; Jarrier, 2015) ou d’art contemporain (Lagier, 2006 ; De Barnier et Lagier,
+2012).
+
+4
+
+Qu’elle soit touristique, culturelle ou muséale, l’expérience vécue peut être expliquée par
+les caractéristiques intra-individuelles des publics.
+
+Les caractéristiques intra-individuelles explicatives de l’expérience
+vécue
+5
+
+La perspective expérientielle identifie des caractéristiques intra-personnelles (Bourgeon,
+1994 ; Bourgeon et Filser, 1995) de l'individu susceptibles d’expliquer le processus de
+décision sous-jacent à l’expérience touristique, culturelle ou muséale. Ces caractéristiques
+individuelles peuvent être présentées ainsi :
+• L'implication dans une visite culturelle est une variable importante se situant entre la
+perception et l'intention d’agir des individus (Bourgeon, 1994 ; Bourgeon et Filser, 1995).
+L’expérience touristique et culturelle peut susciter des réponses différentes non seulement
+en termes de niveau d’implication (fort/faible), mais surtout en termes de nature même de
+l'implication, à dominante cognitive (intérêt) ou à dominante affective (valeur hédonique).
+• La recherche de stimulation (Berlyne, 1960 ; Raju, 1980) repose sur l'analyse de l'influence de
+différentes variables caractérisant le goût de l'individu, d’une part, pour la nouveauté (par
+
+Mondes du Tourisme, 14 | 2018
+
+2
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+exemple, transposé au champ touristique, l’attirance pour une destination inhabituelle),
+d’autre part, pour le changement, et son désir d'acquérir des informations supplémentaires
+sur les différents produits. De forts niveaux de stimulation sont positivement reliés avec la
+préférence pour de nouvelles expériences et avec les tendances exploratoires liées aux
+risques, à la recherche de variété et à la curiosité.
+• La tendance à la recherche de sensations (Zuckerman et al.,1964) est susceptible d'expliquer
+les prédispositions du consommateur à rechercher l'aventure et les frissons, les expériences
+et la non-inhibition. Dans le domaine touristique et culturel, la perception de l'individu se
+fonde sur une activité sensorielle qui lui fait vivre une expérience s’exprimant par un simple
+plaisir ou une intensité de sentiments.
+• L'orientation visuelle ou verbale (Childers, Houston et Heckler, 1985 ; Holbrook, 1986)
+constituerait une variable explicative des différences de perception de l’objet touristique et
+culturel. En bref, la tendance à la « visualisation » devrait impliquer une approche holistique
+de l’objet culturel. Au contraire, la tendance à la « verbalisation » entraînerait une attention
+plus analytique accordée aux stimuli atomistiques de l’objet.
+• La tendance romantique ou classique de la personnalité des individus (Holbrook et Corfman,
+1984 ; Mann, 2000) joue un rôle particulièrement important dans le cadre d'une
+consommation touristique et culturelle. Le romantisme considère l'expérience de
+consommation comme une fin en soi et met en avant l'affectif et l'imagination par rapport
+au cognitif, le dynamisme par rapport au statique et le désordre par rapport à l'ordre. Quant
+au classicisme, il fait référence à la rationalité, aux valeurs cartésiennes d'ordre, de clarté et
+de rigueur intellectuelle. Dans une telle perspective, l'individu romantique peut être défini
+comme un être sensible, créatif, ouvert et peu organisé par opposition à l'individu classique
+qui est considéré comme étant très organisé, déterminé et se maîtrisant parfaitement.
+• Enfin, la nostalgie, que l’on peut définir comme « une réaction affective douce-amère,
+éventuellement associée à une activité cognitive, […] éprouvée par un individu lorsqu’un
+stimulus externe ou interne a pour effet de le transposer dans une période ou dans un
+événement d’un passé idéalisé, s’inscrivant ou non dans son propre vécu » (Divard et RobertDemontrond, 1997), peut également expliquer le comportement de consommation
+touristique et culturelle.
+6
+
+Après avoir identifié les caractéristiques intra-individuelles susceptibles d’influencer la
+nature de l’expérience touristique et culturelle, il convient d’en identifier maintenant les
+composantes saillantes et communes afin de mieux comprendre le vécu des individus.
+
+Les dimensions d’une expérience touristique et culturelle
+7
+
+La littérature a souvent privilégié l’appréhension de l’expérience touristique et culturelle
+à travers deux de ses dimensions : la dimension sociale et la composante esthétique/
+émotionnelle.
+
+8
+
+Tout d’abord, la consommation, en tant qu’expérience sociale, est confirmée par de
+nombreux auteurs (Maffesoli, 1988, 1990 ; Cova, 1996 ; Rémy, 2000 ; Debenedetti, 2001).
+Plus particulièrement, l’existence de lien social dans la consommation, valorisée par le
+courant sociologique postmoderne, a été mise en évidence dans le domaine, d’une part,
+des concerts de musique classique, à travers la variable « sensibilité à l’interaction sociale
+» (Mann, 2000), d’autre part, des arts du spectacle vivant, à travers la dimension « lien
+social » (Pulh, 2002 ; O’Sullivan, 2009). La consommation culturelle n’est donc pas
+seulement une expérience individuelle d’ordre esthétique ou intellectuel, c’est aussi une
+
+Mondes du Tourisme, 14 | 2018
+
+3
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+expérience sociale qui prend en compte le contexte social intime (Debenedetti, 1998,
+1999), composé du spectateur et de ses accompagnateurs. Or, l’individu interagit non
+seulement avec ses accompagnateurs, mais aussi avec les autres spectateurs et avec tout
+le personnel en contact, ce qui permet de définir un contexte social élargi (Debenedetti,
+1998, 1999).
+9
+
+Ensuite, la participation d'un individu à une visite touristique et culturelle peut être
+assimilée à une expérience esthétique, proche du paradigme de la réaction émotionnelle.
+L'émotion apparaît comme un phénomène affectif subjectif expérientiel, source de
+motivations, qui interagit avec les processus de traitement de l'information recueillie en
+vue d'une expérience de consommation (Graillot, 1998). Les émotions font partie
+intégrante de l’expérience vécue (Derbaix et Sjöberg, 1994 ; Richins, 1997).
+
+10
+
+Cependant, l’expérience touristique et culturelle ne peut pas se réduire uniquement à ces
+deux composantes (sociale, esthétique/émotionnelle). Comme toute expérience de
+consommation, elle est susceptible de comporter les quatre dimensions suivantes
+(Roederer, 2008) :
+• une dimension hédonico-sensorielle, qui capte l'intensité de la sensation plaisante procurée
+par l'expérience à l’individu ;
+• une dimension rhétorique, qui exprime les caractéristiques symboliques associées à
+l'expérience, c'est-à-dire sa fonction de production de sens pour le consommateur ;
+• une dimension praxéologique, traduisant le degré d'engagement physique et mental de
+l'individu dans l'expérience ;
+• enfin, une dimension temporelle, qui évalue le coût temporel perçu par l'individu pendant
+l'expérience.
+
+11
+
+Plus spécifiquement, dans le cadre de l’expérience vécue lors d’un séjour touristique en
+station de ski, Bonnefoy-Claudet (2011) a démontré l’influence positive de la
+thématisation d’une expérience touristique sur l’émergence d’émotions. Cette
+thématisation, prenant appui sur des éléments plus ou moins teintés d’hyperréalité,
+concourt à stimuler et à surprendre l’individu et à lui apporter de la joie ainsi qu’un
+sentiment de tranquillité. Les recherches de Minivielle et Minivielle (2014) complètent
+l’identification des dimensions saillantes d’une expérience touristique hyperréelle. Selon
+ces auteurs, cette expérience peut être appréhendée à travers les six composantes
+suivantes : sensorielle (stimuli et sensations), émotionnelle (authenticité et découverte),
+action (exploration et collaboration), tribale (appartenance à un cercle restreint d’initiés),
+narrative (marqueurs iconographiques et discursifs sur l’imaginaire), et mémorielle
+(réminiscence, réinterprétation et mise en scène de l’histoire vécue participant de la
+construction de l’image de soi). Enfin, dans le champ muséal, l’expérience de visite
+muséale a elle aussi été définie et mesurée à travers six dimensions (Jarrier, 2015) :
+affective (stimulation, découverte, évasion, fascination, etc.), cognitive et rhétorique
+(observation, raisonnement, apprentissage, mémorisation, introspection), symbolique
+(représentations symboliques et métaphoriques, image de soi), sociale (échanges avec les
+autres visiteurs), spatiale (stratégies de déambulation) et temporelle (gestion de la durée
+de la visite).
+
+12
+
+Ce vécu multi-dimensionnel affecte également les comportements et jugements de
+l’individu après l’expérience. En conséquence, il convient d’identifier les sources de
+valorisation d’une expérience touristique et culturelle.
+
+Mondes du Tourisme, 14 | 2018
+
+4
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+Les sources de valorisation d’une expérience touristique et
+culturelle
+13
+
+La valeur a longtemps été étudiée en lien avec l’attitude des consommateurs à l’égard du
+prix, et définie et mesurée de façon duale à travers les notions de bénéfices et de coûts
+(Day et Crask, 2000). Plus récemment, de nombreuses recherches ont proposé d’étudier la
+valeur en lien avec l’expérience de consommation, et l’ont définie et mesurée de façon
+multidimensionnelle (Floch, 1989 ; Holt, 1995). Ainsi, Holbrook (1994, 1999) définit la
+valeur comme une préférence relative et interactive caractérisant l’expérience de
+consommation d’un individu. En conséquence, cette valeur n’est pas unique pour tous les
+individus, mais possède un caractère multidimensionnel.
+
+14
+
+L'approche de la valeur de la consommation culturelle se fonde plus spécifiquement sur
+l'hédonisme, l'esthétisme, le symbolisme et la recherche de lien social dans la relation
+avec les lieux touristiques et culturels ou encore avec les œuvres d’art. La valeur est alors
+une réponse affective du consommateur à l'égard de l'objet de consommation. Elle est
+fonction non pas de l'objet lui-même, mais plutôt de l'expérience de consommation
+résultant de son utilisation (valeur extrinsèque) ou de son appréciation (valeur
+intrinsèque). De nombreuses recherches (Aurier, Evrard et N’Goala, 2004 ; Passebois et
+Aurier, 2004) ont identifié plusieurs dimensions de la valeur selon leur nature
+expérientielle ou non et selon le caractère intrinsèque/extrinsèque de la consommation
+culturelle, sur la base d'une distinction entre valeur orientée vers soi et valeur orientée
+vers les autres. La définition relative et multidimensionnelle a été réaffirmée par Heinich
+(2017, p. 167) qui propose de définir la valeur comme
+la résultante de l'ensemble des opérations par lesquelles une qualité est affectée à
+un objet, avec des degrés variables de consensualité et de stabilité. Ces opérations
+sont fonction à la fois de la nature de l'objet évalué, de la nature des sujets
+évaluateurs et de la nature du contexte d'évaluation.
+
+15
+
+Dans le champ muséal, Collin-Lachaud et Passebois (2006) ont identifié plusieurs sources
+de valeurs issues de l’expérience : affective et hédonique, plaisir d’être et de découvrir un
+lieu, divertissement, esthétique, stimulation expérientielle et sensorielle, variété, surprise
+et évasion, valeur cognitive, intellectuelle, utilitaire, fonctionnelle, spiritualité,
+perception mystique d’un lieu, nostalgie, commémoration avec le passé, expression de
+soi, lien social (ce qui est à relier au plaisir de partager une expérience avec d’autres) et
+ludique. Plus particulièrement, dans le domaine touristique, Bonnefoy-Claudet (2011) a
+démontré que la thématisation d’une expérience touristique est source d’enchantement
+du visiteur et qu’elle contribue à accroître la valeur globale perçue. Enfin, s’intéressant à
+l’incidence de l’utilisation d’une application mobile sur les sources de valorisation d’une
+expérience de visite muséale, Nasr, Hallem et Lagier (2017) constatent que les publics peu
+familiers des smartphones développent leur concentration et leurs connaissances de
+façon ludique, tandis que les visiteurs habitués aux smartphones accèdent à une réalité
+dématérialisée, à des compléments d’information qu’ils partagent en temps réel avec leur
+entourage pour co-promouvoir leur expérience de visite unique et personnalisée. Dès
+lors, utilisé durant une visite touristique et culturelle, le smartphone peut agir sur
+différentes sources de la valeur perçue (pédagogique, récréative, sociale, de
+personnalisation).
+
+Mondes du Tourisme, 14 | 2018
+
+5
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+16
+
+Après cette mise en perspective des trois phases de l’expérience de consommation
+touristique et culturelle (l’avant expérience, le cœur de l’expérience et l’après
+expérience), il s’avère important de se tourner du côté des professionnels afin d’explorer
+les stratégies de production d’une expérience touristique et culturelle.
+
+2. Stratégies de production d’une expérience
+touristique culturelle hyperréelle
+17
+
+Du fait des transformations sociétales caractérisant l’ère postmoderne, la place du public
+se trouve profondément modifiée. Le public est passé d’un statut de « visiteurconsommateur » passif à celui de visiteur acteur de son expérience (Le Brun-Cordier,
+2001 ; Le Marec et Deshayes, 1997). Le public est capable de reconstruire le sens des
+messages qui lui sont transmis et de construire sa propre expérience.
+
+18
+
+Selon les travaux de recherche du psychologue Csikszentmihalyi (1997), la meilleure
+expérience (expérience extrême) est celle dite de flux (flow), c’est-à-dire un moment
+exceptionnel (extraordinaire et inoubliable) pendant lequel « ce que nous sentons, ce que
+nous souhaitons et ce que nous pensons sont en totale harmonie » (Csikszentmihalyi,
+1997).
+
+L’immersion dans l’expérience touristique et culturelle
+19
+
+Le consommateur « fait corps » avec l’expérience durant laquelle toute distance entre lui
+et le contexte situationnel est annulée.
+Un processus co-créatif
+
+20
+
+D’une façon synthétique, la production d’expérience peut se faire selon trois aspects
+(Carù et Cova, 2006) :
+• le décor, le design (Bouder Pailler et Damak, 2004) et la mise en scène avec une prise en
+compte particulière de la stimulation polysensorielle ;
+• la participation active du consommateur, aidée par les facilitateurs de toute nature, tels que
+le personnel en contact ou les nouvelles technologies (définissant le rôle de chacun dans les
+rituels mis en jeu autour de l’offre de l’entreprise) ;
+• le récit ou l’histoire qui se noue et qui se prolonge sous la forme, par exemple, de produits
+dérivés.
+
+21
+
+Les éléments qui définissent la mise en scène d’un événement touristique culturel
+accentuent la théâtralisation du lieu, avec la définition d’un scénario global propre au lieu
+ou à l’institution, avec des acteurs « jouant » des rôles précis (le personnel en contact, les
+visiteurs), avec des décors et éventuellement un fond musical. Ce sont principalement les
+éléments périphériques à l’offre centrale qui vont participer à la théâtralisation de l’offre
+globale. Mais le renforcement de la théâtralisation peut concerner également, et surtout,
+les manifestations touristiques et culturelles elles-mêmes, et pas seulement les services
+ou éléments périphériques de l’offre globale. Il ne suffit donc pas de déterminer les
+composantes de la théâtralisation, il convient également de définir son rôle.
+
+22
+
+Le visiteur peut également être amené à bricoler l’objet culturel, le transformer, le
+remixer, le commenter, etc. Différents qualificatifs peuvent alors être utilisés pour
+
+Mondes du Tourisme, 14 | 2018
+
+6
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+désigner le visiteur : « coproducteur », « cocréateur », « prosumer » ou encore « pro-am »
+(professionnel-amateur) (Flichy, 2010). Gamble et Gilmore (2013), à travers de nombreux
+exemples puisés dans l’industrie musicale, confirment ce paradigme de co-creational
+marketing, la valeur pouvant être créée par chacun des acteurs (producteur,
+consommateur).
+23
+
+Par ailleurs, l’association du visiteur, comme co-producteur, peut représenter une
+condition nécessaire de satisfaction. D’une façon générale, il est possible de favoriser
+l’appropriation d’une manifestation touristique culturelle par le visiteur lorsque celui-ci
+est libre de construire lui-même son offre : c’est le cas, par exemple, des Journées du
+patrimoine.
+
+24
+
+Si l’on prend davantage en compte les services périphériques susceptibles d’accroître la
+mise en scène de l’espace, et donc de jouer sur la construction de l’expérience vécue,
+certains éléments apparaissent, qui vont faciliter la participation ou l’appropriation
+(individuelle ou collective) de l’événement touristique culturel.
+La place des dispositifs numériques de médiation culturelle
+
+25
+
+À ce propos, dans le domaine muséal, il est important de resituer le rôle important de la
+médiation, à travers le personnel en contact et les supports écrits ou multimédia, qui peut
+influencer la valorisation de l’expérience (Chazaud, 1997). Plus spécifiquement, les
+nouvelles technologies facilitent la médiation entre l’objet culturel et le visiteur en créant
+de véritables « musées interactifs ». Des dispositifs technologiques sont mis en place :
+audioguides, bornes interactives, écrans tactiles, applications pour mobiles et tablettes…
+Ils sont qualifiés de self-service technologies ludo-éducatives (edutainment), favorisant la
+valeur de jeu et présentant une dimension intrinsèque provoquant du « plaisir » (fun)
+dans l’expérience vécue (Collin-Lachaud et Passebois, 2006 ; Jarrier, 2015). Collin-Lachaud
+et Passebois (2006) ont cependant mis en garde contre une « sur stimulation » sensorielle,
+pouvant entraîner des effets pervers (une « MacDonaldisation » de la culture).
+
+26
+
+Plus récemment, d’autres travaux de recherche (Jarrier et Bourgeon-Renault, 2012 ; De
+Miguel, Jarrier et Bourgeon-Renault, 2015) ont souligné la complémentarité :
+• d’une part, entre les outils interactifs de médiation orientés vers l’apprentissage avec une
+interactivité assez faible (audioguides, bornes) et ceux qui proposent une expérience plus
+interactive, divertissante ou multisensorielle (réalité augmentée, etc.), sans occulter
+cependant leur impact sur la dimension cognitive de la visite ;
+• d’autre part, entre ceux qui affectent négativement l’interaction sociale (audioguides,
+bornes ou smartphone) et ceux qui la stimulent (grandes tables interactives multi-usagers et
+tablettes tactiles).
+
+La prise en compte de l’hyperréalité dans les stratégies touristiques
+et culturelles
+27
+
+Dans le cadre du marketing expérientiel, les professionnels, à travers leur offre
+touristique et culturelle, peuvent donc amener l’individu à s’approprier l’expérience,
+
+Mondes du Tourisme, 14 | 2018
+
+7
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+c'est-à-dire à s’engager dans des processus inoubliables afin de vivre une « suite
+d’immersions » extraordinaires.
+28
+
+L’immersion a été principalement appréhendée par deux types d’approches :
+• La perspective s’appuyant sur le principe d’induction émotionnelle (Hetzel, 2002 ; Pine et
+Gilmore, 1999) : l’immersion est un résultat immédiat, elle est totale et souvent illustrée par
+la métaphore du plongeon dans un cadre réel ou hyperréel, sécurisé et thématisé.
+• L’approche fondée sur le concept d’appropriation (Carù et Cova, 2003 ; Fornerino et al., 2008 ;
+Charfi et Volle, 2010) : l’immersion est un processus, elle est partielle et « ressemble donc
+plutôt à une répétition de petits bains de pieds […] qui parfois, avec la progressivité, amène à
+l’immersion totale, et souvent non. » (Carù et Cova, 2003, p. 59).
+
+Le concept d’hyperréalité
+29
+
+Dans ce contexte, les outils interactifs de médiation, cités précédemment, permettent le
+transfert du visiteur vers un autre univers et une autre époque. Ils créent ainsi une
+expérience caractérisée par l’immersion et donc l’évasion (état psychologique de
+l’immersion). L’expérience de visite muséale peut alors provoquer chez le visiteur un
+sentiment d’être dans un autre monde et lui permettre de s’échapper ainsi du quotidien
+qui l’entoure. Selon Belaën (2003), l’expérience vécue lors de la consommation culturelle
+se fonde sur l’immersion grâce aux nouvelles technologies, qui permettent au visiteur
+d’effectuer « un voyage dans le temps, de s’assimiler aux personnages du monde
+représenté à travers les mécanismes de projection, d’identification et d’absorption ».
+
+30
+
+Ainsi, en dépit du fait que l’une des dimensions majeures de la consommation touristique
+et culturelle actuelle est l’hyperréalité (selon laquelle les individus se contentent, pour
+toute réalité, de celle des images et des copies), il est important de ne pas définir
+l’immersion seulement comme « un plongeon dans un contexte expérientiel de type
+Eurodisney » (Carù et Cova, 2006). À la fois état et processus, l’immersion correspond à
+une perception globale, a posteriori, par les individus de l’état dans lequel ils se trouvaient
+au cours de l’expérience vécue (Fornerino et al., 2008, p. 101).
+
+31
+
+Afin de comprendre en quoi les univers touristiques et culturels hyperréels sont
+potentiellement immersifs, il convient de définir le concept d’hyperréalité. Venkatesh et
+al. (1993) définissent l’hyperréalité comme une construction de la réalité : « une
+construction des choses plus vraies que la réalité même ». Selon ces auteurs, le réel est à
+relier à des dimensions de contexte, de culture, d’histoire et d’époque. En conséquence, le
+concept d’hyperréalité infirme le mythe du réel dans le modernisme. La réalité aurait
+disparu, laissant place à un monde caractérisé par l’image, l’illusion et la simulation.
+Selon Graillot (2005a, p. 51), l’hyperréalité peut conduire « à ne plus faire la différence
+entre "le vrai" et le "faux" ». L’auteur distingue ainsi deux types opposés d’hyperréalité :
+• l’une serait fondée sur une copie authentique ou « améliorée » de la réalité matérielle reliant
+les signifiants à une réalité signifiée ;
+• l’autre correspondrait à une copie ne coïncidant pas à un élément original et qui ne
+reposerait donc pas sur une réalité matérielle ; elle peut alors être interprétée comme une
+réalité originale : « Dans cette perspective, les signifiants sont détachés d’une réalité
+signifiée » (2005a, p. 51).
+
+32
+
+Les contours du phénomène d’hyperréalité touristique ont été précisés. Il présente huit
+principales caractéristiques : une certaine démesure, la thématisation, le rapprochement
+et/ou la confusion de dimensions hétérogènes et/ou contradictoires, l’intérêt pour le
+
+Mondes du Tourisme, 14 | 2018
+
+8
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+concept du temps, pour les détails, la mise en scène de dimensions extrêmes et
+contrastées, la volonté de contrôler les risques ou sensations déplaisantes ainsi que de
+générer une immersion grâce à des concepts projectifs parfois régressifs (Graillot, 2005b,
+p. 6).
+33
+
+Les musées semblent présenter un plus ou moins grand nombre de caractéristiques
+hyperréelles. Néanmoins, le genre muséal est susceptible d’influencer le recours plus ou
+moins grand aux stratégies de génération de l’hyperréalité.
+Des formes d’immersion hyperréelles spécifiques selon la nature du lieu touristique
+et culturel
+
+34
+
+Graillot (2005a) dénombre quatre stratégies de génération de l’hyperréalité :
+• la conception de copies « authentiques » et/ou légèrement « améliorées » d’originaux ;
+• la conception de copies « plus réelles » d’originaux ;
+• la transformation du tout faux en totalement réel ;
+• la juxtaposition, voire la confusion, de dimensions hétérogènes et/ou contradictoires.
+
+35
+
+À partir de cette typologie de stratégies, il paraît intéressant d’analyser comment les
+professionnels se sont appropriés le concept d’hyperréalité en direction des visiteurs et
+selon la nature du genre muséal.
+
+36
+
+Dans ce cadre, nous avons retenu plusieurs genres muséaux en fonction du degré
+expérientiel de l’offre (de l’éducation, ou dimension cognitive, au divertissement, ou
+dimension affective de plaisir, d’expérience partagée). En conséquence, nous avons
+adopté un processus de benchmarking pour étudier et analyser les différentes stratégies de
+production d’une expérience hyperréelle.
+
+37
+
+Trois genres muséaux ont ainsi été identifiés : les musées d’art (forte dimension
+éducative, mais également affective), les musées des sciences ou de techniques
+(dimension ludico-éducative ou edutainment) et les muséo-parcs archéologiques (forte
+dimension de divertissement ou entertainment).
+Le cas des musées d’art
+
+38
+
+Bien que l’on puisse penser que les musées d’art (dont la mission porte sur les collections)
+ne sont pas concernés par une approche de type Disney consistant « à créer d’abord un
+imaginaire, qui ne s’inspire pas du consommateur, mais est entièrement conçu par des
+spécialistes et auquel tous les acteurs […] pourront adhérer » (Firat et al., 1995), ces
+derniers semblent toutefois recourir fréquemment aux deux premières stratégies de
+génération d’hyperréalité.
+
+39
+
+En effet, il n’est pas rare que les expositions soient thématiques et thématisées plutôt que
+chronologiques, que l’on propose des regards croisés entre artistes, œuvres ou époques…
+Il est également possible de retrouver dans ces lieux tant la copie authentique que la
+copie « améliorée ». Les dispositifs interactifs de médiation, qui incluent de la réalité
+augmentée, contribuent à exacerber le souci du détail, en permettant, par exemple, de
+visionner une œuvre d’art et de découvrir diverses restaurations quasi invisibles à l’œil
+nu grâce à technologies infrarouges ou ultra-violettes. Enfin, au sein des musées
+américains, la coexistence de reproductions et d’originaux favorise « la falsification ».
+Graillot (2005a, p. 54) confirme ainsi que pour aider le visiteur à faire la différence, les
+médiateurs installent des panneaux mêlant copies et originaux (Eco, 1985, 1986).
+
+Mondes du Tourisme, 14 | 2018
+
+9
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+40
+
+Toutefois, le recours des musées d’art à des éléments hyperréels pose la question de leur
+perception par les publics. L’expérience artistique est par nature subjective et certains
+visiteurs valorisent plus que d’autres la rencontre intime et authentique avec une œuvre.
+En effet, Cova et Cova (2002) identifient deux profils d’individus en quête d’authenticité :
+• ceux qui ne recherchent que de l’authenticité « véritable » ;
+• « ceux qui se contentent d’un ersatz d’authenticité hyperréel apparaissant comme moins
+risqué et plus édulcoré qu’un produit authentique. » (Graillot, 2005a, p. 51)
+
+41
+
+Ainsi, il semble que la première catégorie d’individus est susceptible de percevoir la
+présence d’éléments hyperréels comme une entrave à l’appréciation pure de l’œuvre. En
+effet, on ne peut exclure la possible survenance de comportements de résistance, de
+détournement ou de réappropriation, témoignant de la volonté des individus de
+recouvrer leur subjectivité et de subir moins passivement les contraintes de ces
+environnements hyperréels (Graillot, 2005a, p. 57). En outre, il existerait « un seuil de
+simulation au-delà duquel les individus rejettent le faux, seuil de simulation parfois
+dépassé dans les environnements hyperréels » (Graillot, 2005a, p. 58).
+Le cas des muséographies immersives dans les musées des sciences ou de
+techniques
+
+42
+
+Si le musée d’art privilégie, encore aujourd’hui, un recours croissant mais modéré aux
+dispositifs interactifs et immersifs (dans le but de valoriser les œuvres et de favoriser leur
+appréciation cognitive ou esthétique), d’autres institutions font le choix de recourir à des
+muséographies immersives (présentations métaphoriques qui conduisent à un
+déplacement de l’intérêt du contenu vers la forme) (Belaën, 2005, p. 100). En effet, à
+l’heure actuelle, de nouvelles formes de muséographie se développent à travers des
+expositions d’immersion qui présentent notamment les caractéristiques suivantes :
+• le recours au principe de la simulation afin de créer l’illusion d’une situation, en jouant de
+l’artifice de type « comme si vous y étiez » ;
+• l’emphase mise sur la suggestion et non plus sur l’interprétation ;
+• l’intégration physique du visiteur dans un environnement clos et fortement scénographié et
+la volonté de lui faire jouer un rôle actif dans la reconstruction d’un univers de référence en
+rapport avec la thématique ;
+• l’abandon de l’approche pédagogique au profit d’une démarche faisant appel à l’émotion et
+aux sensations, éléments déclencheurs du désir de connaissance de la part de l’individu
+(Belaën, 2003, 2005).
+
+43
+
+Les musées de sciences ou de techniques qui recourent aux expositions d’immersion
+paraissent donc réunir un plus grand nombre de caractéristiques hyperréelles que les
+musées d’art. En effet, la thématisation et la scénographie prennent davantage d’ampleur,
+de même que l’intérêt porté au temps. L’objectif est de donner au visiteur l’impression
+d’être dans « un temps et un lieu particuliers » (Belaën, 2005, p. 95). Dans certains cas, à
+défaut de pouvoir pénétrer ces « espaces-temps » dans leur contexte d’origine, ils
+peuvent être transposés dans les institutions, ou reconstruits (Belaën, 2005, p. 95). Tout
+semble aller dans le sens d’une nouvelle muséographie « immersive » avec la création de
+musées virtuels ou de e-galeries à travers le développement d’une interaction accrue.
+
+44
+
+Toutefois, que les expositions d’immersion soient visitées in situ ou via le site internet de
+l’institution, le recours à des éléments hyperréels suscite chez le visiteur un panel de
+réactions diverses et nuancées, rappelant que « l’appropriation de ces dispositifs malgré
+
+Mondes du Tourisme, 14 | 2018
+
+10
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+leurs promesses n’est pas immédiate » (Belaën 2003, p. 13). Les travaux de Belaën (2005)
+insistent sur la tension entre un effet d’immersion et un effet de distanciation, fonction
+de l’adhésion du visiteur au dispositif. Ils confirment ainsi l’existence de cinq types de
+réactions possibles face à une muséographie immersive, allant de son appropriation à son
+rejet de la part du public : la résonance (complète adhésion aux dispositifs), la submersion
+(individu noyé dans ses émotions par rapport au vécu sans aucun recul), la distanciation
+critique, la banalisation ou le rejet.
+Le cas des muséo-parcs archéologiques
+45
+
+Outre les musées d’art ou les expositions d’immersions dans les musées de sciences ou de
+techniques, les muséo-parcs constituent une autre catégorie de structures culturelles qui
+offrent des univers hyperréels. Ils font partie des parcs de loisirs scientifiques et
+cherchent à se distinguer des « musées archéologiques traditionnels, qualifiés de lieux
+poussiéreux, ennuyeux et mortifères » (Roy, 2005, p. 37). Leur recours plus intensif aux
+stratégies de génération d’hyperréalité transparaît à travers de nombreux éléments :
+• l’accentuation des détails et l’emphase mise sur la thématisation ;
+• un concept fondateur : « la proposition d’un voyage dans le temps à partir d’un lieu
+patrimonial (Chaumier, 2003) » (Roy, 2005, p. 37), un temps passé souvent idéalisé et
+diachronique dans lequel les visiteurs peuvent s’immerger, voire régresser ;
+• une volonté de « remplacer les originaux trop fragiles par des fac-similés, de créer d’un
+environnement de plein air, un "microclimat préhistorique" accompagné d’un parc
+animalier […], et de reconstituer des scènes à caractère "ethno-archéologique" » (Roy, 2005,
+p. 42) ;
+• la perte de lien entre les vestiges archéologiques et leur contexte signifiant, résultant de
+leur délocalisation au sein du musée (Roy, 2005, p. 38) ;
+• le rôle actif confié au visiteur invité à expérimenter par lui-même ;
+• la transformation du tout faux en totalement réel et la juxtaposition, voire la confusion de
+dimensions hétérogènes et/ou contradictoires, que Serge Chaumier nomme « diversité
+bariolée » (2005, p. 31).
+
+46
+
+Ce dernier point est particulièrement prégnant dans les muséo-parcs archéologiques,
+lieux qui résultent le plus souvent d’une juxtaposition de deux modes de restitution du
+patrimoine archéologique plutôt que d’une intégration véritable (Roy, 2005, p. 39). Le
+principal défi est de parvenir à donner de la congruence à l’ensemble. L’auteur semble
+mettre en garde ces institutions contre certaines dérives. En effet,
+certains parcs, que l’on pourrait qualifier « d’attrape-tout », procèdent à des
+amalgames [...]. Les grottes, gouffres, cavités naturelles, simples curiosités
+géologiques au titre du relief karstique, sont souvent peuplées de reconstitutions
+d’hommes préhistoriques, même si aucune trace d’occupation réelle n’y a été
+décelée ! […] Un écart maximum se creuse entre l’extrême pauvreté des vestiges […]
+et l’exubérance excessive des reconstitutions de scènes préhistoriques animées par
+des mannequins, sortis d’ateliers spécialisés, destinés à l’origine au cinéma
+d’épouvante. (Roy, 2005, p. 46)
+
+47
+
+Le parc archéologique se tourne alors vers les nouvelles technologies et les images
+virtuelles « ou en 3D » pour faire revivre, « de manière réaliste, voire hyperréaliste », les
+univers archéologiques oubliés (Roy, 2005, p. 51). Ce faisant, il est à la fois populaire (car il
+répond à la tendance de l’individu à préférer le simulacre au réel) et critiqué par les
+détenteurs de la culture savante (parce que, conséquence de l’hyperréalité, il privilégie
+« la reproduction à l’original, la reconstitution au vestige, la ruine à l’"authentique" (Roy,
+
+Mondes du Tourisme, 14 | 2018
+
+11
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+2005, p. 57), l’authenticité visuelle à l’authenticité historique et enfin la surface à la
+profondeur des choses. » (Graillot, 2005a, p. 44, 49)
+48
+
+Au terme de cette brève radiographie du paysage muséal, fondée sur le phénomène
+d’hyperréalité, il semble possible de positionner les organisations sur un continuum selon
+leur genre et selon le recours plus ou moins fort aux éléments constitutifs d’un univers
+hyperréel. Ces résultats peuvent aider les professionnels à élaborer des stratégies fondées
+sur l’hyperréalité dans un contexte de marketing expérientiel, en direction des visiteurs,
+dans un but d’élargissement des publics.
+Figure 1. Un continuum du recours aux stratégies de génération d’hyperréalité par les institutions
+de genres muséaux différents (adapté de Graillot, 2005, p. 55)
+
+Conclusion
+49
+
+Toute expérience touristique et culturelle peut être appréhendée selon trois phases.
+Avant l’expérience, les caractéristiques intra-individuelles (implication, recherche de
+stimulation sensorielle, recherche de sensations, orientation visuelle ou verbale, classique
+ou romantique) interviennent dans le processus de décision de visiter un lieu touristique
+et culturel. Au cœur de l’expérience touristique et culturelle, de multiples dimensions
+(sensorielle, émotionnelle, active, tribale, narrative et mémorielle) interagissent
+(Minivielle et Minivielle, 2014). Après l’expérience, de nombreuses sources de valorisation
+sont identifiées et présentent de nombreuses similitudes, qu’elles soient issues d’une
+visite touristique, culturelle ou muséale (Bonnefoy-Claudet, 2011 ; Collin-Lachaud et
+Passebois) et renforcées par des outils mobiles de médiation (Nasr, Hallem et Lagier,
+2017). Dès lors, dans un souci d’enrichir, voire de réenchanter l’expérience vécue, les
+professionnels du tourisme culturel mettent en œuvre des stratégies de production
+d’expérience plus ou moins fortement co-créées, interactives, thématisées ou immersives,
+voire hyperréelles. Les formes muséales contemporaines illustrent la diversité des
+immersions hyperréelles produites.
+
+50
+
+Cependant, certains individus peuvent encore rencontrer des difficultés à déchiffrer le
+langage des formes, de la mise en espace et de la scénographie. Aussi, convient-il de ne
+pas négliger l'importance du personnel en contact dans la construction et l’organisation
+de l’expérience vécue (accueil, médiation, information et communication).
+
+51
+
+Sur un autre plan, le développement des nouvelles technologies peut provoquer, chez le
+public, une « sur stimulation » sensorielle entraînant des effets pervers. Les structures
+touristiques et culturelles, favorisant leur accessibilité, sont accusées de désacralisation
+de leur identité et de « Disneyisation » (ou encore de « MacDonaldisation »), c’est-à-dire
+
+Mondes du Tourisme, 14 | 2018
+
+12
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+de « marchandisation de la culture ». Mais ne pourrait-on pas davantage interpréter cette
+évolution comme l’effacement de la distinction entre culture classique (culture savante)
+et culture de masse, ce qui semble correspondre à ce que Lahire (2004) nomme le
+décloisonnement des genres culturels ? Sur un plan managérial, cette recherche
+contribue à réfléchir au positionnement des organisations et, en conséquence, à des
+éléments de différenciation à introduire dans l’élaboration de leur future stratégie afin de
+permettre un meilleur accès à leur offre, favorisant ainsi un élargissement de leurs
+publics.
+
+BIBLIOGRAPHIE
+Florence BELAEN, « L’immersion dans les musées de science : médiation ou séduction ? », Revue
+Culture et Musées, n° 5, 2005.
+Florence BELAEN, « L'analyse de l'apparition d'un nouveau genre culturel dans les musées des
+sciences : les expositions d'immersion », Xème colloque bilatéral franco-roumain, CIFSIC,
+Université de Bucarest, Actes électroniques, 2003.
+Imed Ben NASR, Yousra HALLEM et Joëlle LAGIER, « Quel est le rôle de l’application mobile dans la
+valorisation de l’expérience muséale ? », Management & Avenir, n° 2, 2017.
+Daniel Ellis BERLYNE, Conflict, Arousal and Curiosity, Mc Graw-Hill Book Company, 1960.
+Lydie BONNEFOY-CLAUDET, Les effets de la thématisation du lieu sur l'expérience vécue par le
+consommateur. Une double approche cognitive et expérientielle, thèse de doctorat en sciences de
+gestion, Université de Grenoble, 2011.
+Danielle BOUDER PAILLER et Leïla DAMAK, « Le design de l’espace de représentation d’un spectacle
+vivant influence-t-il les attitudes et comportements des spectateurs ? Approche exploratoire »,
+Actes du colloque sur le design, Nantes, 2004.
+Dominique BOURGEON, Essai de modélisation du comportement dans le domaine culturel : une application
+au secteur théâtral, thèse de doctorat en sciences de gestion, Université de Bourgogne, 1994.
+Dominique BOURGEON et Marc FILSER, « Les apports du modèle expérientiel à l'analyse du
+comportement dans le domaine culturel : une exploration conceptuelle et méthodologique »,
+Recherches et applications en marketing, vol. 10, n° 4, 1995.
+Antonella CARÙ et Bernard COVA, « Expériences de consommation et marketing expérientiel »,
+Revue française de gestion, vol. 32, n° 162, 2006.
+Antonella CARÙ et Bernard COVA, « Approche empirique de l’immersion dans l’expérience de
+consommation : les opérations d’appropriation », Recherche et applications en marketing, vol. 18, n
+° 2, 2003.
+Anis CHARFI et Pierre VOLLE, « L’immersion dans les environnements expérientiels en ligne : rôle
+des dispositifs de la réalité virtuelle », actes du congrès international de l’Association française
+du marketing, Le Mans, 2010.
+
+Mondes du Tourisme, 14 | 2018
+
+13
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+Pierre CHAZAUD, « Marketing de la visite culturelle et implication du public », Revue publics et
+musées, n° 11-12, 1997.
+Isabelle COLLIN-LACHAUD et Juliette PASSEBOIS, « Le rôle des NTIC dans la valorisation des
+expériences culturelles et la fidélisation des visiteurs : le cas du Paléosite », 11 èmes Journées de
+recherche en marketing de Bourgogne, Université de Bourgogne, 2006.
+Terry L. CHILDERS, Michael J. HOUSTON et Susan E. HECKLER, « Measurement of Individual
+Differences in Visual Versus Verbal Information Processing », Journal of Consumer Research,
+vol. 12, n° 2, 1985.
+Bernard COVA, « Leçons de marketing postmoderne », L’Expansion Management Review, 1996.
+Véronique COVA et Bernard COVA, « Les particules expérientielles de la quête d'authenticité du
+consommateur », Décisions marketing, n° 8, 2002.
+Mihaly CSIKSZENTMIHALYI, Finding Flow, Perseus Book, 1997.
+Ellen DAY et Melvin R. CRASK, « Value assessment: the antecedent of customer satisfaction »,
+Journal of Consumer Satisfaction Dissatisfaction and Complaining Behavior, vol. 13, n° 1, 2000.
+Virginie DE BARNIER et Joëlle LAGIER, « La résistance à l’art contemporain : ses attitudes et
+représentations des publics aux implications marketing », Décisions marketing, n° 68, 2012.
+Marta DE MIGUEL DE BLAS, Dominique BOURGEON-RENAULT et Élodie JARRIER, « Can Interactive
+Mediation Tools Bridge the Identity Gap Between the Public and the Art Museum? », International
+Journal of Arts Management, vol. 18, n° 1, 2015.
+Stéphane DEBENEDETTI, Rôle et impact de l’accompagnement du visiteur du lieu culturel. Le cas de la sortie
+au musée d’art, thèse de doctorat en sciences de gestion, Université de Paris 9 Dauphine, 2001.
+Stéphane DEBENEDETTI, « Le contexte social : un facteur déterminant des comportements de sortie
+culturelle », actes de la 5ème Conférence internationale sur le management des arts et de la
+culture, Helsinki, 1999.
+Stéphane DEBENEDETTI, « La convivialité de groupe dans les sorties culturelles : état de l'art et
+voies de recherche », actes du 14ème Congrès international de l’Association française du
+marketing, 1998.
+Christian DERBAIX et Lennart SJÖBERG, « Movie stars in space: A comparison of preference and
+similarity judgments », International Journal of Research in Marketing, vol. 11, n° 3, 1994.
+Lynn Diane DIERKING, « Du musée au parc d’attractions. Rôle de l'interaction sociale dans
+l'expérience muséale », Revue publics et musées, n° 5, 1994.
+Ronan DIVARD et Philippe ROBERT-DEMONTROND, « La nostalgie : un thème récent dans la recherche
+en marketing », Recherche et application en marketing, vol. 12, n° 4, 1997.
+Colette DUFRESNE-TASSÉ, « Limites des études sur le comportement du visiteur, potentiel de la
+recherche sur son fonctionnement psychologique », actes de la 2 ème Conférence internationale
+sur le management des arts et de la culture, Montréal, 1993.
+Yves EVRARD, Philippe AURIER et Gilles N’GOALA, « Comprendre et mesurer la valeur du point de vue
+du consommateur », Recherche et applications en marketing, vol. 19, n° 3, 2004.
+Edith FAGNONI et Marie GRAVARI-BARBAS, Nouveaux musées, nouvelles ères urbaines, nouvelles pratiques
+touristiques, coll. « Géographie », Presses de l’Université Laval, 2015.
+Nathalie HEINICH, Des valeurs. Une approche sociologique, Gallimard, 2017.
+
+Mondes du Tourisme, 14 | 2018
+
+14
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+A. Fuat FIRAT, Nikhilesh DHOLAKIA et Alladi VENKATESH, « Marketing in a Postmodern World »,
+European Journal of Marketing, vol. 29, n° 1, 1995.
+Patrice FLICHY, Le sacre de l'amateur. Sociologie des passions ordinaires à l'ère numérique, Seuil-La
+République des idées, 2010.
+Jean-Marie FLOCH, « La contribution d'une sémiotique structurale à la conception d'un
+hypermarché », Recherche et applications en marketing, vol. 4, n° 2, 1989.
+Marianela FORNERINO, Agnès HELME-GUIZON et Davis GOTTELAND, « Expériences cinématographiques
+en état d'immersion : effet sur la satisfaction », Recherche et applications en marketing, vol. 23, n° 3,
+2008.
+Jordan GAMBLE et Audrey GILMORE, « A New Era of Consumer Marketing? An Application of Cocreational Marketing in the Music Industry », European Journal of Marketing, vol. 47, n° 11/12,
+2013.
+Laurence GRAILLOT, « Réalités (ou apparences ?) de l’hyperréalité : une application au cas du
+tourisme de loisirs », Recherche et applications en marketing, vol. 20, n° 1, 2005a.
+Laurence GRAILLOT, « Tentative de caractérisation du phénomène d’hyperréalité touristique : un
+état de l’art », actes de la 1ère journée thématique AFM de recherche en marketing du tourisme et
+des loisirs, Chambéry, 2005b.
+Laurence GRAILLOT, « Émotions et comportement du consommateur », Recherche et applications en
+marketing, vol. 13, n° 1, 1998.
+Patrick HETZEL, Planète conso : marketing expérientiel et nouveaux univers de consommation, Éditions
+d’organisation, Paris, 2002.
+Morris B. HOLBROOK, Consumer Value: A Framework for Analysis and Research, Routledge, 1999.
+Morris B. HOLBROOK, « The Nature Of Customer Value: An Axiology of Services In The
+Consumption Experience, Service Quality », dans Roland T. RUST et Richard L. OLIVER (dir.), Service
+Quality: New Directions in Theory and Practices, Sage Publications, 1994.
+Morris B. HOLBROOK, « Aims, Concepts et Methods for the Representation of Individual Differences
+in Esthetic Responses to Design Features », Journal of Consumer Research, vol. 13, n° 3, 1986.
+Morris B. HOLBROOK et Kim P. CORFMAN, « Quality and Value in the Consumption Experience:
+Phaedrus Rides Again », dans Jacob JACOBY et Jerry OLSON (dir.), Perceived Quality: How Consumers
+View Stores and Merchandise, Lexington Books, 1984.
+Morris B. HOLBROOK et Elizabeth C. HIRSCHMAN, « The Experiential Aspects of Consumption:
+Consumer Fantasies, Feelings and Fun », Journal of Consumer Research, n° 9, 1982.
+Douglas B. HOLT, « How consumers consume: A typology of consumption practices », Journal of
+Consumer Research, vol. 22, n° 1, 1995.
+Élodie JARRIER, Une approche expérientielle des effets de l’utilisation d’un outil interactif dans le domaine
+culturel : une application aux musées d’art, thèse de doctorat en sciences de gestion, Université de
+Bourgogne, 2015.
+Élodie JARRIER et Dominique BOURGEON-RENAULT, « Impact of Mediation Devices on the Museum
+Visit Experience and on Visitors’ Behavioural Intentions », International Journal of Arts Management
+, vol. 15, n° 1, 2012.
+Joëlle LAGIER, Le style esthétique, caractéristique individuelle de la perception et du jugement à l’égard de
+l’objet, thèse de doctorat en sciences de gestion, Université de Bourgogne, 2006.
+
+Mondes du Tourisme, 14 | 2018
+
+15
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+Bernard LAHIRE, La culture des individus, dissonances culturelles et distinction de soi, La Découverte,
+2004.
+Pascal LE BRUN-CORDIER, Renforcer le lien entre l'étude des publics et l'action culturelle, Les institutions
+culturelles au plus près du public, La Documentation française, 2001.
+Joëlle LE MAREC et Stéphanie DESHAYES, « Évaluation, marketing et muséologie », Revue publics et
+musées, n° 11-12, 1997.
+Isabelle LEFORT, « L’identité lyonnaise au risque de ses musées », dans Edith FAGNONI et Marie
+GRAVARI-BARBAS
+
+(dir.), Nouveaux musées, nouvelles ères urbaines, nouvelles pratiques touristiques, coll.
+
+« Géographie », Presses de l’Université Laval, 2015.
+Fiona MACLEAN, « Le passé est à vendre. Réflexions sur le marketing des musées », Revue publics et
+musées, vol. 11-12, 1997.
+Michel MAFFESOLI, Au creux des apparences. Pour une éthique de l’esthétique, Plon, 1990.
+Michel MAFFESOLI, Le temps des tribus : le déclin de l’individualisme dans les sociétés de masse,
+Méridiens-Klincksieck, 1988.
+Patricia MANN, La sensibilité esthétique et la sensibilité à l’interaction sociale : deux nouvelles variables
+pour expliquer le comportement de fréquentation des concerts de musique classique, thèse de doctorat en
+sciences de gestion, Université de Bourgogne, 2000.
+Terry O’SULLIVAN, « All together now: A symphony orchestra audience as a consuming
+community », Consumption, Markets and Culture, vol. 12, n° 3, 2009.
+Juliette PASSEBOIS, « Bâtir et entretenir une relation avec les visiteurs d’une institution
+artistique », dans Isabelle ASSASSI, Dominique BOURGEON-RENAULT et Marc FILSER (dir.), Recherches
+en marketing des activités culturelles, 2010.
+Juliette PASSEBOIS et Philippe AURIER, « Le rôle de l’expertise des consommateurs dans l’expérience
+culturelle : une approche par la valeur de consommation », 9 èmes Journées de recherche en
+marketing de Bourgogne, 2004.
+Christine PETR-LE HUÉROU, Le phénomène de fréquentation touristique du patrimoine en vue de sa
+gestion : le cas des sites mégalithiques du Morbihan, thèse de doctorat en sciences de gestion,
+Université de Rennes 1, 1998.
+B. Joseph PINE et James H. GILMORE, The Experience Economy: Work is a Theatre and Every Business is a
+Stage, HBS Press, 1999.
+Mathilde PULH, La valorisation de l’expérience de consommation d’activités culturelles : le cas des festivals
+d’arts de la rue, thèse de doctorat en sciences de gestion, Université de Bourgogne, 2002.
+Puthankurissi S. RAJU, « Optimal Stimulation Level: its Relationship to Personality, Demographics,
+and Exploratory Behavior », Journal of Consumer Research, vol. 7, n° 3, 1980.
+Éric REMY, Le lien social dans les échanges marchands de service : concept de services de lien et habillage
+social, thèse de doctorat en sciences de gestion, Université de Rouen, 2000.
+Marsha L. RICHINS, « Measuring emotions in the consumption experience », Journal of Consumer
+Research, vol. 24, n° 2, 1997.
+George RITZER, Enchanting a Disenchanted World. Revolutionizing the Means of Consumption, Pine Forge
+Press, 1999.
+
+Mondes du Tourisme, 14 | 2018
+
+16
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+Claire ROEDERER, L’expérience de consommation : exploration conceptuelle, méthodologique et stratégique,
+thèse de doctorat en sciences de gestion, Université de Bourgogne, 2008.
+Jean-Bernard ROY, « Les parcs archéologiques au risque du parc de divertissement : essai
+d’approche typologique », Revue culture et musées, n° 5, 2005.
+Alladi VENKATESH, John F. SHERRY Jr et A. Fuat FIRAT, « Postmodernism and the Marketing
+Imaginary », International Journal of Research in Marketing, vol. 10, n° 3, 1993.
+Marvin ZUCKERMAN, Elizabeth A. KOLIN, Leah PRICE et Ina ZOOB, « Development of a sensationseeking scale », Journal of Consulting Psychology, vol. 28, n° 6, 1964.
+
+RÉSUMÉS
+Le caractère hyperréel du patrimoine s’exprime fortement à travers la diversité des formes
+muséales postmodernes. Prenant appui sur les liens existant entre le tourisme culturel, le
+domaine muséal et le concept d’hyperréalité, cet article mobilise l’approche expérientielle tout
+d’abord pour décrire et mettre en perspective les trois phases de l’expérience de consommation
+touristique et culturelle (l’avant expérience, le cœur de l’expérience et l’après expérience). Puis,
+il explore les stratégies de production d’une expérience touristique et culturelle hyperréelle,
+décrit ce processus co-créatif et situe la place des dispositifs numériques de médiation dans celuici. Pour terminer, il identifie différentes formes d’immersions hyperréelles spécifiques en
+fonction de la nature du lieu touristique et culturel permettant d’observer les effets de ces
+stratégies sur l’expérience de visite des musées.
+The hyperreal character of the heritage is strongly expressed through the diversity of
+postmodern museum forms. Drawing on the links existing between cultural tourism, the museum
+domain and the concept of hyperreality, this article mobilizes the experiential approach first to
+describe and emphasize the three phases of the tourism and cultural consumption experience
+(the pre-experience, the core of the experience and the post-experience). Then, it explores the
+strategies of producing a hyperreal tourist and cultural experience, describes this co-creative
+process, and situates digital mediation devices in it. Finally, it identifies different forms of
+specific hyperreal immersions depending on the nature of the tourist and cultural place, allowing
+to observe the effects of these strategies on the museum experience.
+
+INDEX
+Keywords : experiential marketing, cultural tourism, lived experience, immersion, hyperreality
+Mots-clés : marketing expérientiel, tourisme culturel, expérience vécue, immersion,
+hyperréalité
+
+AUTEURS
+DOMINIQUE BOURGEON-RENAULT
+Professeur des Universités en marketing
+CREGO EA 7317
+Université de Bourgogne
+2, Bd. Gabriel
+
+Mondes du Tourisme, 14 | 2018
+
+17
+
+Marketing expérientiel et hyperréalité dans le domaine du tourisme culturel
+
+BP 26611
+21066 DIJON Cedex
+dominique.renault-bourgeon@orange.fr
+ELODIE JARRIER
+Maître de conférences en marketing
+GRANEM EA 7456
+Université d’Angers
+13, Allée François Mitterrand
+elodie.jarrier@univ-angers.fr
+
+Mondes du Tourisme, 14 | 2018
+
+18
+
+

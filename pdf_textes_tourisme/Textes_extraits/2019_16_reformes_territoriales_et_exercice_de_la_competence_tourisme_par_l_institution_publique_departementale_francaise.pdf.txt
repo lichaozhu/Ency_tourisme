@@ -1,0 +1,856 @@
+Mondes du Tourisme 
+16 | 2019
+
+Tourisme et emplois : singularités, permanences,
+transformations
+
+Réformes territoriales et exercice de la compétence
+tourisme par l’institution publique départementale
+française. Cas exploratoires de la CharenteMaritime et des Deux-Sèvres
+Territorial reforms and the exercise of tourism policy by the French
+departmental public institution. Focus on Charente-Maritime and Deux-Sèvres
+Jérôme Piriou et Marie-Noëlle Rimaud
+
+Édition électronique
+URL : http://journals.openedition.org/tourisme/2376
+DOI : 10.4000/tourisme.2376
+ISSN : 2492-7503
+Éditeur
+Éditions touristiques européennes
+ 
+Référence électronique
+Jérôme Piriou et Marie-Noëlle Rimaud, « Réformes territoriales et exercice de la compétence tourisme
+par l’institution publique départementale française. Cas exploratoires de la Charente-Maritime et des
+Deux-Sèvres », Mondes du Tourisme [En ligne], 16 | 2019, mis en ligne le 01 décembre 2019, consulté le
+09 avril 2020. URL : http://journals.openedition.org/tourisme/2376  ; DOI : https://doi.org/10.4000/
+tourisme.2376
+
+Ce document a été généré automatiquement le 9 avril 2020.
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modification 4.0 International.
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+Réformes territoriales et exercice de
+la compétence tourisme par
+l’institution publique
+départementale française. Cas
+exploratoires de la CharenteMaritime et des Deux-Sèvres
+Territorial reforms and the exercise of tourism policy by the French
+departmental public institution. Focus on Charente-Maritime and Deux-Sèvres
+Jérôme Piriou et Marie-Noëlle Rimaud
+
+Introduction
+1
+
+En France, les lois de décentralisation, dites lois Defferre, du 2 mars 1982 et du 7 janvier
+19831 ont organisé la répartition des compétences entre différentes institutions. Par
+cette décentralisation, le pouvoir central reconnaît une certaine autonomie à des
+collectivités que l’on qualifie de locales ou territoriales. Une compétence, dans le sens
+juridique du terme, comprend à la fois une aptitude légale à intervenir, ainsi que la
+mise en application de politiques dans des domaines d’intervention spécifiques
+(Pontier, 2012). Les collectivités territoriales historiques (communes, départements,
+régions) et les établissements publics de coopération intercommunale [EPCI] disposent,
+dans les faits, de compétences de plus en plus étendues et le mode de détermination des
+compétences a une incidence directe sur l’exercice de celles-ci. Ainsi, le troisième acte
+de la décentralisation s’est traduit par trois lois qui ont, d’une part, spécialisé les
+compétences des collectivités territoriales et, d’autre part, redéfini les périmètres
+spatiaux. La loi du 27 janvier 20142 sur la modernisation de l’action publique territoriale
+et d’affirmation des métropoles, dite loi « MAPTAM », avait pour objectif de clarifier
+
+Mondes du Tourisme, 16 | 2019
+
+1
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+l’exercice des compétences au niveau local. Le statut de métropole est créé, permettant
+à ces dernières d’intervenir dans la voirie départementale, dans les transports scolaires
+ou encore dans la promotion des territoires concernés. Puis, la loi du 16 janvier 2015 3,
+relative à la délimitation des nouvelles grandes régions, aux élections régionales et
+départementales et modifiant le calendrier électoral, a marqué une étape importante
+dans le redécoupage des régions métropolitaines. En effet, l’article 1 de cette loi précise
+que 13 nouvelles régions se substituent aux 22 régions métropolitaines existantes sans
+modification des départements qui les composent. Cette loi a été complétée par la loi
+du 7 août 2015 portant sur la nouvelle organisation territoriale de la République 4, dite
+loi NOTRe. Ce dernier volet de la réforme territoriale désigne clairement les régions
+comme « chef[s] de file du développement économique […], avec une compétence
+exclusive en matière d’aides directes aux entreprises » (Manier, 2015, p. 88). La loi
+NOTRe va également « modifier assez largement les attributions des structures
+intercommunales » (Marcou, 2015, p. 1043). Les EPCI font l’objet d’un redécoupage, dès
+lors que les communes rassemblées atteignent un seuil minimal de 20 000 habitants
+(contre 5 000 habitants auparavant), à l’exception des zones de montagne et territoires
+peu denses où le seuil minimal est fixé à 5 000 habitants, ou encore les
+intercommunalités récemment constituées d’un minimum de 12 000 habitants. Le
+département garde une orientation de garant des solidarités humaines et de la
+cohésion territoriale. Il est compétent « pour mettre en œuvre toute aide ou action
+relative à la prévention ou la prise en charge des situations de fragilité, de
+développement social, l’accueil des jeunes enfants, l’autonomie des personnes âgées ou
+handicapées ; il assure également des compétences sociales et de solidarité territoriale,
+pour faciliter l’accès aux droits et services des publics dont il a la charge » (Jourdan,
+2016, p. 52). Dans ce contexte, le gouvernement français assume la priorité de faire des
+« économies d’échelles » et de « supprimer des doublons » (Chavrier, 2015, p. 1028). La
+suppression de la clause générale de compétence des départements, comme des
+régions, confirme la spécialisation des compétences de ces collectivités (Pontier, 2012).
+Le département et la région deviennent de ce fait des collectivités territoriales
+spécialisées (Jourdan, 2016).
+2
+
+Mais la compétence tourisme ne fait pas partie du périmètre d’attribution clairement
+accordé à une collectivité territoriale. En effet, la loi 23 décembre 1992 5 portant sur la
+répartition des compétences dans le domaine du tourisme, dite loi Mouly, énonçait les
+rôles et les missions de chaque institution, à l’image d’une construction administrative
+très structurée par niveau hiérarchique (Michaud, 1995). Mais elle a été abrogée le 1 er
+janvier 20056 au profit du Code du tourisme, dont l’article L 111-1 précise que « l’État,
+les régions, les départements et les communes sont compétents dans le domaine du
+tourisme et exercent ces compétences en coopération et de façon coordonnée ». Le
+législateur a jusqu’à présent maintenu cette situation de compétence partagée entre les
+collectivités territoriales, par la loi du 16 décembre 2010 7 sur la réforme des
+collectivités territoriales. Par ailleurs, même si la notion de « chef de file » pouvait être
+séduisante, compte tenu de la multiplicité de structures et des contraintes financières
+et de gestion (Pontier, 2012), le législateur considère que l’État est responsable de la
+politique nationale du tourisme et les collectivités territoriales sont associées à sa mise
+en œuvre (Jégouzo, 2013). Ceci amène La Gazette des communes à titrer, en janvier 2017 :
+« Depuis la loi NOTRe, la compétence tourisme se divise entre coopération et
+compétition »8.
+
+Mondes du Tourisme, 16 | 2019
+
+2
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+3
+
+L’intérêt de cette recherche est d’examiner comment l’échelon départemental réagit
+aux réformes territoriales concernant l’exercice de sa compétence tourisme. En effet,
+même si l’exercice de la compétence tourisme n’est pas remis en cause pour les
+départements, les changements de périmètres spatiaux des régions et de certaines
+intercommunalités, ainsi que l’agrégation d’offices de tourisme en établissements de
+pôle intercommunaux voire intercommunautaires, requièrent des adaptations dans le
+paysage institutionnel touristique français.
+
+1. L’institution départementale française et sa
+compétence tourisme
+1.1. Le département, un niveau intermédiaire de plus en plus
+controversé
+4
+
+Le département a été créé suite à la Révolution française avec un découpage opéré
+selon le principe d’une limite spatio-temporelle d’une journée à cheval depuis le cheflieu (Ozouf-Marignier, 1989). Il devient l’échelon supérieur aux communes, division du
+territoire hérité de la trame paroissiale (Delamarre, 1989). Puis, suite à un nouveau
+maillage, sont apparues dès 1956 les circonscriptions d’action régionales, avant une loi
+de 1972 qui a érigé la région en établissement public à vocation spécialisée (Bodiguel,
+2006). Par l’acte I de la décentralisation, notamment par la loi du 7 janvier 1983, l’État
+est contesté dans l’exercice de ses compétences et dans sa souveraineté. En effet, le
+législateur de l’époque transfère une partie des compétences de l’État, comme
+l’aménagement du territoire, le développement économique ou encore la protection de
+l’environnement, aux communes, aux départements et aux régions (Bodiguel, 2006). Le
+département se retrouve donc à un niveau intermédiaire complexifiant sa justification
+d’existence :
+Le problème qu’impose tout niveau intermédiaire est celui de la dépossession
+relative des niveaux inférieurs par le niveau régional, ainsi que celui d’une
+contradiction potentielle entre autonomie locale et régionale. (Chavrier, 2012,
+p. 88)
+
+5
+
+Un rapport, présenté le 23 janvier 2008 par la Commission pour la libéralisation de la
+croissance française sous l’égide de Jacques Attali, proposait la suppression du
+département pour simplifier le « mille-feuille territorial » (Manier, 2015, p. 84). Il faut
+préciser que l’échelon intercommunal a été conforté par la loi d’orientation du 6 février
+19929 sur l’administration territoriale de la république, complétée par plusieurs autres
+lois dans les deux décennies suivantes, et que les origines de l’intercommunalité
+remontent à la loi du 22 mars 189010. Déjà sous la Troisième République, le choix est fait
+de rationaliser via l’intercommunalité tout en préservant l’administration locale ;
+réformer : oui, supprimer les communes chéries : non (Bellanger, 2012). L’acte II de la
+décentralisation, correspondant à la série de réformes adoptées en 2003 et 2004, voulait
+doter la République de régions plus grandes, plus fortes avec une intention de
+constituer des couples distincts État-régions et communes-départements, notamment
+par loi constitutionnelle du 28 mars 200311 (Chavrier, 2012). Mais la loi du 13 août
+200412, relative aux libertés et responsabilités locales, modifie ces intentions en
+« deven[ant] étonnamment départementaliste » (Chavrier 2012, p. 88). Les élus
+départementaux ont souhaité voir perdurer leur institution et préserver leurs
+
+Mondes du Tourisme, 16 | 2019
+
+3
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+compétences. Aussi, on assiste à un « lobby départemental » qui influe le travail
+parlementaire au Sénat et à l’Assemblée nationale (Frinault, 2013).
+6
+
+La loi du 7 août 201513, portant sur la nouvelle organisation territoriale de la
+République, a confirmé le département dans l’exercice des compétences relatives aux
+solidarités humaines et à la cohésion territoriale (Manier, 2015). Néanmoins, la loi
+NOTRe a supprimé la clause de compétence générale. Par cette suppression, le
+département ne peut désormais régler que par délibération les affaires de ses
+compétences dans les domaines attribués par la loi. De ce fait, la loi écarte le
+département de toute possibilité d’intervention en faveur du développement
+économique, au profit de la seule région (Marcou, 2015). S’agissant du tourisme, cette
+compétence reste partagée entre les différentes collectivités territoriales,
+complexifiant encore pour le département sa position de niveau intermédiaire.
+
+1.2. Enchevêtrement de la compétence tourisme du département
+avec les autres collectivités territoriales
+7
+
+En France, l’origine des institutions touristiques s’observe à l’échelle locale avec la
+création des syndicats d’initiative, ancêtres des offices de tourisme actuels, dès la fin du
+XIXe siècle. Des regroupements de syndicats d’initiative en fédérations régionales
+apparaissent dès le début du siècle suivant, conduisant à la création des syndicats
+départementaux d’initiative (Williems, 2011). Mais l’État, par le ministère des Travaux
+publics, demanda aux préfets de ne pas encourager les initiatives départementales afin
+de ne pas perturber le développement des syndicats d’initiative (Manfredini, 2017). Les
+lois de décentralisation ont donné un cadre légal aux départements concernant
+l’exercice de la compétence tourisme, permettant la création de comités
+départementaux du tourisme (CDT) (Stock, 2003). Les CDT, dans leur quasi-totalité de
+statut associatif, aussi appelés « agences départementales de développement
+touristique » (ADT), fonctionnent selon un cadre d’intervention défini par le conseil
+départemental14 au moyen de conventions, souvent renouvelées chaque année
+(Escadafal, 2007). Dans les faits, le CDT a pour objectif principal d’établir une promotion
+à l’échelle nationale et, en collaboration avec le comité régional du tourisme (CRT),
+d’assurer la promotion à l’échelle internationale (Violier, 2003). Cependant, la loi Mouly
+du 23 décembre 1992 sur la répartition des compétences entre les collectivités
+territoriales « n’apporte aucune solution globale et se borne à imposer, aux régions, un
+plan de développement touristique et, aux départements, un schéma d’aménagement
+touristique » (Violier, 1999, p. 60). Le tourisme étant considéré comme un service public
+local, chaque collectivité intervient comme elle le souhaite. Un problème demeure
+cependant, concernant le périmètre de l’exercice de la compétence tourisme pour ces
+collectivités territoriales, renseigné dans ces plans et schémas de développement
+touristique. Comme le précise Laurence Jégouzo :
+La partie réglementaire du Code du tourisme n’ayant jamais été publiée, le contenu
+de ce plan est laissé à la libre appréciation de ses rédacteurs, comme d’ailleurs pour
+le schéma régional. Il en résulte une profusion de documents plus descriptifs que
+véritablement engageants où il est par ailleurs assez rarement fait allusion au
+schéma régional. (2013, p. 37)
+
+8
+
+Par ailleurs, un autre problème apparaît concernant le rédacteur, puisque la sphère
+publique du tourisme présente un caractère bicéphale entre élus et techniciens. Comme
+Philippe Violier l’a souligné :
+
+Mondes du Tourisme, 16 | 2019
+
+4
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+Cette dualité est porteuse de conflits, les premiers [élus] imposent plutôt un
+territoire administratif et tendent à privilégier des stratégies égalitaires, tandis que
+les seconds [techniciens] mettent en avant plutôt des logiques commerciales de
+sélection. (1999, p. 61).
+9
+
+A priori, les réformes territoriales ont contribué à modifier l’organisation du « millefeuille ». Comme nous l’avons déjà précisé, elles prévoient le transfert de la compétence
+économique des départements aux régions mais aussi celui de la promotion du
+tourisme des communes aux intercommunalités15. De plus, elles opèrent un
+élargissement de plusieurs périmètres spatiaux : grandes régions et EPCI. Mais, le
+maintien de l’article L 111-1 du Code du tourisme, qui évoque un exercice de la
+compétence tourisme en coopération et de façon coordonnée, annihile en partie cet
+exercice de clarification. La situation du département se voit complexifiée voire
+fragilisée dans le paysage institutionnel du tourisme français.
+
+10
+
+On peut dès lors s’interroger : dans quelle mesure les récentes réformes territoriales
+participent-elles à transformer les conditions d’exercice de la compétence tourisme par
+les institutions publiques départementales françaises ?
+
+2. Étude exploratoire de deux départements à intensité
+touristique hétérogène en Nouvelle-Aquitaine
+11
+
+Notre recherche est de type exploratoire. En effet, compte-tenu du caractère récent des
+réformes territoriales, nous souhaitons, par ces travaux exploratoires, établir une
+« reconnaissance avec la connaissance » (Brunet et al., 1992, p. 205). Cette démarche
+requiert de recourir à la description afin de délimiter les contours du problème et
+d’orienter de nouvelles pistes de recherche (Gumuchian et Marois, 2000). L’objectif est
+de comprendre l’évolution de l’exercice de la compétence tourisme pour l’institution
+publique départementale et d’identifier les changements, les modifications qui ont été
+nécessaires dans le contexte des récentes réformes territoriales. Nous avons choisi
+d’interroger par entretiens semi-directifs, au cours du mois de novembre 2018, trois
+acteurs : les directeurs de deux agences départementales de développement touristique
+(ADT), celle des Deux-Sèvres et celle de Charente-Maritime, ainsi que la directrice de
+« Tourisme et territoires », anciennement Fédération nationale des destinations
+départementales. Trois thèmes ont été abordé lors de ces entretiens : explications sur
+les missions anciennes et les missions actuelles ; identification des interlocuteurs et des
+échanges avec les autres collectivités territoriales ; compréhension des conséquences
+ou des non-conséquences des réformes territoriales récentes. Les entretiens, d’une
+durée moyenne d’une heure, ont été intégralement retranscrits. L’analyse manuelle des
+données nous a permis de structurer les données et de regrouper les principaux
+verbatims.
+
+2.1. Cas du département des Deux-Sèvres
+12
+
+Le département des Deux Sèvres compte 374 743 habitants, avec une faible densité de
+population, de 61 habitants au kilomètre carré. L’offre d’hébergement touristique est
+assez modeste avec 1 814 emplacements de camping et 1 817 chambres d’hôtel (Prévot,
+2016). Selon l’ADT des Deux-Sèvres, en 2016, le département a recensé une faible
+fréquentation, avec seulement 485 000 nuitées. La majorité des nuitées concerne des
+
+Mondes du Tourisme, 16 | 2019
+
+5
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+activités d’affaires dans l’agglomération du chef-lieu de département, Niort 16. Le
+tourisme de découverte du Marais poitevin constitue l’offre touristique principale,
+largement médiatisée par la labellisation au titre des Grands Sites de France, labellisé
+Parc naturel régional en mai 2014.
+13
+
+Dans ce département, il existait deux institutions touristiques il y a encore dix ans : le
+CDT, une association sous convention et financement du conseil général, et l’Union
+départementale des offices du tourisme et syndicats d’initiative (UDOTSI). Dès 2004,
+compte tenu de la faible densité de population, la volonté a été de réaliser des
+regroupements de communes et de doter les EPCI de la compétence tourisme. Cette
+réorganisation territoriale, dix ans avant la loi NOTRe, a été décidée dans un contexte
+de restrictions budgétaires, mais aussi par une nécessité de professionnaliser les
+missions des offices de tourisme. Aussi, le département est passé de 31 offices de
+tourisme et syndicats d’initiative, soit une structure par canton, à 9 aujourd’hui 17,
+principalement gérés par des communautés de communes ou des structures
+intercommunautaires. Le rôle de ces nouvelles structures a été consolidé avec l’aide du
+conseil départemental. Le 2 août 2008, l’UDOTSI et le CDT ont fusionné pour donner
+naissance à une nouvelle association, l’agence de développement touristique des DeuxSèvres. Si le CDT assurait la promotion des Deux-Sèvres, parmi 14 autres missions, la
+nouvelle agence s’est recentrée autour de 4 missions, abandonnant notamment l’action
+commerciale. Ce choix s’explique pour plusieurs raisons. D’abord, le budget de la
+structure a baissé, passant de 1,2 million d’euros à 850 000 euros, dont 700 000 euros de
+dotation du département soit environ 82 % du budget total. Ensuite, face à la
+professionnalisation des offices de tourisme (OT), le personnel de l’ADT des DeuxSèvres a dû s’adapter et répondre aux besoins en ingénierie. Il est important de
+préciser que ce repositionnement ne s’est pas fait sur commande du conseil
+départemental. Enfin, la structure est passée de 14 à 8 employés. Cette équipe a été
+amenée à développer de nouvelles compétences, liées à l’accompagnement des
+professionnels du tourisme, notamment le personnel des OT de pôles. En 2011, la
+signature d’une convention entre les 6 OT de pôles, l’ADT et le CRT a permis d’organiser
+la répartition des missions. L’ADT s’est spécialisée dans l’ingénierie, laissant à la région
+la charge de la promotion. Signe d’une nouvelle évolution, en 2015, l’ADT des DeuxSèvres a rejoint les locaux du conseil départemental suite à une mutualisation des
+moyens, permettant une économie, mais réduisant également son budget de
+fonctionnement, et, le 12 mars 2018, le département a décidé de reprendre l’exercice
+direct de l’ensemble de la compétence tourisme. L’ADT a ainsi disparu au profit d’une
+conférence permanente du tourisme, en tant qu’instance légale de concertation et de
+mobilisation des acteurs du tourisme18.
+
+2.2. Cas du département de la Charente-Maritime
+14
+
+La Charente-Maritime est le deuxième département français en termes d’augmentation
+de la population touristique par rapport à la population permanente. Pour une
+population de 639 600 habitants (janvier 2015), on comptabilise 33,6 millions de nuitées
+touristiques (Chiffres Charente-Maritime Tourisme, 201619). La fréquentation
+touristique se concentre principalement sur le littoral et dispose d’une offre
+d’hébergement conséquente avec notamment 7 510 chambres d’hôtel (soit 14 % des
+chambres d’hôtel de la Nouvelle-Aquitaine) et 48 100 emplacements de camping
+(Garçon, 2016).
+
+Mondes du Tourisme, 16 | 2019
+
+6
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+15
+
+On retrouve dans ce département la même situation que dans les Deux-Sèvres
+concernant la professionnalisation d’OT de pôles. Dans ce contexte et face à une baisse
+des subventions publiques, l’ADT s’est progressivement éloignée de sa mission de
+communication. Mais, dans ce département, un choix spécifique a été opéré, en
+anticipation de la loi NOTRe. Au moment des élections départementales de 2015, les
+présidents de l’ADT de Charente et de l’ADT de Charente-Maritime ont décidé un
+rapprochement en préparation de la constitution de la région Nouvelle-Aquitaine.
+Cette fusion a été facilitée par un départ en retraite de la directrice de l’ADT de
+Charente, mais aussi par le basculement dans une même famille politique des deux
+départements. L’opportunité d’une mutualisation a été considérée du point de vue
+économique. Une nouvelle association « Charentes Tourisme » est née le 22 juin 2017,
+suite à la validation par les exécutifs de la fusion des deux agences. Cette institution
+dispose d’un budget de près de 6 millions d’euros : 80 % des ressources sont consacrées
+à l’ingénierie et 20 % à la communication. Une évaluation des compétences des
+individus, un fléchage des profils de recrutement et un accompagnement du personnel
+ont également facilité cette évolution. Un tel changement s’explique par le niveau de
+professionnalisation des partenaires, qui nécessite un niveau d’expertise plus élevé de
+la part d’une ADT. L’accompagnement des professionnels par des formations permet
+également d’atteindre un meilleur taux d’autofinancement et de justifier de la sorte
+d’une bonne voie d’autonomisation de l’institution auprès de sa collectivité de tutelle.
+La subvention des deux départements ne représente que 53 % du budget, dont les deux
+tiers sont alloués par le département de Charente-Maritime, complétée par une taxe de
+séjour additionnelle en Charente-Maritime qui représente 15 % du budget total. Les
+recettes provenant d’actions contribuent à hauteur de 32 % au budget total.
+
+3. Adaptation des départements dans le contexte de la
+réforme territoriale et des jeux d’acteurs
+3.1. Transformation de la structuration des institutions touristiques
+départementales
+16
+
+Le département, doté de la compétence tourisme, se doit d’engager une politique
+touristique au moyen d’un financement au sein d’un service ou par conventionnement
+avec une entité morale distincte. Dans le département des Deux-Sèvres, le conseil
+départemental a fait le choix d’internaliser cette compétence, selon la délibération du
+12 mars 2018. Cette décision est intervenue dans le contexte de direction vacante à
+l’ADT mais également de divergence des points de vue entre la présidence de l’ADT et
+celle du conseil départemental. Le contexte politique a, à l’inverse, favorisé le
+rapprochement entre l’ADT de Charente et l’ADT de Charente-Maritime, conduisant à
+leur fusion et à la création d’une nouvelle entité. Ces deux cas montrent que les
+conditions d’exercice de la compétence tourisme par les départements sont
+hétérogènes.
+
+17
+
+Pour autant, les réformes territoriales ne sont pas l’unique raison des évolutions. La
+baisse des dotations financières des collectivités de tutelle, ainsi que la hausse du
+recours aux technologies de l’information et de la communication ont demandé aux
+acteurs institutionnels, en particulier aux départements, d’adapter les actions relatives
+à l’exercice de la compétence tourisme. Cette évolution est primordiale puisqu’en
+
+Mondes du Tourisme, 16 | 2019
+
+7
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+situation de crise, en cas de manque de reprise en main, l’organisation peut disparaître
+(Rochet et Keramidas, 2007). Dans les Deux-Sèvres, le service loisirs accueil, qui avait
+pour objectif d’accompagner l’ADT dans la commercialisation des offres de prestataires
+d’hébergement, a disparu, comme dans la plupart des autres départements. Cette
+mission était devenue obsolète compte-tenu de la montée en puissance d’opérateurs de
+réservation en ligne. La reprise de l’exercice de la compétence tourisme par le conseil
+départemental des Deux-Sèvres en mars 2018 témoigne de la volonté d’aller encore plus
+loin dans la redéfinition de la stratégie touristique. De manière générale, selon les
+entretiens réalisés, ce sont les missions de promotion et de communication qui
+devraient être limitées à l’avenir. Dans les deux départements étudiés, par choix
+stratégique ou par nécessité d’adaptation, une orientation de l’exercice de la
+compétence tourisme est affirmée vers l’ingénierie. Cette mission présente un double
+avantage. Tout d’abord, sur le plan financier, l’ingénierie demande un investissement
+moindre et permet de facturer des prestations à des prestataires. Ensuite, sur le plan
+politique, l’ingénierie confirme la mission de solidarité et de cohésion territoriale,
+compétence exclusive du département et contribue à affirmer le rôle de cet échelon
+dans le paysage institutionnel touristique français.
+18
+
+Cette transformation des missions a demandé une adaptation des structures. Une partie
+du personnel des ADT a dû acquérir de nouvelles compétences pour se reconvertir à des
+actions relatives à l’ingénierie. Face à la transformation du rôle et des missions des
+institutions publiques, se pose effectivement la question de l’adéquation entre
+compétences et emplois, amenant les acteurs à compléter leurs qualifications sur le
+plan technique et managérial (Bartoli, 2005). Dans les Deux-Sèvres, un plan d’évolution
+des carrières et des emplois a permis d’accompagner des agents de promotion et de
+production afin qu’ils puissent se repositionner sur l’ingénierie. Dans les Charentes, la
+fusion-création a été l’occasion de réaliser une évaluation des compétences en
+identifiant, par entretiens, les domaines d’expertise et les souhaits d’évolution du
+personnel, mais aussi de cibler des profils spécifiques pour les recrutements. Un plan
+de formation d’environ 100 000 euros par an est également envisagé. De son côté,
+l’association « Tourisme & Territoires » est engagée dans la formation des personnels
+des institutions membres, notamment pour aider les ADT à se repositionner. Dans les
+deux départements étudiés, les directeurs admettent toutefois avoir connu des départs
+de collaborateurs à hauteur d’environ 10 % du personnel. L’enjeu pour ces structures
+est désormais de constituer une gouvernance et de permettre aux équipes de
+contribuer aux projets d’avenir.
+
+3.2. Mutualisation verticale et horizontale de la compétence
+tourisme
+19
+
+La mutualisation consiste en un changement des organisations afin de mieux répondre
+au contexte économique et social. On peut définir la pratique de la mutualisation
+comme « une mise en commun et un partage de moyens matériels ou immatériels au
+sein d’une même organisation ou avec une organisation extérieure dans l’objectif
+d’atteindre un but commun » (Marin, 2014, p. 22). La mutualisation engage des
+relations avec les parties prenantes dans l’exercice de la compétence tourisme. On peut
+parler de mutualisation verticale. Pour autant, nous verrons qu’en dépit du Code du
+tourisme qui cadre les activités, il existe des disparités de fonctionnement des
+institutions touristiques qui contribuent à complexifier cette mutualisation. Dans le
+
+Mondes du Tourisme, 16 | 2019
+
+8
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+département des Deux-Sèvres, le CDT avait pour mission, jusqu’à 2008, d’animer le
+réseau des OT – une trentaine20 – et d’aider à leur restructuration et à leur
+professionnalisation, en recevant une dotation du département, via l’UDOTSI. En 2018,
+le département ne compte plus que 8 OT, soit un par EPCI21. Dans le département de
+Charente-Maritime, certains OT sont importants, tant par leur effectif que par leur
+budget, principalement sur les communes littorales. Pour autant, l’orientation donnée
+aux missions de ces structures se distingue de celle d’un CDT puisqu’un OT consacre la
+quasi-totalité de son budget à l’accueil et à l’information du public. Dans certains cas,
+plus complexes, notamment pour des raisons économiques, la mutualisation de
+l’exercice de la compétence tourisme entre une ADT et un OT peut s’opérer par le
+regroupement dans une même structure. Cela a été le cas par exemple dans le Cher où
+l’OT de l’agglomération de Bourges et l’ADT se sont regroupés pour former une
+association unique. Dans les relations entre une ADT et un CRT, l’élaboration de
+conventions d’objectifs permet aussi de favoriser la mutualisation de l’exercice de la
+compétence tourisme pour les collectivités. Ainsi, en Nouvelle-Aquitaine, il est
+aujourd’hui proposé qu’une convention territoriale d’exercice concertée, spécifique au
+tourisme, entre en vigueur. Dans les relations de mutualisation avec l’État, mais aussi
+avec d’autres parties prenantes comme les ADT, il existe un outil innovant : les contrats
+de destination, lancés en 2013, qui ont pour objectif de favoriser l’attractivité et la
+compétitivité d’une destination en impliquant les acteurs dans une gouvernance (Bédé,
+2015). Ainsi, le 19 juillet 2018, 34 partenaires de la côte atlantique ont signé un contrat
+de destination « côte atlantique » retenu par le ministère délégué au Tourisme afin de
+promouvoir la France à l’international sur une durée de trois ans avec un soutien
+financier de 75 000 euros. Nous allons voir que la stratégie de mutualisation de
+l’exercice de la compétence tourisme peut aussi s’opérer légalement de manière
+horizontale entre un conseil départemental et son ADT, dans le cas d’une
+internalisation, mais aussi entre plusieurs ADT dans le cas d’une fusion.
+3.2.1. L’internalisation de la compétence tourisme, un moyen de mutualisation
+pour le conseil départemental : cas de la conférence permanente du tourisme
+20
+
+La rationalisation budgétaire a conduit le conseil départemental des Deux-Sèvres à
+internaliser l’exercice de la compétence tourisme. Le concept d’internalisation est ici
+considéré comme l’antonyme de celui d’externalisation. Il exprime les démarches
+d’acteurs qui renoncent à confier certaines activités à un ou plusieurs tiers (Bance,
+2015). Dans le cas des Deux-Sèvres, cette démarche s’est opérée en deux étapes
+distinctes. Début 2016, l’ADT a déménagé dans les locaux du conseil départemental. De
+ce fait, l’ADT assurait réaliser une économie de 60 000 euros sur un budget annuel
+d’1,2 million d’euros22. Puis, en 2018, dans un contexte difficile pour la gouvernance de
+l’ADT suite au départ de son directeur, mais également en raison d’un conflit politique
+entre le président de l’ADT et le président du conseil départemental, l’exercice de la
+compétence tourisme a désormais été opéré directement par le conseil départemental
+des Deux-Sèvres. Ainsi, en respect du Code du tourisme, en particulier de
+l’article L 132-3 (pour rappel, relatif au statut, principe d’organisation et composition
+du CDT), le conseil départemental doit disposer d’un « service tourisme » dédié à
+l’exercice de la compétence. À ce service est associé, depuis le 13 mars 2018, une
+conférence permanente du tourisme. Finalement, on remarque que cette conférence
+permet au département de rester dans la légalité (article L 132-3) en intégrant au CDT
+
+Mondes du Tourisme, 16 | 2019
+
+9
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+des délégués du conseil départemental ainsi que les différentes parties prenantes.
+L’internalisation d’une mission de service public relève d’un idéal type, permettant de
+justifier les objectifs et finalités retenus par l’autorité organisatrice (Bance, 2015).
+Cependant, la question de l’efficacité est essentielle afin de juger de la portée de l’action
+de cette internalisation et finalement de son intérêt pour le département. À la
+motivation budgétaire s’ajoute une motivation stratégique. Nous remarquons, dans le
+cas des Deux-Sèvres, que l’autorité publique considère être la mieux à même de décider
+à qui confier l’exercice de la compétence tourisme ; en l’occurrence, à l’un des services
+dont le conseil départemental contrôle directement les objectifs. L’intérêt pour une
+collectivité publique est ici d’assurer directement le pilotage, le contrôle et l’évaluation
+de la mission. On peut dès lors parler d’une forme de régulation (Bauby, 2015).
+3.2.2 La fusion-création de la compétence tourisme, un moyen de mutualisation
+entre agences départementales du tourisme : le cas de l’association « Charentes
+Tourisme »
+21
+
+Dans le département de Charente-Maritime, une autre forme de mutualisation a été
+réalisée, en procédant à la fusion de l’ADT de Charente et de l’ADT de CharenteMaritime. On peut qualifier de fusion une mutualisation dès lors que « deux ou
+plusieurs organisations combinent leurs actifs et leurs passifs à l’instigation de l’une
+d’entre elles, qui est de fait l’acquéreur, pour créer une nouvelle entité » (Wangani,
+2013, p. 20). La fusion peut s’opérer par l’absorption qu’effectue une organisation
+existante des actifs d’une ou plusieurs organisations ; ou par la création d’une
+organisation nouvelle, à laquelle plusieurs organisations apportent leurs actifs.
+L’option choisie par les conseils départementaux de Charente et de Charente-Maritime
+a été la création d’une nouvelle association « bi-départementale » sous le nom de
+« Charentes Tourisme ». Cette fusion a pris la forme d’un accord de principe donné par
+les assemblées départementales, le 22 juillet 2016, suivi d’une validation d’un projet de
+traité de fusion par les bureaux et conseils d’administration des ADT le 9 novembre
+2016. Les deux conseils départementaux ont finalement approuvé la fusion, les 15 et
+16 décembre 2016. Cette opération était donc voulue par les collectivités de tutelle.
+Souvent considérée par les organisations publiques comme un outil étranger provenant
+du secteur privé, la fusion-acquisition est un moyen pertinent pour les organisations
+qui sont en quête de rupture stratégique, de compétitivité, de taille critique et de
+création de valeur (Gouali, 2007). La nouvelle institution touristique bi-départementale
+souhaite orienter sa stratégie vers les acteurs intermédiaires, qui sont plus directement
+en contact avec les consommateurs finaux. La répartition des ressources illustre
+d’ailleurs cette stratégie puisque 80 % d’entre elles sont destinées à l’orientation vers
+les acteurs et les territoires et 20 % à l’orientation vers les consommateurs finaux 23.
+
+22
+
+De manière générale, les principales motivations d’une fusion portent « sur l’extension
+d’une gamme de produits, l’accès à de nouveaux marchés, l’amélioration de l’efficacité,
+l’accroissement de moyens » (Wangani, 2013, p. 20). On retrouve bien ces raisons dans
+la fusion-création de Charentes Tourisme. Tout d’abord, la direction a souhaité limiter
+les doublons de certaines actions exercées par d’autres acteurs. Pourtant, les acteurs
+avec qui l’institution collabore sont aussi des clients, voire des concurrents. Charentes
+Tourisme identifie comme clients « les offices de tourisme, les collectivités territoriales,
+les investisseurs, le grand public, l’international, les clubs partenaires, les acteurs
+touristiques et porteurs de projets »24. L’« amélioration de l’efficacité » et
+
+Mondes du Tourisme, 16 | 2019
+
+10
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+l’« accroissement de moyens » se retrouvent également dans le renforcement du
+nombre de salariés et l’augmentation du budget global. Ce redimensionnement était
+nécessaire, selon la direction de Charentes Tourisme, dans un contexte politique
+d’agrandissement spatial du périmètre de la région. Par ailleurs, la situation
+économique de l’ADT de Charente étant délicate avant la fusion, la mutualisation a
+également permis de réaliser des économies.
+
+3.3. Positionnement d’institutions touristiques départementales en
+quête de légitimité
+23
+
+Les récentes réformes territoriales n’ont pas donné davantage de précisions quant à
+l’attribution de la compétence tourisme entre collectivités. Cependant, l’évolution des
+périmètres spatiaux de certaines régions et EPCI interroge le positionnement de la
+collectivité départementale au sein du « mille-feuille territorial » (Manier, 2015, p. 4).
+Selon les directeurs interrogés, les compétences de l’institution touristique
+départementale ne seraient pas bien identifiées, voire seraient confuses pour leurs
+partenaires. Pour la directrice de l’association « Tourisme & Territoires », le
+positionnement des structures dépend du contexte financier et de leur manière
+d’aborder l’évolution du marché. La question de la valeur ajoutée d’une institution
+touristique départementale peut être posée, par rapport aux autres niveaux
+territoriaux. La légitimité est donc une ressource nécessaire, celle-ci étant conférée et
+contrôlée par les parties prenantes (Buisson, 2005). Aussi, dans les Deux-Sèvres, dès lors
+que le nombre d’OT a été réduit de 30 à 8 structures, la légitimité de l’ADT s’est trouvée
+confinée à l’accompagnement de la professionnalisation. Cette nécessité de
+positionnement s’explique par le constat du renforcement de la position d’accueil,
+d’information et de promotion des OT, pilotés pour la plupart d’entre eux par les EPCI.
+À cela s’ajoute le renforcement du pouvoir économique des régions, avec l’attribution
+par ces dernières d’aides financières aux entreprises, une action qui n’est plus autorisée
+dans les compétences du département. La mission d’ingénierie, comme on a pu
+l’observer dans les institutions touristiques départementales de Charente-Maritime et
+des Deux-Sèvres, représente une perspective stratégique qui complète les
+caractéristiques de la légitimité et participe à l’attraction d’autres ressources (Aldrich
+et Fiol, 1994 ; Zimmermann et Zeitz, 2002). La question du financement est d’ailleurs
+cruciale pour ces structures, même si beaucoup reste à faire.
+
+Conclusion
+24
+
+Dans le contexte français de réformes territoriales, le département semble être LA
+collectivité qui est passée, relativement, à travers les mailles du filet des diverses
+reconfigurations spatiales, ou encore du fameux « big bang territorial » (Torre et
+Bourdin, 2015, p. 3). Annoncé comme en voie de disparition, cette collectivité se voit
+confirmer des compétences importantes autour de la solidarité et de la cohésion
+territoriale. Les lois MAPTAM et NOTRe n’ont d’ailleurs pas apporté de changement
+concernant l’exercice de la compétence tourisme. Alors rien ne change ? Finalement
+tout change ! Nous avons observé, concernant l’exercice de la compétence tourisme,
+que l’échelon départemental se retrouve en quelque sorte pris en étau entre les EPCI et
+les régions qui ont gagné en visibilité et lisibilité. De ce fait, les institutions touristiques
+
+Mondes du Tourisme, 16 | 2019
+
+11
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+départementales ont dû s’adapter à un environnement changeant. Le fait que la loi ne
+précise pas davantage les missions de l’échelon départemental dans l’exercice de la
+compétence tourisme a permis aux conseils départementaux de fixer, dans le respect
+de la loi, les objectifs selon leurs propres politiques départementales du tourisme. Mais
+la légitimité du département a été malmenée dans le cadre de ces réformes
+territoriales, qui ont été jusqu’à créer un nouvel échelon, la métropole, supplantant
+une partie du périmètre spatial et d’actions du département. Le cas de la métropole de
+Lyon est à cet égard particulièrement significatif. L’absence d’un chef de file désigné
+pour l’exercice de la compétence tourisme par les collectivités territoriales a suscité
+une attitude opportuniste de l’institution touristique départementale. Au regard de la
+compétence relative à la solidarité et à la cohésion territoriale du département,
+l’institution touristique départementale cherche à creuser son sillon et à se démarquer.
+Motivée par la recherche de financements, en réponse à une baisse des dotations
+financières de la collectivité de tutelle, l’institution touristique départementale semble
+avoir redéfini son ADN par rapport aux autres collectivités en charge de l’exercice de la
+compétence tourisme. La pertinence de l’exercice de la compétence tourisme par le
+département devra être questionnée. Il semblerait que, bien que la loi l’oblige, chaque
+département associe au tourisme des missions qui lui semblent cohérentes face aux
+problématiques du territoire. En définitive, ce travail étant exploratoire, notre
+réflexion demande à présent à être complétée par le cas d’autres départements et, plus
+globalement, d’autres échelons territoriaux.
+
+BIBLIOGRAPHIE
+Howard E. ALDRICH et C. Marlene FIOL, « Fools Rush In? The Institutional Context of Industry
+Creation », The Academy of Management Review, 19(4), 1994.
+Philippe BANCE (dir.), L’internalisation des missions d’intérêt général par les organisations publiques.
+Réalités d’aujourd’hui et perspectives, Presses universitaires de Rouen et du Havre, 2015.
+Annie BARTOLI, Le management dans les organisations publiques, Dunod, 2005.
+Pierre BAUBY, « Remettre à l’endroit…le "rapport principal-agent" », dans Philippe BANCE (dir.),
+L’internalisation des missions d’intérêt général par les organisations publiques. Réalités d’aujourd’hui et
+perspectives, Presses universitaires de Rouen et du Havre, 2015.
+Emmanuel BELLANGER, « Les syndicats de communes d’une France en morceaux ou comment
+réformer sans supprimer (1890-1970) », dans Rémy LE SAOUT, Réformer l’intercommunalité. Enjeux et
+controverses autour de la réforme des collectivités territoriales, Presses universitaires de Rennes, 2012.
+Jean-Luc BODIGUEL, « La DATAR : quarante ans d’histoire », Revue française d’administration publique,
+2006/3, n° 119.
+Roger BRUNET, Robert FERRAS et Hervé THÉRY, Les mots de la géographie. Dictionnaire critique, La
+Documentation Française, 1992.
+
+Mondes du Tourisme, 16 | 2019
+
+12
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+Marie-Laure BUISSON, « La gestion de la légitimité organisationnelle : un outil pour faire face à la
+complexification de l’environnement ? », Management & Avenir, 2005/4, n° 6.
+Géraldine CHAVRIER, « Quels pouvoirs juridiques pour l’exercice des compétences ? », Revue
+française d’administration publique, 2015/4, n° 156.
+Géraldine CHAVRIER, « La vocation du niveau intermédiaire : stratégies et prospective », Revue
+française d’administration publique, 2012/1, n° 141.
+Aliette DELAMARRE, « La carte des 36 000 communes », Mappemonde, 89/4, 1989.
+Alain ESCADAFAL, « Attractivité des destinations touristiques : quelles stratégies d’organisation
+territoriale en France ? », Téoros, 26-2, 2007 [http://journals.openedition.org/teoros/808].
+Erhard FRIEDBERG, Le pouvoir et la règle, Seuil, 1993.
+Thomas FRINAULT, « Réforme française de l’allocation dépendance et gestion départementale. Un
+jeu d’influences réciproques », Gouvernement et action publique, 2013/1, vol. 2.
+Nathalie GARÇON, « La Charente-Maritime à grands traits », Insee Analyses Nouvelle-Aquitaine, n° 7,
+2016 [https://www.insee.fr/fr/statistiques/1908390].
+Mohamed GOUALI, Fusions-acquisitions, Éditions d’Organisation, 2007.
+Hervé GUMUCHIAN et Claude MAROIS, Initiation à la recherche en géographie. Aménagement,
+développement territorial, environnement, Anthropos, 2000.
+Laurence JÉGOUZO, « Tourisme & territoire – Collectivités territoriales – L’acte III de la
+décentralisation et le tourisme », Juris tourisme, n° 157, 2013.
+Chantal JOURDAN, « Nouvelle organisation territoriale de la France, un paysage institutionnel local
+redéfini (loi NOTRe du 7 août 2015) », Après-demain, 2016/1, n° 37, NF.
+Julie MANFREDINI, Les syndicats d’initiative. Naissance de l’identité touristique de la France, Presses
+universitaires François Rabelais, 2017.
+Didier MANIER, « La réforme territoriale en France : l’avenir du département en tant que
+collectivité territoriale », Allemagne d’aujourd’hui, 2015/2, n° 212.
+Gérard MARCOU, « Les enjeux de la réforme territoriale », Revue française d’administration publique,
+2015/4, n° 156.
+Pierre MARIN, « Analyse des effets des pratiques de mutualisation sur la performance des
+organisations publiques locales : le cas des Services départementaux d’incendie et de secours »,
+thèse de doctorat en sciences de gestion sous la dir. de David CARRASUS, Université Pau Pays de
+l’Adour, 2014.
+Jean-Luc MICHAUD, Les institutions du tourisme, Presses universitaires de France, 1995.
+Marie-Victoire OZOUF-MARIGNIER, La formation des départements : la représentation du territoire français
+à la fin du XVIIIe siècle, Éditions de l’EHESS, 1989.
+Jean-Marie PONTIER, « Compétences locales et politiques publiques », Revue française
+d’administration publique, 2012/1, n° 141.
+Pascal PRÉVOT, « Les Deux-Sèvres à grands traits », Insee Analyses Nouvelle-Aquitaine, n° 7, 2016
+[https://www.insee.fr/fr/statistiques/1908461].
+Claude ROCHET et Olivier KERAMIDAS, « La crise comme stratégie du changement dans les
+organisations publiques », La Revue des sciences de gestion, 2007/6, n° 228.
+
+Mondes du Tourisme, 16 | 2019
+
+13
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+Mathis STOCK (dir.), Le tourisme : acteurs, lieux et enjeux, Belin, 2003.
+André TORRE et Sébastien BOURDIN, Big bang territorial : la réforme des régions en débat, Armand Colin,
+2015.
+Philippe VIOLIER, « Chapitre 5. Les acteurs du tourisme », dans Mathis STOCK (dir.), Le tourisme :
+acteurs, lieux et enjeux, Belin, 2003.
+Philippe VIOLIER, « L’espace local et les acteurs du tourisme », dans Philippe VIOLIER (dir.), L’espace
+local et les directeurs du tourisme, Presses universitaires de Rennes, 1999.
+Simon WANGANI, « Les fusions dans les organisations publiques : le cas de Pôle Emploi », La revue
+des sciences de gestion, 2013/5, n° 263-264.
+Gilles WILLEMS, « Aux origines de La Bretagne Touristique. Revue mosaïque de la modernité
+bretonne », dans Jean-Yves ANDRIEUX et Patrick HARISMENDY (dir.), Initiateurs et entrepreneurs
+culturels du tourisme (1850-1950), Presses universitaires de Rennes, 2011.
+Monica A. ZIMMERMAN et Gerald J. ZEITZ, « Beyond survival: Achieving new venture growth by
+building legitimacy », Academy of Management Review, vol. 27, n° 3, 2002.
+
+NOTES
+1. Loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les
+départements, les régions et l’État publiée au Journal officiel de la République française (JORF) du
+9 janvier 1983, p. 215
+2. Loi n° 2014-58 du 27 janvier 2014 de modernisation de l’action publique territoriale et
+d’affirmation des métropoles publiée au JORF n° 0023 du 28 janvier 2014, p. 1562
+3. Loi n° 2015-29 du 16 janvier 2015 relative à la délimitation des régions, aux élections régionales
+et départementales et modifiant le calendrier électoral publié au JORF n° 0014 du 17 janvier 2015,
+p. 777
+4. Loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République
+publiée au JORF n° 0182 du 8 août 2015, p. 13705.
+5. Loi n° 92-1341 du 23 décembre 1992 portant sur la répartition des compétences dans le
+domaine du tourisme, publiée au JORF n° 299 du 24 décembre 1992, p. 17657.
+6. Ordonnance n° 2004-1391 du 20 décembre 2004, art. 5 (V) publiée au JORF du 24 décembre
+2004, entrée en vigueur le 1er janvier 2005.
+7. Loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales publiée au JORF
+n° 0292 du 17 décembre 2010, p. 22146.
+8. Voir : https://www.lagazettedescommunes.com/487237/depuis-la-loi-notre-la-competencetourisme-se-divise-entre-cooperation-et-competition/
+9. Loi d’orientation n° 92-125 du 6 février 1992 relative à l’administration territoriale de la
+République publiée au JORF n° 33 du 8 février 1992, p. 2064.
+10. Loi du 22 mars 1890 sur les syndicats de communes ajoutant un titre 8 (art. 169 à 180) à la loi
+du 05-04-1884 relative à l’organisation municipale publiée au JORF du 6 mars 1890, p. 91.
+11. Loi constitutionnelle n° 2003-276 du 28 mars 2003 relative à l’organisation décentralisée de la
+République publiée au JORF n° 75 du 29 mars 2003, p. 5568.
+12. Loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales publiée au JORF
+n° 190 du 17 août 2004, p. 14545.
+13. Op. cit.
+14. Nom de l’assemblée délibérante depuis les élections départementales des 22 et 29 mars 2015.
+Auparavant cette assemblée s’appelait « conseil général ».
+
+Mondes du Tourisme, 16 | 2019
+
+14
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+15. À l’exception de quelques cas particuliers, telles que les stations classées tourisme.
+16. 69,3 % des nuitées hôtelières, en 2016, sont générées par la clientèle affaire, URL : http://
+www.pro-tourisme-deux-sevres.com/wp-content/uploads/2018/01/Chiffres-cl%C3%A9s-2016.pdf
+17. http://www.tourisme-deux-sevres.com/infos-pratiques/contacter-nos-offices-de-tourisme
+18. Délibération n° 5A de la séance du 12 mars 2018 du Conseil départemental des Deux-Sèvres
+relative à la compétence tourisme, art. 1 et art. 2.
+19. Voir :
+
+https://charentestourisme.com/Creer-et-developper/J-analyse-mon-territoire/Les-
+
+chiffres/Chiffres-cles ?p =-1
+20. Le département a compté jusqu’à 31 offices de tourisme, soit un par canton.
+21. Selon le rapport de la Mission des offices de tourisme Nouvelle-Aquitaine (Mona), « État des
+lieux du réseau offices de tourisme en Nouvelle-Aquitaine », 2019, p. 25
+22. Anonyme, « Deux-Sèvres. Tourisme : l’ADT déménage et fait 60 000 € d’économie », Courrier de
+l’Ouest.fr, 2015 [https://www.courrierdelouest.fr/actualite/deux-sevres-tourisme-ladt-demenageet-fait-60-000-deconomie-22-12-2015-250130].
+23. Op. cit.
+24. Support de présentation de la séance plénière des conseils départementaux de Charente et
+Charente-Maritime présenté à Saintes le 25 septembre 2017.
+
+RÉSUMÉS
+En France, plusieurs régions et intercommunalités ont connu, ces cinq dernières années, de
+profondes évolutions tant dans leurs dimensions spatiales que dans l’attribution d’un portefeuille
+de compétence. Le département, soumis à diverses menaces de disparition, est confirmé dans sa
+compétence de solidarité et de cohésion territoriale. Le tourisme est une compétence partagée
+par l’ensemble des collectivités territoriales. Aussi, dans sa politique touristique, le département
+doit, selon le Code du tourisme, se coordonner avec les autres collectivités territoriales. Nous
+nous sommes interrogés sur l’évolution des conditions de l’exercice des institutions publiques
+départementales françaises dans ce contexte de récentes réformes territoriales. Nous
+examinerons la manière dont les comités départementaux du tourisme, organisme d’application
+de la politique départementale du tourisme, réagissent face à l’évolution du contexte territorial.
+Nous analyserons pour cela deux départements à intensité touristique hétérogène : la Charente
+Maritime et les Deux Sèvres.
+In France, several regions and intermunicipalities have undergone profound changes over the
+last five years, both in their spatial dimensions and in the allocation of a portfolio of
+competences. The department, subject to various threats of disappearance, is confirmed in its
+competence of solidarity and territorial cohesion. Tourism is a competence shared by all the local
+authorities. Therefore, in its tourism policy, the department must, according to the tourism code,
+coordinate with the other local authorities. We asked ourselves about the evolution of the
+conditions under which French departmental public institutions operate in this context of recent
+territorial reforms. We will examine the way in which the departmental tourism committees,
+responsible for implementing departmental tourism policy, react to changes in the territorial
+context. To this end, we analyze two departments with heterogeneous tourism intensity: DeuxSèvres and Charente-Maritime.
+
+Mondes du Tourisme, 16 | 2019
+
+15
+
+Réformes territoriales et exercice de la compétence tourisme par l’institutio...
+
+INDEX
+Mots-clés : départements, réformes, tourisme, compétences, territoires
+Keywords : departments, reforms, tourism, competence, territories
+
+AUTEURS
+JÉRÔME PIRIOU
+Docteur en géographie, professeur-assistant
+Excelia Group – La Rochelle Business School
+CERIIM – Centre de recherche en intelligence et innovation managériales
+piriouj@excelia-group.com
+MARIE-NOËLLE RIMAUD
+Docteure en droit, professeure-associée
+Excelia Group – La Rochelle Business School
+Directrice du laboratoire INNOV Case Lab
+rimaudmn@excelia-group.com
+
+Mondes du Tourisme, 16 | 2019
+
+16
+
+

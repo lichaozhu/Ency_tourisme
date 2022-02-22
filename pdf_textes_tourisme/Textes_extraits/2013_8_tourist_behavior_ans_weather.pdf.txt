@@ -1,0 +1,3418 @@
+Mondes du Tourisme 
+8 | 2013
+
+Varia
+
+Tourist behavior and weather
+
+Understanding the role of preferences, expectations and in-situ
+adaptation
+Martin Lohmann and Anna C. Hübner
+
+Electronic version
+URL: http://journals.openedition.org/tourisme/83
+DOI: 10.4000/tourisme.83
+ISSN: 2492-7503
+Publisher
+Éditions touristiques européennes
+Printed version
+Date of publication: 1 December 2013
+Number of pages: 44-59
+ISSN: 2109-5671
+ 
+Electronic reference
+Martin Lohmann and Anna C. Hübner, « Tourist behavior and weather  », Mondes du Tourisme [Online],
+8 | 2013, Online since 01 June 2015, connection on 14 November 2019. URL : http://
+journals.openedition.org/tourisme/83  ; DOI : 10.4000/tourisme.83
+
+Mondes du tourisme est mis à disposition selon les termes de la licence Creative Commons Attribution
+- Pas d'Utilisation Commerciale - Pas de Modification 4.0 International.
+
+MARtIN LohMANN & ANNA C. hüBNeR
+
+Tourist behavior and weather
+Understanding the role of preferences,
+expectations and in-situ adaptation
+MARTIN LOHMANN
+
+[m.lohmann@leuphana.de]
+
+Leuphana University Lüneburg, Department of
+Business Psychology
+
+ANNA C. HÜBNER
+
+[to.annah@t-online.de]
+
+Deutsche Gesellschaft für Internationale Zusammenarbeit
+(Nature Conservation and Sustainable Development of
+Natural Resources in the Phong Nha - Ke Bang National Park
+Region’ Project)
+
+Abstract. This study contributes to a deeper understanding of the relationship between tourist weather preferences, perceptions, and
+weather-related activities. A conceptual model with respect to the interdependencies and relationships is proposed and discussed in
+light of the results of a pilot study conducted on the French Caribbean island of La Martinique. An explorative in-situ survey that
+included n= 32 holiday tourists from ‘cold’ and ‘warm’ countries examined the core variables of the model. The results demonstrated
+that slight differences in climate preference existed for respondents, depending on whether they originated from a country with a cold
+or a warm climate, that the activity patterns seemed to be influenced by changing weather conditions only to some extent, and that
+the actual weather, which was marked by heavy rains in the first data collection period and by changeable weather in the second,
+appeared to have only limited impact on return intentions. Despite the limited possibility of a pilot study, the results facilitated an
+overview of the factors necessary to understand the weather-related behavior and shifts in the behavior of tourists. The core concepts
+include acceptance and adaptation as dynamic psychological processes that allow an individual to cope with adverse weather
+conditions. Thus, this study may serve as a basis for future research, especially with respect to the behavioral responses of leisure
+tourists to predicted climate change dynamics in holiday destinations. The conceptual model may provide a useful framework for
+future studies.
+Résumé. Cette étude explore les relations entre perceptions du temps qu’il fait, conditions météorologiques et comportements
+des vacanciers. Un modèle conceptuel est proposé, à partir d’une étude réalisée à la Martinique, aux Antilles. Une enquête
+exploratoire, menée auprès d’un échantillon contrasté de trente-deux touristes “de loisirs” venant de pays au climat
+“froid” ou “chaud”, a permis d’analyser les principales variables du modèle. Les résultats ont montré : qu’il y avait de
+légères différences dans la préférence climatique selon que les personnes enquêtées venaient d’un pays froid ou d’un pays
+chaud ; que les conditions météorologiques n’avaient qu’un impact limité sur le type d’activités pratiquées ; que le temps
+qu’il faisait, qui a été marqué par des fortes pluies dans la première période d’enquête et par un temps variable dans la
+deuxième, n’avait qu’un impact limité sur les intentions de retour. Malgré ses moyens limités, l’étude identifie les variables
+et facteurs essentiels à la mise en œuvre d´un projet de recherche examinant la perception des conditions météorologiques
+par les touristes, d’une part, et les comportements induits, d’autre part. Les principaux concepts identifiés sont l’acceptation
+et l’adaptation, en tant que processus psychologiques dynamiques permettant à un individu de faire face aux mauvaises
+conditions météorologiques. Cette étude peut servir de base pour de futures recherches, notamment pour l’analyse des
+comportements des touristes face au changement climatique. Le modèle conceptuel peut fournir un cadre utile pour de
+futures études.
+44
+
+MONDES DU TOURISME N°8 • DÉCEMBRE 2013
+
+RECHERCHE • VARIA
+
+W
+
+eather appears to
+
+studies have employed a so-called cli-
+
+This pilot study examines weather
+
+influence human
+
+mate index model to estimate future
+
+preferences, expectations and the
+
+behavior in various
+
+tourism flows and seasonality patterns
+
+behavior of holiday-makers in
+
+ways and at different levels, ranging
+
+on a macro-scale based on different
+
+Martinique, a small island in the
+
+from a simple decision concerning
+
+weather conditions (Amelung, Nicholls
+
+Caribbean Lesser Antilles. Preliminary
+
+what clothes to wear depending on
+
+& Viner, 2007; Mieczkowski, 1985; Morgan,
+
+results of this project have been repor-
+
+the expectation of rain to reactions
+
+Gatell, Junyent, Micaleff, Özhan & Williams,
+
+ted in a regional journal (Lohmann &
+
+to unusual and severe weather events,
+
+2000). Other studies have focused on
+
+hübner, 2011). This study will examine
+
+such as hurricane Sandy, which occur-
+
+context-specific environments, such
+
+the following items in detail: Climate
+
+red on the eastern coast of the US in
+
+as coastal, urban or mountainous
+
+preferences of holiday-makers with
+
+2012 (CBC 2012; Murray, Di Muro, Finn
+
+areas, and/or the importance of natural
+
+respect to a typical summer holiday;
+
+& Popkowski Leszczyc, 2010). Similarly,
+
+features that include climate and wea-
+
+The role of weather concerning the
+
+behavior and behavior-regulating pro-
+
+ther for tourist decision-making and
+
+destination choice; Actual weather
+
+cesses are related to climate factors,
+
+experiences (Rutty, 2009; Uyarra, Côté,
+
+perceptions; Weather-related activities;
+
+where climate is defined as “long-
+
+Gill, tinch, Viner, Watkinson, 2005).
+
+Evaluative processes.
+
+term average weather”. Weather and
+
+However, there is still a lack of
+
+This study does not attempt to
+
+climate have a specific and significant
+
+information concerning tourists’ per-
+
+explore all (social-psychological) deci-
+
+impact on tourism that affects the
+
+ceptions of weather and subsequent
+
+sion-making factors such as percep-
+
+tourism industry as well as current
+
+in situ behavior and trip planning.
+
+tions, attitude, motivations or expe-
+
+and potential tourists. This impact
+
+Seasonal changes in weather, increases
+
+riences in every respect. It is instead
+
+may become even more pronounced
+
+in climate variability and extreme
+
+aimed at delineating a conceptual
+
+with climate change.
+
+weather events either already affect
+
+model that considers weather and
+
+From a demand perspective, wea-
+
+tourism demand and supply systems
+
+climate to be drivers of tourism
+
+ther and climate exert a level of
+
+or are projected to alter such systems
+
+demand in general and, more speci-
+
+influence on individual motivations
+
+in the future along with climate change
+
+fically, in a small tropical island set-
+
+for travel, a destination’s attractiveness
+
+processes.
+
+ting. The assumption is that weather
+
+and tourist destination choice, the
+
+These changes demand a greater
+
+constitutes an important factor for
+
+timing of travel for individuals, actual
+
+understanding of the relationships
+
+holiday-makers in a small tropical
+
+or planned tourist behavior at the des-
+
+that exist between tourism and wea-
+
+island and, therefore, that deviations
+
+tination, holiday satisfaction and per-
+
+ther expectations and experiences, as
+
+from the weather preferences and
+
+ceived value-for-money and a consu-
+
+well as the variables that contribute
+
+expectations of tourists will result in
+
+mer’s return intentions (Becken, 2010;
+
+to perceptions concerning comfort
+
+negative perceptions of the travel
+
+Becken, Wilson, & Reisinger, 2010; Goh,
+
+and holiday satisfaction. Moreover,
+
+experience, including value-for-money
+
+2012; Lohmann & Aderhold, 2009;
+
+there is a need to examine how diffe-
+
+perceptions of the destination. A nega-
+
+Lohmann & Kaim, 1999; Mansfeld,
+
+rent climatic conditions in different
+
+tive expectation-experience gap could
+
+Freundlich, & Kutiel, 2007; Scott & Lemieux,
+
+settings influence perception and satis-
+
+impinge on the consumers’ intentions
+
+2009; Scott, hall & Gössling 2012). Given
+
+faction levels. Small tropical islands
+
+to revisit the destination.
+
+the importance of weather and climate
+
+and destinations with warmer climates
+
+as a determining factor of tourism
+
+constitute interesting study settings.
+
+TOURIST BEHAVIOR AND
+WEATHER CONDITIONS
+
+demand, the body of literature that
+
+Small islands have received compa-
+
+explores tourist preferences, expecta-
+
+ratively little attention in this research
+
+tions, perceptions and destination
+
+area, though tourism provides a vital
+
+experiences has steadily grown. Certain
+
+source of income.
+
+Literature Review. The influence
+of weather on human behavior is an
+
+DÉCEMBRE 2013 • MONDES DU TOURISME N°8
+
+45
+
+MARtIN LohMANN & ANNA C. hüBNeR
+
+46
+
+interesting topic for many areas of
+
+be considered the likelihood of dif-
+
+holidays or with increased storm,
+
+research and application. For instance,
+
+ferent weather conditions occurring.
+
+rain and humidity, temperature was
+
+individual social or financial behavior
+
+In a pioneering study, Besancenot
+
+perceived to have little influence on
+
+appears to be affected by weather
+
+(1989) maintained that the ideal cli-
+
+future decision-making. Similarly,
+
+variables (Cunningham, 1979; hirshleifer
+
+mate for tourism should provide a
+
+Curtis, Arrigo, Long & Covington
+
+and Shumway, 2001). The impact of
+
+basic level of comfort that includes
+
+(2009) highlighted that air temperature
+
+weather on behavior has also been
+
+enjoyment and safety. However, per-
+
+did not have as much influence on
+
+researched in marketing literature
+
+ceptions of “good” and “bad” wea-
+
+the sampled beach-goers in North
+
+(e.g., Parsons, 2001).
+
+ther are subjective and context-depen-
+
+Carolina as did wind and cloud cover.
+
+Studies from different research
+
+dent (e.g., Jacobsen et al., 2011; Meze-
+
+In 2007, Mansfeld, Freundlich &
+
+areas confirm, in general, that there
+
+hausken, 2007), as are perceptions of
+
+Kutiel conducted a study on tourist
+
+is a link between weather and consu-
+
+comfort, discomfort, pleasure, safety
+
+comfort perceptions and weather
+
+mer behavior. However, there are
+
+and other aspects related to climate
+
+conditions in the winter resort town
+
+different explanatory approaches for
+
+that may influence destination deci-
+
+of Eilat in Israel. Eilat generally offers
+
+the underlying “mechanism”. Such
+
+sion-making and in-situ activity plan-
+
+year-round warm and sunny weather.
+
+explanations, in addition to thermo-
+
+ning.
+
+In addition to the influence of different
+
+regulation, include other adaptive
+
+Several studies have specifically
+
+weather conditions on satisfaction
+
+processes that function as a type of
+
+examined visitor preferences and
+
+levels, as demonstrated in other stu-
+
+psychological homeostasis (e.g., mood
+
+expectations of warmer climate des-
+
+dies, the study also discovered that
+
+regulation) (Parker and tavassoli, 2000;
+
+tinations. They demonstrated that
+
+overseas visitors were less sensitive
+
+Steenkamp and Baumgartner, 1992).
+
+weather is a complex concept. Tourist
+
+to weather conditions than were
+
+Holiday trips offer additional pos-
+
+perception of weather considers seve-
+
+domestic visitors. Therefore, the dis-
+
+sibilities for consumers to look for
+
+ral aspects, including not only tem-
+
+tance travelled also appears to
+
+alternative weather conditions.
+
+perature. Moreover, actual weather
+
+influence expectations and satisfaction
+
+Vacation trips may be considered
+
+is evaluated with respect to the acti-
+
+with weather conditions in-situ.
+
+medium-term means of mood regu-
+
+vities planned, and it is assessed dif-
+
+lation. Tourists often try to find opti-
+
+ferently by different target groups.
+
+Rutty (2009) further investigated
+the “ideal” weather parameters for
+
+mal conditions for physical and psy-
+
+Gössling, Bredberg, Randow,
+
+students coming from mid- to nor-
+
+chological comfort. Lohmann and
+
+Sandström & Svensson (2006) exa-
+
+thern-latitude-located universities in
+
+Kaim (1999) presented empirical evi-
+
+mined the importance of climate on
+
+Europe with respect to a beach or an
+
+dence with respect to German tourists
+
+travel and weather perceptions of
+
+urban holiday in the Mediterranean.
+
+and their idea of perfect weather
+
+international visitors to Zanzibar.
+
+Sunshine hours were rated the most
+
+conditions for a summer holiday.
+
+Although the island can be described
+
+important factor and were rated more
+
+Even those tourists who visited des-
+
+as a typical “sun, sand and sea” des-
+
+important than the absence of rain,
+
+tinations for reasons other than wea-
+
+tination, the climate did not feature
+
+strong winds and unfavorable air
+
+ther or despite poor weather, did not
+
+in the travel decision-making process
+
+temperature. No wind, a 25% cloud
+
+differ significantly in their opinion
+
+for approximately 1/5 of the respon-
+
+cover and temperatures between 27
+
+of what is considered to be “good
+
+dents. The preconceptions held with
+
+and 32°C were perceived as perfect
+
+weather” (Denstadli et al., 2011).
+
+respect to the weather were predo-
+
+weather conditions for a beach holi-
+
+Weather is the state of atmospheric
+
+minantly embodied by descriptions
+
+day (rf. also Scott, Gössling & de Freitas,
+
+elements such as temperature, preci-
+
+of “warm”, “humid” and “great”
+
+2007). The results also showed a lower
+
+pitation, wind, sunshine, cloudiness,
+
+conditions. In the event of predicted
+
+threshold for uncomfortable air tem-
+
+and visibility, whereas climate may
+
+changing weather patterns for future
+
+peratures for beach holidays than for
+
+MONDES DU TOURISME N°8 • DÉCEMBRE 2013
+
+RECHERCHE • VARIA
+
+urban holidays (7°C warmer tempe-
+
+conditions during the holiday led to
+
+The white squares refer to weather
+
+ratures are acceptable on the beach)
+
+short-term adjustments such as a pro-
+
+and climate in physical terms, with
+
+and a lower threshold for unaccep-
+
+longed stay, a change of itinerary or
+
+climate at home and climate at des-
+
+table cloud cover (100% cloud cover
+
+partaking in indoor rather than out-
+
+tination offering a framework for the
+
+for urban holidays, in contrast to a
+
+door activities.
+
+customer’s motivation, choice and
+
+75% cloud cover acceptance thre-
+
+With respect to tourist response
+
+decision process and with weather
+
+shold for a beach holiday). Lohmann
+
+to weather at the destination, de
+
+during the stay functioning as a
+
+and Kaim (1999) also examined the
+
+Freitas (2003) distinguished among
+
+variable with which the customer
+
+summer holiday weather preferences
+
+five reaction types for individuals
+
+must contend at the destination. Light-
+
+of tourists planning to travel to the
+
+based on different weather conditions.
+
+grey ovals mark psychological
+
+Mediterranean (the Balearic Islands)
+
+Unexpected or unfavorable thermal
+
+concepts and processes. These are
+
+or to the beach destinations in nor-
+
+reactions (e.g., humidity, solar radia-
+
+the important “authorities” and form
+
+thern Europe. Preferences with respect
+
+tion), aesthetic reactions (e.g., sun-
+
+the basis for reactions. Finally, dark-
+
+to the ideal summer holiday weather
+
+shine, cloud cover, daylight) and phy-
+
+grey ovals identify factual behavior.
+
+were identical for both groups of
+
+sical reactions (wind, rain, snow, ice)
+
+The pilot study will further exa-
+
+holiday-makers (plenty of sunshine,
+
+to climate/weather conditions can
+
+mine the role of concepts such as
+
+light winds, and mostly warm). While
+
+lead tourists to avoid areas with
+
+expectations, preferences, acceptance
+
+the weather expectations differed for
+
+adverse conditions (e.g., from sun to
+
+and adaptation with respect to tourist
+
+those planning a trip to beaches in
+
+shade, destination choice), change
+
+response to actual weather during a
+
+the North, the destination was none-
+
+their planned activities, use structural
+
+trip.
+
+theless chosen for a holiday.
+
+or mechanical aids (e.g., umbrella,
+
+Furthermore, the study illustrated
+
+shelter), thermally insulate their bodies
+
+that in-situ weather experiences had
+
+(through clothing) or adopt passive
+
+no major influence on future visita-
+
+acceptance.
+
+Method
+• Study Area. The 3S (sun, sand
+and sea) image has been a significant
+
+tion. Respondents who expressed dis-
+
+feature of attraction for Martinique
+
+satisfaction with the weather after
+
+Conceptual Model. Prior research
+
+since the development of tourism on
+
+the actual holiday demonstrated
+
+has shown the universal importance
+
+the island during the 1950s (CMt,
+
+almost as much interest in revisiting
+
+of climate and weather with respect
+
+2010; Dupont, 2007). Martinique recei-
+
+as did those who experienced no
+
+to destination image and destination
+
+ved approximately 480 000 holiday-
+
+major disappointment. This obser-
+
+choice, as well as in-situ responses
+
+makers on the island in 2009 (with
+
+vation was also made by Denstadli,
+
+and adaptation. Based on the existent
+
+a stay longer than 24 hours). Of these
+
+Jacobsen and Lohmann (2011) in
+
+literature, a conceptual model is pro-
+
+arrivals, 45% visited the four major
+
+their study concerning the importance
+
+posed (cf. figure 1). The model offers
+
+destination points located in the sou-
+
+of comfort perceptions with respect
+
+a structure that examines the rela-
+
+thern part of the island (Bruno Marques,
+
+to weather and climate, which affect
+
+tionships among the weather/climate
+
+personal communication, February 2,
+
+tourists’ motivation to visit northern
+
+that is experienced at home, the wea-
+
+2011). Martinique forms part of the
+
+Norway. The authors found that
+
+ther that is experienced during the
+
+overseas French territories (‘DOM’
+
+weather conditions did not greatly
+
+stay at the destination, the climate
+
+= French overseas departments),
+
+influence the visitors’ overall travel
+
+of the destination, pre-travel weather
+
+which substantially influences tourism
+
+plans in-situ or their future visitation
+
+preferences, weather perceptions, and
+
+on the island (Cunningham, 2007; Gay,
+
+intentions, even if the visitors’ expec-
+
+experiences at the destination, in-situ
+
+2012; Momsen, 2004). The Laws of
+
+tations had been positively discon-
+
+tourist behavior (planning, travel and
+
+Metropolitan France largely apply
+
+firmed. Unforeseen “good” or “bad”
+
+activity), and re-visitation intention.
+
+to Martinique. The island is consi-
+
+DÉCEMBRE 2013 • MONDES DU TOURISME N°8
+
+47
+
+MARtIN LohMANN & ANNA C. hüBNeR
+
+Figure 1 • Conceptual model: Climate, weather, and in-situ tourist behavior
+
+Weather-related
+information
+behaviour
+
+Climate at
+destination
+
+Willingness
+to return
+
+Destination
+choice
+
+Weather
+expectations and
+acceptance
+
+Weather
+during stay
+
+Pre-trip activity
+planning
+
+Perception
+and evaluation
+
+In-situ activity
+selection
+
+Adaptation
+
+Evaluation
+– weather – activities
+– trip in general
+
+Preferences
+and motivation
+
+Climate and
+weather at home
+
+Satisfaction
+
+Figure 2 • Average precipitation and sunshine hours from April 15 to May 17, 2011
+
+Average sunshine hours/day
+
+48
+
+MONDES DU TOURISME N°8 • DÉCEMBRE 2013
+
+Based on Météo France, 2011.
+
+group B
+
+Average precipitation (mm/m2)
+
+group A
+
+RECHERCHE • VARIA
+
+dered part of Europe’s Outermost
+
+due to a deterioration in public
+
+chose an “in-situ” approach (as oppo-
+
+Region and is part of the European
+
+finances in metropolitan France (Gay,
+
+sed to conducting interviews when
+
+Union. Approximately 80% of the
+
+2012). Tourism development has
+
+the tourists had returned home) to
+
+island’s holiday-makers originate
+
+never been trouble-free. Developments
+
+ensure that the reports reflected fresh
+
+from mainland France (France métro-
+
+have been marked by conflicts with
+
+experiences and evaluations and to
+
+politaine). Other visitors come from
+
+respect to exclusive beach usage, land
+
+facilitate interviewer and respondent
+
+the Caribbean (12.6%), Belgium,
+
+ownership, environmental issues, dif-
+
+interactions based on recent shared
+
+Luxembourg, Italy, Switzerland
+
+ficulties in socio-economic issues and
+
+(weather) experiences (Mays and Pope,
+
+(2.8%), or the US (1.4%). The ave-
+
+global uncertainty, including the glo-
+
+1995; Gonzales y Gonzales and Lincoln,
+
+rage length of stay in 2009 was 13
+
+bal economic crisis or volatilities in
+
+2006). On selected days, potential
+
+days. Holiday-makers, on average,
+
+currency exchanges.
+
+respondents (n = 52) were randomly
+
+stayed approximately four days lon-
+
+Climate change and its projected
+
+approached at the international air-
+
+ger during the low season than during
+
+impact can add to these critical issues.
+
+port of Fort-de-France. Interviews
+
+the high season. More than one-third
+
+Martinique’s northern and southern
+
+were conducted only if a holiday was
+
+of the tourists stayed with friends or
+
+climates vary to some degree; the nor-
+
+the prime reason for the stay on
+
+relatives. Almost half of all visitors
+
+thern part is more humid and tropical
+
+Martinique and if respondents had
+
+had previously visited Martinique at
+
+and has high precipitation levels of
+
+experienced at least a three-night stay
+
+least once (CMt, 2010).
+
+up to 5000 mm/year, whereas the
+
+on the island.
+
+Although Martinique receives the
+
+south is much drier, with a precipi-
+
+Two interview rounds were held
+
+highest number of tourist arrivals in
+
+tation level of 1200 mm/year. The
+
+within a period of a month. The first
+
+the Lesser Antilles along with
+
+average air and water temperatures
+
+set of interviews was conducted bet-
+
+Barbados (CMt, 2010), the glamour
+
+are 26°C and 25°C, respectively, year-
+
+ween April 29 and May 2, 2011
+
+of the island has faded. The advan-
+
+round. Moreover, the climate in
+
+(hereafter termed group A). The
+
+tages that it once held over other
+
+Martinique is characterized by a dry
+
+second set of interviews took place
+
+islands in the region (e.g., language,
+
+season, called “le carême”, which
+
+on May 16 and 17, 2011 (hereafter
+
+currency, infrastructure, direct flights
+
+lasts from approximately December
+
+termed group B). This time period
+
+from metropolitan France, safety,
+
+to June, and by a wet season in the
+
+represents the end of the main holiday
+
+and medical services) are currently
+
+remaining months (called “l’hiver-
+
+season for Martinique. A total of 32
+
+less effective against the rising com-
+
+nage”). This is also hurricane season.
+
+interviews could be realized, 17 in
+group A and 15 in group B.
+
+petition of nearby tropical destina-
+
+However, hurricanes are less frequent
+
+tions. Its hospitality services are com-
+
+in Martinique than in the northern
+
+Because 18 of the 52 approached
+
+paratively poor in quality and are
+
+Antilles, where the water temperatures
+
+respondents were residents of
+
+expensive, the salaries in the public
+
+are slightly higher (INSee, 2010). The
+
+Martinique, a response rate of 62%
+
+sector are exorbitant compared to
+
+rainy season is the low season for the
+
+was considered to be reasonable.
+
+those in other sectors, which has led
+
+tourist industry.
+
+Interviews were conducted in French,
+English and German and lasted bet-
+
+to dissatisfaction and demotivation
+
+• Data Collection. In order to better
+
+among tourism sector employees,
+
+understand the role of weather-related
+
+and insecurity exists concerning the
+
+preferences, expectations, perceptions,
+
+The interviews were explorative
+
+possibility of strikes (e.g., electricity).
+
+evaluations, and in-situ adaptation
+
+and qualitative in nature. The in-situ
+
+ween 10 and 20 minutes.
+
+Investment policies, including various
+
+of holiday tourists, explorative one-
+
+situation did not allow for the exten-
+
+financial aid, tax exemptions, artifi-
+
+on-one interviews were conducted
+
+sive in-depth interviewing that is cus-
+
+cially high wages and social welfare,
+
+with holiday-makers in Martinique
+
+tomary with respect to qualitative
+
+are becoming increasingly unstable
+
+during April and May 2011. We
+
+research, and we therefore attempted
+
+DÉCEMBRE 2013 • MONDES DU TOURISME N°8
+
+49
+
+MARtIN LohMANN & ANNA C. hüBNeR
+
+50
+
+to collect data on the topics of interest
+
+all the time”) and weather evaluation
+
+wed the scheme of Dresing & Pehl
+
+using a time-saving approach. This
+
+(from “lousy” to “excellent”).
+
+(2011). Only the quotations used in
+
+data collection method involved a
+
+• Weather Conditions during Data
+
+the text were translated into English.
+
+“short qualitative interview” (SQI)
+
+Collection. The interview periods
+
+Using the process of content analysis
+
+that was conducted on a one-to-one
+
+were marked by somewhat different
+
+(cf. Mayring, 2010), the transcripts were
+
+basis, was brief in nature but only
+
+weather conditions (cf. figure 2). The
+
+later scanned and categorized using
+
+partly standardized and allowed the
+
+minimum and maximum tempera-
+
+the emerging themes and issues that
+
+respondent some flexibility with res-
+
+tures of approximately 22.5°C to
+
+had developed with respect to the
+
+pect to answers. In other contexts,
+
+30°C correspond to normal averages
+
+study objectives. Subsequently, poten-
+
+this type of methodological approach
+
+for the time of the year (Météo France,
+
+tial links among these categories were
+
+has offered useful insights (Lohmann,
+
+2011). However, the precipitation
+
+sought.
+
+2007).
+
+levels in April were four times higher
+
+The results were analyzed separa-
+
+The interview guide covered ques-
+
+than average (135 mm). In May, the
+
+tely for respondents from groups A
+
+tions concerning weather preferences
+
+precipitation levels remained high,
+
+and B and, referring to the Köppen-
+
+(the role of weather for the destination
+
+with 191 mm of rain. The hours of
+
+Geiger-classification (Peel, Finlayson &
+
+choice, including home weather prior
+
+sunshine remained below normal,
+
+McMahon, 2007), for respondents resi-
+
+to departure, the importance of wea-
+
+with 164 hours of sunshine in April
+
+ding in a tropical country (“warm
+
+ther with respect to the decision to
+
+and 173 in May. During the final
+
+weather” country, e.g., Guadeloupe,
+
+visit Martinique and preferences for
+
+days of the holiday for participants
+
+St. Lucia) or in a country with mainly
+
+a ‘typical’ summer holiday), weather
+
+in group A (late April/early May),
+
+temperate or cold climates (“cold
+
+expectations and experiences (inclu-
+
+exceptionally heavy rains and cloudy
+
+weather” country, e.g., France,
+
+ding perceptions of the weather and
+
+skies were evident. The final days of
+
+Germany, Switzerland, Monaco,
+
+of particular weather parameters
+
+the holiday for participants in group
+
+Argentina).
+
+during the holiday as well as weather
+
+B were also characterized by higher
+
+satisfaction), and questions that related
+
+precipitation levels. However, for
+
+Results and Discussion
+
+to the activities undertaken during
+
+group B, there was less rain overall,
+
+• Sample characteristics. Twelve
+
+different weather conditions.
+
+and it had a shorter duration. Group
+
+respondents from group A were from
+
+Qualitative, open-ended questions
+
+B experienced slightly higher tempe-
+
+cold countries (with three born in
+
+were combined with closed quanti-
+
+ratures and a higher humidity level
+
+Martinique), and five were from tro-
+
+tative elements. Open-ended questions
+
+than did respondents from group A.
+
+pical warm countries. Of the 15 inter-
+
+were used, for instance, to gather
+
+Figure 3 depicts a popular beach
+
+viewees in group B, 13 were from
+
+information with respect to home
+
+on the southern coast of Martinique
+
+cold countries. The average age of
+
+weather descriptions and descriptions
+
+experiencing rain and sunshine during
+
+participants from cold countries was
+
+of what “normal” weather resembles
+
+the data collection period. The images
+
+43 years, and the average stay was
+
+in Martinique, especially with respect
+
+illustrate the differences that may
+
+approximately 13 days. Warm coun-
+
+to weather-related behaviors on the
+
+have been experienced by holiday-
+
+try respondents were slightly older,
+
+island. Closed quantitative elements
+
+makers from groups A and B.
+
+with an average age of 47 years, and
+
+were used for the questions that the
+
+• Data analysis. Consent was
+
+had a significantly shorter approxi-
+
+respondents had to rate on a scale.
+
+sought from the respondents for the
+
+mate average length of stay, i.e., four
+
+Questions were posed on weather
+
+recording of interviews. The inter-
+
+days. Female and male respondents
+
+preferences (from “like” to “do not
+
+views were then transcribed in the
+
+were evenly represented in groups A
+
+like”), perceptions of specific weather
+
+language in which the interview was
+
+and B. Overall, the sample can be
+
+parameters (from “never” to “nearly
+
+conducted. The transcriptions follo-
+
+characterized as predominantly
+
+MONDES DU TOURISME N°8 • DÉCEMBRE 2013
+
+RECHERCHE • VARIA
+
+Figure 3 • Le Diamant beach during rain and sunshine
+
+French or French-speaking and as
+relatively experienced visitors to the
+Caribbean and to Martinique. This
+was the first visit to Martinique for
+
+Photos: hübner, 2011
+
+13 respondents; for eight of these, it
+was also the first visit to the
+Caribbean.
+• Preferences and expectations.
+First, the respondents were asked to
+relate the weather conditions that
+were prevailing in their home country
+shortly before coming to Martinique.
+
+Figure 4 • Weather preferences for a “typical” summer holiday
+
+In both data collection time periods,
+
+“changeable weather” considered to
+
+in
+
+er
+
+ra
+en
+t
+eq
+u
+Fr
+
+an
+
+o
+
+ge
+a
+
+cc
+as
+
+ble
+
+io
+
+w
+
+na
+
+ea
+
+lr
+
+th
+
+ain
+
+y
+ind
+W
+
+ho
+t
+o
+
+fte
+
+n
+
+co
+th
+Ra
+
+tly
+os
+
+er
+
+w
+
+ar
+
+ee
+ze
+
+n
+
+Ch
+
+fte
+o
+
+dents, with “occasional showers” or
+
+su
+
+were favored by the majority of respon-
+
+M
+
+nn
+
+y,
+
+blu
+
+windy” and “mostly warm” weather
+
+m
+
+0
+
+ol
+
+5
+
+br
+
+holiday (cf. figure 4). “Sunny”, “slightly
+
+15
+
+y
+
+parameters for a “typical” summer
+
+20
+
+ht
+
+their preferences of selected weather
+
+25
+
+sk
+
+Participants were then asked to rate
+
+n I don’t mind
+
+30
+
+e
+
+and with “pleasant temperatures”.
+
+n I like
+
+35
+
+Lig
+
+to be predominantly “nice”, “sunny”
+
+Number of repondants
+
+the weather at home was considered
+
+Missing cases = neither like nor mind or no answer
+
+be no more than acceptable by many.
+These findings are consistent with the
+
+or climate with respect to the desti-
+
+ding is also confirmed by statements
+
+results of previous literature (e.g.,
+
+nation choice. The answers demons-
+
+made with respect to the expected
+
+Lohmann and Kaim, 1999; Rutty 2009;
+
+trated that weather was one important
+
+‘typical dry season’ weather condi-
+
+Denstadli, Jacobsen & Lohmann, 2011).
+
+factor among many and was thus
+
+tions, i.e., dry and sunny conditions
+
+Warm country respondents similarly
+
+not the only reason for visiting
+
+with occasional, brief showers.
+
+preferred sunny and slightly windy
+
+Martinique. This result was also
+
+Interviewees from warm countries
+
+weather but were less unanimously
+
+found by Gössling, Bredberg,
+
+also anticipated ‘normally nice and
+
+accepting of warm or hot temperatures.
+
+Randow, Sandström and Svensson
+
+sunny’ weather but were more aware
+
+Førland, Jacobsen, Denstadli,
+
+(2006) in a study that featured holi-
+
+of the recent rainy days. This was
+
+Lohmann, Hanssen-Bauer, Hygen and
+
+day-makers to Zanzibar. The reasons
+
+particularly the case for respondents
+
+Tømmervik (2013) found a similar
+
+for visiting Zanzibar included safety,
+
+from Guadeloupe.
+
+situation in northern Norway, where
+
+marine diversity, the beach, or visiting
+
+When considering their holiday
+
+national tourist preferences closely
+
+friends and relatives. In our study,
+
+destination choice, for many of the
+
+resembled the actual climate and tou-
+
+the visitors’ comments also suggested
+
+tourists, the weather in Martinique
+
+rists from the southern part of Europe
+
+an implicit understanding that the
+
+appears to be an implicit aspect that
+
+exhibited increased sensitivity.
+
+weather in Martinique is considered
+
+does not elicit significant concern
+
+The interviewees were asked spe-
+
+to be “normally” and “usually”,
+
+because there is an expectation of
+
+cifically to describe the role of weather
+
+“sunny”, “dry” or “good”. This fin-
+
+good weather.
+
+DÉCEMBRE 2013 • MONDES DU TOURISME N°8
+
+51
+
+MARtIN LohMANN & ANNA C. hüBNeR
+
+Weather perceptions and eva-
+
+tors. First, an extreme period of rain
+
+The respondents made rationaliza-
+
+luation. The respondents were asked
+
+preceded the data collection. Second,
+
+tions that were determined by pre-
+
+to rate specific weather parameters
+
+the average length of stay for warm
+
+vious travel experiences of other infor-
+
+on a scale from 1 (never experienced)
+
+country respondents was much shor-
+
+mation sources (friends or relatives,
+media, home weather).
+
+to 5 (experienced nearly all the time
+
+ter, which prevented them from expe-
+
+during the holiday). With respect to
+
+riencing more typical weather condi-
+
+the first period (group A), the weather
+
+tions for mid-April.
+
+is based on information. This finding
+
+was perceived as rainy, with an inter-
+
+The respondents were later ques-
+
+is consistent with the ‘Expectancy
+
+mittently sunny and clear sky and
+
+tioned with respect to the relationship
+
+Disconfirmation Model’ used in satis-
+
+medium temperatures. Group B
+
+between their expected and experien-
+
+faction research (e.g., Walker, 1995).
+
+respondents reported less rain, more
+
+ced weather conditions, whether their
+
+Tourists who are informed of actual
+
+sun, and higher temperatures and
+
+expectations were met, or whether
+
+weather conditions or are familiar
+
+humidity.
+
+52
+
+The results indicate that acceptance
+
+their expectations were positively or
+
+with the potential volatility of regional
+
+The descriptions of the weather
+
+negatively disconfirmed. The results
+
+weather have realistic expectations
+
+parameters experienced differed
+
+revealed that cold country respondents
+
+and therefore accept adverse weather
+
+slightly for warm and cold country
+
+from groups A and B rated the wea-
+
+conditions more easily.
+
+participants. Warm country respon-
+
+ther as worse than expected (80%
+
+• In-situ activities and weather
+
+dents reported less frequent sunshine
+
+in total), whereas warm country
+
+conditions. To explore the potential
+
+and experiencing rain “nearly all the
+
+respondent evaluations were more
+
+relationship between the weather
+
+time”; the temperatures were descri-
+
+balanced, with half of them believing
+
+conditions that an individual expe-
+
+bed as rather cool. The cool country
+
+that their weather expectations were
+
+riences and the resulting activities,
+
+interviewees found the temperatures
+
+met.
+
+the participants were questioned with
+
+higher, some even “really hot”, and
+
+Interviewees originating from cold
+
+respect to the activities in which they
+
+experienced less frequent rain. The
+
+countries made certain interesting
+
+engaged. The respondents named a
+
+different perceptions may be based
+
+comments concerning the weather
+
+great variety of activities, including
+
+on a different duration of the obser-
+
+that they had experienced. For some
+
+going to the beach, diving/snorkeling,
+
+vation period because warm country
+
+respondents, the amount of rain was
+
+swimming, sailing, hiking/walking,
+
+respondents had substantially shorter
+
+“unusual” and “abnormal”. Others
+
+and visiting villages, museums and
+
+stays (cf. figure 2) and because per-
+
+appeared to have anticipated the rain
+
+distilleries. Warm country respon-
+
+ceptions may be based on different
+
+because they had been informed of
+
+dents’ activities concentrated on hiking
+
+expectations related to the climate
+
+the weather or because they may have
+
+or walking, visiting friends and rela-
+
+situation at home.
+
+experienced similar weather condi-
+
+tives and going to the beach.
+
+The differences were also reflected
+
+tions during previous travels to
+
+When questioned more specifically
+
+in the evaluation of the weather.
+
+Martinique and/or to the region (cf.
+
+with respect to any plans or activities
+
+Whereas respondents from group A
+
+figure 5). Overall, three categories of
+
+that had to be altered because of
+
+rated the weather overall as between
+
+remarks were derived from intervie-
+
+unexpected weather conditions, cold
+
+“mediocre” and “rather bad”,
+
+wees: negative irritation with respect
+
+country respondents from group A
+
+group B interviewees rated the wea-
+
+to the weather (the experience did
+
+stated at least one planned activity
+
+ther as “great”. Warm country
+
+negatively match expectations) from
+
+change. Among these changes were
+
+respondents rated the weather slightly
+
+cold country respondents and neutral
+
+the cancellation of hiking or walking
+
+less favorably than did cold country
+
+acceptance (the experience came close
+
+or sailing trips (“We were hiking but
+
+interviewees. These differences again
+
+to what was expected) from both
+
+had to return because of rain.”) or
+
+may be explained by two major fac-
+
+cold and warm country respondents.
+
+other activities (“With this weather,
+
+MONDES DU TOURISME N°8 • DÉCEMBRE 2013
+
+RECHERCHE • VARIA
+
+Figure 5 • Expectations and experience with respect to weather conditions
+Origin
+
+Expectation vs. Experience
+
+Rationalization
+– It is the period during the year with
+normally no rain
+
+Cold country
+
+expectation ≥ experience → Irritation
+(negative)
+
+– Usually, it is not the rainy period
+– A lot of rain; four days of heavy rains
+
+Information sources
+
+is unusual
+
+Previous travel
+
+– It is not a normal “Carême”
+
+experience
+
+– this period is exceptional; usually, it
+does not rain
+– We were told by our neighbors that
+there has been increasing rain in the
+past couple of years
+Cold country
+
+expectation ~ experience → Acceptance
+(neutral)
+
+– this is a changeable, tropical climate;
+this should be taken into account
+
+Information sources
+
+– I know that [weather]
+
+Previous travel
+
+– We know the weather: changeable,
+
+experience
+
+still very warm, tropical, a little rain
+– I was not surprised, the weather is
+Warm country
+
+expectation ~ experience → Acceptance
+(neutral)
+
+changeable
+– Not much [surprise], I heard about
+
+Information sources
+
+the weather on the radio, so I expected
+
+Similar to home
+
+the rains
+
+weather/ Regional
+
+– I knew we would have the same
+
+weather/ Previous
+
+weather as Guadeloupe
+
+experience
+
+we weren’t able to do what we had
+
+weather conditions. However, a num-
+
+conditions, which may have been due
+
+intended to do.”), a change in the
+
+ber of interviewees stated that the
+
+to the less intense and briefer periods
+
+mode of transport, or changes from
+
+weather conditions had minimal
+
+of rain compared to the first period
+
+an outdoor to an indoor activity, such
+
+influence on their activities (“Even
+
+of data collection. Overall, fewer
+
+as visiting a museum. The latter was
+
+if it rains, one can go diving”; “Not
+
+changes were reported by group B
+
+even considered an opportunity (“We
+
+at all [any changes], because weather
+
+participants. Moreover, respondents
+
+the
+
+conditions change rapidly.”; “It
+
+from warm countries generally see-
+
+museum.”). These adaptive behaviors
+
+doesn’t matter a lot because it [the
+
+med to have less fixed ideas with res-
+
+also confirmed de Freitas’ (2003) fin-
+
+rain] usually doesn’t last for long.”).
+
+pect to planned activities and, there-
+
+dings, who outlined that the adoption
+
+Group B participants appeared
+
+fore, gave much fewer details concer-
+
+of passive weather acceptance includes
+
+more likely to consider going to the
+
+an avoidance of areas with adverse
+
+beach during rainy or cloudy weather
+
+benefitted
+
+from
+
+visiting
+
+ning any changes.
+To obtain further insight into the
+
+DÉCEMBRE 2013 • MONDES DU TOURISME N°8
+
+53
+
+MARtIN LohMANN & ANNA C. hüBNeR
+
+potential relationships between wea-
+
+ther and expressed a desire to maxi-
+
+be more important at times. Another
+
+ther conditions and actual behavior,
+
+mize holiday satisfaction. In this res-
+
+aspect mentioned in this context was
+
+interviewees were questioned with
+
+pect, it also appeared that the com-
+
+that the weather insecurities were
+
+respect to the weather and the acti-
+
+pleted activities had been planned
+
+easier to accept with a lower price
+
+vities undertaken during the day prior
+
+before traveling to Martinique. The
+
+level during shoulder seasons. Thus,
+
+to the interview. Although the weather
+
+other group of respondents, which
+
+the acceptability of weather conditions
+
+was generally described as rainy and
+
+mostly consisted of repeat visitors,
+
+seems to be “negotiable”.
+
+cloudy, respondents from cold coun-
+
+seemed less likely to venture out
+
+Little or no influence on the willin-
+
+tries nevertheless engaged in various
+
+during “rainy” weather and adopted
+
+gness to return, despite negatively
+
+activities; these included walking,
+
+a more flexible and accepting attitude
+
+confirmed weather experiences at the
+
+touring the island, or snorkeling.
+
+towards staying indoors. Plans and
+
+destination, would also support the
+
+Respondents who participated in
+
+activities were more often cancelled
+
+observations made by Lohmann and
+
+snorkeling highlighted that this activity
+
+or postponed. One participant empha-
+
+Kaim (1999) and Denstadli, Jacobsen
+
+depends more on high waves rather
+
+sized that he would determine the
+
+& Lohmann (2011). Therefore, the
+
+than rain, which was also mentioned
+
+daily local weather conditions and
+
+following hypothesis is suggested:
+
+by a few participants who participated
+
+then plan activities for the following
+
+unless weather experiences are repea-
+
+in swimming in the sea.
+
+day accordingly. Warm country
+
+tedly negatively disconfirmed, negative
+
+Despite little daytime change in
+
+respondents overall engaged less in
+
+perceptions of weather at a holiday
+
+weather, it was noted that interviewees
+
+outdoor activities during “bad” wea-
+
+destination do not influence the future
+willingness to visit.
+
+had undertaken most outdoor acti-
+
+ther conditions than did their cold
+
+vities in the afternoon, and the
+
+country counterparts and were less
+
+In addition, it was noted that
+
+assumption was made that mornings
+
+concerned with spending a day
+
+respondents began to de-emphasize
+
+were spent indoors/at the accommo-
+
+indoors.
+
+dation, whereas the respondents were
+
+holiday experience at the end of the
+
+more inclined to engage in outdoor
+
+makers were asked whether they
+
+interview. Instead, the friendliness of
+
+activities in the afternoon, irrespective
+
+would revisit Martinique in the near
+
+people and the abundance of activities
+
+of weather conditions. This could be
+
+future to discover any potential
+
+were highlighted, which compensated
+
+an adaptive strategy, i.e., postponing
+
+influence of the experienced weather
+
+for the ‘unfortunate’ weather (“It has
+
+activities to the afternoon in the hope
+
+on return intentions. The respondents,
+
+been pleasant enough despite the
+
+of better weather and spending the
+
+surprisingly, seemed little affected by
+
+rain”; “We don’t mind the rain; it is
+
+morning in the hotel engaged in “light
+
+the prevailing weather and largely
+
+cheaper to stay here during the low
+
+activities”, such as playing board
+
+said that a return visit was likely (28
+
+season. Yes, I would have liked to
+
+games or going to the swimming pool.
+
+of the 31 interviewees indicated a
+
+take a swim more often, but that’s
+
+An activity that is typical for the
+
+probable or definite intention to re-
+
+life, the fish are there nevertheless”;
+
+final day spent at a destination is pac-
+
+visit). Certain cold country partici-
+
+“We would have been more disap-
+
+king to prepare for the return trip,
+
+pants commented that an earlier time
+
+pointed if we hadn’t checked the wea-
+
+which has to be done regardless of
+
+of the year would be considered for
+
+ther forecast beforehand”).
+
+weather conditions. Therefore, spen-
+
+a repeat visit. Others noted, again,
+
+• Limitations. Given the limited
+
+ding time at the accommodation is
+
+that the experienced weather had
+
+number of interviews conducted and
+
+been “exceptional” and that no other
+
+the differences to average weather
+
+The overall reactions seemed to
+
+time of the year would be chosen for
+
+on the island, the results cannot be
+
+be twofold: certain interviewees see-
+
+a return visit. Moreover, factors other
+
+generalized (e.g., to the usual wea-
+
+med less than impressed by the wea-
+
+than the weather were considered to
+
+ther-related behavior of tourists on
+
+inevitable to some extent.
+
+54
+
+the importance of weather on the
+
+• Willingness to return. Holiday-
+
+MONDES DU TOURISME N°8 • DÉCEMBRE 2013
+
+RECHERCHE • VARIA
+
+Figure 6 • Tourist in-situ weather evaluations and
+weather-related behavior in relation to pre-and post-trip planning
+
+Post-trip planning
+
+Preferences/motivations
+Home weather/climate
+Weather related information:
+media, third party sources,
+previous travel to Martinique,
+previous travel to the region,
+previous travel to “tropical”
+climates
+
+DeStINAtIoN ChoICe
+
+Activity planning
+Time for travel
+Timing of travel
+Destination climate
+Destination distance
+
+Weather conditions:
+perceptions and experience
+
+Willingness to spend another
+holiday in Martinique
+
+Activity selection and
+timing of activity
+
+Willingness to spend another
+holiday in the region
+
+Adaptation
+to local weather conditions
+
+eVALUAtIoN
+
+In-situ planning
+
+Pre-trip planning
+
+Willingness to spend another
+holiday in “tropical” climates
+
+Satisfaction with weather
+conditions and activity
+
+Other socio-psychological factors
+
+Martinique). The small sample size
+
+be an issue, as is the case with all in-
+
+dents who were categorized as ‘warm
+
+was not considered a major impedi-
+
+situ studies, e.g., the actual weather
+
+country’ respondents, holiday-making
+
+ment to the identification and explo-
+
+conditions may have an influence on
+
+was not the prime reason for visiting
+
+ration of different factors of the
+
+expressed general preferences (cf.
+
+the island, whereas certain “cold
+
+conceptual model or to the concurrent
+
+Gössling, Scott, hall, Céron & Dubois,
+
+country” participants cited a relaxing
+
+discussion of the quantitative and
+
+2013). It should also be noted, the-
+
+time to recuperate as the main reason.
+
+qualitative data because the study
+
+refore, that the timing of and the wea-
+
+Different travel motivations may have
+
+emphasized gaining a better and more
+
+ther during data collection may have
+
+an impact on weather evaluations
+
+detailed/in-depth understanding of
+
+influenced the stated importance of
+
+and the weather-related choice of
+activities.
+
+the variables that determine weather-
+
+“sunny” weather. With respect to
+
+related behavior and future travel
+
+the explorative objectives of this study
+
+intentions. With respect to weather
+
+and the lack of a desire for absolute
+
+preferences, the subjects showed ave-
+
+thresholds, this factor may be of minor
+
+rage (or “normal”) attitudes that
+
+importance.
+
+CONCLUSION
+Recent studies on the role of weather parameters for decision-making
+
+were consistent with prior research
+
+The categorization of participants
+
+largely concentrate on pre-trip des-
+
+(Lohmann and Kaim, 1999; Rutty 2009;
+
+into “warm” and “cold” source coun-
+
+tination choice and on the econome-
+
+Denstadli, Jacobsen & Lohmann, 2011).
+
+try respondents did not address solely
+
+tric models used to project tourism
+
+The dependency of the results may
+
+climate variables. For some respon-
+
+flows in the context of a changing
+
+DÉCEMBRE 2013 • MONDES DU TOURISME N°8
+
+55
+
+MARtIN LohMANN & ANNA C. hüBNeR
+
+56
+
+climate. Less attention has been given
+
+with tourists originating from both
+
+be expected to experience a level of
+
+to tourists’ perceptions and expe-
+
+warm and cold climate source mar-
+
+cognitive dissonance. This dissonance
+
+riences of weather and activities under-
+
+kets. The impact of (bad) weather
+
+would be the result of high costs (dis-
+
+taken in-situ. This pilot study exa-
+
+on in-situ tourist behavior may
+
+tance traveled, time and money spent)
+
+mined weather perceptions and tourist
+
+depend on a large set of factors, inclu-
+
+and reduced holiday quality in terms
+
+behavior on a small tropical island,
+
+ding different weather parameters
+
+of weather. The theory assumes that
+
+specifically, Martinique. The location
+
+such as temperature, precipitation,
+
+individuals tend to reduce dissonance
+
+of this study has a number of impor-
+
+and wind but additionally, the climate
+
+by adapting evaluations or attitudes.
+
+tant implications: (1) it is a heliocentric
+
+at home, the duration of stay, the
+
+In the case of this study, reducing
+
+destination that largely attracts visitors
+
+type of activities available, the avai-
+
+dissonance would lead to better per-
+
+through its climate; (2) it is set in a
+
+lability of alternative activities, and
+
+ceptions and evaluations of the holi-
+
+region that is most vulnerable to pro-
+
+mobility. Personality factors may also
+
+day stay in general. The results pro-
+
+jected changes in climate; accordingly,
+
+be significant, but this area was not
+
+vided some evidence in this direction.
+
+the potential relationships between
+
+covered in our study.
+
+It is unlikely that weather perceptions
+
+weather and activities may provide
+
+This study also demonstrated that
+
+are subject to such a process; however,
+
+some important insights into tourist
+
+holiday-makers who pursue activities
+
+without an internal cognitive disso-
+
+decision-making; (3) there are limited
+
+that are less dependent on sunny wea-
+
+nance reducing mechanism, the eva-
+
+opportunities to ‘escape’ the actual
+
+ther conditions, such as diving or
+
+luations of weather might have been
+
+weather conditions or change the
+
+snorkeling, were less affected by the
+
+worse.
+
+daily itinerary (unlike Becken et al.,
+
+prevailing weather conditions than
+
+Generally, tourists exhibit a level
+
+2010; Denstadli et al., 2011); and (4) a
+
+were the holiday-makers whose main
+
+of “resilience”, “adaptive compe-
+
+large portion of Martinique holiday-
+
+focal point for activity was the beach.
+
+tences” and flexibility with respect
+
+makers are repeat visitors stemming
+
+Similarly, participants arriving from
+
+to weather. We argue that “adapta-
+
+from one single source market. The
+
+cold climate countries seemed more
+
+tion” and “adaptability” are key
+
+benefit of an in-situ study is to have
+
+determined to undertake their planned
+
+concepts in understanding the multi-
+
+access to actual tourists’ perceptions
+
+outdoor activities than their warm
+
+faceted behavior of tourists under
+
+and recent experiences.
+
+climate counterparts, which may also
+
+unfavorable conditions (cf. figure 1).
+
+The reports of our respondents
+
+be connected to the long distances
+
+Certain respondents exhibit remar-
+
+clarified that typical weather (climate)
+
+traveled to an exotic destination, e.g.,
+
+kable adaptive capacity in coping
+
+is an important issue when planning
+
+in the case of Europeans. Similarly,
+
+with the weather. Strategies used by
+
+a holiday in the Caribbean but that
+
+first-time visitors appeared to be more
+
+interviewees included the following:
+
+it is not the only issue. When consi-
+
+determined to undertake specific acti-
+
+– Adhering to plans, even when the
+
+dering the destination, weather
+
+vities that were planned prior to travel
+
+weather was not optimal for the acti-
+
+variables seem to be – at least partly
+
+than were repeat visitors.
+
+vity;
+
+– implicit. Weather variables only
+
+However, even when the adverse
+
+– Re-evaluation of circumstances and
+
+become an explicit issue when the
+
+weather conditions were contrary to
+
+a temporal acceptance shift with res-
+
+weather conditions at the destination
+
+expectations, dissatisfaction was not
+
+pect to the weather conditions (“it is
+
+differ from the expectations.
+
+necessarily the result, which is not
+
+not that bad, actually”), most likely
+
+A major purpose of this study was
+
+consistent with certain satisfaction
+
+based on the perception that you sim-
+
+to explore the potential variables that
+
+theories (cf. Alegre & Garau, 2010).
+
+ply cannot control the weather;
+
+need to be considered for a reliable
+
+Here, cognitive dissonance (Festinger,
+
+– Changing plans with respect to acti-
+
+quantitative or qualitative study
+
+1957) could be a factor. Travelers
+
+vities, thus leading to a behavioral
+
+conducted in a similar context, i.e.,
+
+originating from cold countries can
+
+shift (visiting a cultural heritage attrac-
+
+MONDES DU TOURISME N°8 • DÉCEMBRE 2013
+
+RECHERCHE • VARIA
+
+tion instead of a day on the beach).
+
+to anticipate “bad” weather condi-
+
+and motivation, and weather expec-
+
+With few exceptions (e.g., Allex et
+
+tions because they had used infor-
+
+tations and acceptance. The cognitive
+
+al., 2011, for city tourists in Vienna),
+
+mation sources at home that warned
+
+and emotional processes involved
+
+adaptive processes among tourists
+
+them of unusual weather predicted
+
+may be implicit or explicit. The data
+
+with respect to weather or climate
+
+for the second half of April, i.e., the
+
+collected support the assumption that
+
+conditions have not been the focus
+
+days directly preceding their stay.
+
+these processes become more explicit
+
+of tourism research. Adaptation can
+
+This information had lowered their
+
+with unexpected developments (unu-
+
+occur either as an immediate reaction
+
+weather expectations, particularly
+
+sual weather), especially when the
+
+to experienced weather changes or
+
+with respect to sunshine. However,
+
+weather is adverse to the anticipated
+
+as an indirect reaction to upcoming
+
+warm climate respondents were ove-
+
+holiday experiences and activities.
+
+weather events. The choice of adaptive
+
+rall less dependent on weather condi-
+
+Additionally, the acceptability of wea-
+
+behavior seems to depend on visitor
+
+tions, and these conditions appeared
+
+ther conditions seems to be ‘nego-
+
+characteristics (e.g., the long-haul
+
+to be relatively insignificant in their
+
+tiable’: when prices are low (during
+
+holiday traveler to a once-in-a-lifetime
+
+destination choice.
+
+the low season), bad weather is easier
+
+destination is less flexible with acti-
+
+• Conceptual Model Revisited.
+
+to accept. Of course, many other des-
+
+vities). More broadly, the climate-
+
+Considering the different factors that
+
+tination- and home-related factors
+
+related destination choice can be
+
+are related to the home environment,
+
+also influence tourist wants and beha-
+
+considered an adaptation process or
+
+the situation at the destination and
+
+viors, including personal abilities and
+
+active mood regulation activity.
+
+tourists’ actual behavior planning
+
+motivation (cf. Lohmann, 2009). These
+
+Therefore, in the research area of
+
+and behavior, we argue that different
+
+factors are not depicted in the concep-
+
+tourism and climate (change), the
+
+psychological concepts can be used
+
+tual model.
+
+focus should include not only adap-
+
+to explore the link among these fac-
+
+• Future Research. This pilot study,
+
+tation strategies for tourism stake-
+
+tors. Given the conceptual model pre-
+
+given its limitations, provides an over-
+
+holders (Dubois & Céron, 2006, p. 404)
+
+sented in figure 1, figure 6 appears
+
+view of the factors that are necessary
+
+and the adaptive capacities of consu-
+
+to draw a more detailed but still pre-
+
+to understand tourists’ weather-related
+
+mers.
+
+liminary picture that depicts the rela-
+
+behavior and behavior shifts, and
+
+Overall, the return intentions
+
+tionships and links that have been
+
+weather related psychological pro-
+
+appear to be less influenced by nega-
+
+indentified in this pilot study. This
+
+cesses. The study may serve as a basis
+
+tively disconfirmed weather conditions
+
+conceptual model is a type of “concep-
+
+for future research, especially with
+
+than could be assumed. General
+
+tual scheme” (Pearce, 2005). The
+
+respect to the behavioral responses
+
+beliefs with respect to a “normal”
+
+model expands beyond mere state-
+
+of leisure tourists to projected climate
+
+Martinique climate appeared to have
+
+ments of the observed world, but it
+
+change dynamics in holiday destina-
+
+a greater impact on future visitation
+
+is not a fully functioning theory. It
+
+tions, and the conceptual model may
+
+intention than negatively disconfirmed
+
+may, however, be helpful in organi-
+
+provide a useful framework. Emphasis
+
+weather experiences during the holi-
+
+zing empirical information and in
+
+should be given to the exploration
+
+day.
+
+structuring further research.
+
+of the role of tourist adaptation and
+
+Pre-trip information behavior and
+
+The actual weather at a destination
+
+the results with respect to weather
+
+during a holiday does not directly
+
+may cause shifts in the process because
+
+correspond to activities or changes
+
+adaptive capacity.
+
+n
+
+this information affects weather
+
+in activity, but it is subject to percep-
+
+Acknowledgement: the authors thank Bruno
+
+expectations. In our sample, certain
+
+tion and evaluation processes. These
+
+Marques, CMt, Fort-de-France (Martinique,
+
+respondents during the second period
+
+processes are linked to weather and
+
+France) for his valuable information about the
+
+of data collection (group B) seemed
+
+climate at home, weather preferences
+
+situation of tourism in Martinique.
+
+DÉCEMBRE 2013 • MONDES DU TOURISME N°8
+
+57
+
+MARtIN LohMANN & ANNA C. hüBNeR
+
+BIBLIOGRAPHY
+
+Ghislain DUBOIS & Jean-Paul CÉRON, “tourism and Climate Change:
+proposals for a research agenda”, Journal of Sustainable Tourism,
+vol. 14, n° 4, 2006.
+
+58
+
+Joquin ALEGRE & Jaume GARAU, “tourist Satisfaction and
+
+LOUIS DUPONT, “Modélisation de l’activité touristique. Application à
+
+Dissatisfaction”. Annals of Tourism Research, vol. 37, n° 1, 2010.
+
+la Guadeloupe et à la Martinique”, Espaces tourisme et loisirs, n° 248,
+
+Brigitte ALLEX, Christiane BRANDENBURG, Ursula LIEBL, Thomas
+
+2007.
+
+GERERSDORFER & Christina CZACHS, “hot town, summer in the city”,
+
+Leon FESTINGER, A theory of cognitive dissonance, Row Peterson,
+
+Endbericht von Start-Clim2010.F, 2011.
+
+1957.
+
+Bas AMELUNG, Sarah NICHOLLS & David VINER, “Implications of glo-
+
+Eirik J FØRLAND, Jens Kr. Steen JACOBSEN, Jon Martin DENSTADLI,
+
+bal climate change for tourism flows and seasonality”, Journal of Travel
+
+Martin LOHMANN, Inger HANSSEN-BAUER, Hans Olav HYGEN &
+
+Research, vol. 45, n° 3, 2007.
+
+HANSTØMMERVIK, “Cool weather tourism under global warming,
+
+Susanne BECKEN, “the Importance of Climate and Weather for
+
+comparing Arctic summer tourists’ weather preferences with regio-
+
+tourism”, Land Environment and People (LEaP) background paper,
+
+nal climate statistics and Projections”, Tourism Management, vol. 36,
+
+Lincoln University, 2010.
+
+2013.
+
+Susanne BECKEN, Jude WILSON & Andy REISINGER, “Weather,
+
+Chris DE FREITAS, “tourism climatology: evaluating environmental
+
+Climate and tourism: A New Zealand Perspective”, Land Environment
+
+information for decision making and business planning in the recrea-
+
+and People (LEaP) Research Report n° 20, Lincoln University, 2010.
+
+tion and tourism sector”, International Journal of Biometeorology,
+
+Jean-Pierre BESANCENOT, Climat et Tourisme, “Géographie”, Masson,
+
+vol. 48, n° 1, 2003.
+
+1989.
+
+JEAN-CHRISTOPHE GAY, “Why is tourism doing poorly in overseas
+
+CBC, “eastern U.S. braces for hurricane Sandy”, CBC news [http://
+
+France?”, Annals of Tourism Research, vol. 39, n° 3, 2012.
+
+www.cbc.ca/news/.../eastern-u-s-braces-for-hurricane].
+
+Carey GOH, “exploring impact of climate on tourism demand”,
+
+CMT, Bilan Grand public 2009, Comité martiniquais du tourisme,
+
+Annals of Tourism Research, vol. 39, n° 4, 2012.
+
+2010.
+
+Stefan GÖSSLING, Daniel SCOTT, Michael HALL, Jean-Paul CÉRON &
+
+Catriona CUNNINGHAM, “Reclaiming ‘paradise lost’ in the writings of
+
+Ghislain DUBOIS, “Consumer behavior and demand response of
+
+Patrick Chamoiseau & edouard Glissant”, French Cultural Studies,
+
+tourists to climate change”, Annals of Tourism Research, vol. 39, n° 1,
+
+vol. 18, n° 3, 2007.
+
+2013.
+
+Michael R. CUNNINGHAM, “Weather, mood, and helping behavior:
+
+Stefan GÖSSLING, Magnus BREDBERG, Anna RANDOW, Elin
+
+Quasi experiments with the sunshine Samaritan”, Journal of Personality
+
+SANDSTRÖM & Patrick SVENSSON, “tourist Perceptions of Climate
+
+and Social Psychology, vol. 37, n° 11, 1979.
+
+Change: a study of international tourists in Zanzibar”, Current Issues
+
+Scott CURTIS, Jennifer ARRIGO, Patrick LONG & Ryan COVINGTON,
+
+in Tourism, vol. 9, n° 4, 2006.
+
+Climate, Weather and Tourism: Bridging Science and Practice, Center
+
+Elsa M. GONZÁLEZ Y GONZÁLEZ & Yvonna S. LINCOLN,
+
+for Sustainable tourism, east Carolina University, 2009.
+
+“Decolonizing Qualitative Research: Non-traditional Reporting
+
+Jon Martin DENSTADLI, Jens Kr. Steen JACOBSEN & Martin
+
+Forms in the Academy”, Forum Qualitative Sozialforschung / Forum:
+
+LOHMANN, “tourist perceptions of summer weather in Scandinavia”,
+
+Qualitative Social Research, vol. 7, n° 1, 2006.
+
+Annals of Tourism Research, vol. 38, n° 3, 2011.
+
+David HIRSHLEIFER & Tyler SHUMWAY, “Good day sunshine: stock
+
+Thorsten DRESING & Thorsten PEHL, Praxisbuch Transkription.
+
+returns and the weather”, Journal of Finance, vol. 58, n° 3, 2001.
+
+Regelsysteme, Software und praktisch Anleitungen für qualitative
+
+INSEE, Tableaux économiques régionaux de la Martinique 2009-2010,
+
+ForscherInnen, 2011 [http://www.audiotranskription.de/Praxisbuch-
+
+2010 [http://www.insee.fr/fr/insee_regions/martinique/themes/
+
+transkription.pdf].
+
+ter/ter2010/ter2010_ma.pdf. 2010].
+
+MONDES DU TOURISME N°8 • DÉCEMBRE 2013
+
+RECHERCHE • VARIA
+
+Jeen Kr. Steen JACOBSEN, Jon Martin DENSTADLI, Martin LOHMANN &
+
+Robert MORGAN, Enrique GATELL, Roca JUNYENT, Anton MICALLEF,
+
+Eirik J. FØRLAND, “tourist weather preferences in europe’s Arctic”,
+
+Erdal ÖZHAN & Allan T. WILLIAMS, “An Improved User-Based Beach
+
+Climate Research, vol. 50, 2011.
+
+climate index”, Journal of Coastal Conservation, vol. 6, n° 1, 2000.
+
+Martin LOHMANN, “tourist Information Behavior ‘en route’”, paper
+
+Kyle B. MURRAY, Fabrizio DI MURO, Adam FINN & Peter POPKOWSKI
+
+presented to the 5th Symposium of the International Society of
+
+LESZCZYC, “the effect of Weather on Consumer Spending”, Journal of
+
+Culture, tourism, and hospitality Research, June 5, 2007.
+
+Retailing and Consumer Services, vol. 17, n° 6, 2010.
+
+Martin LOHMANN, “Coastal tourism in Germany - Changing Demand
+
+Philip M. PARKER & Nader T. TAVASSOLI, “homeostasis and
+
+Patterns and New Challenges”, in Ross DoWLING & Christoph PFoRR
+
+Consumer Behavior across Cultures”, International Journal of Research
+
+(eds.), Coastal Tourism Development - Planning and Management Issues,
+
+in Marketing, n° 17, 2000.
+
+Cognizant, 2009.
+
+Andrew G. PARSONS, “the Association between daily weather and
+
+Martin LOHMANN & Peter ADERHOLD, Urlaubsreisetrends 2020: Die RA
+
+daily shopping patterns”, Australasian Marketing Journal, vol. 9, n° 2,
+
+Trendstudie, FUR (Forschungsgemeinschaft Urlaub und Reisen), 2009.
+
+2001.
+
+Martin LOHMANN & Anna C. HÜBNER, “tourists’ weather perceptions
+
+Philip L. PEARCE, Tourist Behaviour. Themes and Conceptual Schemes,
+
+and weather related behavior. A qualitative pilot study with holiday
+
+Channel View, 2005.
+
+tourists to Martinique”, Études caribéennes, n° 19, 2011.
+
+Murray PEEL, Bryan L. FINLAYSON & Thomas A. MCMAHON,
+
+Martin LOHMANN & Eike KAIM, “Weather and holiday destination
+
+“Updated World Map of the Köppen-Geiger climate classification”,
+
+preferences: image, attitude and experience”, Tourism Review, vol. 54,
+
+Hydrology and Earth Systems Sciences, vol. 4, 2007.
+
+n° 2, 1999.
+
+Michelle Kimberley RUTTY, Will the Mediterranean become ‘too hot’ for
+
+Yoel MANSFELD, Ariel FREUNDLICH & Haim KUTIEL, “the relationship
+
+tourists? A reassessment, Master thesis submitted to the University of
+
+between weather conditions and tourists’ perception of comfort: the
+
+Waterloo, Canada, 2009.
+
+case of the winter sun resort of eilat”, in Bas AMeLUNG, Krzysztof
+
+Daniel SCOTT, Stephen GÖSSLING & Chris DE FREITAS, “Climate prefe-
+
+BLAZeJCZyK & Andreas MAtZARAKIS (eds.), Climate Change and Tourism,
+
+rences for tourism: an exploratory tri-nation comparison”,
+
+Assessment and Copying Strategies, 2007
+
+Developments in Tourism Climatology, 2007.
+
+[http://www.urbanclimate.net/matzarakis/papers/Book_Nato.pdf].
+
+Daniel SCOTT & Christopher LEMIEUX, “Weather and Climate
+
+Philipp MAYRING, Qualitative Inhaltsanalyse. Grundlagen und Technike,
+
+Information for tourism”, Commissioned White Paper for the World
+
+Beltz Verlag, 2010.
+
+Climate Conference 3. WMo and UNWto, 2009.
+
+Nicholas MAYS & Catherine POPE, “Rigour and qualitative research”,
+
+Daniel SCOTT, Colin Michael HALL & Stephan GÖSSLING, Tourism and
+
+BMJ , vol. 311, 1995.
+
+Climate Change: impacts, adaptation and mitigation, Routledge, 2012.
+
+Météo France Antilles-Guyane, Bulletins climatiques mensuels, 2011
+
+Jan Benedikt STEENKAMP & Hans BAUMGARTNER, “the Role of opti-
+
+[http://www.meteo.gp/Climat/index.php].
+
+mum stimulation level in exploratory consumer behavior”, Journal of
+
+Elisabeth MEZE-HAUSKEN, “Grasping climate perceptions as an issue of
+
+Consumer Research, vol.19, n° 3, 1992.
+
+measuring climate impacts on society”, International Journal of
+
+Maria C. UYARRA, Isabelle M. CÔTÉ, Jennifer A. GILL, Rob. R. TINCH,
+
+Biometeorology, vol. 52, n° 1, 2007.
+
+David VINER & Andrew R. WATKINSON, “Island specific preferences
+
+Zbigniew MIECZKOWSKI, “the tourism climate index: a method of
+
+of tourists for environmental features: implications of climate change
+
+evaluating world climates for tourism”, Canadian Geographer, vol. 29,
+
+for tourism-dependent states”, Environmental Conservation, vol. 32,
+
+n° 3, 1985.
+
+n° 1, 2005.
+
+Janet MOMSEN, “Post-colonial markets: new geographical spaces for
+
+James L. WALKER, “Service encounter Satisfaction”, Journal of Services
+
+tourism”, in David timothy DUVAL (dir.), Tourism in the Caribbean:
+
+Marketing, vol. 9, n° 1, 1995.
+
+Trends, Development, Prospects, Routledge, 2004.
+
+DÉCEMBRE 2013 • MONDES DU TOURISME N°8
+
+59
+
+
